@@ -645,11 +645,73 @@ nav:
               - topics/statistics/level-8/07-full-investigation.md
       - Algebra:
           - topics/algebra/index.md
-          - topics/algebra/01-play.md
-          - topics/algebra/02-explore.md
-          - topics/algebra/03-build.md
-          - topics/algebra/04-master.md
-          - topics/algebra/05-beyond.md
+          - "Level 1: Mystery numbers":
+              - topics/algebra/level-1/index.md
+              - topics/algebra/level-1/01-thinking-of-number.md
+              - topics/algebra/level-1/02-balance-scales.md
+              - topics/algebra/level-1/03-equal-sign.md
+              - topics/algebra/level-1/04-missing-numbers.md
+              - topics/algebra/level-1/05-what-is-rule.md
+          - "Level 2: Boxes and machines":
+              - topics/algebra/level-2/index.md
+              - topics/algebra/level-2/01-bigger-missing-numbers.md
+              - topics/algebra/level-2/02-equal-as-balance.md
+              - topics/algebra/level-2/03-number-machines.md
+              - topics/algebra/level-2/04-working-backwards.md
+              - topics/algebra/level-2/05-true-or-false.md
+              - topics/algebra/level-2/06-unknowns-in-stories.md
+          - "Level 3: Symbols for unknowns":
+              - topics/algebra/level-3/index.md
+              - topics/algebra/level-3/01-letters-and-shapes.md
+              - topics/algebra/level-3/02-two-step-machines.md
+              - topics/algebra/level-3/03-guess-and-check.md
+              - topics/algebra/level-3/04-inequalities-words.md
+              - topics/algebra/level-3/05-formulas-in-words.md
+              - topics/algebra/level-3/06-mind-reading-trick.md
+          - "Level 4: Letters for numbers":
+              - topics/algebra/level-4/index.md
+              - topics/algebra/level-4/01-variables-expressions.md
+              - topics/algebra/level-4/02-substitution.md
+              - topics/algebra/level-4/03-like-terms.md
+              - topics/algebra/level-4/04-solving-equations.md
+              - topics/algebra/level-4/05-equations-from-stories.md
+              - topics/algebra/level-4/06-inequalities-number-line.md
+              - topics/algebra/level-4/07-trick-explained.md
+          - "Level 5: Equations and linear relations":
+              - topics/algebra/level-5/index.md
+              - topics/algebra/level-5/01-distributive-law.md
+              - topics/algebra/level-5/02-brackets-both-sides.md
+              - topics/algebra/level-5/03-rearranging-formulas.md
+              - topics/algebra/level-5/04-linear-relations.md
+              - topics/algebra/level-5/05-solving-inequalities.md
+              - topics/algebra/level-5/06-modelling-equations.md
+          - "Level 6: Systems and polynomials":
+              - topics/algebra/level-6/index.md
+              - topics/algebra/level-6/01-exponent-laws.md
+              - topics/algebra/level-6/02-polynomials.md
+              - topics/algebra/level-6/03-factoring.md
+              - topics/algebra/level-6/04-systems-graphing.md
+              - topics/algebra/level-6/05-substitution-elimination.md
+              - topics/algebra/level-6/06-linear-nonlinear.md
+          - "Level 7: Quadratics and functions":
+              - topics/algebra/level-7/index.md
+              - topics/algebra/level-7/01-quadratic-relations.md
+              - topics/algebra/level-7/02-completing-the-square.md
+              - topics/algebra/level-7/03-solving-quadratics.md
+              - topics/algebra/level-7/04-functions.md
+              - topics/algebra/level-7/05-transformations.md
+              - topics/algebra/level-7/06-inverse-functions.md
+              - topics/algebra/level-7/07-exponential-functions.md
+          - "Level 8: Advanced functions":
+              - topics/algebra/level-8/index.md
+              - topics/algebra/level-8/01-polynomial-functions.md
+              - topics/algebra/level-8/02-polynomial-inequalities.md
+              - topics/algebra/level-8/03-rational-functions.md
+              - topics/algebra/level-8/04-logarithms.md
+              - topics/algebra/level-8/05-exp-log-equations.md
+              - topics/algebra/level-8/06-combining-functions.md
+              - topics/algebra/level-8/07-trig-identities-equations.md
+              - topics/algebra/level-8/08-lines-planes-space.md
       - Ratio and rates:
           - topics/ratio/index.md
           - topics/ratio/01-play.md
