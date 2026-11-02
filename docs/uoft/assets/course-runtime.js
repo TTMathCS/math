@@ -50,6 +50,7 @@ const mathSymbols = {
   nabla: ["mi", "∇"],
   partial: ["mi", "∂"],
   approx: ["mo", "≈"],
+  prime: ["mo", "′"],
   ast: ["mo", "∗"],
   cap: ["mo", "∩"],
   cdot: ["mo", "⋅"],

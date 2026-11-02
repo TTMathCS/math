@@ -26,6 +26,9 @@
 .md-typeset .uoft details{border:0;box-shadow:none;background:none;padding:0;font-size:inherit;overflow:visible}
 .md-typeset .uoft details summary{min-height:0}
 .md-typeset .uoft details summary::after{display:none}
+.md-typeset .uoft details summary::before{position:static;width:auto;height:auto;transform:none;background:none;
+  -webkit-mask-image:none;mask-image:none;top:auto;left:auto}
+.md-typeset .uoft details summary{padding:4px 10px}
 .md-typeset .uoft table:not([class]){font-size:inherit}
 .md-typeset .uoft footer.end{border-top:2px solid var(--ink);padding-top:1rem;margin-top:2rem;
   font-family:var(--md-code-font-family);font-size:.6rem;color:var(--ink-soft);display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px}

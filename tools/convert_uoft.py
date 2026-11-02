@@ -171,6 +171,14 @@ process.stdout.write(JSON.stringify({courses: window.UOFT_COURSES, other: window
     os.makedirs(os.path.join(OUT, "assets"))
     for name in ["course-runtime.js", "mat137-practice.js"]:
         shutil.copy(os.path.join(SRC, "assets", name), os.path.join(OUT, "assets", name))
+    # the math runtime does not know \prime (written as f\prime(x) on some pages): it showed as raw text
+    rt = os.path.join(OUT, "assets", "course-runtime.js")
+    text = read(rt)
+    if 'prime: ["mo"' not in text:
+        text = text.replace('  approx: ["mo", "≈"],', '  approx: ["mo", "≈"],\n  prime: ["mo", "′"],', 1)
+        assert 'prime: ["mo"' in text
+        with open(rt, "w", encoding="utf-8") as f:
+            f.write(text)
     nav = []
     for code in MATH + OTHER:
         convert_course(code, nav)
