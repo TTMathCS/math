@@ -14,8 +14,6 @@ to try (answers hidden until you tap them), a common mistake, and where it leads
 For parents and teachers: level 1 suits most children from about 5, level 3 from about 9, level 5 from about 12,
 level 7 from about 15, and level 8 is the bridge to university. These are rough guides; curious readers ignore them.
 
-Twelve topics are rebuilt in levels; Infinity still has five shorter steps (Play, Explore, Build,
-Master, Beyond) and are being rebuilt one by one.
 
 ## Topics
 
@@ -33,4 +31,4 @@ Master, Beyond) and are being rebuilt one by one.
 | [Ratio, rates and money](ratio/index.md) | Fair shares and "for every" | Loans, mortgages, investing and e |
 | [Logic and puzzles](logic/index.md) | Sorting things and clue riddles | Proofs, Gödel and the halting problem |
 | [Change and motion](change/index.md) | Growing and moving | Derivatives, integrals and differential equations |
-| [Infinity and strange math](infinity/index.md) | Does it ever end? | Cantor's diagonal argument and bigger infinities |
+| [Infinity and strange math](infinity/index.md) | Does it ever end? | Cantor, ordinals and the edge of mathematics |

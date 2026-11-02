@@ -1035,9 +1035,69 @@ nav:
               - topics/change/level-8/07-differential-equations.md
       - "Infinity and strange math":
           - topics/infinity/index.md
-          - topics/infinity/01-play.md
-          - topics/infinity/02-explore.md
-          - topics/infinity/03-build.md
-          - topics/infinity/04-master.md
-          - topics/infinity/05-beyond.md
+          - "Level 1: Does it ever end?":
+              - topics/infinity/level-1/index.md
+              - topics/infinity/level-1/01-biggest-number-game.md
+              - topics/infinity/level-1/02-halving-cookie.md
+              - topics/infinity/level-1/03-round-and-round.md
+              - topics/infinity/level-1/04-mirrors-facing.md
+              - topics/infinity/level-1/05-never-ending-stories.md
+              - topics/infinity/level-1/06-big-not-infinite.md
+          - "Level 2: Strange loops":
+              - topics/infinity/level-2/index.md
+              - topics/infinity/level-2/01-mobius-strip.md
+              - topics/infinity/level-2/02-matching-without-counting.md
+              - topics/infinity/level-2/03-patterns-forever.md
+              - topics/infinity/level-2/04-googol-googolplex.md
+              - topics/infinity/level-2/05-picture-in-picture.md
+              - topics/infinity/level-2/06-impossible-pictures.md
+          - "Level 3: Hilbert's hotel":
+              - topics/infinity/level-3/index.md
+              - topics/infinity/level-3/01-room-for-one.md
+              - topics/infinity/level-3/02-bus-of-guests.md
+              - topics/infinity/level-3/03-part-as-big.md
+              - topics/infinity/level-3/04-numbers-between.md
+              - topics/infinity/level-3/05-decimals-never-stop.md
+              - topics/infinity/level-3/06-zenos-race.md
+          - "Level 4: Endless sums and fractals":
+              - topics/infinity/level-4/index.md
+              - topics/infinity/level-4/01-halves-add-to-one.md
+              - topics/infinity/level-4/02-does-point-nine.md
+              - topics/infinity/level-4/03-sums-blow-up.md
+              - topics/infinity/level-4/04-sierpinski-triangle.md
+              - topics/infinity/level-4/05-koch-snowflake.md
+              - topics/infinity/level-4/06-infinitely-many-buses.md
+          - "Level 5: Limits":
+              - topics/infinity/level-5/index.md
+              - topics/infinity/level-5/01-settling-sequences.md
+              - topics/infinity/level-5/02-zeno-answered.md
+              - topics/infinity/level-5/03-infinity-not-a-number.md
+              - topics/infinity/level-5/04-approaching-asymptotes.md
+              - topics/infinity/level-5/05-repeating-decimals.md
+              - topics/infinity/level-5/06-paradoxes.md
+          - "Level 6: Countable infinity":
+              - topics/infinity/level-6/index.md
+              - topics/infinity/level-6/01-countable-sets.md
+              - topics/infinity/level-6/02-integers-countable.md
+              - topics/infinity/level-6/03-pairs-countable.md
+              - topics/infinity/level-6/04-rationals-countable.md
+              - topics/infinity/level-6/05-countable-unions.md
+              - topics/infinity/level-6/06-algebraic-numbers.md
+          - "Level 7: Bigger infinities":
+              - topics/infinity/level-7/index.md
+              - topics/infinity/level-7/01-diagonal-argument.md
+              - topics/infinity/level-7/02-uncountable-bigger.md
+              - topics/infinity/level-7/03-transcendental-numbers.md
+              - topics/infinity/level-7/04-power-sets.md
+              - topics/infinity/level-7/05-cantor-set.md
+              - topics/infinity/level-7/06-line-and-square.md
+          - "Level 8: At the edge of mathematics":
+              - topics/infinity/level-8/index.md
+              - topics/infinity/level-8/01-limit-definition.md
+              - topics/infinity/level-8/02-convergence-tests.md
+              - topics/infinity/level-8/03-gabriels-horn.md
+              - topics/infinity/level-8/04-continuum-hypothesis.md
+              - topics/infinity/level-8/05-ordinals-cardinals.md
+              - topics/infinity/level-8/06-infinitely-small.md
+              - topics/infinity/level-8/07-point-at-infinity.md
   # topics: end
