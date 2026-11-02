@@ -149,6 +149,6 @@ same base and height.
 - Next step: [Beyond: scale, units and accuracy](05-beyond.md), where we see why volume grows so much faster than
   area or length, and what that means for ants, elephants and planets.
 - Back a step: [Build: area](03-build.md)
-- Circles, $\pi$ and Pythagoras: [Geometry](../geometry/03-build.md).
+- Circles, $\pi$ and Pythagoras: [Geometry](../geometry/level-6/index.md).
 - Why a cone is exactly a third of a cylinder, and how to find the volume of any curved solid, is proved with
   integrals on the U of T shelf: [MAT137 Unit 10 (applications of the integral)](../../uoft/MAT137/unit10.md).

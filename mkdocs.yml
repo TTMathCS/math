@@ -15,6 +15,7 @@ theme:
   custom_dir: overrides
   features:
     - navigation.sections
+    - navigation.indexes
     - navigation.top
     - toc.integrate
     - search.highlight
@@ -221,6 +222,7 @@ nav:
           - "Unit 9 — Building an Argument": uoft/ENG140Y1/unit09.md
           - "Unit 10 — Writing the Essay": uoft/ENG140Y1/unit10.md
   # uoft: end
+  # topics: start
   - Topics:
       - topics/index.md
       - Numbers:
@@ -239,11 +241,70 @@ nav:
           - topics/patterns/05-beyond.md
       - Geometry:
           - topics/geometry/index.md
-          - topics/geometry/01-play.md
-          - topics/geometry/02-explore.md
-          - topics/geometry/03-build.md
-          - topics/geometry/04-master.md
-          - topics/geometry/05-beyond.md
+          - "Level 1: First shapes":
+              - topics/geometry/level-1/index.md
+              - topics/geometry/level-1/01-naming-shapes.md
+              - topics/geometry/level-1/02-flat-and-solid.md
+              - topics/geometry/level-1/03-where-is-it.md
+              - topics/geometry/level-1/04-sorting-shapes.md
+              - topics/geometry/level-1/05-tangram-pictures.md
+          - "Level 2: Shapes all around":
+              - topics/geometry/level-2/index.md
+              - topics/geometry/level-2/01-regular-polygons.md
+              - topics/geometry/level-2/02-lines-of-symmetry.md
+              - topics/geometry/level-2/03-faces-edges-corners.md
+              - topics/geometry/level-2/04-nets-of-a-cube.md
+              - topics/geometry/level-2/05-tiling-the-floor.md
+              - topics/geometry/level-2/06-slides-flips-turns.md
+          - "Level 3: Angles and lines":
+              - topics/geometry/level-3/index.md
+              - topics/geometry/level-3/01-what-angle-is.md
+              - topics/geometry/level-3/02-measuring-angles.md
+              - topics/geometry/level-3/03-parallel-perpendicular.md
+              - topics/geometry/level-3/04-triangles-sides-angles.md
+              - topics/geometry/level-3/05-quadrilateral-family.md
+              - topics/geometry/level-3/06-coordinates-grid.md
+          - "Level 4: Angle facts":
+              - topics/geometry/level-4/index.md
+              - topics/geometry/level-4/01-straight-line-point.md
+              - topics/geometry/level-4/02-vertically-opposite.md
+              - topics/geometry/level-4/03-triangle-angle-sum.md
+              - topics/geometry/level-4/04-parallel-line-angles.md
+              - topics/geometry/level-4/05-polygon-angles.md
+              - topics/geometry/level-4/06-rotational-symmetry.md
+          - "Level 5: Constructions and transformations":
+              - topics/geometry/level-5/index.md
+              - topics/geometry/level-5/01-compass-straightedge.md
+              - topics/geometry/level-5/02-constructing-triangles.md
+              - topics/geometry/level-5/03-transformations-grid.md
+              - topics/geometry/level-5/04-dilations-scale-drawings.md
+              - topics/geometry/level-5/05-congruent-triangles.md
+              - topics/geometry/level-5/06-circle-words.md
+          - "Level 6: Pythagoras and circles":
+              - topics/geometry/level-6/index.md
+              - topics/geometry/level-6/01-pythagorean-proofs.md
+              - topics/geometry/level-6/02-using-pythagoras.md
+              - topics/geometry/level-6/03-distance-midpoint.md
+              - topics/geometry/level-6/04-pi-circumference.md
+              - topics/geometry/level-6/05-circle-area-sectors.md
+              - topics/geometry/level-6/06-slope-line-equation.md
+          - "Level 7: Similarity and trigonometry":
+              - topics/geometry/level-7/index.md
+              - topics/geometry/level-7/01-similar-triangles.md
+              - topics/geometry/level-7/02-sin-cos-tan.md
+              - topics/geometry/level-7/03-elevation-depression.md
+              - topics/geometry/level-7/04-sine-law.md
+              - topics/geometry/level-7/05-cosine-law.md
+              - topics/geometry/level-7/06-circle-theorems.md
+              - topics/geometry/level-7/07-circle-equations.md
+          - "Level 8: Proof, radians and vectors":
+              - topics/geometry/level-8/index.md
+              - topics/geometry/level-8/01-geometric-proof.md
+              - topics/geometry/level-8/02-radians-unit-circle.md
+              - topics/geometry/level-8/03-sine-cosine-graphs.md
+              - topics/geometry/level-8/04-vectors.md
+              - topics/geometry/level-8/05-dot-product.md
+              - topics/geometry/level-8/06-sphere-geometry.md
       - Measurement:
           - topics/measurement/index.md
           - topics/measurement/01-play.md
@@ -314,3 +375,4 @@ nav:
           - topics/infinity/03-build.md
           - topics/infinity/04-master.md
           - topics/infinity/05-beyond.md
+  # topics: end

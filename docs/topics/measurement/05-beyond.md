@@ -164,7 +164,7 @@ $k^3$.
 ## Where it leads
 
 - Back a step: [Master: volume and surface area](04-master.md)
-- Scale factors and similar shapes, proved: [Geometry](../geometry/04-master.md).
+- Scale factors and similar shapes, proved: [Geometry](../geometry/level-7/index.md).
 - Scale factors are ratios; maps, speeds and percentages: [Ratio and rates](../ratio/index.md).
 - Error bounds and how spread-out measurements are: [Statistics and data](../statistics/index.md).
 - Units, dimensional analysis, significant figures and estimation as physicists use them, on the U of T shelf:

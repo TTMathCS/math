@@ -85,7 +85,7 @@ In words: average the two parallel sides, then multiply by the height.
 
 ### Circles
 
-As the [Geometry](../geometry/03-build.md) ladder shows by cutting a circle into thin wedges, a circle of radius
+As the [Geometry](../geometry/level-6/index.md) ladder shows by cutting a circle into thin wedges, a circle of radius
 $r$ has area
 
 $$A = \pi r^2 \qquad (\pi \approx 3.14)$$
@@ -156,4 +156,4 @@ height.
 - Back a step: [Explore: units, conversions and perimeter](02-explore.md)
 - Why the square holds the most area: questions of "the biggest" and "the smallest" are solved exactly with
   calculus, in [Change and motion](../change/index.md).
-- Pythagoras and circles: [Geometry](../geometry/03-build.md).
+- Pythagoras and circles: [Geometry](../geometry/level-6/index.md).
