@@ -27,7 +27,7 @@ it.
 
 ### The diagonal argument
 
-Cantor's proof is a **proof by contradiction**, the method from the [Logic Beyond step](../logic/05-beyond.md).
+Cantor's proof is a **proof by contradiction**, the method from the [Logic Beyond step](../logic/level-7/index.md).
 
 *Suppose* someone claims to have a complete list of all the real numbers between 0 and 1: a 1st, a 2nd, a 3rd, and
 so on, with every such number somewhere in it. Write the list out, one decimal per line.
@@ -53,7 +53,7 @@ part of the whole real number line $\mathbb{R}$, the real numbers are uncountabl
 
 The new number is built to disagree with each listed number in one place. Whatever list you are given, the diagonal
 gives you a number that escapes it. It is like the island sentence "I am a liar" in
-[Logic and puzzles](../logic/01-play.md): a cleverly built object that cannot fit anywhere.
+[Logic and puzzles](../logic/level-1/index.md): a cleverly built object that cannot fit anywhere.
 
 ### Infinitely many sizes of infinity
 
@@ -143,7 +143,7 @@ pairing can actually be found, and sometimes it can be **proved** that none exis
 ## Where it leads
 
 - Back a step: [Master: countable infinity](04-master.md)
-- Proofs by contradiction like this one are explained in [Logic and puzzles](../logic/05-beyond.md). Endless
+- Proofs by contradiction like this one are explained in [Logic and puzzles](../logic/level-7/index.md). Endless
   decimals, rational and irrational numbers are in [Numbers](../numbers/index.md).
 - On the U of T shelf, the real numbers, completeness and limits are treated with full proofs in
   [MAT158 Unit 2: real numbers and least upper bounds](../../uoft/MAT158H1/unit02.md) and

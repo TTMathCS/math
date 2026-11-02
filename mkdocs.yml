@@ -902,11 +902,70 @@ nav:
               - topics/ratio/level-8/06-ratio-nature-art.md
       - "Logic and puzzles":
           - topics/logic/index.md
-          - topics/logic/01-play.md
-          - topics/logic/02-explore.md
-          - topics/logic/03-build.md
-          - topics/logic/04-master.md
-          - topics/logic/05-beyond.md
+          - "Level 1: Sorting and clues":
+              - topics/logic/level-1/index.md
+              - topics/logic/level-1/01-sorting-one-rule.md
+              - topics/logic/level-1/02-sorting-two-rules.md
+              - topics/logic/level-1/03-does-not-belong.md
+              - topics/logic/level-1/04-true-or-false.md
+              - topics/logic/level-1/05-robot-steps.md
+              - topics/logic/level-1/06-clue-riddles.md
+          - "Level 2: Rules and puzzles":
+              - topics/logic/level-2/index.md
+              - topics/logic/level-2/01-always-sometimes-never.md
+              - topics/logic/level-2/02-sorting-circles.md
+              - topics/logic/level-2/03-four-by-four-sudoku.md
+              - topics/logic/level-2/04-coding-with-steps.md
+              - topics/logic/level-2/05-river-crossing.md
+              - topics/logic/level-2/06-logic-grids.md
+          - "Level 3: And, or, not, if":
+              - topics/logic/level-3/index.md
+              - topics/logic/level-3/01-not-and-or.md
+              - topics/logic/level-3/02-if-then.md
+              - topics/logic/level-3/03-knights-and-knaves.md
+              - topics/logic/level-3/04-coding-with-loops.md
+              - topics/logic/level-3/05-sudoku-moves.md
+              - topics/logic/level-3/06-weighing-puzzles.md
+          - "Level 4: Statements and truth tables":
+              - topics/logic/level-4/index.md
+              - topics/logic/level-4/01-statements-letters.md
+              - topics/logic/level-4/02-truth-tables.md
+              - topics/logic/level-4/03-conditional-promise.md
+              - topics/logic/level-4/04-converse-contrapositive.md
+              - topics/logic/level-4/05-coding-conditions.md
+              - topics/logic/level-4/06-nim-strategy.md
+          - "Level 5: Sets and arguments":
+              - topics/logic/level-5/index.md
+              - topics/logic/level-5/01-sets.md
+              - topics/logic/level-5/02-union-intersection.md
+              - topics/logic/level-5/03-de-morgan.md
+              - topics/logic/level-5/04-quantifiers.md
+              - topics/logic/level-5/05-valid-arguments.md
+              - topics/logic/level-5/06-fallacies.md
+          - "Level 6: Logic machines and networks":
+              - topics/logic/level-6/index.md
+              - topics/logic/level-6/01-logic-gates.md
+              - topics/logic/level-6/02-boolean-algebra.md
+              - topics/logic/level-6/03-algorithms-flowcharts.md
+              - topics/logic/level-6/04-searching-sorting.md
+              - topics/logic/level-6/05-networks-euler.md
+              - topics/logic/level-6/06-graph-colouring.md
+          - "Level 7: How a proof works":
+              - topics/logic/level-7/index.md
+              - topics/logic/level-7/01-what-a-proof-is.md
+              - topics/logic/level-7/02-direct-proof.md
+              - topics/logic/level-7/03-proof-by-contrapositive.md
+              - topics/logic/level-7/04-proof-by-contradiction.md
+              - topics/logic/level-7/05-counterexamples-cases.md
+              - topics/logic/level-7/06-paradoxes.md
+          - "Level 8: The limits of logic":
+              - topics/logic/level-8/index.md
+              - topics/logic/level-8/01-predicate-logic.md
+              - topics/logic/level-8/02-axioms.md
+              - topics/logic/level-8/03-russells-paradox.md
+              - topics/logic/level-8/04-godel-incompleteness.md
+              - topics/logic/level-8/05-halting-problem.md
+              - topics/logic/level-8/06-p-versus-np.md
       - "Change and motion":
           - topics/change/index.md
           - topics/change/01-play.md
