@@ -13,6 +13,7 @@ use_directory_urls: false
 theme:
   name: material
   custom_dir: overrides
+  favicon: assets/akadian-icon.png   # the Akadian A, as on akadian.ca
   features:
     - navigation.sections
     - navigation.indexes
