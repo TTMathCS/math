@@ -64,7 +64,7 @@ def front_page(slug):
     """The topic's first page: its own opening words (kept), then a table of its levels."""
     p = os.path.join(T, slug, "index.md")
     page = read(p)
-    head = re.split(r"\n(?=\| (?:Step|Level) \|)", page, maxsplit=1)[0].rstrip()
+    head = re.split(r"\n(?=\| (?:Step|Level) \||\d+ levels, \d+ lessons\.)", page, maxsplit=1)[0].rstrip()
     rows = ["| Level | Rough age | Lessons |", "| --- | --- | --- |"]
     total = 0
     for d in levels(slug):
