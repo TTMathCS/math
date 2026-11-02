@@ -299,11 +299,70 @@ nav:
               - topics/numbers/level-8/06-quaternions.md
       - "Patterns and sequences":
           - topics/patterns/index.md
-          - topics/patterns/01-play.md
-          - topics/patterns/02-explore.md
-          - topics/patterns/03-build.md
-          - topics/patterns/04-master.md
-          - topics/patterns/05-beyond.md
+          - "Level 1: What comes next?":
+              - topics/patterns/level-1/index.md
+              - topics/patterns/level-1/01-repeating-patterns.md
+              - topics/patterns/level-1/02-sounds-and-moves.md
+              - topics/patterns/level-1/03-finding-mistake.md
+              - topics/patterns/level-1/04-making-your-own.md
+              - topics/patterns/level-1/05-growing-patterns.md
+              - topics/patterns/level-1/06-patterns-in-world.md
+          - "Level 2: Pattern rules":
+              - topics/patterns/level-2/index.md
+              - topics/patterns/level-2/01-rules-in-words.md
+              - topics/patterns/level-2/02-growing-shrinking.md
+              - topics/patterns/level-2/03-hundred-chart.md
+              - topics/patterns/level-2/04-addition-table.md
+              - topics/patterns/level-2/05-growing-shapes.md
+              - topics/patterns/level-2/06-one-pattern-many-forms.md
+          - "Level 3: Sequences and their positions":
+              - topics/patterns/level-3/index.md
+              - topics/patterns/level-3/01-terms-and-positions.md
+              - topics/patterns/level-3/02-square-numbers.md
+              - topics/patterns/level-3/03-triangular-numbers.md
+              - topics/patterns/level-3/04-fibonacci-sequence.md
+              - topics/patterns/level-3/05-multiplication-table-patterns.md
+              - topics/patterns/level-3/06-patterns-that-trick.md
+          - "Level 4: Rules with position numbers":
+              - topics/patterns/level-4/index.md
+              - topics/patterns/level-4/01-two-kinds-rule.md
+              - topics/patterns/level-4/02-finding-position-rule.md
+              - topics/patterns/level-4/03-graphing-a-pattern.md
+              - topics/patterns/level-4/04-growing-pattern-pictures.md
+              - topics/patterns/level-4/05-comparing-two-patterns.md
+              - topics/patterns/level-4/06-odd-number-sums.md
+          - "Level 5: Arithmetic sequences":
+              - topics/patterns/level-5/index.md
+              - topics/patterns/level-5/01-arithmetic-sequences.md
+              - topics/patterns/level-5/02-working-backwards.md
+              - topics/patterns/level-5/03-gauss-trick.md
+              - topics/patterns/level-5/04-finite-differences.md
+              - topics/patterns/level-5/05-quadratic-patterns.md
+              - topics/patterns/level-5/06-real-life.md
+          - "Level 6: Geometric sequences":
+              - topics/patterns/level-6/index.md
+              - topics/patterns/level-6/01-geometric-sequences.md
+              - topics/patterns/level-6/02-why-they-get-huge.md
+              - topics/patterns/level-6/03-finding-a-and-r.md
+              - topics/patterns/level-6/04-geometric-sums.md
+              - topics/patterns/level-6/05-recursive-sequences.md
+              - topics/patterns/level-6/06-choosing-model.md
+          - "Level 7: Series and sigma":
+              - topics/patterns/level-7/index.md
+              - topics/patterns/level-7/01-sigma-notation.md
+              - topics/patterns/level-7/02-arithmetic-series.md
+              - topics/patterns/level-7/03-infinite-geometric.md
+              - topics/patterns/level-7/04-golden-ratio.md
+              - topics/patterns/level-7/05-squares-cubes.md
+              - topics/patterns/level-7/06-sequences-functions.md
+          - "Level 8: Recursion and induction":
+              - topics/patterns/level-8/index.md
+              - topics/patterns/level-8/01-proof-by-induction.md
+              - topics/patterns/level-8/02-more-induction.md
+              - topics/patterns/level-8/03-strong-induction.md
+              - topics/patterns/level-8/04-solving-recurrences.md
+              - topics/patterns/level-8/05-iteration-fixed-points.md
+              - topics/patterns/level-8/06-unsolved-patterns.md
       - "Geometry":
           - topics/geometry/index.md
           - "Level 1: First shapes":

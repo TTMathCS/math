@@ -97,7 +97,7 @@ goes to room $2 \times 8 - 1 = 15$.
 
 In general, the diagonal $b + s = d + 1$ is the $d$th diagonal, the diagonals before it hold
 $1 + 2 + \cdots + (d - 1) = \dfrac{(d-1)d}{2}$ pairs (Gauss's sum, from
-[Patterns and sequences](../patterns/03-build.md)), and $(b, s)$ is the $b$th pair on its diagonal. So its
+[Patterns and sequences](../patterns/level-5/index.md)), and $(b, s)$ is the $b$th pair on its diagonal. So its
 position is
 
 $$k = \frac{(d-1)d}{2} + b, \qquad \text{where } d = b + s - 1.$$

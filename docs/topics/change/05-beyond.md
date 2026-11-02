@@ -83,7 +83,7 @@ $\left(\frac1n\right)^2, \left(\frac2n\right)^2, \ldots, \left(\frac nn\right)^2
 $$\frac{1}{n} \cdot \frac{1^2 + 2^2 + \cdots + n^2}{n^2} = \frac{1^2 + 2^2 + \cdots + n^2}{n^3}.$$
 
 There is a formula for the sum of the first $n$ squares (it can be proved by induction, as on the
-[Patterns Beyond step](../patterns/05-beyond.md)): $1^2 + 2^2 + \cdots + n^2 = \dfrac{n(n+1)(2n+1)}{6}$. So the
+[Patterns Beyond step](../patterns/level-8/index.md)): $1^2 + 2^2 + \cdots + n^2 = \dfrac{n(n+1)(2n+1)}{6}$. So the
 total is
 
 $$\frac{(n+1)(2n+1)}{6n^2} = \frac13 + \frac{1}{2n} + \frac{1}{6n^2}.$$

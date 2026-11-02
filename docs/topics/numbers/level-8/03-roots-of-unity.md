@@ -98,7 +98,7 @@ same two numbers. And $\omega^2 + \omega + 1 = 0$ is exactly that equation.
 $$1 + \omega + \omega^2 + \cdots + \omega^{n-1} = 0.$$
 
 **Proof 1 (a geometric series).** The sum is a geometric series with ratio $\omega$. Since $\omega \ne 1$ (because
-$n \ge 2$), the sum formula from [Patterns](../../patterns/04-master.md) applies, and it works for complex numbers
+$n \ge 2$), the sum formula from [Patterns](../../patterns/level-6/index.md) applies, and it works for complex numbers
 because its proof uses only algebra:
 
 $$1 + \omega + \cdots + \omega^{n-1} = \frac{\omega^n - 1}{\omega - 1} = \frac{1 - 1}{\omega - 1} = 0.$$

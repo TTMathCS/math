@@ -80,7 +80,7 @@ counterexample beats a million examples.
 
 Sometimes you split into cases (say, $n$ even and $n$ odd) and prove each one. And for statements about every
 whole number, there is **induction**, the domino method, explained on the
-[Beyond step of Patterns and sequences](../patterns/05-beyond.md).
+[Beyond step of Patterns and sequences](../patterns/level-8/index.md).
 
 ## Worked examples
 
@@ -149,7 +149,7 @@ different statement. Before you begin, write down clearly what you may **assume*
 ## Where it leads
 
 - Back a step: [Master: sets and "for all, there exists"](04-master.md)
-- Proof by induction is on the [Beyond step of Patterns and sequences](../patterns/05-beyond.md). Proofs about
+- Proof by induction is on the [Beyond step of Patterns and sequences](../patterns/level-8/index.md). Proofs about
   primes fill [Number theory](../number-theory/index.md), and the strangest proofs of all, about the sizes of
   infinity, are in [Infinity and strange math](../infinity/index.md).
 - On the U of T shelf, logic and proof open both first-year calculus courses:

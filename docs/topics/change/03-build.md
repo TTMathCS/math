@@ -62,7 +62,7 @@ A line with slope $m$ that crosses the $y$-axis at height $b$ has the equation
 $$y = mx + b.$$
 
 The number $b$ is the **$y$-intercept**: the value of $y$ when $x = 0$. Starting at $b$, each step of 1 in $x$ adds
-$m$ to $y$. This is just an arithmetic sequence (from [Patterns and sequences](../patterns/03-build.md)) drawn as a
+$m$ to $y$. This is just an arithmetic sequence (from [Patterns and sequences](../patterns/level-5/index.md)) drawn as a
 line: constant steps give constant slope.
 
 ### Slope as a rate of change

@@ -74,7 +74,7 @@ $$a + ar + ar^2 + ar^3 + \cdots = \frac{a}{1 - r}.$$
 
 Check: halving has $a = \frac12$ and $r = \frac12$, giving $\dfrac{1/2}{1/2} = 1$. Achilles' times have $a = 10$ and
 $r = \dfrac1{10}$, giving $\dfrac{10}{9/10} = \dfrac{100}{9}$. Why the formula works is shown on the
-[Master step of Patterns and sequences](../patterns/04-master.md).
+[Master step of Patterns and sequences](../patterns/level-6/index.md).
 
 ### Does 0.999... equal 1?
 
@@ -139,7 +139,7 @@ can make as many groups worth more than $\frac12$ as you like, so the total has 
 
 - Next step: [Master: countable infinity](04-master.md), back to Hilbert's hotel with infinitely many buses.
 - Back a step: [Explore: Hilbert's hotel](02-explore.md)
-- Geometric series in full: [Patterns and sequences, Master step](../patterns/04-master.md). Limits are the engine
+- Geometric series in full: [Patterns and sequences, Master step](../patterns/level-6/index.md). Limits are the engine
   of calculus in [Change and motion](../change/index.md). Repeating decimals and rational numbers are in
   [Numbers](../numbers/index.md).
 - On the U of T shelf: [MAT137 Unit 11: sequences](../../uoft/MAT137/unit11.md) and
