@@ -13,6 +13,8 @@ HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 T = os.path.join(HERE, "docs", "topics")
 ORDER = ["numbers", "patterns", "geometry", "measurement", "number-theory", "counting", "probability", "statistics",
          "algebra", "ratio", "logic", "change", "infinity"]
+# the topics whose levels are finished and checked (a topic joins when all 8 levels are written)
+DEEP = ["geometry", "numbers"]
 STEPS = ["01-play", "02-explore", "03-build", "04-master", "05-beyond"]
 
 
@@ -27,6 +29,8 @@ def title(p):
 
 
 def levels(slug):
+    if slug not in DEEP:
+        return []
     return sorted(glob.glob(os.path.join(T, slug, "level-*")), key=lambda d: int(d.rsplit("-", 1)[1]))
 
 

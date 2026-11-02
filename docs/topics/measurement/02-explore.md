@@ -146,5 +146,5 @@ looks wrong straight away.
 
 - Next step: [Build: area](03-build.md), where we measure the space **inside** a shape, not just around it.
 - Back a step: [Play: measuring with your body, and how big is Mars?](01-play.md)
-- Decimals and place value, which make metric conversions easy: [Numbers](../numbers/02-explore.md).
+- Decimals and place value, which make metric conversions easy: [Numbers](../numbers/level-2/index.md).
 - Speeds such as kilometres per hour, and other rates: [Ratio and rates](../ratio/index.md).

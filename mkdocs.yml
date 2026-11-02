@@ -227,11 +227,75 @@ nav:
       - topics/index.md
       - Numbers:
           - topics/numbers/index.md
-          - topics/numbers/01-play.md
-          - topics/numbers/02-explore.md
-          - topics/numbers/03-build.md
-          - topics/numbers/04-master.md
-          - topics/numbers/05-beyond.md
+          - "Level 1: First numbers":
+              - topics/numbers/level-1/index.md
+              - topics/numbers/level-1/01-counting-things.md
+              - topics/numbers/level-1/02-seeing-small-amounts.md
+              - topics/numbers/level-1/03-more-fewer-same.md
+              - topics/numbers/level-1/04-together-taking-away.md
+              - topics/numbers/level-1/05-making-ten.md
+              - topics/numbers/level-1/06-teens-and-beyond.md
+          - "Level 2: Tens, hundreds and sharing":
+              - topics/numbers/level-2/index.md
+              - topics/numbers/level-2/01-place-value.md
+              - topics/numbers/level-2/02-adding-subtracting.md
+              - topics/numbers/level-2/03-fact-families.md
+              - topics/numbers/level-2/04-equal-groups.md
+              - topics/numbers/level-2/05-fair-sharing.md
+              - topics/numbers/level-2/06-halves-thirds-quarters.md
+              - topics/numbers/level-2/07-old-numerals.md
+          - "Level 3: Big numbers, times tables and fractions":
+              - topics/numbers/level-3/index.md
+              - topics/numbers/level-3/01-millions-and-beyond.md
+              - topics/numbers/level-3/02-times-tables.md
+              - topics/numbers/level-3/03-multi-digit-multiplication.md
+              - topics/numbers/level-3/04-long-division.md
+              - topics/numbers/level-3/05-fractions-as-numbers.md
+              - topics/numbers/level-3/06-equivalent-fractions.md
+              - topics/numbers/level-3/07-decimals.md
+          - "Level 4: Working with fractions and decimals":
+              - topics/numbers/level-4/index.md
+              - topics/numbers/level-4/01-adding-fractions.md
+              - topics/numbers/level-4/02-multiplying-fractions.md
+              - topics/numbers/level-4/03-dividing-fractions.md
+              - topics/numbers/level-4/04-decimal-operations.md
+              - topics/numbers/level-4/05-fractions-to-decimals.md
+              - topics/numbers/level-4/06-negative-numbers.md
+              - topics/numbers/level-4/07-order-of-operations.md
+          - "Level 5: Integers, powers and roots":
+              - topics/numbers/level-5/index.md
+              - topics/numbers/level-5/01-multiplying-integers.md
+              - topics/numbers/level-5/02-rational-numbers.md
+              - topics/numbers/level-5/03-powers.md
+              - topics/numbers/level-5/04-zero-negative-exponents.md
+              - topics/numbers/level-5/05-scientific-notation.md
+              - topics/numbers/level-5/06-square-roots.md
+              - topics/numbers/level-5/07-other-bases.md
+          - "Level 6: The real numbers":
+              - topics/numbers/level-6/index.md
+              - topics/numbers/level-6/01-repeating-decimals.md
+              - topics/numbers/level-6/02-rational-irrational.md
+              - topics/numbers/level-6/03-root-two-irrational.md
+              - topics/numbers/level-6/04-radicals.md
+              - topics/numbers/level-6/05-real-numbers.md
+              - topics/numbers/level-6/06-estimation-precision.md
+              - topics/numbers/level-6/07-approximating-roots.md
+          - "Level 7: Building number systems":
+              - topics/numbers/level-7/index.md
+              - topics/numbers/level-7/01-why-new-numbers.md
+              - topics/numbers/level-7/02-the-number-i.md
+              - topics/numbers/level-7/03-complex-arithmetic.md
+              - topics/numbers/level-7/04-complex-plane.md
+              - topics/numbers/level-7/05-every-quadratic.md
+              - topics/numbers/level-7/06-intervals-absolute-value.md
+          - "Level 8: Complex numbers and beyond":
+              - topics/numbers/level-8/index.md
+              - topics/numbers/level-8/01-polar-form.md
+              - topics/numbers/level-8/02-de-moivre.md
+              - topics/numbers/level-8/03-roots-of-unity.md
+              - topics/numbers/level-8/04-euler-formula.md
+              - topics/numbers/level-8/05-fundamental-theorem.md
+              - topics/numbers/level-8/06-quaternions.md
       - Patterns and sequences:
           - topics/patterns/index.md
           - topics/patterns/01-play.md
