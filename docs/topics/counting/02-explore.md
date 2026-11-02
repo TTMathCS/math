@@ -87,7 +87,7 @@ Two places are fussy: the last digit must be odd, and the first digit cannot be 
 If you had filled the first digit first, you would not know whether it had "used up" an odd digit, and the number of
 choices for the last digit would differ from branch to branch. Fussy part first avoids that.
 
-**2. Counting the factors of 360.** In [number theory](../number-theory/03-build.md) we found
+**2. Counting the factors of 360.** In [number theory](../number-theory/level-3/06-counting-factors.md) we found
 $360 = 2^3 \times 3^2 \times 5$. Every factor of 360 is made of these same primes, using **no more** of each than 360
 has. So building a factor means three choices in a row:
 
@@ -138,4 +138,4 @@ outfit has a T-shirt **and** shorts, so multiply.
 - Back a step: [Play: how many ways?](01-play.md)
 - The coin's 32 sequences become chances in [Probability](../probability/02-explore.md).
 - Prime factorizations, which make factor-counting so quick, are explained in
-  [Number theory: prime factors](../number-theory/03-build.md).
+  [Number theory: prime factors](../number-theory/level-3/06-counting-factors.md).

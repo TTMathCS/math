@@ -378,11 +378,70 @@ nav:
           - topics/measurement/05-beyond.md
       - Number theory:
           - topics/number-theory/index.md
-          - topics/number-theory/01-play.md
-          - topics/number-theory/02-explore.md
-          - topics/number-theory/03-build.md
-          - topics/number-theory/04-master.md
-          - topics/number-theory/05-beyond.md
+          - "Level 1: Odd, even and sharing":
+              - topics/number-theory/level-1/index.md
+              - topics/number-theory/level-1/01-pairs-partners.md
+              - topics/number-theory/level-1/02-odd-even-line.md
+              - topics/number-theory/level-1/03-fair-sharing-two.md
+              - topics/number-theory/level-1/04-skip-counting.md
+              - topics/number-theory/level-1/05-rectangle-numbers.md
+              - topics/number-theory/level-1/06-leftovers.md
+          - "Level 2: Factors and multiples":
+              - topics/number-theory/level-2/index.md
+              - topics/number-theory/level-2/01-odd-even-sums.md
+              - topics/number-theory/level-2/02-multiples.md
+              - topics/number-theory/level-2/03-factors-arrays.md
+              - topics/number-theory/level-2/04-primes-composites.md
+              - topics/number-theory/level-2/05-sieve-eratosthenes.md
+              - topics/number-theory/level-2/06-square-numbers-lockers.md
+          - "Level 3: Divisibility":
+              - topics/number-theory/level-3/index.md
+              - topics/number-theory/level-3/01-tests-2-5-10.md
+              - topics/number-theory/level-3/02-tests-4-and-8.md
+              - topics/number-theory/level-3/03-tests-3-and-9.md
+              - topics/number-theory/level-3/04-tests-6-11-more.md
+              - topics/number-theory/level-3/05-prime-factorization.md
+              - topics/number-theory/level-3/06-counting-factors.md
+          - "Level 4: GCD, LCM and Euclid":
+              - topics/number-theory/level-4/index.md
+              - topics/number-theory/level-4/01-greatest-common-divisor.md
+              - topics/number-theory/level-4/02-least-common-multiple.md
+              - topics/number-theory/level-4/03-gcd-times-lcm.md
+              - topics/number-theory/level-4/04-euclids-algorithm.md
+              - topics/number-theory/level-4/05-no-biggest-prime.md
+              - topics/number-theory/level-4/06-perfect-numbers.md
+          - "Level 5: Clock arithmetic":
+              - topics/number-theory/level-5/index.md
+              - topics/number-theory/level-5/01-remainders.md
+              - topics/number-theory/level-5/02-clocks-any-size.md
+              - topics/number-theory/level-5/03-congruence.md
+              - topics/number-theory/level-5/04-last-digits-powers.md
+              - topics/number-theory/level-5/05-divisibility-tests-explained.md
+              - topics/number-theory/level-5/06-check-digits.md
+          - "Level 6: Equations in whole numbers":
+              - topics/number-theory/level-6/index.md
+              - topics/number-theory/level-6/01-bezout-identity.md
+              - topics/number-theory/level-6/02-linear-diophantine.md
+              - topics/number-theory/level-6/03-coin-problem.md
+              - topics/number-theory/level-6/04-inverses-mod-n.md
+              - topics/number-theory/level-6/05-chinese-remainder.md
+              - topics/number-theory/level-6/06-unique-factorisation.md
+          - "Level 7: Powers on a clock":
+              - topics/number-theory/level-7/index.md
+              - topics/number-theory/level-7/01-fermats-little-theorem.md
+              - topics/number-theory/level-7/02-fast-powers.md
+              - topics/number-theory/level-7/03-euler-phi.md
+              - topics/number-theory/level-7/04-primality-tests.md
+              - topics/number-theory/level-7/05-pythagorean-triples.md
+              - topics/number-theory/level-7/06-sums-two-squares.md
+          - "Level 8: Secret codes and open questions":
+              - topics/number-theory/level-8/index.md
+              - topics/number-theory/level-8/01-old-codes.md
+              - topics/number-theory/level-8/02-rsa.md
+              - topics/number-theory/level-8/03-diffie-hellman.md
+              - topics/number-theory/level-8/04-spread-of-primes.md
+              - topics/number-theory/level-8/05-open-problems.md
+              - topics/number-theory/level-8/06-quadratic-residues.md
       - Counting and combinations:
           - topics/counting/index.md
           - topics/counting/01-play.md
