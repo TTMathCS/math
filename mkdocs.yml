@@ -1,0 +1,216 @@
+site_name: Math
+site_url: https://math.akadian.ca/
+site_description: Math by course, shelf by shelf, with the reasoning written out
+repo_url: https://github.com/TTMathCS/math
+edit_uri: edit/main/docs/
+copyright: 'Part of <a href="https://www.akadian.ca/">Mars – your new home</a>'
+# notes for the repo, not pages
+exclude_docs: |
+  README.md
+# pages keep their .html names, so the course guides' own links between chapters work as written
+use_directory_urls: false
+
+theme:
+  name: material
+  custom_dir: overrides
+  features:
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - search.highlight
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunset-up
+        name: Mars dawn
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Mars night
+  font: false
+
+extra_css:
+  - fonts/fonts.css
+  - stylesheets/mars.css
+  - stylesheets/course.css
+
+extra:
+  homepage: https://www.akadian.ca/
+
+extra_javascript:
+  - javascripts/mars-link.js
+  - javascripts/home-link.js
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - admonition
+  - pymdownx.details
+  - md_in_html
+  - attr_list
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+# With --strict, a broken link or #anchor stops the build
+validation:
+  omitted_files: warn
+  absolute_links: warn
+  unrecognized_links: warn
+  anchors: warn
+
+# One section per shelf. A new shelf (high school, fun math ...) is a folder in docs/ and a section here (README.md).
+nav:
+  - Home: index.md
+  # uoft: start
+  - U of T:
+      - uoft/index.md
+      - uoft/comprehensive-guide.md
+      - uoft/course-changes.md
+      - MAT137:
+          - "About the course": uoft/MAT137/index.md
+          - "Prologue — Why Calculus Exists": uoft/MAT137/prologue.md
+          - "Unit 1 — Logic, Sets & Proofs": uoft/MAT137/unit01.md
+          - "Unit 2 — Limits & Continuity": uoft/MAT137/unit02.md
+          - "Unit 3 — Derivatives": uoft/MAT137/unit03.md
+          - "Unit 4 — Transcendental Functions": uoft/MAT137/unit04.md
+          - "Unit 5 — The MVT & Inverse Functions": uoft/MAT137/unit05.md
+          - "Unit 6 — Applications of Derivatives & Limits": uoft/MAT137/unit06.md
+          - "Unit 7 — The Definition of the Integral": uoft/MAT137/unit07.md
+          - "Unit 8 — The Fundamental Theorem of Calculus": uoft/MAT137/unit08.md
+          - "Unit 9 — Integration Methods": uoft/MAT137/unit09.md
+          - "Unit 10 — Applications of the Integral": uoft/MAT137/unit10.md
+          - "Unit 11 — Sequences": uoft/MAT137/unit11.md
+          - "Unit 12 — Improper Integrals": uoft/MAT137/unit12.md
+          - "Unit 13 — Series": uoft/MAT137/unit13.md
+          - "Unit 14 — Power Series & Taylor Series": uoft/MAT137/unit14.md
+      - MAT158H1:
+          - "About the course": uoft/MAT158H1/index.md
+          - "Unit 1 — Logic, Sets & Proof": uoft/MAT158H1/unit01.md
+          - "Unit 2 — Real Numbers & Least Upper Bounds": uoft/MAT158H1/unit02.md
+          - "Unit 3 — Limits": uoft/MAT158H1/unit03.md
+          - "Unit 4 — Continuous Functions": uoft/MAT158H1/unit04.md
+          - "Unit 5 — The Three Hard Theorems": uoft/MAT158H1/unit05.md
+          - "Unit 6 — Derivatives": uoft/MAT158H1/unit06.md
+          - "Unit 7 — The Mean Value Theorem": uoft/MAT158H1/unit07.md
+          - "Unit 8 — Inverse Functions": uoft/MAT158H1/unit08.md
+          - "Unit 9 — The Riemann Integral": uoft/MAT158H1/unit09.md
+          - "Unit 10 — The Fundamental Theorem of Calculus": uoft/MAT158H1/unit10.md
+          - "Unit 11 — Transcendental Functions": uoft/MAT158H1/unit11.md
+      - MAT159H1:
+          - "About the course": uoft/MAT159H1/index.md
+          - "Unit 1 — FTC, Transcendentals & Integration Techniques": uoft/MAT159H1/unit01.md
+          - "Unit 2 — Improper Integrals": uoft/MAT159H1/unit02.md
+          - "Unit 3 — Sequences & Cauchy Sequences": uoft/MAT159H1/unit03.md
+          - "Unit 4 — Taylor's Theorem": uoft/MAT159H1/unit04.md
+          - "Unit 5 — Infinite Series": uoft/MAT159H1/unit05.md
+          - "Unit 6 — Uniform Convergence": uoft/MAT159H1/unit06.md
+          - "Unit 7 — Power Series": uoft/MAT159H1/unit07.md
+      - MAT240H1:
+          - "About the course": uoft/MAT240H1/index.md
+          - "Unit 1 — Fields & Vector Spaces": uoft/MAT240H1/unit01.md
+          - "Unit 2 — Subspaces, Span & Independence": uoft/MAT240H1/unit02.md
+          - "Unit 3 — Bases & Dimension": uoft/MAT240H1/unit03.md
+          - "Unit 4 — Linear Transformations": uoft/MAT240H1/unit04.md
+          - "Unit 5 — Rank–Nullity & Matrices": uoft/MAT240H1/unit05.md
+          - "Unit 6 — Change of Basis & Similarity": uoft/MAT240H1/unit06.md
+          - "Unit 7 — Systems & Elementary Operations": uoft/MAT240H1/unit07.md
+          - "Unit 8 — Determinants": uoft/MAT240H1/unit08.md
+          - "Unit 9 — Polynomials, UFD & Resultants": uoft/MAT240H1/unit09.md
+          - "Unit 10 — Eigenvalues & Diagonalization": uoft/MAT240H1/unit10.md
+      - MAT247H1:
+          - "About the course": uoft/MAT247H1/index.md
+          - "Unit 1 — Inner Product Spaces": uoft/MAT247H1/unit01.md
+          - "Unit 2 — Orthogonality & Gram–Schmidt": uoft/MAT247H1/unit02.md
+          - "Unit 3 — The Adjoint": uoft/MAT247H1/unit03.md
+          - "Unit 4 — Isometries: Orthogonal & Unitary Operators": uoft/MAT247H1/unit04.md
+          - "Unit 5 — Hermitian, Symmetric & Normal Operators": uoft/MAT247H1/unit05.md
+          - "Unit 6 — The Spectral Theorem": uoft/MAT247H1/unit06.md
+          - "Unit 7 — Polar & Singular Value Decomposition": uoft/MAT247H1/unit07.md
+          - "Unit 8 — Dual Spaces & Quotient Spaces": uoft/MAT247H1/unit08.md
+          - "Unit 9 — Primary Decomposition & Jordan Form": uoft/MAT247H1/unit09.md
+          - "Unit 10 — Rational Form, Bilinear & Quadratic Forms": uoft/MAT247H1/unit10.md
+      - MAT257Y1:
+          - "About the course": uoft/MAT257Y1/index.md
+          - "Unit 1 — The Topology of R^n": uoft/MAT257Y1/unit01.md
+          - "Unit 2 — Compactness": uoft/MAT257Y1/unit02.md
+          - "Unit 3 — Continuity & Connectedness": uoft/MAT257Y1/unit03.md
+          - "Unit 4 — The Derivative as a Linear Map": uoft/MAT257Y1/unit04.md
+          - "Unit 5 — Chain Rule & Higher Derivatives": uoft/MAT257Y1/unit05.md
+          - "Unit 6 — The Inverse Function Theorem": uoft/MAT257Y1/unit06.md
+          - "Unit 7 — The Implicit Function Theorem": uoft/MAT257Y1/unit07.md
+          - "Unit 8 — Extrema & Lagrange Multipliers": uoft/MAT257Y1/unit08.md
+          - "Unit 9 — The Riemann Integral in R^n": uoft/MAT257Y1/unit09.md
+          - "Unit 10 — Partitions of Unity & Change of Variables": uoft/MAT257Y1/unit10.md
+          - "Unit 11 — Tensors & Differential Forms": uoft/MAT257Y1/unit11.md
+          - "Unit 12 — The Exterior Derivative": uoft/MAT257Y1/unit12.md
+          - "Unit 13 — Manifolds in R^n": uoft/MAT257Y1/unit13.md
+          - "Unit 14 — Stokes' Theorem": uoft/MAT257Y1/unit14.md
+      - PHY131H1:
+          - "About the course": uoft/PHY131H1/index.md
+          - "Unit 1 — Units, Vectors & Estimation": uoft/PHY131H1/unit01.md
+          - "Unit 2 — Kinematics in One Dimension": uoft/PHY131H1/unit02.md
+          - "Unit 3 — Motion in Two Dimensions": uoft/PHY131H1/unit03.md
+          - "Unit 4 — Newton's Laws": uoft/PHY131H1/unit04.md
+          - "Unit 5 — Friction & Circular Motion": uoft/PHY131H1/unit05.md
+          - "Unit 6 — Work, Energy & Power": uoft/PHY131H1/unit06.md
+          - "Unit 7 — Momentum & Collisions": uoft/PHY131H1/unit07.md
+          - "Unit 8 — Rotation & Angular Momentum": uoft/PHY131H1/unit08.md
+          - "Unit 9 — Oscillations": uoft/PHY131H1/unit09.md
+          - "Unit 10 — Waves & Sound": uoft/PHY131H1/unit10.md
+      - PHY132H1:
+          - "About the course": uoft/PHY132H1/index.md
+          - "Unit 1 — Electric Charge & Force": uoft/PHY132H1/unit01.md
+          - "Unit 2 — The Electric Field": uoft/PHY132H1/unit02.md
+          - "Unit 3 — Electric Potential": uoft/PHY132H1/unit03.md
+          - "Unit 4 — Current & Circuits": uoft/PHY132H1/unit04.md
+          - "Unit 5 — Magnetic Fields": uoft/PHY132H1/unit05.md
+          - "Unit 6 — Induction": uoft/PHY132H1/unit06.md
+          - "Unit 7 — Electromagnetic Waves & Light": uoft/PHY132H1/unit07.md
+          - "Unit 8 — Geometric Optics": uoft/PHY132H1/unit08.md
+          - "Unit 9 — Wave Optics": uoft/PHY132H1/unit09.md
+          - "Unit 10 — Special Relativity": uoft/PHY132H1/unit10.md
+      - CSC108H1:
+          - "About the course": uoft/CSC108H1/index.md
+          - "Unit 1 — Values, Types & Variables": uoft/CSC108H1/unit01.md
+          - "Unit 2 — Control Flow": uoft/CSC108H1/unit02.md
+          - "Unit 3 — Functions": uoft/CSC108H1/unit03.md
+          - "Unit 4 — Strings": uoft/CSC108H1/unit04.md
+          - "Unit 5 — Lists & Aliasing": uoft/CSC108H1/unit05.md
+          - "Unit 6 — Dictionaries & Sets": uoft/CSC108H1/unit06.md
+          - "Unit 7 — Classes, Objects & Methods": uoft/CSC108H1/unit07.md
+          - "Unit 8 — Unit Testing & Design": uoft/CSC108H1/unit08.md
+          - "Unit 9 — Searching, Sorting & Complexity": uoft/CSC108H1/unit09.md
+          - "Unit 10 — Floating Point & Numerical Computation": uoft/CSC108H1/unit10.md
+      - CSC148H1:
+          - "About the course": uoft/CSC148H1/index.md
+          - "Unit 1 — Abstract Data Types": uoft/CSC148H1/unit01.md
+          - "Unit 2 — Object-Oriented Design": uoft/CSC148H1/unit02.md
+          - "Unit 3 — Stacks & Queues": uoft/CSC148H1/unit03.md
+          - "Unit 4 — Linked Lists": uoft/CSC148H1/unit04.md
+          - "Unit 5 — Recursion": uoft/CSC148H1/unit05.md
+          - "Unit 6 — Recursion on Nested Data": uoft/CSC148H1/unit06.md
+          - "Unit 7 — Trees": uoft/CSC148H1/unit07.md
+          - "Unit 8 — Binary Search Trees": uoft/CSC148H1/unit08.md
+          - "Unit 9 — Efficiency Analysis": uoft/CSC148H1/unit09.md
+          - "Unit 10 — Sorting & Inheritance": uoft/CSC148H1/unit10.md
+      - ENG140Y1:
+          - "About the course": uoft/ENG140Y1/index.md
+          - "Unit 1 — Close Reading": uoft/ENG140Y1/unit01.md
+          - "Unit 2 — Poetry I: Form & Sound": uoft/ENG140Y1/unit02.md
+          - "Unit 3 — Poetry II: Figurative Language": uoft/ENG140Y1/unit03.md
+          - "Unit 4 — Prose I: Narration & Point of View": uoft/ENG140Y1/unit04.md
+          - "Unit 5 — Prose II: Structure & Character": uoft/ENG140Y1/unit05.md
+          - "Unit 6 — Drama": uoft/ENG140Y1/unit06.md
+          - "Unit 7 — Context & the Modern Period": uoft/ENG140Y1/unit07.md
+          - "Unit 8 — Critical Approaches": uoft/ENG140Y1/unit08.md
+          - "Unit 9 — Building an Argument": uoft/ENG140Y1/unit09.md
+          - "Unit 10 — Writing the Essay": uoft/ENG140Y1/unit10.md
+  # uoft: end

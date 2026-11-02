@@ -1,0 +1,224 @@
+/* The course guides' own look (UofT-Math style.css, made by tools/course_css.py; do not edit by hand), inside this
+   site's frame. Pen-case colour code: blue = definitions, indigo = theorems, green = examples, red = warnings.
+   The panels are see-through so the page's Mars colours show under them, in both schemes. */
+.md-typeset .uoft{
+  --sheet:var(--md-default-bg-color);--well:rgba(255,255,255,.38);--desk:var(--md-default-bg-color);
+  --ink:var(--md-typeset-color);--ink-soft:var(--md-default-fg-color--light);
+  --line:var(--md-default-fg-color--lighter);--line-soft:var(--md-default-fg-color--lightest);
+  --grid:rgba(31,90,140,.08);
+  --blue:#1f5a8c;--indigo:#46409f;--green:#2e7d4f;--red:#b23a20;--amber:#a35f00;
+  --tint-blue:rgba(31,90,140,.09);--tint-indigo:rgba(70,64,159,.09);--tint-green:rgba(46,125,79,.1);
+  --tint-red:rgba(178,58,32,.09);--tint-amber:rgba(163,95,0,.1);
+  font-size:.85rem;line-height:1.65}
+[data-md-color-scheme="slate"] .md-typeset .uoft{
+  --well:rgba(244,230,212,.05);--grid:rgba(156,201,234,.07);
+  --blue:#9cc9ea;--indigo:#b3aef0;--green:#7ccf9a;--red:#ef8a6e;--amber:#ffb74d;
+  --tint-blue:rgba(156,201,234,.08);--tint-indigo:rgba(179,174,240,.08);--tint-green:rgba(124,207,154,.08);
+  --tint-red:rgba(239,138,110,.09);--tint-amber:rgba(255,183,77,.08)}
+/* Material's own spacing and heading styles step back inside the guides */
+.md-typeset .uoft h1,.md-typeset .uoft h2,.md-typeset .uoft h3,.md-typeset .uoft h4{margin:0;border:0;padding:0;color:var(--ink)}
+.md-typeset .uoft h1.ch-title,.md-typeset .uoft header.hero h1{font-family:var(--mars-display);font-weight:700;
+  font-size:clamp(1.6rem,3.6vw,2.4rem);line-height:1.08;margin-bottom:.6rem;letter-spacing:0}
+.md-typeset .uoft header.hero h1 em{font-style:italic;color:var(--blue)}
+.md-typeset .uoft ul,.md-typeset .uoft ol{margin-top:0;margin-bottom:0}
+.md-typeset .uoft li{margin-left:0}
+.md-typeset .uoft .goals ul li,.md-typeset .uoft .units li{margin:0}
+.md-typeset .uoft details{border:0;box-shadow:none;background:none;padding:0;font-size:inherit;overflow:visible}
+.md-typeset .uoft details summary{min-height:0}
+.md-typeset .uoft details summary::after{display:none}
+.md-typeset .uoft table:not([class]){font-size:inherit}
+.md-typeset .uoft footer.end{border-top:2px solid var(--ink);padding-top:1rem;margin-top:2rem;
+  font-family:var(--md-code-font-family);font-size:.6rem;color:var(--ink-soft);display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px}
+.md-typeset .uoft summary:focus-visible,
+.md-typeset .uoft button:focus-visible,
+.md-typeset .uoft input:focus-visible{outline:2px solid var(--blue);outline-offset:2px;border-radius:2px}
+.md-typeset .uoft header.hero{position:relative;margin-bottom:30px;padding:26px 0 30px; background: linear-gradient(180deg,rgba(0,0,0,0) 0%,var(--sheet) 92%), linear-gradient(var(--grid) 1px,transparent 1px), linear-gradient(90deg,var(--grid) 1px,transparent 1px); background-size:auto,24px 24px,24px 24px}
+.md-typeset .uoft .kicker{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:11.5px;letter-spacing:.24em;text-transform:uppercase;color:var(--blue); margin-bottom:12px}
+.md-typeset .uoft .lede{margin-top:14px;max-width:70ch;font-size:17px;color:var(--ink-soft)}
+.md-typeset .uoft .curve{position:absolute;right:-10px;top:-2px;width:230px;height:150px;opacity:.95}
+.md-typeset .uoft .curve path{fill:none;stroke:var(--blue);stroke-width:2.4; stroke-dasharray:1400;stroke-dashoffset:1400;animation:draw 2.4s .3s ease forwards}
+.md-typeset .uoft .curve .axis{stroke:var(--line);stroke-width:1.4;stroke-dasharray:none;stroke-dashoffset:0;animation:none}
+.md-typeset .uoft .curve circle{fill:var(--red);opacity:0;animation:pop .5s 2.3s ease forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+@keyframes pop{to{opacity:1}}
+.md-typeset .uoft .note{background:var(--tint-blue);border:1px solid var(--line-soft); border-left:3px solid var(--blue);border-radius:6px; padding:20px 24px;margin-bottom:32px}
+.md-typeset .uoft .note h3{font-family:"Avenir Next","Helvetica Neue","Segoe UI",system-ui,sans-serif; font-weight:650;font-size:19px;margin-bottom:8px}
+.md-typeset .uoft .note p{font-size:16px;max-width:78ch;color:var(--ink)}
+.md-typeset .uoft .note .tag{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--blue); font-weight:600;margin-bottom:12px}
+.md-typeset .uoft .note a{color:var(--blue);text-decoration:underline;text-underline-offset:3px}
+.md-typeset .uoft section{margin-bottom:38px;scroll-margin-top:24px}
+.md-typeset .uoft .sec-head{display:flex;align-items:baseline;gap:14px; border-bottom:2px solid var(--ink);padding-bottom:10px;margin-bottom:6px}
+.md-typeset .uoft .sec-head h2{font-family:"Avenir Next","Helvetica Neue","Segoe UI",system-ui,sans-serif; font-weight:650;font-size:clamp(22px,2.8vw,29px);letter-spacing:-.012em}
+.md-typeset .uoft .sec-head .no{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:13px;color:var(--blue);font-weight:600}
+.md-typeset .uoft .sec-sub{color:var(--ink-soft);font-size:16px;margin:10px 0 18px;max-width:75ch}
+.md-typeset .uoft .chips{display:flex;flex-wrap:wrap;gap:9px;margin:0 0 20px}
+.md-typeset .uoft .chip{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:12px;font-weight:600;letter-spacing:.04em;padding:7px 12px; border:1px solid var(--line-soft);border-radius:4px;background:var(--well); display:flex;gap:8px;align-items:center}
+.md-typeset .uoft .chip b{color:var(--blue)}
+.md-typeset .uoft .chip.teal b{color:var(--green)}
+.md-typeset .uoft .chip small{font-weight:400;color:var(--ink-soft); font-family:Charter,"Iowan Old Style",Georgia,serif;font-size:13px}
+.md-typeset .uoft .units{list-style:none;counter-reset:c}
+.md-typeset .uoft .units li{counter-increment:c;border-top:1px solid var(--line-soft)}
+.md-typeset .uoft .units a,
+.md-typeset .uoft .units .soon{display:grid;grid-template-columns:46px 1fr auto;gap:16px; align-items:baseline;padding:13px 12px 13px 0;text-decoration:none;color:inherit; max-width:640px;transition:padding .2s,background .2s}
+.md-typeset .uoft .units a:hover{padding-left:10px;background:var(--tint-blue)}
+.md-typeset .uoft .units a::before,
+.md-typeset .uoft .units .soon::before{content:counter(c,decimal-leading-zero); font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:13px;font-weight:600;color:var(--blue)}
+.md-typeset .uoft .units h4{font-family:"Avenir Next","Helvetica Neue","Segoe UI",system-ui,sans-serif; font-weight:600;font-size:17.5px;margin-bottom:2px}
+.md-typeset .uoft .units p{font-size:14.5px;color:var(--ink-soft)}
+.md-typeset .uoft .units .go{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--blue)}
+.md-typeset .uoft .units .soon{opacity:.5}
+.md-typeset .uoft .units .soon .go{color:var(--ink-soft)}
+.md-typeset .uoft .bookend{display:flex;justify-content:space-between;align-items:center;gap:16px; padding:14px 18px;margin:4px 0 8px;border:1px solid var(--line-soft); border-left:3px solid var(--blue);border-radius:6px;background:var(--well); text-decoration:none;color:inherit;transition:border-color .2s,background .2s}
+.md-typeset .uoft .bookend:hover{border-color:var(--blue);background:var(--tint-blue)}
+.md-typeset .uoft .bookend h4{font-family:"Avenir Next","Helvetica Neue","Segoe UI",system-ui,sans-serif; font-weight:600;font-size:17.5px;margin-bottom:2px}
+.md-typeset .uoft .bookend p{font-size:14.5px;color:var(--ink-soft);margin:0}
+.md-typeset .uoft .bookend .go{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--blue);white-space:nowrap}
+.md-typeset .uoft .term{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--blue); margin:22px 0 4px;font-weight:600;display:flex;align-items:center;gap:14px}
+.md-typeset .uoft .term::after{content:"";flex:1;height:1px;background:var(--line)}
+.md-typeset .uoft .term:first-of-type{margin-top:8px}
+.md-typeset .uoft .crumb{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-soft); margin-bottom:16px;display:flex;gap:10px;align-items:center}
+.md-typeset .uoft .crumb a{color:var(--blue);text-decoration:none}
+.md-typeset .uoft .crumb a:hover{text-decoration:underline}
+.md-typeset .uoft .unit-no{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:12.5px;letter-spacing:.2em;text-transform:uppercase;color:var(--blue); font-weight:600;margin-bottom:8px}
+.md-typeset .uoft .ch-title{font-family:"Avenir Next","Helvetica Neue","Segoe UI",system-ui,sans-serif; font-weight:650;font-size:clamp(26px,3.6vw,38px);line-height:1.08; letter-spacing:-.015em;margin-bottom:12px}
+.md-typeset .uoft .ch-intro{font-size:17px;color:var(--ink-soft);max-width:72ch;margin-bottom:10px}
+.md-typeset .uoft .goals{background:var(--well);border:1px solid var(--line-soft);border-radius:6px; padding:14px 18px;margin:18px 0 26px}
+.md-typeset .uoft .goals .gl{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--blue); font-weight:600;margin-bottom:8px}
+.md-typeset .uoft .goals ul{list-style:none;display:flex;flex-direction:column;gap:6px}
+.md-typeset .uoft .goals li{padding-left:22px;position:relative;font-size:16px}
+.md-typeset .uoft .goals li::before{content:"→";position:absolute;left:0;color:var(--blue)}
+.md-typeset .uoft .block{margin:22px 0}
+.md-typeset .uoft .block[id]{scroll-margin-top:24px}
+.md-typeset .uoft .block>h3{font-family:"Avenir Next","Helvetica Neue","Segoe UI",system-ui,sans-serif; font-weight:650;font-size:20px;margin-bottom:8px;letter-spacing:-.008em}
+.md-typeset .uoft .block p{margin:10px 0;max-width:72ch}
+.md-typeset .uoft .block ul,
+.md-typeset .uoft .block ol{margin:10px 0 10px 22px}
+.md-typeset .uoft .block li{margin:5px 0;max-width:70ch}
+.md-typeset .uoft .box{border-radius:6px;padding:13px 16px;margin:14px 0; border:1px solid var(--line-soft)}
+.md-typeset .uoft .box .bl{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:600; margin-bottom:6px;display:flex;gap:10px;align-items:center}
+.md-typeset .uoft .box .bl b{font-family:Charter,"Iowan Old Style",Georgia,serif;font-style:italic; font-weight:600;text-transform:none;letter-spacing:0;font-size:14.5px;color:var(--ink)}
+.md-typeset .uoft .box p{margin:6px 0;max-width:70ch}
+.md-typeset .uoft .def{border-left:3px solid var(--blue);background:var(--tint-blue)}
+.md-typeset .uoft .def .bl{color:var(--blue)}
+.md-typeset .uoft .thm{border-left:3px solid var(--indigo);background:var(--tint-indigo)}
+.md-typeset .uoft .thm .bl{color:var(--indigo)}
+.md-typeset .uoft .eg{border-left:3px solid var(--green);background:var(--tint-green)}
+.md-typeset .uoft .eg .bl{color:var(--green)}
+.md-typeset .uoft .warn{border-left:3px solid var(--red);background:var(--tint-red)}
+.md-typeset .uoft .warn .bl{color:var(--red)}
+.md-typeset .uoft .eg .step{margin:7px 0;padding-left:14px;border-left:2px solid var(--line); font-size:16px;max-width:70ch}
+.md-typeset .uoft .figure{margin:16px 0;background:var(--well);border:1px solid var(--line-soft); border-radius:6px;padding:14px 16px;overflow:hidden}
+.md-typeset .uoft .figure .fig-title{font-family:"Avenir Next","Helvetica Neue","Segoe UI",system-ui,sans-serif; font-weight:600;font-size:16px;margin-bottom:3px}
+.md-typeset .uoft .figure .fig-note{font-size:13.5px;color:var(--ink-soft);margin:0 0 12px;max-width:68ch}
+.md-typeset .uoft .figure svg{display:block;width:100%;height:auto;border:1px solid var(--line); border-radius:4px;background-color:var(--sheet); background-image:linear-gradient(var(--grid) 1px,transparent 1px), linear-gradient(90deg,var(--grid) 1px,transparent 1px); background-size:22px 22px}
+.md-typeset .uoft .figure svg text{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:11px;fill:var(--ink-soft)}
+.md-typeset .uoft .figure svg .axis{stroke:var(--ink-soft);stroke-width:1.2}
+.md-typeset .uoft .figure svg .guide{stroke:var(--line);stroke-width:1;stroke-dasharray:5 5}
+.md-typeset .uoft .figure svg .curve-line{fill:none;stroke:var(--blue);stroke-width:3}
+.md-typeset .uoft .figure svg .focus-line{fill:none;stroke:var(--red);stroke-width:2.5}
+.md-typeset .uoft .figure svg .secondary-line{fill:none;stroke:var(--amber);stroke-width:2;stroke-dasharray:6 4}
+.md-typeset .uoft .figure svg .focus-point{fill:var(--red);stroke:var(--sheet);stroke-width:2}
+.md-typeset .uoft .figure svg .secondary-point{fill:var(--amber);stroke:var(--sheet);stroke-width:2}
+.md-typeset .uoft .figure svg .input-band{fill:rgba(42,92,174,.16)}
+.md-typeset .uoft .figure svg .output-band{fill:rgba(192,59,45,.13)}
+.md-typeset .uoft .controls{display:flex;flex-wrap:wrap;align-items:center;gap:10px 16px;margin-top:14px}
+.md-typeset .uoft .controls label{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--indigo);font-weight:600}
+.md-typeset .uoft .controls input[type="range"]{accent-color:var(--blue);min-width:220px;flex:1}
+.md-typeset .uoft .controls output{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:12px;color:var(--ink);background:var(--sheet);border:1px solid var(--line); padding:5px 8px;border-radius:4px}
+.md-typeset .uoft .controls button{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--sheet); background:var(--blue);border:0;border-radius:4px;padding:8px 12px;cursor:pointer}
+.md-typeset .uoft .controls button:hover{background:var(--indigo)}
+[data-md-color-scheme="slate"] .md-typeset .uoft .controls button{color:var(--desk)}
+.md-typeset .uoft .exh-row{display:flex;gap:18px;align-items:center;flex-wrap:wrap}
+.md-typeset .uoft .exh-row svg{flex:1 1 320px;width:auto;min-width:0}
+.md-typeset .uoft .exh-row .calc-panel{flex:1 1 360px;margin-top:0}
+.md-typeset .uoft .calc-panel{margin-top:12px;font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:12.5px;line-height:1.95;color:var(--ink);border:1px solid var(--line); border-radius:4px;padding:11px 14px;overflow-x:auto;background-color:var(--sheet); background-image:linear-gradient(var(--grid) 1px,transparent 1px), linear-gradient(90deg,var(--grid) 1px,transparent 1px); background-size:22px 22px}
+.md-typeset .uoft .calc-panel div{white-space:nowrap}
+.md-typeset .uoft .calc-panel .res{color:var(--blue);font-weight:600}
+.md-typeset .uoft .calc-panel .pi{color:var(--red);font-weight:600}
+.md-typeset .uoft .proof-map{display:grid;grid-template-columns:1fr auto 1fr;gap:10px;align-items:stretch;margin-top:14px}
+.md-typeset .uoft .proof-map .choice{background:var(--well);border:1px solid var(--line-soft); padding:13px 14px;border-radius:6px}
+.md-typeset .uoft .proof-map .choice b{display:block; font-family:"Avenir Next","Helvetica Neue","Segoe UI",system-ui,sans-serif; font-weight:600;font-size:15.5px;margin-bottom:3px}
+.md-typeset .uoft .proof-map .choice span{display:block;font-size:13.5px;color:var(--ink-soft);line-height:1.5}
+.md-typeset .uoft .proof-map .arrow{align-self:center;color:var(--blue); font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace;font-weight:600}
+.md-typeset .uoft .logic-table{width:100%;border-collapse:collapse;margin:15px 0;font-size:15px;background:var(--sheet)}
+.md-typeset .uoft .logic-table th,
+.md-typeset .uoft .logic-table td{padding:8px 10px;border:1px solid var(--line);text-align:center}
+.md-typeset .uoft .logic-table th{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--indigo); background:var(--well)}
+.md-typeset .uoft .logic-table .false{color:var(--red);font-weight:600}
+.md-typeset .uoft .logic-table .true{color:var(--green);font-weight:600}
+.md-typeset .uoft .checkpoint{border:1px solid var(--line-soft);border-left:3px solid var(--indigo); border-radius:6px;padding:11px 14px;margin:14px 0;background:var(--tint-indigo);font-size:15px}
+.md-typeset .uoft .checkpoint b{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--indigo); display:block;margin-bottom:4px}
+.md-typeset .uoft .prac-intro{font-size:14px;color:var(--ink-soft);margin:5px 0 12px;max-width:72ch}
+.md-typeset .uoft .prac{display:flex;flex-direction:column;gap:9px;margin-top:6px}
+.md-typeset .uoft .q{background:var(--well);border:1px solid var(--line-soft);border-left:3px solid var(--blue); padding:11px 14px;border-radius:6px}
+.md-typeset .uoft .q .ql{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:var(--blue); font-weight:600;margin-bottom:4px}
+.md-typeset .uoft .q p{font-size:16px;color:var(--ink);max-width:70ch}
+.md-typeset .uoft details{margin-top:7px}
+.md-typeset .uoft details summary{cursor:pointer; font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--blue); list-style:none;display:inline-flex;align-items:center;gap:6px; background:var(--sheet);border:1px solid var(--line);padding:4px 10px; border-radius:4px;transition:background .2s,color .2s}
+.md-typeset .uoft details summary::-webkit-details-marker{display:none}
+.md-typeset .uoft details summary::before{content:"+";font-weight:600}
+.md-typeset .uoft details[open] summary::before{content:"–"}
+.md-typeset .uoft details summary:hover{background:var(--blue);color:var(--sheet);border-color:var(--blue)}
+[data-md-color-scheme="slate"] .md-typeset .uoft details summary:hover{color:var(--desk)}
+.md-typeset .uoft details .ans{margin-top:8px;font-size:15px;color:var(--ink);padding-left:12px; border-left:2px solid var(--line);max-width:68ch}
+.md-typeset .uoft .math-rendered{font-family:"STIX Two Math","Cambria Math","Times New Roman",serif; font-size:1.08em;color:var(--ink);vertical-align:-.08em}
+.md-typeset .uoft .math-rendered[display="block"]{display:block;margin:16px 0;padding:8px 12px; overflow-x:auto;text-align:center;font-size:1.16em}
+.md-typeset .uoft .math-rendered mtext{font-family:Charter,"Iowan Old Style",Georgia,serif}
+.md-typeset .uoft .unit-offset-seven{counter-reset:c 6}
+.md-typeset .uoft .navrow{display:flex;justify-content:space-between;gap:14px;margin-top:36px; border-top:2px solid var(--ink);padding-top:16px}
+.md-typeset .uoft .navrow a{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--blue); text-decoration:none;max-width:45%}
+.md-typeset .uoft .navrow a:hover{color:var(--indigo)}
+.md-typeset .uoft .navrow a.n{text-align:right;margin-left:auto}
+.md-typeset .uoft .navrow span{display:block;font-family:Charter,"Iowan Old Style",Georgia,serif; text-transform:none;letter-spacing:0;font-size:15px;color:var(--ink);margin-top:3px}
+.md-typeset .uoft .bp{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
+.md-typeset .uoft .bp .card{background:var(--well);border:1px solid var(--line-soft);border-radius:6px; padding:16px 18px;transition:border-color .2s,transform .2s}
+.md-typeset .uoft .bp .card:hover{transform:translateY(-3px);border-color:var(--blue)}
+.md-typeset .uoft .bp .card .n{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:12px;color:var(--blue);font-weight:600;letter-spacing:.12em}
+.md-typeset .uoft .bp .card h4{font-family:"Avenir Next","Helvetica Neue","Segoe UI",system-ui,sans-serif; font-weight:600;font-size:16.5px;margin:5px 0}
+.md-typeset .uoft .bp .card p{font-size:15px;color:var(--ink-soft)}
+.md-typeset .uoft .src{font-size:15px;color:var(--ink-soft);line-height:1.85}
+.md-typeset .uoft .src a{color:var(--blue);text-decoration:none;border-bottom:1px solid var(--line)}
+.md-typeset .uoft .src a:hover{border-color:var(--blue)}
+.md-typeset .uoft .lic{margin-top:18px;font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:11.5px;color:var(--ink-soft);line-height:1.8;background:var(--well); border:1px dashed var(--line);padding:14px 16px;border-radius:6px}
+.md-typeset .uoft .context{margin:22px 0;border:1px solid var(--line-soft);border-radius:6px; background:var(--well);overflow:hidden}
+.md-typeset .uoft .context .ctxh{font-family:"Avenir Next","Helvetica Neue","Segoe UI",system-ui,sans-serif; font-weight:600;font-size:15.5px;padding:10px 18px;color:var(--ink); border-bottom:1px solid var(--line-soft);display:flex;align-items:center;gap:10px; background-color:var(--sheet); background-image:linear-gradient(var(--grid) 1px,transparent 1px), linear-gradient(90deg,var(--grid) 1px,transparent 1px); background-size:22px 22px}
+.md-typeset .uoft .context .ctxh::before{content:"❖";font-size:12px;color:var(--blue)}
+.md-typeset .uoft .context .ci{padding:11px 18px;border-top:1px solid var(--line-soft)}
+.md-typeset .uoft .context .ci:first-of-type{border-top:none}
+.md-typeset .uoft .context .cl{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--blue); font-weight:600;margin-bottom:5px}
+.md-typeset .uoft .context .ci p{font-size:16px;color:var(--ink);margin:0;max-width:72ch;line-height:1.6}
+.md-typeset .uoft .reveal{opacity:0;transform:translateY(14px);animation:rise .6s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes rise{to{opacity:1;transform:none}}
+.md-typeset .uoft .assessment-bank{border-top:3px solid var(--indigo);padding-top:32px;margin-top:56px}
+.md-typeset .uoft .assessment-bank .assessment-note{max-width:72ch;margin:10px 0 24px;color:var(--ink-soft);font-size:16px}
+.md-typeset .uoft .assessment-bank .q{border-left-color:var(--indigo)}
+.md-typeset .uoft .assessment-bank .q .ql{color:var(--indigo)}
+@media(max-width:880px){
+  .md-typeset .uoft .curve{display:none}
+  .md-typeset .uoft .bp{grid-template-columns:1fr}
+  .md-typeset .uoft .units a,
+.md-typeset .uoft .units .soon{grid-template-columns:36px 1fr;gap:12px}
+  .md-typeset .uoft .units .go{display:none}
+}
+.md-typeset .uoft .code{margin:10px 0;border:1px solid var(--line);border-left:3px solid var(--indigo); border-radius:6px;background:var(--well);overflow:hidden}
+.md-typeset .uoft .code .cl{padding:5px 10px;border-bottom:1px solid var(--line-soft); background:var(--sheet);color:var(--indigo); font:700 10px/1.3 ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; letter-spacing:.1em;text-transform:uppercase}
+.md-typeset .uoft .code pre{margin:0;padding:10px 12px;overflow-x:auto; font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:13px;line-height:1.55;color:var(--ink);tab-size:4}
+.md-typeset .uoft .code pre b{font-weight:700;color:var(--indigo)}
+.md-typeset .uoft .code pre i{font-style:normal;color:var(--green)}
+.md-typeset .uoft .code pre s{text-decoration:none;color:var(--ink-soft)}
+.md-typeset .uoft .code + .code{margin-top:6px}
+.md-typeset .uoft p code,
+.md-typeset .uoft li code,
+.md-typeset .uoft .step code,
+.md-typeset .uoft .ans code{padding:1px 5px;border:1px solid var(--line-soft); border-radius:4px;background:var(--well);color:var(--indigo); font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace; font-size:.88em}
+@media(max-width:600px){
+  .md-typeset .uoft .proof-map{grid-template-columns:1fr}
+  .md-typeset .uoft .proof-map .arrow{transform:rotate(90deg);justify-self:center}
+  .md-typeset .uoft .controls input[type="range"]{min-width:100%;width:100%}
+  .md-typeset .uoft .logic-table{display:block;overflow-x:auto;white-space:nowrap}
+}
+@media(prefers-reduced-motion:reduce){
+  .md-typeset .uoft .reveal{opacity:1;transform:none;animation:none}
+  .md-typeset .uoft .curve path,
+.md-typeset .uoft .curve circle{animation:none}
+}
