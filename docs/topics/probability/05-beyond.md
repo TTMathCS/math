@@ -75,7 +75,7 @@ Repeat the same experiment $n$ times, independently, where each try is a **succe
 number of successes is a random variable with a famous distribution. To get exactly $k$ successes:
 
 - choose **which** $k$ of the $n$ tries are the successes: $\dbinom{n}{k}$ ways (from
-  [Counting](../counting/04-master.md));
+  [Counting](../counting/level-5/index.md));
 - each such pattern has probability $p^k (1 - p)^{n - k}$ (multiply along the path).
 
 $$P(\text{exactly } k \text{ successes}) = \binom{n}{k} p^k (1 - p)^{n - k}.$$
@@ -154,5 +154,5 @@ few games anything can happen, and that is exactly why games of chance are tempt
 - The waiting-time answer $\dfrac1p$ can also be found by adding up an infinite series,
   $\sum_{k \ge 1} k \left(\tfrac56\right)^{k-1} \tfrac16 = 6$; infinite sums like it are studied on the U of T shelf in
   [MAT137 Unit 13 (series)](../../uoft/MAT137/unit13.md).
-- The binomial coefficients come from [Counting: the binomial theorem](../counting/05-beyond.md).
+- The binomial coefficients come from [Counting: the binomial theorem](../counting/level-7/index.md).
 - The other topics: [all topics](../index.md).

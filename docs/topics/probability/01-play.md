@@ -149,4 +149,4 @@ because the coin makes up for them.
 ## Where it leads
 
 - Next step: [Explore: chances as numbers](02-explore.md), where "1 way out of 6" becomes a number you can work with.
-- Counting the ways carefully is a skill of its own: see [Counting and combinations](../counting/01-play.md).
+- Counting the ways carefully is a skill of its own: see [Counting and combinations](../counting/level-1/index.md).

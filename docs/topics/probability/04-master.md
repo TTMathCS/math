@@ -150,4 +150,4 @@ asking about?*
 
 - Next step: [Beyond: expected value](05-beyond.md), where you find out what a game is worth in the long run.
 - Back a step: [Build: "and", "or", and tree diagrams](03-build.md)
-- The 253 pairs in the birthday problem come from [Counting: combinations](../counting/04-master.md).
+- The 253 pairs in the birthday problem come from [Counting: combinations](../counting/level-5/index.md).

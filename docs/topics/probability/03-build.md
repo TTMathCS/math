@@ -150,5 +150,5 @@ impossible. Adding only works for events that cannot happen together, and 6s on 
 - Next step: [Master: conditional probability](04-master.md), where the second stage of a tree **depends** on the
   first, as when you do not put the marble back.
 - Back a step: [Explore: chances as numbers](02-explore.md)
-- The lottery's 13,983,816 tickets from [Counting: combinations](../counting/04-master.md) give a jackpot chance of
+- The lottery's 13,983,816 tickets from [Counting: combinations](../counting/level-5/index.md) give a jackpot chance of
   $\tfrac{1}{13{,}983{,}816}$ per ticket.

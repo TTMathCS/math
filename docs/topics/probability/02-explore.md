@@ -139,4 +139,4 @@ dice (or coins) different colours in your head and list everything.
   listing every outcome.
 - Back a step: [Play: fair or unfair?](01-play.md)
 - Listing 36 or 8 outcomes is the multiplication principle at work: see
-  [Counting: the multiplication principle](../counting/02-explore.md).
+  [Counting: the multiplication principle](../counting/level-2/index.md).

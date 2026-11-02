@@ -444,11 +444,70 @@ nav:
               - topics/number-theory/level-8/06-quadratic-residues.md
       - Counting and combinations:
           - topics/counting/index.md
-          - topics/counting/01-play.md
-          - topics/counting/02-explore.md
-          - topics/counting/03-build.md
-          - topics/counting/04-master.md
-          - topics/counting/05-beyond.md
+          - "Level 1: How many ways?":
+              - topics/counting/level-1/index.md
+              - topics/counting/level-1/01-dressing-teddy.md
+              - topics/counting/level-1/02-ice-cream-towers.md
+              - topics/counting/level-1/03-lining-up.md
+              - topics/counting/level-1/04-handshakes.md
+              - topics/counting/level-1/05-playground-paths.md
+              - topics/counting/level-1/06-being-organised.md
+          - "Level 2: Trees and lists":
+              - topics/counting/level-2/index.md
+              - topics/counting/level-2/01-tree-diagrams.md
+              - topics/counting/level-2/02-trees-to-multiplying.md
+              - topics/counting/level-2/03-and-or.md
+              - topics/counting/level-2/04-codes-and-locks.md
+              - topics/counting/level-2/05-handshakes-diagonals.md
+              - topics/counting/level-2/06-counting-shapes.md
+          - "Level 3: Counting with care":
+              - topics/counting/level-3/index.md
+              - topics/counting/level-3/01-repeats-or-not.md
+              - topics/counting/level-3/02-fussy-parts-first.md
+              - topics/counting/level-3/03-counting-the-rest.md
+              - topics/counting/level-3/04-chessboard-squares.md
+              - topics/counting/level-3/05-counting-by-symmetry.md
+              - topics/counting/level-3/06-factors-and-subsets.md
+          - "Level 4: Arranging, permutations":
+              - topics/counting/level-4/index.md
+              - topics/counting/level-4/01-factorials.md
+              - topics/counting/level-4/02-arranging-some.md
+              - topics/counting/level-4/03-identical-things.md
+              - topics/counting/level-4/04-arranging-in-circles.md
+              - topics/counting/level-4/05-arranging-with-rules.md
+              - topics/counting/level-4/06-pigeonhole-principle.md
+          - "Level 5: Choosing, combinations":
+              - topics/counting/level-5/index.md
+              - topics/counting/level-5/01-choosing-not-arranging.md
+              - topics/counting/level-5/02-in-or-out.md
+              - topics/counting/level-5/03-pascals-triangle.md
+              - topics/counting/level-5/04-grid-paths.md
+              - topics/counting/level-5/05-committees-conditions.md
+              - topics/counting/level-5/06-cards-hands.md
+          - "Level 6: Counting with overlaps and stars":
+              - topics/counting/level-6/index.md
+              - topics/counting/level-6/01-inclusion-exclusion.md
+              - topics/counting/level-6/02-stars-and-bars.md
+              - topics/counting/level-6/03-mixed-problems.md
+              - topics/counting/level-6/04-generalised-pigeonhole.md
+              - topics/counting/level-6/05-counting-bijection.md
+              - topics/counting/level-6/06-counting-for-probability.md
+          - "Level 7: The binomial theorem":
+              - topics/counting/level-7/index.md
+              - topics/counting/level-7/01-expanding-by-choosing.md
+              - topics/counting/level-7/02-binomial-theorem.md
+              - topics/counting/level-7/03-identities-from-theorem.md
+              - topics/counting/level-7/04-pascal-patterns.md
+              - topics/counting/level-7/05-double-counting.md
+              - topics/counting/level-7/06-multinomial-coefficients.md
+          - "Level 8: Clever counting":
+              - topics/counting/level-8/index.md
+              - topics/counting/level-8/01-counting-recursion.md
+              - topics/counting/level-8/02-catalan-numbers.md
+              - topics/counting/level-8/03-derangements.md
+              - topics/counting/level-8/04-partitions.md
+              - topics/counting/level-8/05-generating-functions.md
+              - topics/counting/level-8/06-burnside-lemma.md
       - Probability:
           - topics/probability/index.md
           - topics/probability/01-play.md

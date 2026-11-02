@@ -14,7 +14,7 @@ T = os.path.join(HERE, "docs", "topics")
 ORDER = ["numbers", "patterns", "geometry", "measurement", "number-theory", "counting", "probability", "statistics",
          "algebra", "ratio", "logic", "change", "infinity"]
 # the topics whose levels are finished and checked (a topic joins when all 8 levels are written)
-DEEP = ["geometry", "numbers", "number-theory"]
+DEEP = ["geometry", "numbers", "number-theory", "counting"]
 STEPS = ["01-play", "02-explore", "03-build", "04-master", "05-beyond"]
 
 
