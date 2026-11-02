@@ -968,11 +968,71 @@ nav:
               - topics/logic/level-8/06-p-versus-np.md
       - "Change and motion":
           - topics/change/index.md
-          - topics/change/01-play.md
-          - topics/change/02-explore.md
-          - topics/change/03-build.md
-          - topics/change/04-master.md
-          - topics/change/05-beyond.md
+          - "Level 1: Growing and moving":
+              - topics/change/level-1/index.md
+              - topics/change/level-1/01-bigger-smaller.md
+              - topics/change/level-1/02-fast-and-slow.md
+              - topics/change/level-1/03-before-now-after.md
+              - topics/change/level-1/04-filling-emptying.md
+              - topics/change/level-1/05-changes-come-back.md
+              - topics/change/level-1/06-steep-and-gentle.md
+          - "Level 2: Measuring change":
+              - topics/change/level-2/index.md
+              - topics/change/level-2/01-how-much-change.md
+              - topics/change/level-2/02-comparing-speeds.md
+              - topics/change/level-2/03-change-charts.md
+              - topics/change/level-2/04-steady-not-steady.md
+              - topics/change/level-2/05-speeding-slowing.md
+              - topics/change/level-2/06-growth-journal.md
+          - "Level 3: Rates and graphs that tell stories":
+              - topics/change/level-3/index.md
+              - topics/change/level-3/01-per-rates.md
+              - topics/change/level-3/02-distance-time-graphs.md
+              - topics/change/level-3/03-graph-stories.md
+              - topics/change/level-3/04-change-in-tables.md
+              - topics/change/level-3/05-fast-then-slower.md
+              - topics/change/level-3/06-average-speed.md
+          - "Level 4: Rate of change":
+              - topics/change/level-4/index.md
+              - topics/change/level-4/01-rate-from-table.md
+              - topics/change/level-4/02-constant-rate-line.md
+              - topics/change/level-4/03-speed-time-graphs.md
+              - topics/change/level-4/04-linear-nonlinear.md
+              - topics/change/level-4/05-rates-from-graphs.md
+              - topics/change/level-4/06-how-fast.md
+          - "Level 5: Slope as a rate":
+              - topics/change/level-5/index.md
+              - topics/change/level-5/01-slope-means-rate.md
+              - topics/change/level-5/02-sign-of-slope.md
+              - topics/change/level-5/03-average-rate-curve.md
+              - topics/change/level-5/04-acceleration.md
+              - topics/change/level-5/05-falling-bodies.md
+              - topics/change/level-5/06-area-speed-time.md
+          - "Level 6: Speed at an instant":
+              - topics/change/level-6/index.md
+              - topics/change/level-6/01-instant-speed.md
+              - topics/change/level-6/02-shrinking-interval.md
+              - topics/change/level-6/03-secant-tangent.md
+              - topics/change/level-6/04-estimating-rates.md
+              - topics/change/level-6/05-exponential-rates.md
+              - topics/change/level-6/06-fastest-change.md
+          - "Level 7: Limits and the derivative":
+              - topics/change/level-7/index.md
+              - topics/change/level-7/01-limits.md
+              - topics/change/level-7/02-continuity.md
+              - topics/change/level-7/03-first-principles.md
+              - topics/change/level-7/04-power-rule.md
+              - topics/change/level-7/05-derivative-function.md
+              - topics/change/level-7/06-velocity-acceleration.md
+          - "Level 8: Calculus":
+              - topics/change/level-8/index.md
+              - topics/change/level-8/01-product-quotient-chain.md
+              - topics/change/level-8/02-exp-log-trig.md
+              - topics/change/level-8/03-curve-sketching.md
+              - topics/change/level-8/04-optimization.md
+              - topics/change/level-8/05-related-rates.md
+              - topics/change/level-8/06-area-fundamental-theorem.md
+              - topics/change/level-8/07-differential-equations.md
       - "Infinity and strange math":
           - topics/infinity/index.md
           - topics/infinity/01-play.md
