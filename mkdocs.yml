@@ -40,6 +40,8 @@ extra_css:
   - fonts/fonts.css
   - stylesheets/mars.css
   - stylesheets/course.css
+  - stylesheets/topics.css
+  - katex/katex.min.css
 
 extra:
   homepage: https://www.akadian.ca/
@@ -47,6 +49,9 @@ extra:
 extra_javascript:
   - javascripts/mars-link.js
   - javascripts/home-link.js
+  - katex/katex.min.js
+  - katex/auto-render.min.js
+  - javascripts/math.js
 
 markdown_extensions:
   - toc:
@@ -58,6 +63,8 @@ markdown_extensions:
   - attr_list
   - pymdownx.highlight
   - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
 
 # With --strict, a broken link or #anchor stops the build
 validation:
@@ -214,3 +221,12 @@ nav:
           - "Unit 9 — Building an Argument": uoft/ENG140Y1/unit09.md
           - "Unit 10 — Writing the Essay": uoft/ENG140Y1/unit10.md
   # uoft: end
+  - Topics:
+      - topics/index.md
+      - Patterns and sequences:
+          - topics/patterns/index.md
+          - topics/patterns/01-play.md
+          - topics/patterns/02-explore.md
+          - topics/patterns/03-build.md
+          - topics/patterns/04-master.md
+          - topics/patterns/05-beyond.md
