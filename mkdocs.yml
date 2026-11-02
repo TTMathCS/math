@@ -510,11 +510,72 @@ nav:
               - topics/counting/level-8/06-burnside-lemma.md
       - Probability:
           - topics/probability/index.md
-          - topics/probability/01-play.md
-          - topics/probability/02-explore.md
-          - topics/probability/03-build.md
-          - topics/probability/04-master.md
-          - topics/probability/05-beyond.md
+          - "Level 1: Maybe, sure or never":
+              - topics/probability/level-1/index.md
+              - topics/probability/level-1/01-sure-maybe-never.md
+              - topics/probability/level-1/02-more-or-less-likely.md
+              - topics/probability/level-1/03-taking-turns-fairly.md
+              - topics/probability/level-1/04-spinners.md
+              - topics/probability/level-1/05-coin-flip-experiment.md
+              - topics/probability/level-1/06-rolling-a-die.md
+          - "Level 2: Fair or unfair?":
+              - topics/probability/level-2/index.md
+              - topics/probability/level-2/01-the-chance-line.md
+              - topics/probability/level-2/02-fair-games.md
+              - topics/probability/level-2/03-experiments-and-tallies.md
+              - topics/probability/level-2/04-dice-sum-race.md
+              - topics/probability/level-2/05-chance-no-memory.md
+              - topics/probability/level-2/06-making-predictions.md
+          - "Level 3: Chances as numbers":
+              - topics/probability/level-3/index.md
+              - topics/probability/level-3/01-outcomes-events.md
+              - topics/probability/level-3/02-probability-fraction.md
+              - topics/probability/level-3/03-not-happening.md
+              - topics/probability/level-3/04-two-dice.md
+              - topics/probability/level-3/05-experiment-theory.md
+              - topics/probability/level-3/06-equally-likely.md
+          - "Level 4: Two things at once":
+              - topics/probability/level-4/index.md
+              - topics/probability/level-4/01-compound-tables.md
+              - topics/probability/level-4/02-tree-diagrams.md
+              - topics/probability/level-4/03-fraction-decimal-percent.md
+              - topics/probability/level-4/04-independent-events.md
+              - topics/probability/level-4/05-simulations.md
+              - topics/probability/level-4/06-expected-counts.md
+          - "Level 5: Probability rules":
+              - topics/probability/level-5/index.md
+              - topics/probability/level-5/01-mutually-exclusive-or.md
+              - topics/probability/level-5/02-general-addition-rule.md
+              - topics/probability/level-5/03-multiplication-rule.md
+              - topics/probability/level-5/04-at-least-one.md
+              - topics/probability/level-5/05-unequal-branch-trees.md
+              - topics/probability/level-5/06-gamblers-fallacy.md
+          - "Level 6: Conditional probability":
+              - topics/probability/level-6/index.md
+              - topics/probability/level-6/01-given-two-way-tables.md
+              - topics/probability/level-6/02-independence-properly.md
+              - topics/probability/level-6/03-combinations-probability.md
+              - topics/probability/level-6/04-birthday-problem.md
+              - topics/probability/level-6/05-monty-hall.md
+              - topics/probability/level-6/06-geometric-probability.md
+          - "Level 7: Random variables and expected value":
+              - topics/probability/level-7/index.md
+              - topics/probability/level-7/01-random-variables.md
+              - topics/probability/level-7/02-expected-value.md
+              - topics/probability/level-7/03-variance-spread.md
+              - topics/probability/level-7/04-binomial-distribution.md
+              - topics/probability/level-7/05-geometric-distribution.md
+              - topics/probability/level-7/06-hypergeometric-distribution.md
+              - topics/probability/level-7/07-choosing-a-model.md
+          - "Level 8: Continuous chance and Bayes":
+              - topics/probability/level-8/index.md
+              - topics/probability/level-8/01-bayes-theorem.md
+              - topics/probability/level-8/02-continuous-random-variables.md
+              - topics/probability/level-8/03-normal-distribution.md
+              - topics/probability/level-8/04-normal-approximation.md
+              - topics/probability/level-8/05-large-numbers-clt.md
+              - topics/probability/level-8/06-random-walks-markov.md
+              - topics/probability/level-8/07-monte-carlo.md
       - Statistics and data:
           - topics/statistics/index.md
           - topics/statistics/01-play.md

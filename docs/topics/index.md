@@ -14,7 +14,7 @@ to try (answers hidden until you tap them), a common mistake, and where it leads
 For parents and teachers: level 1 suits most children from about 5, level 3 from about 9, level 5 from about 12,
 level 7 from about 15, and level 8 is the bridge to university. These are rough guides; curious readers ignore them.
 
-Numbers, Geometry, Number theory and Counting are rebuilt in levels; the others still have five shorter steps (Play, Explore, Build,
+Numbers, Geometry, Number theory, Counting and Probability are rebuilt in levels; the others still have five shorter steps (Play, Explore, Build,
 Master, Beyond) and are being rebuilt one by one.
 
 ## Topics
@@ -27,7 +27,7 @@ Master, Beyond) and are being rebuilt one by one.
 | [Measurement](measurement/index.md) | Measuring with your body | Scale, units and accuracy |
 | [Number theory](number-theory/index.md) | Odd, even and sharing | RSA codes, primes and open problems |
 | [Counting and combinations](counting/index.md) | Dressing teddy: how many ways? | Catalan numbers, generating functions and Burnside |
-| [Probability](probability/index.md) | Fair or unfair? | Expected value: what is a game worth? |
+| [Probability](probability/index.md) | Sure, maybe or never? | Bayes, the normal curve and Monte Carlo |
 | [Statistics and data](statistics/index.md) | Counting, sorting and charts | Reading data honestly |
 | [Algebra](algebra/index.md) | Mystery numbers and balance scales | Exponentials and logarithms |
 | [Ratio and rates](ratio/index.md) | Recipes, sharing and "for every" | Growth and decay |
