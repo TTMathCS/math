@@ -578,11 +578,71 @@ nav:
               - topics/probability/level-8/07-monte-carlo.md
       - Statistics and data:
           - topics/statistics/index.md
-          - topics/statistics/01-play.md
-          - topics/statistics/02-explore.md
-          - topics/statistics/03-build.md
-          - topics/statistics/04-master.md
-          - topics/statistics/05-beyond.md
+          - "Level 1: Sorting and counting":
+              - topics/statistics/level-1/index.md
+              - topics/statistics/level-1/01-sorting-things.md
+              - topics/statistics/level-1/02-counting-groups.md
+              - topics/statistics/level-1/03-picture-graphs.md
+              - topics/statistics/level-1/04-asking-question.md
+              - topics/statistics/level-1/05-reading-picture-graph.md
+          - "Level 2: Tallies and bar graphs":
+              - topics/statistics/level-2/index.md
+              - topics/statistics/level-2/01-tally-marks.md
+              - topics/statistics/level-2/02-tables-totals.md
+              - topics/statistics/level-2/03-bar-graphs.md
+              - topics/statistics/level-2/04-pictographs-key.md
+              - topics/statistics/level-2/05-line-plots.md
+              - topics/statistics/level-2/06-survey-questions.md
+          - "Level 3: Averages":
+              - topics/statistics/level-3/index.md
+              - topics/statistics/level-3/01-collecting-data.md
+              - topics/statistics/level-3/02-the-mean.md
+              - topics/statistics/level-3/03-median-and-mode.md
+              - topics/statistics/level-3/04-the-range.md
+              - topics/statistics/level-3/05-stem-and-leaf.md
+              - topics/statistics/level-3/06-double-bar-line.md
+          - "Level 4: Choosing and showing":
+              - topics/statistics/level-4/index.md
+              - topics/statistics/level-4/01-which-average.md
+              - topics/statistics/level-4/02-histograms.md
+              - topics/statistics/level-4/03-circle-graphs.md
+              - topics/statistics/level-4/04-infographics.md
+              - topics/statistics/level-4/05-spreadsheets.md
+              - topics/statistics/level-4/06-misleading-graphs.md
+          - "Level 5: Spread and samples":
+              - topics/statistics/level-5/index.md
+              - topics/statistics/level-5/01-quartiles-five-number.md
+              - topics/statistics/level-5/02-box-plots.md
+              - topics/statistics/level-5/03-iqr-outliers.md
+              - topics/statistics/level-5/04-populations-samples.md
+              - topics/statistics/level-5/05-sampling-methods.md
+              - topics/statistics/level-5/06-bias.md
+          - "Level 6: Two variables":
+              - topics/statistics/level-6/index.md
+              - topics/statistics/level-6/01-scatter-plots.md
+              - topics/statistics/level-6/02-correlation.md
+              - topics/statistics/level-6/03-line-best-fit.md
+              - topics/statistics/level-6/04-interpolation-extrapolation.md
+              - topics/statistics/level-6/05-correlation-causation.md
+              - topics/statistics/level-6/06-standard-deviation.md
+          - "Level 7: Distributions and regression":
+              - topics/statistics/level-7/index.md
+              - topics/statistics/level-7/01-distribution-shapes.md
+              - topics/statistics/level-7/02-normal-curve.md
+              - topics/statistics/level-7/03-z-scores-percentiles.md
+              - topics/statistics/level-7/04-correlation-coefficient.md
+              - topics/statistics/level-7/05-least-squares.md
+              - topics/statistics/level-7/06-non-linear-models.md
+              - topics/statistics/level-7/07-large-data-sets.md
+          - "Level 8: Reading data honestly":
+              - topics/statistics/level-8/index.md
+              - topics/statistics/level-8/01-sampling-distributions.md
+              - topics/statistics/level-8/02-confidence-intervals.md
+              - topics/statistics/level-8/03-hypothesis-tests.md
+              - topics/statistics/level-8/04-experiments-studies.md
+              - topics/statistics/level-8/05-simpsons-paradox.md
+              - topics/statistics/level-8/06-statistics-news.md
+              - topics/statistics/level-8/07-full-investigation.md
       - Algebra:
           - topics/algebra/index.md
           - topics/algebra/01-play.md
