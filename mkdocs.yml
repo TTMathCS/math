@@ -223,6 +223,13 @@ nav:
   # uoft: end
   - Topics:
       - topics/index.md
+      - Numbers:
+          - topics/numbers/index.md
+          - topics/numbers/01-play.md
+          - topics/numbers/02-explore.md
+          - topics/numbers/03-build.md
+          - topics/numbers/04-master.md
+          - topics/numbers/05-beyond.md
       - Patterns and sequences:
           - topics/patterns/index.md
           - topics/patterns/01-play.md
@@ -230,3 +237,80 @@ nav:
           - topics/patterns/03-build.md
           - topics/patterns/04-master.md
           - topics/patterns/05-beyond.md
+      - Geometry:
+          - topics/geometry/index.md
+          - topics/geometry/01-play.md
+          - topics/geometry/02-explore.md
+          - topics/geometry/03-build.md
+          - topics/geometry/04-master.md
+          - topics/geometry/05-beyond.md
+      - Measurement:
+          - topics/measurement/index.md
+          - topics/measurement/01-play.md
+          - topics/measurement/02-explore.md
+          - topics/measurement/03-build.md
+          - topics/measurement/04-master.md
+          - topics/measurement/05-beyond.md
+      - Number theory:
+          - topics/number-theory/index.md
+          - topics/number-theory/01-play.md
+          - topics/number-theory/02-explore.md
+          - topics/number-theory/03-build.md
+          - topics/number-theory/04-master.md
+          - topics/number-theory/05-beyond.md
+      - Counting and combinations:
+          - topics/counting/index.md
+          - topics/counting/01-play.md
+          - topics/counting/02-explore.md
+          - topics/counting/03-build.md
+          - topics/counting/04-master.md
+          - topics/counting/05-beyond.md
+      - Probability:
+          - topics/probability/index.md
+          - topics/probability/01-play.md
+          - topics/probability/02-explore.md
+          - topics/probability/03-build.md
+          - topics/probability/04-master.md
+          - topics/probability/05-beyond.md
+      - Statistics and data:
+          - topics/statistics/index.md
+          - topics/statistics/01-play.md
+          - topics/statistics/02-explore.md
+          - topics/statistics/03-build.md
+          - topics/statistics/04-master.md
+          - topics/statistics/05-beyond.md
+      - Algebra:
+          - topics/algebra/index.md
+          - topics/algebra/01-play.md
+          - topics/algebra/02-explore.md
+          - topics/algebra/03-build.md
+          - topics/algebra/04-master.md
+          - topics/algebra/05-beyond.md
+      - Ratio and rates:
+          - topics/ratio/index.md
+          - topics/ratio/01-play.md
+          - topics/ratio/02-explore.md
+          - topics/ratio/03-build.md
+          - topics/ratio/04-master.md
+          - topics/ratio/05-beyond.md
+      - Logic and puzzles:
+          - topics/logic/index.md
+          - topics/logic/01-play.md
+          - topics/logic/02-explore.md
+          - topics/logic/03-build.md
+          - topics/logic/04-master.md
+          - topics/logic/05-beyond.md
+      - Change and motion:
+          - topics/change/index.md
+          - topics/change/01-play.md
+          - topics/change/02-explore.md
+          - topics/change/03-build.md
+          - topics/change/04-master.md
+          - topics/change/05-beyond.md
+      - Infinity and strange math:
+          - topics/infinity/index.md
+          - topics/infinity/01-play.md
+          - topics/infinity/02-explore.md
+          - topics/infinity/03-build.md
+          - topics/infinity/04-master.md
+          - topics/infinity/05-beyond.md
