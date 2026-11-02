@@ -226,7 +226,7 @@ nav:
   # topics: start
   - Topics:
       - topics/index.md
-      - Numbers:
+      - "Numbers":
           - topics/numbers/index.md
           - "Level 1: First numbers":
               - topics/numbers/level-1/index.md
@@ -297,14 +297,14 @@ nav:
               - topics/numbers/level-8/04-euler-formula.md
               - topics/numbers/level-8/05-fundamental-theorem.md
               - topics/numbers/level-8/06-quaternions.md
-      - Patterns and sequences:
+      - "Patterns and sequences":
           - topics/patterns/index.md
           - topics/patterns/01-play.md
           - topics/patterns/02-explore.md
           - topics/patterns/03-build.md
           - topics/patterns/04-master.md
           - topics/patterns/05-beyond.md
-      - Geometry:
+      - "Geometry":
           - topics/geometry/index.md
           - "Level 1: First shapes":
               - topics/geometry/level-1/index.md
@@ -370,14 +370,14 @@ nav:
               - topics/geometry/level-8/04-vectors.md
               - topics/geometry/level-8/05-dot-product.md
               - topics/geometry/level-8/06-sphere-geometry.md
-      - Measurement:
+      - "Measurement":
           - topics/measurement/index.md
           - topics/measurement/01-play.md
           - topics/measurement/02-explore.md
           - topics/measurement/03-build.md
           - topics/measurement/04-master.md
           - topics/measurement/05-beyond.md
-      - Number theory:
+      - "Number theory":
           - topics/number-theory/index.md
           - "Level 1: Odd, even and sharing":
               - topics/number-theory/level-1/index.md
@@ -443,7 +443,7 @@ nav:
               - topics/number-theory/level-8/04-spread-of-primes.md
               - topics/number-theory/level-8/05-open-problems.md
               - topics/number-theory/level-8/06-quadratic-residues.md
-      - Counting and combinations:
+      - "Counting and combinations":
           - topics/counting/index.md
           - "Level 1: How many ways?":
               - topics/counting/level-1/index.md
@@ -509,7 +509,7 @@ nav:
               - topics/counting/level-8/04-partitions.md
               - topics/counting/level-8/05-generating-functions.md
               - topics/counting/level-8/06-burnside-lemma.md
-      - Probability:
+      - "Probability":
           - topics/probability/index.md
           - "Level 1: Maybe, sure or never":
               - topics/probability/level-1/index.md
@@ -577,7 +577,7 @@ nav:
               - topics/probability/level-8/05-large-numbers-clt.md
               - topics/probability/level-8/06-random-walks-markov.md
               - topics/probability/level-8/07-monte-carlo.md
-      - Statistics and data:
+      - "Statistics and data":
           - topics/statistics/index.md
           - "Level 1: Sorting and counting":
               - topics/statistics/level-1/index.md
@@ -644,7 +644,7 @@ nav:
               - topics/statistics/level-8/05-simpsons-paradox.md
               - topics/statistics/level-8/06-statistics-news.md
               - topics/statistics/level-8/07-full-investigation.md
-      - Algebra:
+      - "Algebra":
           - topics/algebra/index.md
           - "Level 1: Mystery numbers":
               - topics/algebra/level-1/index.md
@@ -713,28 +713,89 @@ nav:
               - topics/algebra/level-8/06-combining-functions.md
               - topics/algebra/level-8/07-trig-identities-equations.md
               - topics/algebra/level-8/08-lines-planes-space.md
-      - Ratio and rates:
+      - "Ratio, rates and money":
           - topics/ratio/index.md
-          - topics/ratio/01-play.md
-          - topics/ratio/02-explore.md
-          - topics/ratio/03-build.md
-          - topics/ratio/04-master.md
-          - topics/ratio/05-beyond.md
-      - Logic and puzzles:
+          - "Level 1: Sharing and \"for every\"":
+              - topics/ratio/level-1/index.md
+              - topics/ratio/level-1/01-fair-shares.md
+              - topics/ratio/level-1/02-for-every.md
+              - topics/ratio/level-1/03-doubling-recipe.md
+              - topics/ratio/level-1/04-canadian-coins.md
+              - topics/ratio/level-1/05-shopping-play.md
+          - "Level 2: Money and groups":
+              - topics/ratio/level-2/index.md
+              - topics/ratio/level-2/01-counting-coins.md
+              - topics/ratio/level-2/02-making-change.md
+              - topics/ratio/level-2/03-needs-and-wants.md
+              - topics/ratio/level-2/04-times-as-many.md
+              - topics/ratio/level-2/05-ratio-tables.md
+              - topics/ratio/level-2/06-earning-spending-saving.md
+          - "Level 3: Ratios and rates":
+              - topics/ratio/level-3/index.md
+              - topics/ratio/level-3/01-writing-ratio.md
+              - topics/ratio/level-3/02-equivalent-ratios.md
+              - topics/ratio/level-3/03-sharing-in-ratio.md
+              - topics/ratio/level-3/04-rates-unit-rates.md
+              - topics/ratio/level-3/05-speed-as-rate.md
+              - topics/ratio/level-3/06-event-budget.md
+          - "Level 4: Percent":
+              - topics/ratio/level-4/index.md
+              - topics/ratio/level-4/01-per-hundred.md
+              - topics/ratio/level-4/02-percent-of-amount.md
+              - topics/ratio/level-4/03-as-a-percent.md
+              - topics/ratio/level-4/04-sales-tax.md
+              - topics/ratio/level-4/05-discounts-sale-prices.md
+              - topics/ratio/level-4/06-monthly-budget.md
+          - "Level 5: Proportional reasoning":
+              - topics/ratio/level-5/index.md
+              - topics/ratio/level-5/01-proportions.md
+              - topics/ratio/level-5/02-direct-inverse.md
+              - topics/ratio/level-5/03-percent-change.md
+              - topics/ratio/level-5/04-commission-tips-markups.md
+              - topics/ratio/level-5/05-exchange-rates.md
+              - topics/ratio/level-5/06-simple-interest.md
+              - topics/ratio/level-5/07-gears-mixtures.md
+          - "Level 6: Percent tools and credit":
+              - topics/ratio/level-6/index.md
+              - topics/ratio/level-6/01-multipliers.md
+              - topics/ratio/level-6/02-successive-changes.md
+              - topics/ratio/level-6/03-percentage-points.md
+              - topics/ratio/level-6/04-compound-interest.md
+              - topics/ratio/level-6/05-credit-and-debt.md
+              - topics/ratio/level-6/06-comparing-options.md
+              - topics/ratio/level-6/07-inflation.md
+          - "Level 7: Growth, decay and annuities":
+              - topics/ratio/level-7/index.md
+              - topics/ratio/level-7/01-growth-decay-world.md
+              - topics/ratio/level-7/02-doubling-half-life.md
+              - topics/ratio/level-7/03-compounding-periods.md
+              - topics/ratio/level-7/04-present-value.md
+              - topics/ratio/level-7/05-annuities.md
+              - topics/ratio/level-7/06-annuity-present-value.md
+              - topics/ratio/level-7/07-financial-life.md
+          - "Level 8: Loans, investing and e":
+              - topics/ratio/level-8/index.md
+              - topics/ratio/level-8/01-loans-amortization.md
+              - topics/ratio/level-8/02-mortgages.md
+              - topics/ratio/level-8/03-investing.md
+              - topics/ratio/level-8/04-real-nominal.md
+              - topics/ratio/level-8/05-continuous-e.md
+              - topics/ratio/level-8/06-ratio-nature-art.md
+      - "Logic and puzzles":
           - topics/logic/index.md
           - topics/logic/01-play.md
           - topics/logic/02-explore.md
           - topics/logic/03-build.md
           - topics/logic/04-master.md
           - topics/logic/05-beyond.md
-      - Change and motion:
+      - "Change and motion":
           - topics/change/index.md
           - topics/change/01-play.md
           - topics/change/02-explore.md
           - topics/change/03-build.md
           - topics/change/04-master.md
           - topics/change/05-beyond.md
-      - Infinity and strange math:
+      - "Infinity and strange math":
           - topics/infinity/index.md
           - topics/infinity/01-play.md
           - topics/infinity/02-explore.md

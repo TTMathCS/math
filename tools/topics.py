@@ -6,6 +6,7 @@ its lessons NN-<name>.md. A topic without levels keeps its older five step pages
     python3 tools/topics.py
 """
 import glob
+import json
 import os
 import re
 
@@ -14,7 +15,7 @@ T = os.path.join(HERE, "docs", "topics")
 ORDER = ["numbers", "patterns", "geometry", "measurement", "number-theory", "counting", "probability", "statistics",
          "algebra", "ratio", "logic", "change", "infinity"]
 # the topics whose levels are finished and checked (a topic joins when all 8 levels are written)
-DEEP = ["geometry", "numbers", "number-theory", "counting", "probability", "statistics", "algebra"]
+DEEP = ["geometry", "numbers", "number-theory", "counting", "probability", "statistics", "algebra", "ratio"]
 STEPS = ["01-play", "02-explore", "03-build", "04-master", "05-beyond"]
 
 
@@ -41,13 +42,13 @@ def lessons(d):
 def nav():
     out = ["  - Topics:", "      - topics/index.md"]
     for slug in ORDER:
-        out.append(f"      - {title(os.path.join(T, slug, 'index.md'))}:")
+        out.append(f"      - {json.dumps(title(os.path.join(T, slug, 'index.md')), ensure_ascii=False)}:")
         out.append(f"          - topics/{slug}/index.md")
         lv = levels(slug)
         if lv:
             for d in lv:
                 n = os.path.basename(d)
-                out.append(f"          - \"{title(os.path.join(d, 'index.md'))}\":")
+                out.append(f"          - {json.dumps(title(os.path.join(d, 'index.md')), ensure_ascii=False)}:")
                 out.append(f"              - topics/{slug}/{n}/index.md")
                 out += [f"              - topics/{slug}/{n}/{f}" for f in lessons(d)]
         else:
