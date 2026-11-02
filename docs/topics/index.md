@@ -14,7 +14,7 @@ to try (answers hidden until you tap them), a common mistake, and where it leads
 For parents and teachers: level 1 suits most children from about 5, level 3 from about 9, level 5 from about 12,
 level 7 from about 15, and level 8 is the bridge to university. These are rough guides; curious readers ignore them.
 
-Nine topics are rebuilt in levels; Measurement, Logic, Change and Infinity still have five shorter steps (Play, Explore, Build,
+Ten topics are rebuilt in levels; Logic, Change and Infinity still have five shorter steps (Play, Explore, Build,
 Master, Beyond) and are being rebuilt one by one.
 
 ## Topics
@@ -24,7 +24,7 @@ Master, Beyond) and are being rebuilt one by one.
 | [Numbers](numbers/index.md) | Counting things, making ten | Complex numbers, Euler's formula and quaternions |
 | [Patterns and sequences](patterns/index.md) | What comes next? | Induction, recurrences and unsolved patterns |
 | [Geometry](geometry/index.md) | Naming shapes, tangrams | Proof, radians, vectors and geometry on a sphere |
-| [Measurement](measurement/index.md) | Measuring with your body | Scale, units and accuracy |
+| [Measurement](measurement/index.md) | Bigger, longer, heavier | Parallax, the SI system and measuring the unreachable |
 | [Number theory](number-theory/index.md) | Odd, even and sharing | RSA codes, primes and open problems |
 | [Counting and combinations](counting/index.md) | Dressing teddy: how many ways? | Catalan numbers, generating functions and Burnside |
 | [Probability](probability/index.md) | Sure, maybe or never? | Bayes, the normal curve and Monte Carlo |

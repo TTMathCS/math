@@ -431,11 +431,71 @@ nav:
               - topics/geometry/level-8/06-sphere-geometry.md
       - "Measurement":
           - topics/measurement/index.md
-          - topics/measurement/01-play.md
-          - topics/measurement/02-explore.md
-          - topics/measurement/03-build.md
-          - topics/measurement/04-master.md
-          - topics/measurement/05-beyond.md
+          - "Level 1: Bigger, longer, heavier":
+              - topics/measurement/level-1/index.md
+              - topics/measurement/level-1/01-longer-shorter.md
+              - topics/measurement/level-1/02-heavier-lighter.md
+              - topics/measurement/level-1/03-holds-more.md
+              - topics/measurement/level-1/04-hands-and-feet.md
+              - topics/measurement/level-1/05-time-words.md
+              - topics/measurement/level-1/06-hot-and-cold.md
+          - "Level 2: Units for everyone":
+              - topics/measurement/level-2/index.md
+              - topics/measurement/level-2/01-same-units.md
+              - topics/measurement/level-2/02-estimating-length.md
+              - topics/measurement/level-2/03-kilograms-litres.md
+              - topics/measurement/level-2/04-telling-time.md
+              - topics/measurement/level-2/05-the-calendar.md
+              - topics/measurement/level-2/06-perimeter.md
+          - "Level 3: Metric system, time and area":
+              - topics/measurement/level-3/index.md
+              - topics/measurement/level-3/01-metric-family.md
+              - topics/measurement/level-3/02-mass-capacity.md
+              - topics/measurement/level-3/03-elapsed-time.md
+              - topics/measurement/level-3/04-area-counting-squares.md
+              - topics/measurement/level-3/05-area-rectangles.md
+              - topics/measurement/level-3/06-temperature-celsius.md
+          - "Level 4: Area and volume":
+              - topics/measurement/level-4/index.md
+              - topics/measurement/level-4/01-parallelogram-area.md
+              - topics/measurement/level-4/02-triangle-area.md
+              - topics/measurement/level-4/03-trapezoid-area.md
+              - topics/measurement/level-4/04-composite-shapes.md
+              - topics/measurement/level-4/05-volume-cubes.md
+              - topics/measurement/level-4/06-capacity-volume.md
+              - topics/measurement/level-4/07-how-big-mars.md
+          - "Level 5: Prisms, cylinders and units":
+              - topics/measurement/level-5/index.md
+              - topics/measurement/level-5/01-prism-volume.md
+              - topics/measurement/level-5/02-cylinder-volume.md
+              - topics/measurement/level-5/03-prism-surface-area.md
+              - topics/measurement/level-5/04-cylinder-surface-area.md
+              - topics/measurement/level-5/05-area-volume-units.md
+              - topics/measurement/level-5/06-imperial-units.md
+          - "Level 6: Solids and sizes":
+              - topics/measurement/level-6/index.md
+              - topics/measurement/level-6/01-pyramid-cone-volume.md
+              - topics/measurement/level-6/02-sphere-volume.md
+              - topics/measurement/level-6/03-curved-surface-area.md
+              - topics/measurement/level-6/04-best-shapes.md
+              - topics/measurement/level-6/05-time-planets.md
+              - topics/measurement/level-6/06-measurement-rates.md
+          - "Level 7: Precision, scale and dimension":
+              - topics/measurement/level-7/index.md
+              - topics/measurement/level-7/01-no-exact-measurement.md
+              - topics/measurement/level-7/02-significant-figures.md
+              - topics/measurement/level-7/03-errors-that-grow.md
+              - topics/measurement/level-7/04-dimensional-analysis.md
+              - topics/measurement/level-7/05-square-cube-law.md
+              - topics/measurement/level-7/06-fermi-estimates.md
+          - "Level 8: Measuring the unreachable":
+              - topics/measurement/level-8/index.md
+              - topics/measurement/level-8/01-eratosthenes-earth.md
+              - topics/measurement/level-8/02-distances-in-space.md
+              - topics/measurement/level-8/03-parallax.md
+              - topics/measurement/level-8/04-curved-areas.md
+              - topics/measurement/level-8/05-si-system.md
+              - topics/measurement/level-8/06-logarithmic-measures.md
       - "Number theory":
           - topics/number-theory/index.md
           - "Level 1: Odd, even and sharing":
