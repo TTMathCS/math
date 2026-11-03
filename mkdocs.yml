@@ -1177,4 +1177,27 @@ nav:
           - books/number-theory/20-Modular-Forms-and-Fermats-Last-Theorem.md
           - books/number-theory/21-Where-Number-Theory-Goes.md
           - books/number-theory/Glossary.md
+      - Combinatorics:
+          - books/combinatorics/index.md
+          - books/combinatorics/01-Counting-Principles.md
+          - books/combinatorics/02-Permutations-and-Combinations.md
+          - books/combinatorics/03-Binomial-Coefficients.md
+          - books/combinatorics/04-The-Pigeonhole-Principle.md
+          - books/combinatorics/05-Inclusion-Exclusion.md
+          - books/combinatorics/06-Recurrences.md
+          - books/combinatorics/07-Generating-Functions.md
+          - books/combinatorics/08-Catalan-Numbers-and-Lattice-Paths.md
+          - books/combinatorics/09-Stirling-Numbers-and-Partitions.md
+          - books/combinatorics/10-Graphs.md
+          - books/combinatorics/11-Trees.md
+          - books/combinatorics/12-Planar-Graphs-and-Colouring.md
+          - books/combinatorics/13-Matchings-and-Flows.md
+          - books/combinatorics/14-Hamiltonian-Cycles-and-Hard-Problems.md
+          - books/combinatorics/15-Counting-with-Symmetry.md
+          - books/combinatorics/16-Ramsey-Theory.md
+          - books/combinatorics/17-The-Probabilistic-Method.md
+          - books/combinatorics/18-Extremal-Combinatorics.md
+          - books/combinatorics/19-Designs-and-Codes.md
+          - books/combinatorics/20-Where-Combinatorics-Goes.md
+          - books/combinatorics/Glossary.md
   # books: end
