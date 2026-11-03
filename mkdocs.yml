@@ -1271,4 +1271,27 @@ nav:
           - books/calculus/21-Lebesgue-Integration-and-Fourier-Series.md
           - books/calculus/22-Where-Analysis-Goes.md
           - books/calculus/Glossary.md
+      - Linear algebra:
+          - books/linear-algebra/index.md
+          - books/linear-algebra/01-Vectors.md
+          - books/linear-algebra/02-Systems-of-Linear-Equations.md
+          - books/linear-algebra/03-Matrices.md
+          - books/linear-algebra/04-Vector-Spaces.md
+          - books/linear-algebra/05-Independence-Bases-and-Dimension.md
+          - books/linear-algebra/06-Linear-Maps.md
+          - books/linear-algebra/07-The-Four-Subspaces.md
+          - books/linear-algebra/08-Determinants.md
+          - books/linear-algebra/09-Eigenvalues-and-Eigenvectors.md
+          - books/linear-algebra/10-Applications-of-Eigenvalues.md
+          - books/linear-algebra/11-Inner-Product-Spaces.md
+          - books/linear-algebra/12-Projections-and-Least-Squares.md
+          - books/linear-algebra/13-Orthogonal-Matrices-and-Rotations.md
+          - books/linear-algebra/14-The-Spectral-Theorem.md
+          - books/linear-algebra/15-The-Singular-Value-Decomposition.md
+          - books/linear-algebra/16-Jordan-Form.md
+          - books/linear-algebra/17-Duality-and-Multilinear-Algebra.md
+          - books/linear-algebra/18-Numerical-Linear-Algebra.md
+          - books/linear-algebra/19-Linear-Algebra-in-the-World.md
+          - books/linear-algebra/20-Where-Linear-Algebra-Goes.md
+          - books/linear-algebra/Glossary.md
   # books: end

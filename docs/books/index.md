@@ -33,5 +33,6 @@ through university mathematics to the frontier.
 | [Probability](probability/index.md) | Coin flips and dice | Brownian motion, measure theory, entropy and open problems | 20 chapters |
 | [Statistics](statistics/index.md) | Reading data honestly | Causal inference, high-dimensional statistics and the replication crisis | 20 chapters |
 | [Calculus and analysis](calculus/index.md) | Speed and area | Lebesgue integration, Fourier series and the Navier-Stokes problem | 22 chapters |
+| [Linear algebra](linear-algebra/index.md) | Arrows and equations | The spectral theorem, the SVD, tensors and the matrix multiplication exponent | 20 chapters |
 
-More branches follow, one at a time: linear algebra, logic and foundations, topology.
+More branches follow, one at a time: logic and foundations, topology.
