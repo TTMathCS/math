@@ -16,10 +16,12 @@ theme:
   favicon: assets/akadian-icon.png   # the Akadian A, as on akadian.ca
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
     - navigation.indexes
     - navigation.top
-    - toc.integrate
+    - navigation.footer
+    - toc.follow
     - search.highlight
     - content.code.copy
   palette:
@@ -44,6 +46,7 @@ extra_css:
   - stylesheets/mars.css
   - stylesheets/course.css
   - stylesheets/topics.css
+  - stylesheets/reader.css
   - katex/katex.min.css
 
 extra:
@@ -55,10 +58,12 @@ extra_javascript:
   - katex/katex.min.js
   - katex/auto-render.min.js
   - javascripts/math.js
+  - javascripts/reader.js
 
 markdown_extensions:
   - toc:
       permalink: true
+      title: On this page
   - tables
   - admonition
   - pymdownx.details
