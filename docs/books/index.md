@@ -28,6 +28,7 @@ through university mathematics to the frontier.
 | --- | --- | --- | --- |
 | [Algebra](algebra/index.md) | Letters for numbers | Galois theory, representations and open problems | 22 chapters |
 | [Geometry](geometry/index.md) | Points, lines and angles | Curved space, general relativity and open problems | 21 chapters |
+| [Number theory](number-theory/index.md) | Which numbers divide which | The Riemann hypothesis, elliptic curves and Fermat's last theorem | 21 chapters |
 
-More branches follow, one at a time: number theory, combinatorics, probability, statistics, calculus and
+More branches follow, one at a time: combinatorics, probability, statistics, calculus and
 analysis, linear algebra, logic and foundations, topology.

@@ -1153,4 +1153,28 @@ nav:
           - books/geometry/20-Manifolds-and-Riemannian-Geometry.md
           - books/geometry/21-Where-Geometry-Goes.md
           - books/geometry/Glossary.md
+      - Number theory:
+          - books/number-theory/index.md
+          - books/number-theory/01-Divisibility.md
+          - books/number-theory/02-Primes-and-Unique-Factorization.md
+          - books/number-theory/03-GCD-and-Euclids-Algorithm.md
+          - books/number-theory/04-Congruences.md
+          - books/number-theory/05-Fermat-Euler-and-Wilson.md
+          - books/number-theory/06-The-Chinese-Remainder-Theorem-and-Multiplicative-Functions.md
+          - books/number-theory/07-Primitive-Roots.md
+          - books/number-theory/08-Quadratic-Residues-and-Reciprocity.md
+          - books/number-theory/09-Diophantine-Equations.md
+          - books/number-theory/10-Continued-Fractions.md
+          - books/number-theory/11-Sums-of-Squares.md
+          - books/number-theory/12-Primality-Factoring-and-RSA.md
+          - books/number-theory/13-How-Primes-Are-Spread.md
+          - books/number-theory/14-The-Zeta-Function-and-the-Prime-Number-Theorem.md
+          - books/number-theory/15-Primes-in-Progressions.md
+          - books/number-theory/16-Partitions.md
+          - books/number-theory/17-Algebraic-Number-Theory.md
+          - books/number-theory/18-p-adic-Numbers.md
+          - books/number-theory/19-Elliptic-Curves.md
+          - books/number-theory/20-Modular-Forms-and-Fermats-Last-Theorem.md
+          - books/number-theory/21-Where-Number-Theory-Goes.md
+          - books/number-theory/Glossary.md
   # books: end
