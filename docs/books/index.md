@@ -35,5 +35,6 @@ through university mathematics to the frontier.
 | [Calculus and analysis](calculus/index.md) | Speed and area | Lebesgue integration, Fourier series and the Navier-Stokes problem | 22 chapters |
 | [Linear algebra](linear-algebra/index.md) | Arrows and equations | The spectral theorem, the SVD, tensors and the matrix multiplication exponent | 20 chapters |
 | [Logic and foundations](logic/index.md) | True and false | Gödel's incompleteness theorems, undecidability and the busy beaver | 20 chapters |
+| [Topology](topology/index.md) | Rubber sheets and bridges | Homology, knots and the Poincaré conjecture | 20 chapters |
 
-One more branch follows: topology.
+All ten branches are on the shelf. Each book can grow: new chapters and sections will be added over time.

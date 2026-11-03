@@ -1317,4 +1317,27 @@ nav:
           - books/logic/19-Other-Logics.md
           - books/logic/20-Where-Logic-Goes.md
           - books/logic/Glossary.md
+      - Topology:
+          - books/topology/index.md
+          - books/topology/01-What-Topology-Is.md
+          - books/topology/02-Surfaces-and-Euler-Characteristic.md
+          - books/topology/03-Graphs-and-Planarity.md
+          - books/topology/04-Topological-Spaces.md
+          - books/topology/05-Continuity-and-Homeomorphism.md
+          - books/topology/06-Building-New-Spaces.md
+          - books/topology/07-Connectedness.md
+          - books/topology/08-Compactness.md
+          - books/topology/09-Separation-and-Metrisation.md
+          - books/topology/10-Classification-of-Surfaces.md
+          - books/topology/11-Manifolds.md
+          - books/topology/12-Homotopy.md
+          - books/topology/13-The-Fundamental-Group.md
+          - books/topology/14-The-Circle-and-Covering-Spaces.md
+          - books/topology/15-Van-Kampen-and-Surfaces.md
+          - books/topology/16-Homology.md
+          - books/topology/17-Applications-of-Algebraic-Topology.md
+          - books/topology/18-Knot-Theory.md
+          - books/topology/19-The-Poincare-Conjecture.md
+          - books/topology/20-Where-Topology-Goes.md
+          - books/topology/Glossary.md
   # books: end
