@@ -1294,4 +1294,27 @@ nav:
           - books/linear-algebra/19-Linear-Algebra-in-the-World.md
           - books/linear-algebra/20-Where-Linear-Algebra-Goes.md
           - books/linear-algebra/Glossary.md
+      - Logic and foundations:
+          - books/logic/index.md
+          - books/logic/01-Statements-and-Truth.md
+          - books/logic/02-Propositional-Logic.md
+          - books/logic/03-Quantifiers.md
+          - books/logic/04-Proofs.md
+          - books/logic/05-Sets.md
+          - books/logic/06-Relations-and-Functions.md
+          - books/logic/07-Infinity-and-Cardinality.md
+          - books/logic/08-Axiomatic-Set-Theory.md
+          - books/logic/09-Proof-Systems-for-Propositional-Logic.md
+          - books/logic/10-First-Order-Logic.md
+          - books/logic/11-Completeness-and-Compactness.md
+          - books/logic/12-Model-Theory.md
+          - books/logic/13-Algorithms-and-Turing-Machines.md
+          - books/logic/14-Undecidability.md
+          - books/logic/15-Recursive-Functions-and-Computability.md
+          - books/logic/16-Complexity.md
+          - books/logic/17-Arithmetic-and-Peano.md
+          - books/logic/18-Godels-Incompleteness-Theorems.md
+          - books/logic/19-Other-Logics.md
+          - books/logic/20-Where-Logic-Goes.md
+          - books/logic/Glossary.md
   # books: end

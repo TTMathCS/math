@@ -34,5 +34,6 @@ through university mathematics to the frontier.
 | [Statistics](statistics/index.md) | Reading data honestly | Causal inference, high-dimensional statistics and the replication crisis | 20 chapters |
 | [Calculus and analysis](calculus/index.md) | Speed and area | Lebesgue integration, Fourier series and the Navier-Stokes problem | 22 chapters |
 | [Linear algebra](linear-algebra/index.md) | Arrows and equations | The spectral theorem, the SVD, tensors and the matrix multiplication exponent | 20 chapters |
+| [Logic and foundations](logic/index.md) | True and false | Gödel's incompleteness theorems, undecidability and the busy beaver | 20 chapters |
 
-More branches follow, one at a time: logic and foundations, topology.
+One more branch follows: topology.
