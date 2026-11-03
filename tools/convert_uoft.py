@@ -145,7 +145,7 @@ def shelf_index(reg):
 
 def write_nav(nav, docs):
     """The U of T part of the menu in mkdocs.yml, between its marks."""
-    out = ["  - U of T:", f"      - {SHELF}/index.md", f"      - {SHELF}/comprehensive-guide.md",
+    out = ["  - University courses:", f"      - {SHELF}/index.md", f"      - {SHELF}/comprehensive-guide.md",
            f"      - {SHELF}/course-changes.md"]
     for code, _, entries in nav:
         out.append(f"      - {code}:")

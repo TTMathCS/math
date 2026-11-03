@@ -1,6 +1,6 @@
 site_name: Math
 site_url: https://math.akadian.ca/
-site_description: Math by course, shelf by shelf, with the reasoning written out
+site_description: Mathematics from a first puzzle to open research problems, by branch and by topic, with the reasoning written out
 repo_url: https://github.com/TTMathCS/math
 edit_uri: edit/main/docs/
 copyright: 'Part of <a href="https://www.akadian.ca/">Mars – your new home</a>'
@@ -15,6 +15,7 @@ theme:
   custom_dir: overrides
   favicon: assets/akadian-icon.png   # the Akadian A, as on akadian.ca
   features:
+    - navigation.tabs
     - navigation.sections
     - navigation.indexes
     - navigation.top
@@ -78,151 +79,246 @@ validation:
 # One section per shelf. A new shelf (high school, fun math ...) is a folder in docs/ and a section here (README.md).
 nav:
   - Home: index.md
-  # uoft: start
-  - U of T:
-      - uoft/index.md
-      - uoft/comprehensive-guide.md
-      - uoft/course-changes.md
-      - MAT137:
-          - "About the course": uoft/MAT137/index.md
-          - "Prologue — Why Calculus Exists": uoft/MAT137/prologue.md
-          - "Unit 1 — Logic, Sets & Proofs": uoft/MAT137/unit01.md
-          - "Unit 2 — Limits & Continuity": uoft/MAT137/unit02.md
-          - "Unit 3 — Derivatives": uoft/MAT137/unit03.md
-          - "Unit 4 — Transcendental Functions": uoft/MAT137/unit04.md
-          - "Unit 5 — The MVT & Inverse Functions": uoft/MAT137/unit05.md
-          - "Unit 6 — Applications of Derivatives & Limits": uoft/MAT137/unit06.md
-          - "Unit 7 — The Definition of the Integral": uoft/MAT137/unit07.md
-          - "Unit 8 — The Fundamental Theorem of Calculus": uoft/MAT137/unit08.md
-          - "Unit 9 — Integration Methods": uoft/MAT137/unit09.md
-          - "Unit 10 — Applications of the Integral": uoft/MAT137/unit10.md
-          - "Unit 11 — Sequences": uoft/MAT137/unit11.md
-          - "Unit 12 — Improper Integrals": uoft/MAT137/unit12.md
-          - "Unit 13 — Series": uoft/MAT137/unit13.md
-          - "Unit 14 — Power Series & Taylor Series": uoft/MAT137/unit14.md
-      - MAT158H1:
-          - "About the course": uoft/MAT158H1/index.md
-          - "Unit 1 — Logic, Sets & Proof": uoft/MAT158H1/unit01.md
-          - "Unit 2 — Real Numbers & Least Upper Bounds": uoft/MAT158H1/unit02.md
-          - "Unit 3 — Limits": uoft/MAT158H1/unit03.md
-          - "Unit 4 — Continuous Functions": uoft/MAT158H1/unit04.md
-          - "Unit 5 — The Three Hard Theorems": uoft/MAT158H1/unit05.md
-          - "Unit 6 — Derivatives": uoft/MAT158H1/unit06.md
-          - "Unit 7 — The Mean Value Theorem": uoft/MAT158H1/unit07.md
-          - "Unit 8 — Inverse Functions": uoft/MAT158H1/unit08.md
-          - "Unit 9 — The Riemann Integral": uoft/MAT158H1/unit09.md
-          - "Unit 10 — The Fundamental Theorem of Calculus": uoft/MAT158H1/unit10.md
-          - "Unit 11 — Transcendental Functions": uoft/MAT158H1/unit11.md
-      - MAT159H1:
-          - "About the course": uoft/MAT159H1/index.md
-          - "Unit 1 — FTC, Transcendentals & Integration Techniques": uoft/MAT159H1/unit01.md
-          - "Unit 2 — Improper Integrals": uoft/MAT159H1/unit02.md
-          - "Unit 3 — Sequences & Cauchy Sequences": uoft/MAT159H1/unit03.md
-          - "Unit 4 — Taylor's Theorem": uoft/MAT159H1/unit04.md
-          - "Unit 5 — Infinite Series": uoft/MAT159H1/unit05.md
-          - "Unit 6 — Uniform Convergence": uoft/MAT159H1/unit06.md
-          - "Unit 7 — Power Series": uoft/MAT159H1/unit07.md
-      - MAT240H1:
-          - "About the course": uoft/MAT240H1/index.md
-          - "Unit 1 — Fields & Vector Spaces": uoft/MAT240H1/unit01.md
-          - "Unit 2 — Subspaces, Span & Independence": uoft/MAT240H1/unit02.md
-          - "Unit 3 — Bases & Dimension": uoft/MAT240H1/unit03.md
-          - "Unit 4 — Linear Transformations": uoft/MAT240H1/unit04.md
-          - "Unit 5 — Rank–Nullity & Matrices": uoft/MAT240H1/unit05.md
-          - "Unit 6 — Change of Basis & Similarity": uoft/MAT240H1/unit06.md
-          - "Unit 7 — Systems & Elementary Operations": uoft/MAT240H1/unit07.md
-          - "Unit 8 — Determinants": uoft/MAT240H1/unit08.md
-          - "Unit 9 — Polynomials, UFD & Resultants": uoft/MAT240H1/unit09.md
-          - "Unit 10 — Eigenvalues & Diagonalization": uoft/MAT240H1/unit10.md
-      - MAT247H1:
-          - "About the course": uoft/MAT247H1/index.md
-          - "Unit 1 — Inner Product Spaces": uoft/MAT247H1/unit01.md
-          - "Unit 2 — Orthogonality & Gram–Schmidt": uoft/MAT247H1/unit02.md
-          - "Unit 3 — The Adjoint": uoft/MAT247H1/unit03.md
-          - "Unit 4 — Isometries: Orthogonal & Unitary Operators": uoft/MAT247H1/unit04.md
-          - "Unit 5 — Hermitian, Symmetric & Normal Operators": uoft/MAT247H1/unit05.md
-          - "Unit 6 — The Spectral Theorem": uoft/MAT247H1/unit06.md
-          - "Unit 7 — Polar & Singular Value Decomposition": uoft/MAT247H1/unit07.md
-          - "Unit 8 — Dual Spaces & Quotient Spaces": uoft/MAT247H1/unit08.md
-          - "Unit 9 — Primary Decomposition & Jordan Form": uoft/MAT247H1/unit09.md
-          - "Unit 10 — Rational Form, Bilinear & Quadratic Forms": uoft/MAT247H1/unit10.md
-      - MAT257Y1:
-          - "About the course": uoft/MAT257Y1/index.md
-          - "Unit 1 — The Topology of R^n": uoft/MAT257Y1/unit01.md
-          - "Unit 2 — Compactness": uoft/MAT257Y1/unit02.md
-          - "Unit 3 — Continuity & Connectedness": uoft/MAT257Y1/unit03.md
-          - "Unit 4 — The Derivative as a Linear Map": uoft/MAT257Y1/unit04.md
-          - "Unit 5 — Chain Rule & Higher Derivatives": uoft/MAT257Y1/unit05.md
-          - "Unit 6 — The Inverse Function Theorem": uoft/MAT257Y1/unit06.md
-          - "Unit 7 — The Implicit Function Theorem": uoft/MAT257Y1/unit07.md
-          - "Unit 8 — Extrema & Lagrange Multipliers": uoft/MAT257Y1/unit08.md
-          - "Unit 9 — The Riemann Integral in R^n": uoft/MAT257Y1/unit09.md
-          - "Unit 10 — Partitions of Unity & Change of Variables": uoft/MAT257Y1/unit10.md
-          - "Unit 11 — Tensors & Differential Forms": uoft/MAT257Y1/unit11.md
-          - "Unit 12 — The Exterior Derivative": uoft/MAT257Y1/unit12.md
-          - "Unit 13 — Manifolds in R^n": uoft/MAT257Y1/unit13.md
-          - "Unit 14 — Stokes' Theorem": uoft/MAT257Y1/unit14.md
-      - PHY131H1:
-          - "About the course": uoft/PHY131H1/index.md
-          - "Unit 1 — Units, Vectors & Estimation": uoft/PHY131H1/unit01.md
-          - "Unit 2 — Kinematics in One Dimension": uoft/PHY131H1/unit02.md
-          - "Unit 3 — Motion in Two Dimensions": uoft/PHY131H1/unit03.md
-          - "Unit 4 — Newton's Laws": uoft/PHY131H1/unit04.md
-          - "Unit 5 — Friction & Circular Motion": uoft/PHY131H1/unit05.md
-          - "Unit 6 — Work, Energy & Power": uoft/PHY131H1/unit06.md
-          - "Unit 7 — Momentum & Collisions": uoft/PHY131H1/unit07.md
-          - "Unit 8 — Rotation & Angular Momentum": uoft/PHY131H1/unit08.md
-          - "Unit 9 — Oscillations": uoft/PHY131H1/unit09.md
-          - "Unit 10 — Waves & Sound": uoft/PHY131H1/unit10.md
-      - PHY132H1:
-          - "About the course": uoft/PHY132H1/index.md
-          - "Unit 1 — Electric Charge & Force": uoft/PHY132H1/unit01.md
-          - "Unit 2 — The Electric Field": uoft/PHY132H1/unit02.md
-          - "Unit 3 — Electric Potential": uoft/PHY132H1/unit03.md
-          - "Unit 4 — Current & Circuits": uoft/PHY132H1/unit04.md
-          - "Unit 5 — Magnetic Fields": uoft/PHY132H1/unit05.md
-          - "Unit 6 — Induction": uoft/PHY132H1/unit06.md
-          - "Unit 7 — Electromagnetic Waves & Light": uoft/PHY132H1/unit07.md
-          - "Unit 8 — Geometric Optics": uoft/PHY132H1/unit08.md
-          - "Unit 9 — Wave Optics": uoft/PHY132H1/unit09.md
-          - "Unit 10 — Special Relativity": uoft/PHY132H1/unit10.md
-      - CSC108H1:
-          - "About the course": uoft/CSC108H1/index.md
-          - "Unit 1 — Values, Types & Variables": uoft/CSC108H1/unit01.md
-          - "Unit 2 — Control Flow": uoft/CSC108H1/unit02.md
-          - "Unit 3 — Functions": uoft/CSC108H1/unit03.md
-          - "Unit 4 — Strings": uoft/CSC108H1/unit04.md
-          - "Unit 5 — Lists & Aliasing": uoft/CSC108H1/unit05.md
-          - "Unit 6 — Dictionaries & Sets": uoft/CSC108H1/unit06.md
-          - "Unit 7 — Classes, Objects & Methods": uoft/CSC108H1/unit07.md
-          - "Unit 8 — Unit Testing & Design": uoft/CSC108H1/unit08.md
-          - "Unit 9 — Searching, Sorting & Complexity": uoft/CSC108H1/unit09.md
-          - "Unit 10 — Floating Point & Numerical Computation": uoft/CSC108H1/unit10.md
-      - CSC148H1:
-          - "About the course": uoft/CSC148H1/index.md
-          - "Unit 1 — Abstract Data Types": uoft/CSC148H1/unit01.md
-          - "Unit 2 — Object-Oriented Design": uoft/CSC148H1/unit02.md
-          - "Unit 3 — Stacks & Queues": uoft/CSC148H1/unit03.md
-          - "Unit 4 — Linked Lists": uoft/CSC148H1/unit04.md
-          - "Unit 5 — Recursion": uoft/CSC148H1/unit05.md
-          - "Unit 6 — Recursion on Nested Data": uoft/CSC148H1/unit06.md
-          - "Unit 7 — Trees": uoft/CSC148H1/unit07.md
-          - "Unit 8 — Binary Search Trees": uoft/CSC148H1/unit08.md
-          - "Unit 9 — Efficiency Analysis": uoft/CSC148H1/unit09.md
-          - "Unit 10 — Sorting & Inheritance": uoft/CSC148H1/unit10.md
-      - ENG140Y1:
-          - "About the course": uoft/ENG140Y1/index.md
-          - "Unit 1 — Close Reading": uoft/ENG140Y1/unit01.md
-          - "Unit 2 — Poetry I: Form & Sound": uoft/ENG140Y1/unit02.md
-          - "Unit 3 — Poetry II: Figurative Language": uoft/ENG140Y1/unit03.md
-          - "Unit 4 — Prose I: Narration & Point of View": uoft/ENG140Y1/unit04.md
-          - "Unit 5 — Prose II: Structure & Character": uoft/ENG140Y1/unit05.md
-          - "Unit 6 — Drama": uoft/ENG140Y1/unit06.md
-          - "Unit 7 — Context & the Modern Period": uoft/ENG140Y1/unit07.md
-          - "Unit 8 — Critical Approaches": uoft/ENG140Y1/unit08.md
-          - "Unit 9 — Building an Argument": uoft/ENG140Y1/unit09.md
-          - "Unit 10 — Writing the Essay": uoft/ENG140Y1/unit10.md
-  # uoft: end
+  # books: start
+  - Books:
+      - books/index.md
+      - Algebra:
+          - books/algebra/index.md
+          - books/algebra/01-The-Language-of-Algebra.md
+          - books/algebra/02-Equations-and-Inequalities.md
+          - books/algebra/03-Lines-and-Linear-Systems.md
+          - books/algebra/04-Polynomials-and-Factoring.md
+          - books/algebra/05-Quadratics.md
+          - books/algebra/06-Functions.md
+          - books/algebra/07-Exponents-and-Logarithms.md
+          - books/algebra/08-Sequences-Series-and-Induction.md
+          - books/algebra/09-Complex-Numbers.md
+          - books/algebra/10-Roots-and-Coefficients.md
+          - books/algebra/11-Cubics-and-Quartics.md
+          - books/algebra/12-The-Fundamental-Theorem-of-Algebra.md
+          - books/algebra/13-Groups.md
+          - books/algebra/14-Subgroups-Cosets-and-Lagrange.md
+          - books/algebra/15-Homomorphisms-and-Quotients.md
+          - books/algebra/16-Group-Actions-and-Sylow.md
+          - books/algebra/17-Rings-and-Ideals.md
+          - books/algebra/18-Factorization-in-Rings.md
+          - books/algebra/19-Fields-and-Extensions.md
+          - books/algebra/20-Galois-Theory.md
+          - books/algebra/21-Modules-and-Representations.md
+          - books/algebra/22-Where-Algebra-Goes.md
+          - books/algebra/Glossary.md
+      - Geometry:
+          - books/geometry/index.md
+          - books/geometry/01-Points-Lines-and-Angles.md
+          - books/geometry/02-Triangles-and-Congruence.md
+          - books/geometry/03-Parallel-Lines-and-the-Angle-Sum.md
+          - books/geometry/04-Area-and-Pythagoras.md
+          - books/geometry/05-Similarity.md
+          - books/geometry/06-Circles.md
+          - books/geometry/07-Trigonometry.md
+          - books/geometry/08-Coordinate-Geometry.md
+          - books/geometry/09-Vectors.md
+          - books/geometry/10-Transformations-and-Symmetry.md
+          - books/geometry/11-Solid-Geometry.md
+          - books/geometry/12-Triangle-Centres-and-Classical-Theorems.md
+          - books/geometry/13-Inversion-and-Complex-Geometry.md
+          - books/geometry/14-Constructions-and-Impossibility.md
+          - books/geometry/15-Axioms-and-the-Parallel-Postulate.md
+          - books/geometry/16-Spherical-Geometry.md
+          - books/geometry/17-Hyperbolic-Geometry.md
+          - books/geometry/18-Projective-Geometry.md
+          - books/geometry/19-Curves-and-Surfaces.md
+          - books/geometry/20-Manifolds-and-Riemannian-Geometry.md
+          - books/geometry/21-Where-Geometry-Goes.md
+          - books/geometry/Glossary.md
+      - Number theory:
+          - books/number-theory/index.md
+          - books/number-theory/01-Divisibility.md
+          - books/number-theory/02-Primes-and-Unique-Factorization.md
+          - books/number-theory/03-GCD-and-Euclids-Algorithm.md
+          - books/number-theory/04-Congruences.md
+          - books/number-theory/05-Fermat-Euler-and-Wilson.md
+          - books/number-theory/06-The-Chinese-Remainder-Theorem-and-Multiplicative-Functions.md
+          - books/number-theory/07-Primitive-Roots.md
+          - books/number-theory/08-Quadratic-Residues-and-Reciprocity.md
+          - books/number-theory/09-Diophantine-Equations.md
+          - books/number-theory/10-Continued-Fractions.md
+          - books/number-theory/11-Sums-of-Squares.md
+          - books/number-theory/12-Primality-Factoring-and-RSA.md
+          - books/number-theory/13-How-Primes-Are-Spread.md
+          - books/number-theory/14-The-Zeta-Function-and-the-Prime-Number-Theorem.md
+          - books/number-theory/15-Primes-in-Progressions.md
+          - books/number-theory/16-Partitions.md
+          - books/number-theory/17-Algebraic-Number-Theory.md
+          - books/number-theory/18-p-adic-Numbers.md
+          - books/number-theory/19-Elliptic-Curves.md
+          - books/number-theory/20-Modular-Forms-and-Fermats-Last-Theorem.md
+          - books/number-theory/21-Where-Number-Theory-Goes.md
+          - books/number-theory/Glossary.md
+      - Combinatorics:
+          - books/combinatorics/index.md
+          - books/combinatorics/01-Counting-Principles.md
+          - books/combinatorics/02-Permutations-and-Combinations.md
+          - books/combinatorics/03-Binomial-Coefficients.md
+          - books/combinatorics/04-The-Pigeonhole-Principle.md
+          - books/combinatorics/05-Inclusion-Exclusion.md
+          - books/combinatorics/06-Recurrences.md
+          - books/combinatorics/07-Generating-Functions.md
+          - books/combinatorics/08-Catalan-Numbers-and-Lattice-Paths.md
+          - books/combinatorics/09-Stirling-Numbers-and-Partitions.md
+          - books/combinatorics/10-Graphs.md
+          - books/combinatorics/11-Trees.md
+          - books/combinatorics/12-Planar-Graphs-and-Colouring.md
+          - books/combinatorics/13-Matchings-and-Flows.md
+          - books/combinatorics/14-Hamiltonian-Cycles-and-Hard-Problems.md
+          - books/combinatorics/15-Counting-with-Symmetry.md
+          - books/combinatorics/16-Ramsey-Theory.md
+          - books/combinatorics/17-The-Probabilistic-Method.md
+          - books/combinatorics/18-Extremal-Combinatorics.md
+          - books/combinatorics/19-Designs-and-Codes.md
+          - books/combinatorics/20-Where-Combinatorics-Goes.md
+          - books/combinatorics/Glossary.md
+      - Probability:
+          - books/probability/index.md
+          - books/probability/01-What-Probability-Is.md
+          - books/probability/02-Counting-and-Equally-Likely-Outcomes.md
+          - books/probability/03-Conditional-Probability-and-Independence.md
+          - books/probability/04-Bayes-Theorem.md
+          - books/probability/05-Discrete-Random-Variables.md
+          - books/probability/06-Expectation-and-Variance.md
+          - books/probability/07-Inequalities-and-the-Law-of-Large-Numbers.md
+          - books/probability/08-Generating-Functions-in-Probability.md
+          - books/probability/09-Continuous-Random-Variables.md
+          - books/probability/10-The-Normal-Distribution.md
+          - books/probability/11-Joint-Distributions.md
+          - books/probability/12-The-Central-Limit-Theorem.md
+          - books/probability/13-Markov-Chains.md
+          - books/probability/14-Poisson-Processes.md
+          - books/probability/15-Random-Walks-and-Martingales.md
+          - books/probability/16-Brownian-Motion.md
+          - books/probability/17-Measure-Theoretic-Probability.md
+          - books/probability/18-Information-and-Entropy.md
+          - books/probability/19-Randomness-in-Computing.md
+          - books/probability/20-Where-Probability-Goes.md
+          - books/probability/Glossary.md
+      - Statistics:
+          - books/statistics/index.md
+          - books/statistics/01-What-Statistics-Is-For.md
+          - books/statistics/02-Pictures-of-Data.md
+          - books/statistics/03-Summaries.md
+          - books/statistics/04-Relationships-and-Correlation.md
+          - books/statistics/05-Sampling-and-Experiments.md
+          - books/statistics/06-Sampling-Distributions.md
+          - books/statistics/07-Estimation.md
+          - books/statistics/08-Confidence-Intervals.md
+          - books/statistics/09-Hypothesis-Tests.md
+          - books/statistics/10-Categorical-Data.md
+          - books/statistics/11-Linear-Regression.md
+          - books/statistics/12-Multiple-Regression.md
+          - books/statistics/13-Likelihood-Theory.md
+          - books/statistics/14-Bayesian-Statistics.md
+          - books/statistics/15-Nonparametric-Methods.md
+          - books/statistics/16-Time-Series.md
+          - books/statistics/17-Experimental-Design-and-Causal-Inference.md
+          - books/statistics/18-High-Dimensional-Statistics.md
+          - books/statistics/19-Statistical-Learning.md
+          - books/statistics/20-Where-Statistics-Goes.md
+          - books/statistics/Glossary.md
+      - Calculus and analysis:
+          - books/calculus/index.md
+          - books/calculus/01-Rates-and-Areas.md
+          - books/calculus/02-Limits.md
+          - books/calculus/03-Continuity.md
+          - books/calculus/04-The-Derivative.md
+          - books/calculus/05-The-Chain-Rule-and-Special-Functions.md
+          - books/calculus/06-The-Mean-Value-Theorem.md
+          - books/calculus/07-Applications-of-Derivatives.md
+          - books/calculus/08-The-Integral.md
+          - books/calculus/09-The-Fundamental-Theorem.md
+          - books/calculus/10-Techniques-of-Integration.md
+          - books/calculus/11-Applications-of-Integrals.md
+          - books/calculus/12-Sequences-and-Series.md
+          - books/calculus/13-Power-Series-and-Taylor.md
+          - books/calculus/14-Differential-Equations.md
+          - books/calculus/15-Functions-of-Several-Variables.md
+          - books/calculus/16-Multiple-Integrals.md
+          - books/calculus/17-Vector-Calculus.md
+          - books/calculus/18-The-Real-Numbers.md
+          - books/calculus/19-Uniform-Convergence.md
+          - books/calculus/20-Metric-Spaces-and-Topology-of-R.md
+          - books/calculus/21-Lebesgue-Integration-and-Fourier-Series.md
+          - books/calculus/22-Where-Analysis-Goes.md
+          - books/calculus/Glossary.md
+      - Linear algebra:
+          - books/linear-algebra/index.md
+          - books/linear-algebra/01-Vectors.md
+          - books/linear-algebra/02-Systems-of-Linear-Equations.md
+          - books/linear-algebra/03-Matrices.md
+          - books/linear-algebra/04-Vector-Spaces.md
+          - books/linear-algebra/05-Independence-Bases-and-Dimension.md
+          - books/linear-algebra/06-Linear-Maps.md
+          - books/linear-algebra/07-The-Four-Subspaces.md
+          - books/linear-algebra/08-Determinants.md
+          - books/linear-algebra/09-Eigenvalues-and-Eigenvectors.md
+          - books/linear-algebra/10-Applications-of-Eigenvalues.md
+          - books/linear-algebra/11-Inner-Product-Spaces.md
+          - books/linear-algebra/12-Projections-and-Least-Squares.md
+          - books/linear-algebra/13-Orthogonal-Matrices-and-Rotations.md
+          - books/linear-algebra/14-The-Spectral-Theorem.md
+          - books/linear-algebra/15-The-Singular-Value-Decomposition.md
+          - books/linear-algebra/16-Jordan-Form.md
+          - books/linear-algebra/17-Duality-and-Multilinear-Algebra.md
+          - books/linear-algebra/18-Numerical-Linear-Algebra.md
+          - books/linear-algebra/19-Linear-Algebra-in-the-World.md
+          - books/linear-algebra/20-Where-Linear-Algebra-Goes.md
+          - books/linear-algebra/Glossary.md
+      - Logic and foundations:
+          - books/logic/index.md
+          - books/logic/01-Statements-and-Truth.md
+          - books/logic/02-Propositional-Logic.md
+          - books/logic/03-Quantifiers.md
+          - books/logic/04-Proofs.md
+          - books/logic/05-Sets.md
+          - books/logic/06-Relations-and-Functions.md
+          - books/logic/07-Infinity-and-Cardinality.md
+          - books/logic/08-Axiomatic-Set-Theory.md
+          - books/logic/09-Proof-Systems-for-Propositional-Logic.md
+          - books/logic/10-First-Order-Logic.md
+          - books/logic/11-Completeness-and-Compactness.md
+          - books/logic/12-Model-Theory.md
+          - books/logic/13-Algorithms-and-Turing-Machines.md
+          - books/logic/14-Undecidability.md
+          - books/logic/15-Recursive-Functions-and-Computability.md
+          - books/logic/16-Complexity.md
+          - books/logic/17-Arithmetic-and-Peano.md
+          - books/logic/18-Godels-Incompleteness-Theorems.md
+          - books/logic/19-Other-Logics.md
+          - books/logic/20-Where-Logic-Goes.md
+          - books/logic/Glossary.md
+      - Topology:
+          - books/topology/index.md
+          - books/topology/01-What-Topology-Is.md
+          - books/topology/02-Surfaces-and-Euler-Characteristic.md
+          - books/topology/03-Graphs-and-Planarity.md
+          - books/topology/04-Topological-Spaces.md
+          - books/topology/05-Continuity-and-Homeomorphism.md
+          - books/topology/06-Building-New-Spaces.md
+          - books/topology/07-Connectedness.md
+          - books/topology/08-Compactness.md
+          - books/topology/09-Separation-and-Metrisation.md
+          - books/topology/10-Classification-of-Surfaces.md
+          - books/topology/11-Manifolds.md
+          - books/topology/12-Homotopy.md
+          - books/topology/13-The-Fundamental-Group.md
+          - books/topology/14-The-Circle-and-Covering-Spaces.md
+          - books/topology/15-Van-Kampen-and-Surfaces.md
+          - books/topology/16-Homology.md
+          - books/topology/17-Applications-of-Algebraic-Topology.md
+          - books/topology/18-Knot-Theory.md
+          - books/topology/19-The-Poincare-Conjecture.md
+          - books/topology/20-Where-Topology-Goes.md
+          - books/topology/Glossary.md
+  # books: end
   # topics: start
   - Topics:
       - topics/index.md
@@ -1101,243 +1197,148 @@ nav:
               - topics/infinity/level-8/06-infinitely-small.md
               - topics/infinity/level-8/07-point-at-infinity.md
   # topics: end
-  # books: start
-  - Books:
-      - books/index.md
-      - Algebra:
-          - books/algebra/index.md
-          - books/algebra/01-The-Language-of-Algebra.md
-          - books/algebra/02-Equations-and-Inequalities.md
-          - books/algebra/03-Lines-and-Linear-Systems.md
-          - books/algebra/04-Polynomials-and-Factoring.md
-          - books/algebra/05-Quadratics.md
-          - books/algebra/06-Functions.md
-          - books/algebra/07-Exponents-and-Logarithms.md
-          - books/algebra/08-Sequences-Series-and-Induction.md
-          - books/algebra/09-Complex-Numbers.md
-          - books/algebra/10-Roots-and-Coefficients.md
-          - books/algebra/11-Cubics-and-Quartics.md
-          - books/algebra/12-The-Fundamental-Theorem-of-Algebra.md
-          - books/algebra/13-Groups.md
-          - books/algebra/14-Subgroups-Cosets-and-Lagrange.md
-          - books/algebra/15-Homomorphisms-and-Quotients.md
-          - books/algebra/16-Group-Actions-and-Sylow.md
-          - books/algebra/17-Rings-and-Ideals.md
-          - books/algebra/18-Factorization-in-Rings.md
-          - books/algebra/19-Fields-and-Extensions.md
-          - books/algebra/20-Galois-Theory.md
-          - books/algebra/21-Modules-and-Representations.md
-          - books/algebra/22-Where-Algebra-Goes.md
-          - books/algebra/Glossary.md
-      - Geometry:
-          - books/geometry/index.md
-          - books/geometry/01-Points-Lines-and-Angles.md
-          - books/geometry/02-Triangles-and-Congruence.md
-          - books/geometry/03-Parallel-Lines-and-the-Angle-Sum.md
-          - books/geometry/04-Area-and-Pythagoras.md
-          - books/geometry/05-Similarity.md
-          - books/geometry/06-Circles.md
-          - books/geometry/07-Trigonometry.md
-          - books/geometry/08-Coordinate-Geometry.md
-          - books/geometry/09-Vectors.md
-          - books/geometry/10-Transformations-and-Symmetry.md
-          - books/geometry/11-Solid-Geometry.md
-          - books/geometry/12-Triangle-Centres-and-Classical-Theorems.md
-          - books/geometry/13-Inversion-and-Complex-Geometry.md
-          - books/geometry/14-Constructions-and-Impossibility.md
-          - books/geometry/15-Axioms-and-the-Parallel-Postulate.md
-          - books/geometry/16-Spherical-Geometry.md
-          - books/geometry/17-Hyperbolic-Geometry.md
-          - books/geometry/18-Projective-Geometry.md
-          - books/geometry/19-Curves-and-Surfaces.md
-          - books/geometry/20-Manifolds-and-Riemannian-Geometry.md
-          - books/geometry/21-Where-Geometry-Goes.md
-          - books/geometry/Glossary.md
-      - Number theory:
-          - books/number-theory/index.md
-          - books/number-theory/01-Divisibility.md
-          - books/number-theory/02-Primes-and-Unique-Factorization.md
-          - books/number-theory/03-GCD-and-Euclids-Algorithm.md
-          - books/number-theory/04-Congruences.md
-          - books/number-theory/05-Fermat-Euler-and-Wilson.md
-          - books/number-theory/06-The-Chinese-Remainder-Theorem-and-Multiplicative-Functions.md
-          - books/number-theory/07-Primitive-Roots.md
-          - books/number-theory/08-Quadratic-Residues-and-Reciprocity.md
-          - books/number-theory/09-Diophantine-Equations.md
-          - books/number-theory/10-Continued-Fractions.md
-          - books/number-theory/11-Sums-of-Squares.md
-          - books/number-theory/12-Primality-Factoring-and-RSA.md
-          - books/number-theory/13-How-Primes-Are-Spread.md
-          - books/number-theory/14-The-Zeta-Function-and-the-Prime-Number-Theorem.md
-          - books/number-theory/15-Primes-in-Progressions.md
-          - books/number-theory/16-Partitions.md
-          - books/number-theory/17-Algebraic-Number-Theory.md
-          - books/number-theory/18-p-adic-Numbers.md
-          - books/number-theory/19-Elliptic-Curves.md
-          - books/number-theory/20-Modular-Forms-and-Fermats-Last-Theorem.md
-          - books/number-theory/21-Where-Number-Theory-Goes.md
-          - books/number-theory/Glossary.md
-      - Combinatorics:
-          - books/combinatorics/index.md
-          - books/combinatorics/01-Counting-Principles.md
-          - books/combinatorics/02-Permutations-and-Combinations.md
-          - books/combinatorics/03-Binomial-Coefficients.md
-          - books/combinatorics/04-The-Pigeonhole-Principle.md
-          - books/combinatorics/05-Inclusion-Exclusion.md
-          - books/combinatorics/06-Recurrences.md
-          - books/combinatorics/07-Generating-Functions.md
-          - books/combinatorics/08-Catalan-Numbers-and-Lattice-Paths.md
-          - books/combinatorics/09-Stirling-Numbers-and-Partitions.md
-          - books/combinatorics/10-Graphs.md
-          - books/combinatorics/11-Trees.md
-          - books/combinatorics/12-Planar-Graphs-and-Colouring.md
-          - books/combinatorics/13-Matchings-and-Flows.md
-          - books/combinatorics/14-Hamiltonian-Cycles-and-Hard-Problems.md
-          - books/combinatorics/15-Counting-with-Symmetry.md
-          - books/combinatorics/16-Ramsey-Theory.md
-          - books/combinatorics/17-The-Probabilistic-Method.md
-          - books/combinatorics/18-Extremal-Combinatorics.md
-          - books/combinatorics/19-Designs-and-Codes.md
-          - books/combinatorics/20-Where-Combinatorics-Goes.md
-          - books/combinatorics/Glossary.md
-      - Probability:
-          - books/probability/index.md
-          - books/probability/01-What-Probability-Is.md
-          - books/probability/02-Counting-and-Equally-Likely-Outcomes.md
-          - books/probability/03-Conditional-Probability-and-Independence.md
-          - books/probability/04-Bayes-Theorem.md
-          - books/probability/05-Discrete-Random-Variables.md
-          - books/probability/06-Expectation-and-Variance.md
-          - books/probability/07-Inequalities-and-the-Law-of-Large-Numbers.md
-          - books/probability/08-Generating-Functions-in-Probability.md
-          - books/probability/09-Continuous-Random-Variables.md
-          - books/probability/10-The-Normal-Distribution.md
-          - books/probability/11-Joint-Distributions.md
-          - books/probability/12-The-Central-Limit-Theorem.md
-          - books/probability/13-Markov-Chains.md
-          - books/probability/14-Poisson-Processes.md
-          - books/probability/15-Random-Walks-and-Martingales.md
-          - books/probability/16-Brownian-Motion.md
-          - books/probability/17-Measure-Theoretic-Probability.md
-          - books/probability/18-Information-and-Entropy.md
-          - books/probability/19-Randomness-in-Computing.md
-          - books/probability/20-Where-Probability-Goes.md
-          - books/probability/Glossary.md
-      - Statistics:
-          - books/statistics/index.md
-          - books/statistics/01-What-Statistics-Is-For.md
-          - books/statistics/02-Pictures-of-Data.md
-          - books/statistics/03-Summaries.md
-          - books/statistics/04-Relationships-and-Correlation.md
-          - books/statistics/05-Sampling-and-Experiments.md
-          - books/statistics/06-Sampling-Distributions.md
-          - books/statistics/07-Estimation.md
-          - books/statistics/08-Confidence-Intervals.md
-          - books/statistics/09-Hypothesis-Tests.md
-          - books/statistics/10-Categorical-Data.md
-          - books/statistics/11-Linear-Regression.md
-          - books/statistics/12-Multiple-Regression.md
-          - books/statistics/13-Likelihood-Theory.md
-          - books/statistics/14-Bayesian-Statistics.md
-          - books/statistics/15-Nonparametric-Methods.md
-          - books/statistics/16-Time-Series.md
-          - books/statistics/17-Experimental-Design-and-Causal-Inference.md
-          - books/statistics/18-High-Dimensional-Statistics.md
-          - books/statistics/19-Statistical-Learning.md
-          - books/statistics/20-Where-Statistics-Goes.md
-          - books/statistics/Glossary.md
-      - Calculus and analysis:
-          - books/calculus/index.md
-          - books/calculus/01-Rates-and-Areas.md
-          - books/calculus/02-Limits.md
-          - books/calculus/03-Continuity.md
-          - books/calculus/04-The-Derivative.md
-          - books/calculus/05-The-Chain-Rule-and-Special-Functions.md
-          - books/calculus/06-The-Mean-Value-Theorem.md
-          - books/calculus/07-Applications-of-Derivatives.md
-          - books/calculus/08-The-Integral.md
-          - books/calculus/09-The-Fundamental-Theorem.md
-          - books/calculus/10-Techniques-of-Integration.md
-          - books/calculus/11-Applications-of-Integrals.md
-          - books/calculus/12-Sequences-and-Series.md
-          - books/calculus/13-Power-Series-and-Taylor.md
-          - books/calculus/14-Differential-Equations.md
-          - books/calculus/15-Functions-of-Several-Variables.md
-          - books/calculus/16-Multiple-Integrals.md
-          - books/calculus/17-Vector-Calculus.md
-          - books/calculus/18-The-Real-Numbers.md
-          - books/calculus/19-Uniform-Convergence.md
-          - books/calculus/20-Metric-Spaces-and-Topology-of-R.md
-          - books/calculus/21-Lebesgue-Integration-and-Fourier-Series.md
-          - books/calculus/22-Where-Analysis-Goes.md
-          - books/calculus/Glossary.md
-      - Linear algebra:
-          - books/linear-algebra/index.md
-          - books/linear-algebra/01-Vectors.md
-          - books/linear-algebra/02-Systems-of-Linear-Equations.md
-          - books/linear-algebra/03-Matrices.md
-          - books/linear-algebra/04-Vector-Spaces.md
-          - books/linear-algebra/05-Independence-Bases-and-Dimension.md
-          - books/linear-algebra/06-Linear-Maps.md
-          - books/linear-algebra/07-The-Four-Subspaces.md
-          - books/linear-algebra/08-Determinants.md
-          - books/linear-algebra/09-Eigenvalues-and-Eigenvectors.md
-          - books/linear-algebra/10-Applications-of-Eigenvalues.md
-          - books/linear-algebra/11-Inner-Product-Spaces.md
-          - books/linear-algebra/12-Projections-and-Least-Squares.md
-          - books/linear-algebra/13-Orthogonal-Matrices-and-Rotations.md
-          - books/linear-algebra/14-The-Spectral-Theorem.md
-          - books/linear-algebra/15-The-Singular-Value-Decomposition.md
-          - books/linear-algebra/16-Jordan-Form.md
-          - books/linear-algebra/17-Duality-and-Multilinear-Algebra.md
-          - books/linear-algebra/18-Numerical-Linear-Algebra.md
-          - books/linear-algebra/19-Linear-Algebra-in-the-World.md
-          - books/linear-algebra/20-Where-Linear-Algebra-Goes.md
-          - books/linear-algebra/Glossary.md
-      - Logic and foundations:
-          - books/logic/index.md
-          - books/logic/01-Statements-and-Truth.md
-          - books/logic/02-Propositional-Logic.md
-          - books/logic/03-Quantifiers.md
-          - books/logic/04-Proofs.md
-          - books/logic/05-Sets.md
-          - books/logic/06-Relations-and-Functions.md
-          - books/logic/07-Infinity-and-Cardinality.md
-          - books/logic/08-Axiomatic-Set-Theory.md
-          - books/logic/09-Proof-Systems-for-Propositional-Logic.md
-          - books/logic/10-First-Order-Logic.md
-          - books/logic/11-Completeness-and-Compactness.md
-          - books/logic/12-Model-Theory.md
-          - books/logic/13-Algorithms-and-Turing-Machines.md
-          - books/logic/14-Undecidability.md
-          - books/logic/15-Recursive-Functions-and-Computability.md
-          - books/logic/16-Complexity.md
-          - books/logic/17-Arithmetic-and-Peano.md
-          - books/logic/18-Godels-Incompleteness-Theorems.md
-          - books/logic/19-Other-Logics.md
-          - books/logic/20-Where-Logic-Goes.md
-          - books/logic/Glossary.md
-      - Topology:
-          - books/topology/index.md
-          - books/topology/01-What-Topology-Is.md
-          - books/topology/02-Surfaces-and-Euler-Characteristic.md
-          - books/topology/03-Graphs-and-Planarity.md
-          - books/topology/04-Topological-Spaces.md
-          - books/topology/05-Continuity-and-Homeomorphism.md
-          - books/topology/06-Building-New-Spaces.md
-          - books/topology/07-Connectedness.md
-          - books/topology/08-Compactness.md
-          - books/topology/09-Separation-and-Metrisation.md
-          - books/topology/10-Classification-of-Surfaces.md
-          - books/topology/11-Manifolds.md
-          - books/topology/12-Homotopy.md
-          - books/topology/13-The-Fundamental-Group.md
-          - books/topology/14-The-Circle-and-Covering-Spaces.md
-          - books/topology/15-Van-Kampen-and-Surfaces.md
-          - books/topology/16-Homology.md
-          - books/topology/17-Applications-of-Algebraic-Topology.md
-          - books/topology/18-Knot-Theory.md
-          - books/topology/19-The-Poincare-Conjecture.md
-          - books/topology/20-Where-Topology-Goes.md
-          - books/topology/Glossary.md
-  # books: end
+  # uoft: start
+  - University courses:
+      - uoft/index.md
+      - uoft/comprehensive-guide.md
+      - uoft/course-changes.md
+      - MAT137:
+          - "About the course": uoft/MAT137/index.md
+          - "Prologue — Why Calculus Exists": uoft/MAT137/prologue.md
+          - "Unit 1 — Logic, Sets & Proofs": uoft/MAT137/unit01.md
+          - "Unit 2 — Limits & Continuity": uoft/MAT137/unit02.md
+          - "Unit 3 — Derivatives": uoft/MAT137/unit03.md
+          - "Unit 4 — Transcendental Functions": uoft/MAT137/unit04.md
+          - "Unit 5 — The MVT & Inverse Functions": uoft/MAT137/unit05.md
+          - "Unit 6 — Applications of Derivatives & Limits": uoft/MAT137/unit06.md
+          - "Unit 7 — The Definition of the Integral": uoft/MAT137/unit07.md
+          - "Unit 8 — The Fundamental Theorem of Calculus": uoft/MAT137/unit08.md
+          - "Unit 9 — Integration Methods": uoft/MAT137/unit09.md
+          - "Unit 10 — Applications of the Integral": uoft/MAT137/unit10.md
+          - "Unit 11 — Sequences": uoft/MAT137/unit11.md
+          - "Unit 12 — Improper Integrals": uoft/MAT137/unit12.md
+          - "Unit 13 — Series": uoft/MAT137/unit13.md
+          - "Unit 14 — Power Series & Taylor Series": uoft/MAT137/unit14.md
+      - MAT158H1:
+          - "About the course": uoft/MAT158H1/index.md
+          - "Unit 1 — Logic, Sets & Proof": uoft/MAT158H1/unit01.md
+          - "Unit 2 — Real Numbers & Least Upper Bounds": uoft/MAT158H1/unit02.md
+          - "Unit 3 — Limits": uoft/MAT158H1/unit03.md
+          - "Unit 4 — Continuous Functions": uoft/MAT158H1/unit04.md
+          - "Unit 5 — The Three Hard Theorems": uoft/MAT158H1/unit05.md
+          - "Unit 6 — Derivatives": uoft/MAT158H1/unit06.md
+          - "Unit 7 — The Mean Value Theorem": uoft/MAT158H1/unit07.md
+          - "Unit 8 — Inverse Functions": uoft/MAT158H1/unit08.md
+          - "Unit 9 — The Riemann Integral": uoft/MAT158H1/unit09.md
+          - "Unit 10 — The Fundamental Theorem of Calculus": uoft/MAT158H1/unit10.md
+          - "Unit 11 — Transcendental Functions": uoft/MAT158H1/unit11.md
+      - MAT159H1:
+          - "About the course": uoft/MAT159H1/index.md
+          - "Unit 1 — FTC, Transcendentals & Integration Techniques": uoft/MAT159H1/unit01.md
+          - "Unit 2 — Improper Integrals": uoft/MAT159H1/unit02.md
+          - "Unit 3 — Sequences & Cauchy Sequences": uoft/MAT159H1/unit03.md
+          - "Unit 4 — Taylor's Theorem": uoft/MAT159H1/unit04.md
+          - "Unit 5 — Infinite Series": uoft/MAT159H1/unit05.md
+          - "Unit 6 — Uniform Convergence": uoft/MAT159H1/unit06.md
+          - "Unit 7 — Power Series": uoft/MAT159H1/unit07.md
+      - MAT240H1:
+          - "About the course": uoft/MAT240H1/index.md
+          - "Unit 1 — Fields & Vector Spaces": uoft/MAT240H1/unit01.md
+          - "Unit 2 — Subspaces, Span & Independence": uoft/MAT240H1/unit02.md
+          - "Unit 3 — Bases & Dimension": uoft/MAT240H1/unit03.md
+          - "Unit 4 — Linear Transformations": uoft/MAT240H1/unit04.md
+          - "Unit 5 — Rank–Nullity & Matrices": uoft/MAT240H1/unit05.md
+          - "Unit 6 — Change of Basis & Similarity": uoft/MAT240H1/unit06.md
+          - "Unit 7 — Systems & Elementary Operations": uoft/MAT240H1/unit07.md
+          - "Unit 8 — Determinants": uoft/MAT240H1/unit08.md
+          - "Unit 9 — Polynomials, UFD & Resultants": uoft/MAT240H1/unit09.md
+          - "Unit 10 — Eigenvalues & Diagonalization": uoft/MAT240H1/unit10.md
+      - MAT247H1:
+          - "About the course": uoft/MAT247H1/index.md
+          - "Unit 1 — Inner Product Spaces": uoft/MAT247H1/unit01.md
+          - "Unit 2 — Orthogonality & Gram–Schmidt": uoft/MAT247H1/unit02.md
+          - "Unit 3 — The Adjoint": uoft/MAT247H1/unit03.md
+          - "Unit 4 — Isometries: Orthogonal & Unitary Operators": uoft/MAT247H1/unit04.md
+          - "Unit 5 — Hermitian, Symmetric & Normal Operators": uoft/MAT247H1/unit05.md
+          - "Unit 6 — The Spectral Theorem": uoft/MAT247H1/unit06.md
+          - "Unit 7 — Polar & Singular Value Decomposition": uoft/MAT247H1/unit07.md
+          - "Unit 8 — Dual Spaces & Quotient Spaces": uoft/MAT247H1/unit08.md
+          - "Unit 9 — Primary Decomposition & Jordan Form": uoft/MAT247H1/unit09.md
+          - "Unit 10 — Rational Form, Bilinear & Quadratic Forms": uoft/MAT247H1/unit10.md
+      - MAT257Y1:
+          - "About the course": uoft/MAT257Y1/index.md
+          - "Unit 1 — The Topology of R^n": uoft/MAT257Y1/unit01.md
+          - "Unit 2 — Compactness": uoft/MAT257Y1/unit02.md
+          - "Unit 3 — Continuity & Connectedness": uoft/MAT257Y1/unit03.md
+          - "Unit 4 — The Derivative as a Linear Map": uoft/MAT257Y1/unit04.md
+          - "Unit 5 — Chain Rule & Higher Derivatives": uoft/MAT257Y1/unit05.md
+          - "Unit 6 — The Inverse Function Theorem": uoft/MAT257Y1/unit06.md
+          - "Unit 7 — The Implicit Function Theorem": uoft/MAT257Y1/unit07.md
+          - "Unit 8 — Extrema & Lagrange Multipliers": uoft/MAT257Y1/unit08.md
+          - "Unit 9 — The Riemann Integral in R^n": uoft/MAT257Y1/unit09.md
+          - "Unit 10 — Partitions of Unity & Change of Variables": uoft/MAT257Y1/unit10.md
+          - "Unit 11 — Tensors & Differential Forms": uoft/MAT257Y1/unit11.md
+          - "Unit 12 — The Exterior Derivative": uoft/MAT257Y1/unit12.md
+          - "Unit 13 — Manifolds in R^n": uoft/MAT257Y1/unit13.md
+          - "Unit 14 — Stokes' Theorem": uoft/MAT257Y1/unit14.md
+      - PHY131H1:
+          - "About the course": uoft/PHY131H1/index.md
+          - "Unit 1 — Units, Vectors & Estimation": uoft/PHY131H1/unit01.md
+          - "Unit 2 — Kinematics in One Dimension": uoft/PHY131H1/unit02.md
+          - "Unit 3 — Motion in Two Dimensions": uoft/PHY131H1/unit03.md
+          - "Unit 4 — Newton's Laws": uoft/PHY131H1/unit04.md
+          - "Unit 5 — Friction & Circular Motion": uoft/PHY131H1/unit05.md
+          - "Unit 6 — Work, Energy & Power": uoft/PHY131H1/unit06.md
+          - "Unit 7 — Momentum & Collisions": uoft/PHY131H1/unit07.md
+          - "Unit 8 — Rotation & Angular Momentum": uoft/PHY131H1/unit08.md
+          - "Unit 9 — Oscillations": uoft/PHY131H1/unit09.md
+          - "Unit 10 — Waves & Sound": uoft/PHY131H1/unit10.md
+      - PHY132H1:
+          - "About the course": uoft/PHY132H1/index.md
+          - "Unit 1 — Electric Charge & Force": uoft/PHY132H1/unit01.md
+          - "Unit 2 — The Electric Field": uoft/PHY132H1/unit02.md
+          - "Unit 3 — Electric Potential": uoft/PHY132H1/unit03.md
+          - "Unit 4 — Current & Circuits": uoft/PHY132H1/unit04.md
+          - "Unit 5 — Magnetic Fields": uoft/PHY132H1/unit05.md
+          - "Unit 6 — Induction": uoft/PHY132H1/unit06.md
+          - "Unit 7 — Electromagnetic Waves & Light": uoft/PHY132H1/unit07.md
+          - "Unit 8 — Geometric Optics": uoft/PHY132H1/unit08.md
+          - "Unit 9 — Wave Optics": uoft/PHY132H1/unit09.md
+          - "Unit 10 — Special Relativity": uoft/PHY132H1/unit10.md
+      - CSC108H1:
+          - "About the course": uoft/CSC108H1/index.md
+          - "Unit 1 — Values, Types & Variables": uoft/CSC108H1/unit01.md
+          - "Unit 2 — Control Flow": uoft/CSC108H1/unit02.md
+          - "Unit 3 — Functions": uoft/CSC108H1/unit03.md
+          - "Unit 4 — Strings": uoft/CSC108H1/unit04.md
+          - "Unit 5 — Lists & Aliasing": uoft/CSC108H1/unit05.md
+          - "Unit 6 — Dictionaries & Sets": uoft/CSC108H1/unit06.md
+          - "Unit 7 — Classes, Objects & Methods": uoft/CSC108H1/unit07.md
+          - "Unit 8 — Unit Testing & Design": uoft/CSC108H1/unit08.md
+          - "Unit 9 — Searching, Sorting & Complexity": uoft/CSC108H1/unit09.md
+          - "Unit 10 — Floating Point & Numerical Computation": uoft/CSC108H1/unit10.md
+      - CSC148H1:
+          - "About the course": uoft/CSC148H1/index.md
+          - "Unit 1 — Abstract Data Types": uoft/CSC148H1/unit01.md
+          - "Unit 2 — Object-Oriented Design": uoft/CSC148H1/unit02.md
+          - "Unit 3 — Stacks & Queues": uoft/CSC148H1/unit03.md
+          - "Unit 4 — Linked Lists": uoft/CSC148H1/unit04.md
+          - "Unit 5 — Recursion": uoft/CSC148H1/unit05.md
+          - "Unit 6 — Recursion on Nested Data": uoft/CSC148H1/unit06.md
+          - "Unit 7 — Trees": uoft/CSC148H1/unit07.md
+          - "Unit 8 — Binary Search Trees": uoft/CSC148H1/unit08.md
+          - "Unit 9 — Efficiency Analysis": uoft/CSC148H1/unit09.md
+          - "Unit 10 — Sorting & Inheritance": uoft/CSC148H1/unit10.md
+      - ENG140Y1:
+          - "About the course": uoft/ENG140Y1/index.md
+          - "Unit 1 — Close Reading": uoft/ENG140Y1/unit01.md
+          - "Unit 2 — Poetry I: Form & Sound": uoft/ENG140Y1/unit02.md
+          - "Unit 3 — Poetry II: Figurative Language": uoft/ENG140Y1/unit03.md
+          - "Unit 4 — Prose I: Narration & Point of View": uoft/ENG140Y1/unit04.md
+          - "Unit 5 — Prose II: Structure & Character": uoft/ENG140Y1/unit05.md
+          - "Unit 6 — Drama": uoft/ENG140Y1/unit06.md
+          - "Unit 7 — Context & the Modern Period": uoft/ENG140Y1/unit07.md
+          - "Unit 8 — Critical Approaches": uoft/ENG140Y1/unit08.md
+          - "Unit 9 — Building an Argument": uoft/ENG140Y1/unit09.md
+          - "Unit 10 — Writing the Essay": uoft/ENG140Y1/unit10.md
+  # uoft: end
