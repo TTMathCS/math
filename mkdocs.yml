@@ -1129,4 +1129,28 @@ nav:
           - books/algebra/21-Modules-and-Representations.md
           - books/algebra/22-Where-Algebra-Goes.md
           - books/algebra/Glossary.md
+      - Geometry:
+          - books/geometry/index.md
+          - books/geometry/01-Points-Lines-and-Angles.md
+          - books/geometry/02-Triangles-and-Congruence.md
+          - books/geometry/03-Parallel-Lines-and-the-Angle-Sum.md
+          - books/geometry/04-Area-and-Pythagoras.md
+          - books/geometry/05-Similarity.md
+          - books/geometry/06-Circles.md
+          - books/geometry/07-Trigonometry.md
+          - books/geometry/08-Coordinate-Geometry.md
+          - books/geometry/09-Vectors.md
+          - books/geometry/10-Transformations-and-Symmetry.md
+          - books/geometry/11-Solid-Geometry.md
+          - books/geometry/12-Triangle-Centres-and-Classical-Theorems.md
+          - books/geometry/13-Inversion-and-Complex-Geometry.md
+          - books/geometry/14-Constructions-and-Impossibility.md
+          - books/geometry/15-Axioms-and-the-Parallel-Postulate.md
+          - books/geometry/16-Spherical-Geometry.md
+          - books/geometry/17-Hyperbolic-Geometry.md
+          - books/geometry/18-Projective-Geometry.md
+          - books/geometry/19-Curves-and-Surfaces.md
+          - books/geometry/20-Manifolds-and-Riemannian-Geometry.md
+          - books/geometry/21-Where-Geometry-Goes.md
+          - books/geometry/Glossary.md
   # books: end
