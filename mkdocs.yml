@@ -1246,4 +1246,29 @@ nav:
           - books/statistics/19-Statistical-Learning.md
           - books/statistics/20-Where-Statistics-Goes.md
           - books/statistics/Glossary.md
+      - Calculus and analysis:
+          - books/calculus/index.md
+          - books/calculus/01-Rates-and-Areas.md
+          - books/calculus/02-Limits.md
+          - books/calculus/03-Continuity.md
+          - books/calculus/04-The-Derivative.md
+          - books/calculus/05-The-Chain-Rule-and-Special-Functions.md
+          - books/calculus/06-The-Mean-Value-Theorem.md
+          - books/calculus/07-Applications-of-Derivatives.md
+          - books/calculus/08-The-Integral.md
+          - books/calculus/09-The-Fundamental-Theorem.md
+          - books/calculus/10-Techniques-of-Integration.md
+          - books/calculus/11-Applications-of-Integrals.md
+          - books/calculus/12-Sequences-and-Series.md
+          - books/calculus/13-Power-Series-and-Taylor.md
+          - books/calculus/14-Differential-Equations.md
+          - books/calculus/15-Functions-of-Several-Variables.md
+          - books/calculus/16-Multiple-Integrals.md
+          - books/calculus/17-Vector-Calculus.md
+          - books/calculus/18-The-Real-Numbers.md
+          - books/calculus/19-Uniform-Convergence.md
+          - books/calculus/20-Metric-Spaces-and-Topology-of-R.md
+          - books/calculus/21-Lebesgue-Integration-and-Fourier-Series.md
+          - books/calculus/22-Where-Analysis-Goes.md
+          - books/calculus/Glossary.md
   # books: end

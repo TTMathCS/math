@@ -32,6 +32,6 @@ through university mathematics to the frontier.
 | [Combinatorics](combinatorics/index.md) | How many ways? | Ramsey theory, the probabilistic method and open problems | 20 chapters |
 | [Probability](probability/index.md) | Coin flips and dice | Brownian motion, measure theory, entropy and open problems | 20 chapters |
 | [Statistics](statistics/index.md) | Reading data honestly | Causal inference, high-dimensional statistics and the replication crisis | 20 chapters |
+| [Calculus and analysis](calculus/index.md) | Speed and area | Lebesgue integration, Fourier series and the Navier-Stokes problem | 22 chapters |
 
-More branches follow, one at a time: calculus and
-analysis, linear algebra, logic and foundations, topology.
+More branches follow, one at a time: linear algebra, logic and foundations, topology.
