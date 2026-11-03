@@ -17,4 +17,4 @@ its 259 days come from Kepler's third law, which Newton explained with calculus.
 | --- | --- |
 | [U of T](uoft/index.md) | The University of Toronto's mathematics and statistics courses: calculus with proofs, analysis, linear algebra, with physics and computer science beside them |
 | [Topics](topics/index.md) | Math by topic, from a first puzzle to the end of high school: 13 topics, each a ladder of 8 levels of short lessons |
-| [Books](books/index.md) | Math by branch, one book each, read in order from the first idea to university mathematics and the open questions: Algebra, Geometry, Number theory, Combinatorics and Probability so far, more branches coming |
+| [Books](books/index.md) | Math by branch, one book each, read in order from the first idea to university mathematics and the open questions: Algebra, Geometry, Number theory, Combinatorics, Probability and Statistics so far, more branches coming |

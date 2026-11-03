@@ -1223,4 +1223,27 @@ nav:
           - books/probability/19-Randomness-in-Computing.md
           - books/probability/20-Where-Probability-Goes.md
           - books/probability/Glossary.md
+      - Statistics:
+          - books/statistics/index.md
+          - books/statistics/01-What-Statistics-Is-For.md
+          - books/statistics/02-Pictures-of-Data.md
+          - books/statistics/03-Summaries.md
+          - books/statistics/04-Relationships-and-Correlation.md
+          - books/statistics/05-Sampling-and-Experiments.md
+          - books/statistics/06-Sampling-Distributions.md
+          - books/statistics/07-Estimation.md
+          - books/statistics/08-Confidence-Intervals.md
+          - books/statistics/09-Hypothesis-Tests.md
+          - books/statistics/10-Categorical-Data.md
+          - books/statistics/11-Linear-Regression.md
+          - books/statistics/12-Multiple-Regression.md
+          - books/statistics/13-Likelihood-Theory.md
+          - books/statistics/14-Bayesian-Statistics.md
+          - books/statistics/15-Nonparametric-Methods.md
+          - books/statistics/16-Time-Series.md
+          - books/statistics/17-Experimental-Design-and-Causal-Inference.md
+          - books/statistics/18-High-Dimensional-Statistics.md
+          - books/statistics/19-Statistical-Learning.md
+          - books/statistics/20-Where-Statistics-Goes.md
+          - books/statistics/Glossary.md
   # books: end
