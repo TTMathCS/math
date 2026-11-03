@@ -1200,4 +1200,27 @@ nav:
           - books/combinatorics/19-Designs-and-Codes.md
           - books/combinatorics/20-Where-Combinatorics-Goes.md
           - books/combinatorics/Glossary.md
+      - Probability:
+          - books/probability/index.md
+          - books/probability/01-What-Probability-Is.md
+          - books/probability/02-Counting-and-Equally-Likely-Outcomes.md
+          - books/probability/03-Conditional-Probability-and-Independence.md
+          - books/probability/04-Bayes-Theorem.md
+          - books/probability/05-Discrete-Random-Variables.md
+          - books/probability/06-Expectation-and-Variance.md
+          - books/probability/07-Inequalities-and-the-Law-of-Large-Numbers.md
+          - books/probability/08-Generating-Functions-in-Probability.md
+          - books/probability/09-Continuous-Random-Variables.md
+          - books/probability/10-The-Normal-Distribution.md
+          - books/probability/11-Joint-Distributions.md
+          - books/probability/12-The-Central-Limit-Theorem.md
+          - books/probability/13-Markov-Chains.md
+          - books/probability/14-Poisson-Processes.md
+          - books/probability/15-Random-Walks-and-Martingales.md
+          - books/probability/16-Brownian-Motion.md
+          - books/probability/17-Measure-Theoretic-Probability.md
+          - books/probability/18-Information-and-Entropy.md
+          - books/probability/19-Randomness-in-Computing.md
+          - books/probability/20-Where-Probability-Goes.md
+          - books/probability/Glossary.md
   # books: end

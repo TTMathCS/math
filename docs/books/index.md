@@ -30,6 +30,7 @@ through university mathematics to the frontier.
 | [Geometry](geometry/index.md) | Points, lines and angles | Curved space, general relativity and open problems | 21 chapters |
 | [Number theory](number-theory/index.md) | Which numbers divide which | The Riemann hypothesis, elliptic curves and Fermat's last theorem | 21 chapters |
 | [Combinatorics](combinatorics/index.md) | How many ways? | Ramsey theory, the probabilistic method and open problems | 20 chapters |
+| [Probability](probability/index.md) | Coin flips and dice | Brownian motion, measure theory, entropy and open problems | 20 chapters |
 
-More branches follow, one at a time: probability, statistics, calculus and
+More branches follow, one at a time: statistics, calculus and
 analysis, linear algebra, logic and foundations, topology.
