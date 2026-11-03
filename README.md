@@ -29,6 +29,12 @@ mkdocs build --strict
 `convert_uoft.py` rewrites `docs/uoft/` and the U of T part of the menu. Each page keeps its own HTML and math, so
 nothing is retyped. A guide joins the shelf when its code is added to the MATH or OTHER list at the top of the script.
 
+## The Books shelf
+
+`docs/books/<branch>/`: one book per branch (algebra first), chapters `NN-Name.md` in the cryptography book's
+format, plus `index.md` (contents) and `Glossary.md`. The menu lists them between the `# books:` marks in
+`mkdocs.yml`. Every `$$` block needs a blank line before and after it.
+
 ## Adding a shelf (high school, fun math, ...)
 
 1. Make a folder, for example `docs/high-school/`, with an `index.md` that lists its courses, and one folder per

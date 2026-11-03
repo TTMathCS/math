@@ -1101,3 +1101,32 @@ nav:
               - topics/infinity/level-8/06-infinitely-small.md
               - topics/infinity/level-8/07-point-at-infinity.md
   # topics: end
+  # books: start
+  - Books:
+      - books/index.md
+      - Algebra:
+          - books/algebra/index.md
+          - books/algebra/01-The-Language-of-Algebra.md
+          - books/algebra/02-Equations-and-Inequalities.md
+          - books/algebra/03-Lines-and-Linear-Systems.md
+          - books/algebra/04-Polynomials-and-Factoring.md
+          - books/algebra/05-Quadratics.md
+          - books/algebra/06-Functions.md
+          - books/algebra/07-Exponents-and-Logarithms.md
+          - books/algebra/08-Sequences-Series-and-Induction.md
+          - books/algebra/09-Complex-Numbers.md
+          - books/algebra/10-Roots-and-Coefficients.md
+          - books/algebra/11-Cubics-and-Quartics.md
+          - books/algebra/12-The-Fundamental-Theorem-of-Algebra.md
+          - books/algebra/13-Groups.md
+          - books/algebra/14-Subgroups-Cosets-and-Lagrange.md
+          - books/algebra/15-Homomorphisms-and-Quotients.md
+          - books/algebra/16-Group-Actions-and-Sylow.md
+          - books/algebra/17-Rings-and-Ideals.md
+          - books/algebra/18-Factorization-in-Rings.md
+          - books/algebra/19-Fields-and-Extensions.md
+          - books/algebra/20-Galois-Theory.md
+          - books/algebra/21-Modules-and-Representations.md
+          - books/algebra/22-Where-Algebra-Goes.md
+          - books/algebra/Glossary.md
+  # books: end
