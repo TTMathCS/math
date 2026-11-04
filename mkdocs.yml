@@ -1204,6 +1204,7 @@ nav:
               - topics/infinity/level-8/07-point-at-infinity.md
   # topics: end
   # uoft: start
+  - What's new: new.md
   - University courses:
       - uoft/index.md
       - uoft/comprehensive-guide.md

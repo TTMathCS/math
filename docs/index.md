@@ -37,6 +37,14 @@ practice questions with the answers folded underneath. Free, and readable at any
 
     [University courses](uoft/index.md)
 
+-   **Keeping up**
+
+    ---
+
+    Recent results, dated, with a few lines each: some are easy enough to share with a class.
+
+    [What's new](new.md)
+
 </div>
 
 ## Books { #books }
