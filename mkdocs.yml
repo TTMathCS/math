@@ -60,6 +60,7 @@ extra_javascript:
   - javascripts/math.js
   - javascripts/levels.js
   - javascripts/reader.js
+  - javascripts/levelcheck.js
 
 markdown_extensions:
   - toc:
@@ -85,7 +86,9 @@ validation:
 # One section per shelf. A new shelf (high school, fun math ...) is a folder in docs/ and a section here (README.md).
 nav:
   - Home: index.md
-  - Start: start.md
+  - Start:
+      - start.md
+      - Find your level: level-check.md
   # books: start
   - Books:
       - books/index.md

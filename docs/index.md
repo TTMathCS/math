@@ -27,36 +27,51 @@ practice questions with the answers folded underneath. Free, and readable at any
 
 ## Find your level { #start }
 
-<div class="grid cards" markdown>
+<div class="level-cards" markdown>
 
--   **Beginner**
+<div class="level-card level-card--1" markdown>
 
-    ---
+Beginner
 
-    Young readers and school: short lessons by topic, levels 1 to 4 of each topic's ladder.
+Young readers and school.
 
-    [Start here](start.md) · [Topics](topics/index.md)
+- Short lessons by topic
+- Levels 1 to 4 of each topic's ladder
 
--   **Intermediate**
-
-    ---
-
-    Teens, adults and university students: topic levels 5 to 8, the [Books](books/index.md) read in order, and
-    chapter-by-chapter [university course guides](uoft/index.md).
-
-    [Books](books/index.md)
-
--   **Expert**
-
-    ---
-
-    The later chapters of each book, ending where mathematicians are still working, and recent results.
-
-    [What's new](new.md)
+[Start here](start.md)
 
 </div>
 
-Every page shows its level under the title.
+<div class="level-card level-card--2" markdown>
+
+Intermediate
+
+Teens, adults and university students.
+
+- Topic levels 5 to 8
+- The [Books](books/index.md), read in order
+- [University course guides](uoft/index.md)
+
+[Open the books](books/index.md)
+
+</div>
+
+<div class="level-card level-card--3" markdown>
+
+Expert
+
+University and beyond.
+
+- The later chapters of each book, up to open problems
+- [What's new](new.md): recent results
+
+[What's new](new.md)
+
+</div>
+
+</div>
+
+<p class="level-check-link" markdown>Not sure which one is you? [Take the one-minute level check →](level-check.md)</p>
 
 ## Books { #books }
 
