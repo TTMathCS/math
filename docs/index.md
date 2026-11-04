@@ -25,44 +25,38 @@ Six first lessons for young beginners, one from each of six topics. Each one lea
 Every idea explained in plain words, every theorem with the reason it is true, worked examples step by step, and
 practice questions with the answers folded underneath. Free, and readable at any age.
 
-## Where to start { #start }
+## Find your level { #start }
 
 <div class="grid cards" markdown>
 
--   **Young readers and school**
+-   **Beginner**
 
     ---
 
-    Short lessons by topic, in 8 levels from a first puzzle to the end of high school. Pick a topic and a level.
+    Young readers and school: short lessons by topic, levels 1 to 4 of each topic's ladder.
 
-    [Topics](topics/index.md)
+    [Start here](start.md) · [Topics](topics/index.md)
 
--   **Teens and adults who want the whole road**
+-   **Intermediate**
 
     ---
 
-    One book per branch of mathematics, read in order from the first idea to university level and the open
-    problems.
+    Teens, adults and university students: topic levels 5 to 8, the [Books](books/index.md) read in order, and
+    chapter-by-chapter [university course guides](uoft/index.md).
 
     [Books](books/index.md)
 
--   **University students**
+-   **Expert**
 
     ---
 
-    Chapter-by-chapter guides that follow real university courses: calculus with proofs, analysis, linear algebra.
-
-    [University courses](uoft/index.md)
-
--   **Keeping up**
-
-    ---
-
-    Recent results, dated, with a few lines each: some are easy enough to share with a class.
+    The later chapters of each book, ending where mathematicians are still working, and recent results.
 
     [What's new](new.md)
 
 </div>
+
+Every page shows its level under the title.
 
 ## Books { #books }
 
