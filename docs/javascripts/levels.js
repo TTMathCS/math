@@ -2,6 +2,7 @@
 // reader.js (the same on cs, math and cryptography) draws the badge; only this file differs per site.
 // path: the page's path; ch: its chapter number in its book (0 if not a chapter); n: chapters in that book.
 window.akadianLevel = function (path, ch, n) {
+  if (/\/start\.html$/.test(path)) return "Start";                     // the first-lessons page
   var lv = path.match(/\/topics\/[^\/]+\/level-(\d)\//);
   if (lv) return +lv[1] <= 4 ? "Start" : "Student";                  // levels 1-4: ages about 5-11; 5-8: 12-17
   if (/\/books\/[^\/]+\/\d+-/.test(path) && ch && n) {

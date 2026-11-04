@@ -5,6 +5,23 @@ title: Math
 
 # Mathematics, from a first puzzle to the open questions
 
+<div class="start-band" markdown>
+
+New here? Start with a first lesson
+
+Six first lessons for young beginners, one from each of six topics. Each one leads on to the next lesson of its topic.
+
+1. [**Counting things** *why two people can count differently*](topics/numbers/level-1/01-counting-things.md)
+2. [**Circles, triangles and squares** *name every shape you see*](topics/geometry/level-1/01-naming-shapes.md)
+3. [**Repeating patterns** *what comes next?*](topics/patterns/level-1/01-repeating-patterns.md)
+4. [**Dressing a teddy** *how many different outfits?*](topics/counting/level-1/01-dressing-teddy.md)
+5. [**Sure, maybe, never** *how likely is it?*](topics/probability/level-1/01-sure-maybe-never.md)
+6. [**The biggest number game** *is there a biggest number?*](topics/infinity/level-1/01-biggest-number-game.md)
+
+[Begin lesson 1 →](topics/numbers/level-1/01-counting-things.md)
+
+</div>
+
 Every idea explained in plain words, every theorem with the reason it is true, worked examples step by step, and
 practice questions with the answers folded underneath. Free, and readable at any age.
 
