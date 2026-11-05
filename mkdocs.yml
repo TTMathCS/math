@@ -47,6 +47,7 @@ extra_css:
   - stylesheets/course.css
   - stylesheets/topics.css
   - stylesheets/reader.css
+  - stylesheets/sketch.css
   - katex/katex.min.css
 
 extra:
