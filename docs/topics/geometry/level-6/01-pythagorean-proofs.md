@@ -192,6 +192,8 @@ side shrinks. So with $c$ the longest side:
 - $a^2 + b^2 > c^2$: the angle opposite $c$ is **acute** (less than 90°);
 - $a^2 + b^2 < c^2$: the angle opposite $c$ is **obtuse** (more than 90°).
 
+<figure class="play" data-play="pythag"><span class="ai-tag">AI-created</span><figcaption><b>Press Play to slide the triangles.</b> Four copies of one right triangle inside a square of side a + b. Round the edge, they leave a tilted square, c². Slid into two rectangles, they leave a² and b². The triangles are the same, so the empty space is the same: c² = a² + b².</figcaption></figure>
+
 ## Worked examples
 
 **1. Squares you can count.** For the 5, 12, 13 triangle: the squares on the legs have areas $25$ and $144$, and

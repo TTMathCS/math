@@ -164,6 +164,8 @@ between 90 and 110 heads (that happens about 86 times in 100). The more flips yo
 That is a big idea in probability, and you will meet it again and again: **a few tries jump around; many tries settle
 down.**
 
+<figure class="play" data-play="coins"><span class="ai-tag">AI-created</span><figcaption><b>Flip a coin a thousand times.</b> The line is the share of heads so far. It jumps about at first and settles near one half. The browser’s random numbers stand in for the coin.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Reading a tally.**

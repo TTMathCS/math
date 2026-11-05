@@ -121,6 +121,8 @@ Near those values the bottom is tiny, so $\tan x$ shoots off towards $\pm\infty$
 **asymptotes** there (lines it approaches but never touches). Its period is only $\pi$, because the point opposite on
 the circle, $(-\cos x, -\sin x)$, gives the same ratio.
 
+<figure class="play" data-play="unitwave"><span class="ai-tag">AI-created</span><figcaption><b>Press Play.</b> A point goes round the unit circle; its height is the sine, its distance across the cosine, and the height draws the sine wave. Press Hear a sine wave to hear one as a sound: a pure tone.</figcaption></figure>
+
 ## Worked examples
 
 **1. Reading the features.** Describe $y = 2\cos\left(x - \tfrac{\pi}{3}\right) + 1$.

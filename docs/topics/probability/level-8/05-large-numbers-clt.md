@@ -201,6 +201,8 @@ contributions. Whenever a quantity is a sum of many small independent parts, the
 How large must $n$ be? For a symmetric starting distribution like a die, $n = 5$ to 10 already looks good; for a very
 skewed one (like the geometric) you may need 30, 50 or more.
 
+<figure class="play" data-play="galton"><span class="ai-tag">AI-created</span><figcaption><b>Drop the balls.</b> A Galton board: at each of 12 pins a ball goes left or right, like a coin toss. The pile takes the bell shape of the normal curve (dashed), as the central limit theorem says.</figcaption></figure>
+
 ## Worked examples
 
 **1. The average of 100 dice.** Find $P(3.3 \le \bar X \le 3.7)$.

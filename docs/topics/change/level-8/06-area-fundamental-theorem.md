@@ -183,6 +183,8 @@ change in position. Add up a flow rate, and you get the total amount that flowed
 its rate; integrating turns the rate back into the amount. Isaac Newton and Gottfried Leibniz, working separately in
 the second half of the 1600s, each saw this link, and it is why the two halves of calculus are one subject.
 
+<figure class="play" data-play="riemann"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Fill the area under y = x² from 0 to 2 with rectangles. The more rectangles, the closer the total gets to the exact 8/3, which the antiderivative x³/3 gives in one step.</figcaption></figure>
+
 ## Worked examples
 
 **1. An area between two points.** Find $\int_1^2 x^2\,dx$.

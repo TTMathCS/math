@@ -48,6 +48,7 @@ extra_css:
   - stylesheets/topics.css
   - stylesheets/reader.css
   - stylesheets/sketch.css
+  - stylesheets/play.css
   - katex/katex.min.css
 
 extra:
@@ -61,6 +62,7 @@ extra_javascript:
   - javascripts/math.js
   - javascripts/levels.js
   - javascripts/reader.js
+  - javascripts/play.js
   - javascripts/levelcheck.js
 
 markdown_extensions:

@@ -138,6 +138,8 @@ single rate of change.
 A real example: a ball bouncing on the floor. Its height-time graph has a sharp corner at each bounce, because its
 velocity flips from down to up almost instantly. At the exact instant of the bounce, "its velocity" has no one value.
 
+<figure class="play" data-play="secant"><span class="ai-tag">AI-created</span><figcaption><b>Slide h toward 0.</b> The secant line through two points of y = x² turns into the tangent at x = 1, and its slope, 2 + h, heads for 2.</figcaption></figure>
+
 ## Worked examples
 
 **1. Tangent to $y = x^2$ at $x = 3$.**
