@@ -132,6 +132,8 @@ The most honest habit of all: **say which average you used**, and when the mean 
 The gap between them is itself a clue that something lopsided is going on. In the bakery, "the mean pay is 67.5
 thousand but the median is 35 thousand" tells the whole story in one sentence.
 
+<figure class="play" data-play="stats" data-show="centre"><span class="ai-tag">AI-created</span><figcaption><b>Which average?</b> Make the data lopsided and compare mean and median.</figcaption></figure>
+
 ## Worked examples
 
 **1. House prices.** Five houses on a street sold for 400, 420, 450, 480 and 2000 thousand dollars (the last one is a

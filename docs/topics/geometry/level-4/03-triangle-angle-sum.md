@@ -170,6 +170,8 @@ interior angles at the **other** two corners: $d = a + b$.
 
 This is a shortcut: you can find the exterior angle without ever finding $c$.
 
+<figure class="play" data-play="angle" data-mode="triangle"><span class="ai-tag">AI-created</span><figcaption><b>Always 180°.</b> Set two angles; the third has to make up the rest.</figcaption></figure>
+
 ## Worked examples
 
 **1. The third angle.** A triangle has angles 47° and 68°. Find the third.

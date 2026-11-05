@@ -290,6 +290,8 @@ the diagonal of a square), 30° and 60° (a right angle split into three, with 6
 </svg>
 </div>
 
+<figure class="play" data-play="angle" data-mode="one"><span class="ai-tag">AI-created</span><figcaption><b>Read the angle.</b> Acute, right, obtuse, straight, reflex.</figcaption></figure>
+
 ## Worked examples
 
 **1. Clock angles in degrees.** A clock face is a full turn, 360°, split into 12 hour marks. From one hour mark to the

@@ -166,6 +166,8 @@ square number, without any multiplying.
 (A number ending in 0, 1, 4, 5, 6 or 9 **might** be a square, but it might not: 11 ends in 1 and is not a square.
 The test can say "no", but it can never say "yes".)
 
+<figure class="play" data-play="seq" data-kind="square"><span class="ai-tag">AI-created</span><figcaption><b>Square numbers.</b> 1, 4, 9, 16 …: each is a number times itself.</figcaption></figure>
+
 ## Worked examples
 
 **1. Add 1 + 3 + 5 + 7 + 9 + 11.**

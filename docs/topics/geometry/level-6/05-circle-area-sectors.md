@@ -122,6 +122,8 @@ Its area is the big disc minus the small one: $\pi R^2 - \pi r^2$.
 A **segment** (the region between a chord and its arc) is a sector minus a triangle. For a 90° sector, the triangle
 is half a square of side $r$, with area $\tfrac12 r^2$, so the segment has area $\tfrac14 \pi r^2 - \tfrac12 r^2$.
 
+<figure class="play" data-play="area" data-shape="circle"><span class="ai-tag">AI-created</span><figcaption><b>A circle's area.</b> π r²; count squares to check.</figcaption></figure>
+
 ## Worked examples
 
 **1. Area from a diameter.** A circle has diameter 10 cm. The radius is 5 cm, so

@@ -129,6 +129,8 @@ When a triangle's corners sit on grid points but none of its sides lie along the
 measure. Instead, draw the smallest rectangle (a **box**) around it, along the grid lines. The box is the triangle
 plus some right triangles in the corners. Find the box's area and subtract the corner pieces.
 
+<figure class="play" data-play="area" data-shape="tri"><span class="ai-tag">AI-created</span><figcaption><b>Half a parallelogram.</b> Move the top corner: the area does not change.</figcaption></figure>
+
 ## Worked examples
 
 **1. The basic rule.** A triangle has base 10 cm and height 6 cm. Area $= \tfrac12 \times 10 \times 6 = 30$ cm².

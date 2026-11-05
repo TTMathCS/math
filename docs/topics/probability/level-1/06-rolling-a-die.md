@@ -126,6 +126,8 @@ first roll. Sometimes you wait 10 rolls or more. If you roll 6 times, there is a
 **no 6 at all**. Even in 12 rolls, about 1 time in 9 there is no 6. It is not that the die is against you. That is
 just how a maybe works.
 
+<figure class="play" data-play="dice" data-n="1"><span class="ai-tag">AI-created</span><figcaption><b>Roll a die.</b> After a few rolls the bars are uneven; after a thousand each face is close to one in six. The browser's random numbers stand in for the die.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Count the ways.**

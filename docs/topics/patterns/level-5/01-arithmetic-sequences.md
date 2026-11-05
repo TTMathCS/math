@@ -143,6 +143,8 @@ If you plot the points $(n, t_n)$, each step to the right of 1 goes up by exactl
 line with slope $d$ (you saw why in [Graphing a pattern](../level-4/03-graphing-a-pattern.md)). Arithmetic sequences
 are the whole-number version of **linear relations**. A decreasing sequence gives a line going down.
 
+<figure class="play" data-play="seq" data-kind="arith"><span class="ai-tag">AI-created</span><figcaption><b>Add the same each time.</b> Change the start and the step d.</figcaption></figure>
+
 ## Worked examples
 
 **1. Any term from the formula.** Find $t_{50}$ for 7, 11, 15, 19, ...

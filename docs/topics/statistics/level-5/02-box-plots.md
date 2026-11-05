@@ -178,6 +178,8 @@ So, on the whole, Class B did better, even though Class A had the single best sc
 Always compare box plots on the **same** scale. Two box plots drawn on different number lines can make a narrow box
 look wide.
 
+<figure class="play" data-play="stats" data-show="spread"><span class="ai-tag">AI-created</span><figcaption><b>Build a box plot.</b> Add and remove values and watch the box and whiskers.</figcaption></figure>
+
 ## Worked examples
 
 **1. Drawing a box plot.** Ten friends' push-up counts have the summary 3, 6, 10, 14, 20 (from the last lesson).

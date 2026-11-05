@@ -118,6 +118,8 @@ Experiments are useful in three ways.
 3. **To guess what is hidden.** In level 2 you drew from a hidden bag many times to guess what was inside. Relative
    frequency turns that guess into numbers.
 
+<figure class="play" data-play="dice" data-n="1"><span class="ai-tag">AI-created</span><figcaption><b>Experiment against theory.</b> The gold line is what one die should do; the bars are what your rolls did.</figcaption></figure>
+
 ## Worked examples
 
 **1. Working out a relative frequency.** A die is rolled 60 times and shows a 6 on 13 of them.

@@ -195,6 +195,8 @@ of the data below it. They differ only in how they handle the small gaps between
 as the data get bigger. The honest habit is: pick one method, use it for everything you compare, and if your answer
 differs a little from someone else's, check whether you used the same method.
 
+<figure class="play" data-play="stats" data-show="spread"><span class="ai-tag">AI-created</span><figcaption><b>Quartiles.</b> The box holds the middle half of the data.</figcaption></figure>
+
 ## Worked examples
 
 **1. An odd count.** The heights, in centimetres, of seven sunflower seedlings are 3, 8, 9, 11, 14, 16, 20. Find the

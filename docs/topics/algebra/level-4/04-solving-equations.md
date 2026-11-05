@@ -129,6 +129,8 @@ The balance rule works with any numbers, not only the ones a real scale can hold
 In $10 - x = 3$, the $x$ is being taken away. A neat way is to add $x$ to both sides first, so the letter becomes
 positive: $10 = 3 + x$. Then subtract 3: $x = 7$. Check: $10 - 7 = 3$. ✓
 
+<figure class="play" data-play="balance"><span class="ai-tag">AI-created</span><figcaption><b>Solve by balancing.</b> Undo the + first, then share between the x-boxes.</figcaption></figure>
+
 ## Worked examples
 
 **1. One step.** Solve $x - 8 = 13$.

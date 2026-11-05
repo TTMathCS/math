@@ -127,6 +127,8 @@ $$99 \times 98 \equiv (-1)(-2) = 2 \pmod{100}.$$
 
 So $99 \times 98$ ends in 02. Indeed $99 \times 98 = 9702$. ✓
 
+<figure class="play" data-play="clock"><span class="ai-tag">AI-created</span><figcaption><b>Congruent numbers land on the same hour.</b> Try a + b = 21 on a 12-hour clock.</figcaption></figure>
+
 ## Worked examples
 
 **1. Checking congruences.** Which are true?

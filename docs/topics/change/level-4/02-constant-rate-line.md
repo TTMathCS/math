@@ -115,6 +115,8 @@ Now the second puzzle. If you know that a change is linear and you know **two** 
 
 Two points are enough because there is only one straight line through two points.
 
+<figure class="play" data-play="graph" data-form="line"><span class="ai-tag">AI-created</span><figcaption><b>A constant rate is a straight line.</b> The slope m is the change for each step across.</figcaption></figure>
+
 ## Worked examples
 
 **1. The plumber's bill.** Using $B = 40 + 30h$: a job of 3.5 hours costs $40 + 30 \times 3.5 = 40 + 105 = 145$

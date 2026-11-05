@@ -176,6 +176,8 @@ of 2s in $52!$ (every even number gives one), so the number of zeros is the numb
 - But $25 = 5 \times 5$ and $50 = 2 \times 5 \times 5$ each give an **extra** 5.
 - Total: $10 + 2 = 12$ fives, so 12 zeros.
 
+<figure class="play" data-play="arrange" data-mode="perm"><span class="ai-tag">AI-created</span><figcaption><b>Every order.</b> Take k = n to see all n! orders.</figcaption></figure>
+
 ## Worked examples
 
 **1. A bookshelf.** In how many orders can 8 different books stand on a shelf?

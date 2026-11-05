@@ -544,6 +544,8 @@ already 100. So every composite up to 100 has a factor that is 10 or less, and s
 From 1 to 100: 1 is special, 25 numbers are prime, and so 100 − 1 − 25 = **74** numbers are composite and got
 crossed out. Of these 74, as many as 49 are even: all the even numbers from 4 to 100.
 
+<figure class="play" data-play="hundred" data-mode="sieve"><span class="ai-tag">AI-created</span><figcaption><b>The sieve, step by step.</b> Press Play to cross out the multiples of 2, 3, 5 and 7.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. The sieve up to 30.** Which primes do you need to sieve with, and what is left?

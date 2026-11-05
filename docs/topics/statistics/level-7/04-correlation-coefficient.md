@@ -138,6 +138,8 @@ else.
 
 That is Anscombe's lesson: **always draw the scatter plot**. $r$ summarises a picture; it does not replace it.
 
+<figure class="play" data-play="scatter"><span class="ai-tag">AI-created</span><figcaption><b>The number r.</b> Close to 1 or −1 is a tight line; close to 0 is a cloud.</figcaption></figure>
+
 ## Worked examples
 
 **1. A perfect line.** $x$: 1, 2, 3, 4 and $y = 2x + 1$: 3, 5, 7, 9.

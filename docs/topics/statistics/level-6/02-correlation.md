@@ -217,6 +217,8 @@ names of the variables, in context. For example:
 Notice "tended to". A correlation describes a **tendency** in the group, not a rule for every person. Student F
 studied more than E and scored less, and that does not contradict the positive correlation.
 
+<figure class="play" data-play="scatter"><span class="ai-tag">AI-created</span><figcaption><b>Strong, weak, none.</b> The same 40 made-up points, with the link turned up or down.</figcaption></figure>
+
 ## Worked examples
 
 **1. Cars.** The ages (in years) and prices (in thousands of dollars) of six used cars of the same model are:

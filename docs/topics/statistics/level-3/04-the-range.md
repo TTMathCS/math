@@ -134,6 +134,8 @@ the distance on the number line from $-8$ up to 3. From $-8$ up to 0 is 8 steps,
 range is $8 + 3 = 11$ degrees. In symbols, $3 - (-8) = 11$; subtracting a negative number is explained in
 [Negative numbers](../../numbers/level-4/06-negative-numbers.md).
 
+<figure class="play" data-play="stats" data-show="spread"><span class="ai-tag">AI-created</span><figcaption><b>The range.</b> Highest minus lowest; one extreme value changes it a lot.</figcaption></figure>
+
 ## Worked examples
 
 **1. A simple range.** Lengths of six worms, in mm: 42, 35, 58, 40, 51, 37.

@@ -125,6 +125,8 @@ Sometimes there is nothing to count at all. Drop a paper cup. Will it land on it
 bottom? The three results are not equally likely, and no counting can tell you the chances. The only way to find out
 is an experiment: drop it 50 times and keep a tally. Experiments give you chances that thinking alone cannot.
 
+<figure class="play" data-play="spinner" data-parts="red:2,blue:1,gold:1"><span class="ai-tag">AI-created</span><figcaption><b>Spin and tally.</b> The tally from many spins shows which colour the spinner favours.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. A three-colour bag.**

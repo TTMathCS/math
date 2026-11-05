@@ -154,6 +154,8 @@ computer. Each digit has probability $\tfrac{1}{10}$, so they can model many cha
 - probability $0.7$: seven digits, 0 to 6;
 - probability $0.25$: use **pairs** of digits, 00 to 99 (100 equally likely), and let 00 to 24 be a success.
 
+<figure class="play" data-play="dice" data-n="2"><span class="ai-tag">AI-created</span><figcaption><b>A simulation.</b> The browser rolls two dice a thousand times in a moment, far faster than by hand.</figcaption></figure>
+
 ## Worked examples
 
 **1. Designing a model.** A basketball player makes 70% of her shots. Model one shot with random digits.

@@ -154,6 +154,8 @@ You need a paper plate or a circle of card, a pencil and a paper clip.
 Things that can spoil a spinner: a pencil that is not in the very middle, a table that tilts, or a flick that is too
 gentle to go all the way round. A good spinner needs a **strong flick** every time.
 
+<figure class="play" data-play="spinner" data-parts="red:1,blue:1,gold:2"><span class="ai-tag">AI-created</span><figcaption><b>Spin it.</b> The gold part is half the circle, so the arrow stops there about half the time. The browser's random numbers stand in for a real spinner.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Which colour, how often?**

@@ -103,6 +103,8 @@ PIN), each slot has all $n$ choices, giving $n^r$ instead.
 | repeats allowed | $10^4$ | 10 000 |
 | no repeats | ${}^{10}P_{4} = 10 \times 9 \times 8 \times 7$ | 5040 |
 
+<figure class="play" data-play="arrange" data-mode="perm"><span class="ai-tag">AI-created</span><figcaption><b>Arrange some of them.</b> k places from n things: n × (n − 1) × … for k factors.</figcaption></figure>
+
 ## Worked examples
 
 **1. Officers of a club.** A club of 12 members elects a president, a vice-president and a secretary, three different

@@ -138,6 +138,8 @@ The equal sign works the same way with take-away. **10 − 4 = 9 − ?**. The le
 [lesson 5](05-true-or-false.md) you will learn a no-adding trick for take-away too, and find out that it is a little
 different from the adding trick.)
 
+<figure class="play" data-play="balance"><span class="ai-tag">AI-created</span><figcaption><b>The equal sign is a balance.</b> Whatever you do to one side, do to the other.</figcaption></figure>
+
 ## Worked examples
 
 **1. The starting puzzle.** **8 + 4 = ? + 5**.

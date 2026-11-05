@@ -159,6 +159,8 @@ enough sols the start time has gone all the way round the Earth clock. Each sol 
 full Earth day is 86400 seconds; since $86400 \div 2375$ is about 36.4, it takes about 36 or 37 sols for the start
 time to come round to where it began.
 
+<figure class="play" data-play="clock"><span class="ai-tag">AI-created</span><figcaption><b>A clock of any size.</b> Change the number of hours n.</figcaption></figure>
+
 ## Worked examples
 
 **1. Hours on a watch.** It is 10 o'clock. What time is it 7 hours later? And 9 hours earlier?

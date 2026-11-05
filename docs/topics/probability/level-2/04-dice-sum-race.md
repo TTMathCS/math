@@ -114,6 +114,8 @@ fair game with two dice, give each player a **group** of totals with the same nu
 wins on a 7 (6 ways), and the other wins on a 2, 3 or 4 (1 + 2 + 3 = 6 ways); on any other total, roll again. Both
 have 6 ways, so it is fair. There are more fair splits in the examples and questions below.
 
+<figure class="play" data-play="dice" data-n="2"><span class="ai-tag">AI-created</span><figcaption><b>Roll two dice and add.</b> Totals near 7 pile up; 2 and 12 are rare. The gold marks show what the 36 equally likely pairs predict.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Ways to make 5.**

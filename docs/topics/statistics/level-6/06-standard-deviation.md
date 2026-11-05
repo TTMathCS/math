@@ -183,6 +183,8 @@ For more than a handful of values, use a calculator or spreadsheet. They show bo
 Always know which one you are reading. Doing one small example by hand, like the ones here, is the best way to check
 that you have pressed the right buttons.
 
+<figure class="play" data-play="stats" data-show="sd"><span class="ai-tag">AI-created</span><figcaption><b>Standard deviation.</b> Spread the dots out and the band widens.</figcaption></figure>
+
 ## Worked examples
 
 **1. The two players.** Both means are 10.

@@ -379,6 +379,8 @@ multiple (4 times 6 is a multiple of 4 and of 6), but not always the **smallest*
 6, happens to be 2 × 3. For 4 and 6 it is smaller, because 4 and 6 already share a 2 inside them: 4 is 2 × 2 and 6
 is 2 × 3. You will learn exactly when this happens in level 4.
 
+<figure class="play" data-play="hundred" data-mode="multiples"><span class="ai-tag">AI-created</span><figcaption><b>Shade the multiples.</b> Pick a number and see all its multiples up to 100.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Is it a multiple?** Is 35 a multiple of 5? Is 35 a multiple of 4?

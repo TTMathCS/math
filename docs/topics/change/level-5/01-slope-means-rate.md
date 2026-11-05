@@ -157,6 +157,8 @@ depends on the drawing; the slope with units depends only on the ride.
 
 So never compare steepness by eye between graphs with different scales. Compare the numbers.
 
+<figure class="play" data-play="graph" data-form="line"><span class="ai-tag">AI-created</span><figcaption><b>Slope is rate.</b> Up m for every 1 across, wherever you look on the line.</figcaption></figure>
+
 ## Worked examples
 
 **1. A runner's speed.** A runner's distance-time graph is a straight line through (0 s, 0 m) and (40 s, 200 m).

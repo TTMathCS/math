@@ -175,6 +175,8 @@ Mathematicians often write solution sets as **intervals**: a square bracket mean
 bracket means it is not. So $-2 < x \le 3$ is written $(-2, 3]$, and $x > 5$ is $(5, \infty)$, where $\infty$
 ("infinity") just means "going on forever". You will use this more in later levels.
 
+<figure class="play" data-play="numline" data-mode="ineq"><span class="ai-tag">AI-created</span><figcaption><b>The answer is a ray.</b> Open dot for &lt; and &gt;, filled dot for ≤ and ≥.</figcaption></figure>
+
 ## Worked examples
 
 **1. A two-step inequality.** Solve $3x - 4 > 11$ (done above): $x > 5$.

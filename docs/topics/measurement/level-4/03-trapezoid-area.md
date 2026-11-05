@@ -112,6 +112,8 @@ The trapezoid formula quietly contains two others.
 
 So the trapezoid formula is the "big" one, and the other two are special cases of it.
 
+<figure class="play" data-play="area" data-shape="trap"><span class="ai-tag">AI-created</span><figcaption><b>A trapezoid.</b> The average of the two parallel sides times the height.</figcaption></figure>
+
 ## Worked examples
 
 **1. The flower bed.** $a = 4$ m, $b = 10$ m, $h = 3$ m.

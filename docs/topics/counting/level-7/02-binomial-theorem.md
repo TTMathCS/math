@@ -174,6 +174,8 @@ $$(1 + x)^n \approx 1 + nx + \binom{n}{2}x^2.$$
 For example $1.02^8 \approx 1 + 8(0.02) + 28(0.0004) = 1.1712$. The true value is $1.17166\ldots$ This is how
 interest on money was estimated before calculators: 2% a year for 8 years grows money by about 17%.
 
+<figure class="play" data-play="pascal"><span class="ai-tag">AI-created</span><figcaption><b>The coefficients of (a + b)ⁿ.</b> Row n of the triangle; tap it to add them up: 2ⁿ.</figcaption></figure>
+
 ## Worked examples
 
 **1. Expand $(2x - 1)^5$.** Here $a = 2x$, $b = -1$, $n = 5$, and row 5 is 1, 5, 10, 10, 5, 1.

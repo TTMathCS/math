@@ -134,6 +134,8 @@ If you know the mean and how many values there are, you can get the total back b
 hold $4 \times 4 = 16$ cubes. This little turnaround solves many puzzles, such as "what score do I need on the last
 test?" (worked example 3).
 
+<figure class="play" data-play="stats" data-show="centre"><span class="ai-tag">AI-created</span><figcaption><b>The mean as a balance point.</b> Tap the line to add a value; tap a dot to remove it.</figcaption></figure>
+
 ## Worked examples
 
 **1. The mean of five scores.** Ben's scores in a game are 7, 9, 6, 10 and 8.

@@ -130,6 +130,8 @@ Another benchmark: **how far from 1?** Which is bigger, $\tfrac78$ or $\tfrac{9}
 of a whole; $\tfrac{9}{10}$ is $\tfrac1{10}$ short. A tenth is a smaller gap than an eighth, so $\tfrac{9}{10}$ is
 closer to 1, and bigger.
 
+<figure class="play" data-play="fraction" data-mode="equiv"><span class="ai-tag">AI-created</span><figcaption><b>Same amount, more pieces.</b> Cut every piece into more and count again.</figcaption></figure>
+
 ## Worked examples
 
 **1. Find the missing number.** $\tfrac34 = \tfrac{\square}{20}$.

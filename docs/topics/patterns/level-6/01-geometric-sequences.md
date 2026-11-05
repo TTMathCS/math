@@ -143,6 +143,8 @@ $1 + 0.05 = 1.05$. "Decrease by 20%" means "multiply by 0.8". So any amount that
 each step forms a geometric sequence, even if the ratio is not a whole number. This is why prices with inflation,
 savings with interest and populations that grow at a steady rate are all geometric.
 
+<figure class="play" data-play="seq" data-kind="geom"><span class="ai-tag">AI-created</span><figcaption><b>Multiply each time.</b> Try r between 0 and 1, and a negative r.</figcaption></figure>
+
 ## Worked examples
 
 **1. A doubling sequence.** Find $t_{10}$ for 3, 6, 12, 24, ...

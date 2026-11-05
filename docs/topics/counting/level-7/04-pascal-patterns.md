@@ -492,6 +492,8 @@ In $\dbinom{p}{k} = \dfrac{p!}{k!\,(p-k)!}$ with $0 < k < p$, the prime $p$ divi
 $k!$ and $(p - k)!$ is smaller than $p$, so none of them can cancel it. Row 11 (1, 11, 55, 165, 330, 462, ...) agrees.
 Row 6 is not prime, and $\dbinom{6}{2} = 15$ is not a multiple of 6.
 
+<figure class="play" data-play="pascal" data-mode="odd"><span class="ai-tag">AI-created</span><figcaption><b>Odd numbers in Pascal's triangle.</b> Add rows and a pattern of triangles inside triangles appears.</figcaption></figure>
+
 ## Worked examples
 
 **1. A Gauss sum by hockey stick.** $1 + 2 + \cdots + 10$ is diagonal 1 from $\dbinom{1}{1}$ to $\dbinom{10}{1}$, so it

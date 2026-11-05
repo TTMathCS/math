@@ -145,6 +145,8 @@ $$\tan^2\theta + 1 = \frac{1}{\cos^2\theta}$$
 To **prove** an identity, start from one side and transform it, step by step, into the other. Do not start by
 assuming the two sides are equal.
 
+<figure class="play" data-play="graph" data-form="sine"><span class="ai-tag">AI-created</span><figcaption><b>Sine in radians.</b> With b = 1 the wave repeats every 2π ≈ 6.28.</figcaption></figure>
+
 ## Worked examples
 
 **1. Conversions.** Convert 225° to radians and $\tfrac{7\pi}{6}$ to degrees.

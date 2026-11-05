@@ -143,6 +143,8 @@ Real life is harder, because the ways are not equally likely and you cannot alwa
 When you argue, use evidence: what has happened before, what you know about how things work, and what could change
 it.
 
+<figure class="play" data-play="spinner" data-parts="red:1,blue:3"><span class="ai-tag">AI-created</span><figcaption><b>Spin it.</b> Blue is three quarters of the circle, so it sits near "likely" on the chance line; red near "unlikely".</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Placing die events.**

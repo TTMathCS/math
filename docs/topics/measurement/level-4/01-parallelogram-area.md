@@ -140,6 +140,8 @@ If a parallelogram has sides 12 cm and 7 cm, and the height onto the 12 cm side 
 $12 \times 5 = 60$ cm². Standing it on the 7 cm side must give the same area, so the height onto that side is
 $60 \div 7 \approx 8.6$ cm. Same shape, same area, two different base-and-height pairs.
 
+<figure class="play" data-play="area" data-shape="para"><span class="ai-tag">AI-created</span><figcaption><b>Slide the top.</b> Base × height stays the same however far the top slides.</figcaption></figure>
+
 ## Worked examples
 
 **1. The basic formula.** A parallelogram has base 9 cm and height 4 cm. Its area is $9 \times 4 = 36$ cm².

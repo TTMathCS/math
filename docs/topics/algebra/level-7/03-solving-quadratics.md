@@ -121,6 +121,8 @@ symmetry, and the vertex formula promised in lesson 2.
 - If $b$ is even and $a = 1$, completing the square is quick.
 - Otherwise, use the formula. It always works.
 
+<figure class="play" data-play="graph" data-form="quad"><span class="ai-tag">AI-created</span><figcaption><b>Where it crosses zero.</b> The x-intercepts are the solutions of a x² + b x + c = 0.</figcaption></figure>
+
 ## Worked examples
 
 **1. Factoring.** Solve $x^2 = x + 12$.

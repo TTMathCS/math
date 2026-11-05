@@ -127,6 +127,8 @@ times the 80 dollars of year 1.
 Real rates change over time, and differ between banks and accounts, so the rates here are examples: check the current
 rate before you decide.
 
+<figure class="play" data-play="interest" data-mode="both"><span class="ai-tag">AI-created</span><figcaption><b>Interest on interest.</b> The gap grows with the years. Made-up amounts.</figcaption></figure>
+
 ## Worked examples
 
 **1. Using the formula.** 2500 dollars at 4% a year, compounded yearly, for 10 years.

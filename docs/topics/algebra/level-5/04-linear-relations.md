@@ -140,6 +140,8 @@ To find the equation of a linear relation from a table:
    taking away the rate of change once for each step.
 3. Write $y = (\text{rate}) \times x + (\text{initial value})$, and check with a row you did not use.
 
+<figure class="play" data-play="graph" data-form="line"><span class="ai-tag">AI-created</span><figcaption><b>A line.</b> m sets how steep it is; b sets where it crosses the y-axis (red dot).</figcaption></figure>
+
 ## Worked examples
 
 **1. A table with steps of 1.** Find the equation for this table.

@@ -139,6 +139,8 @@ Here is $y = x^2$ (dashed) turned into $y = -2(x + 1)^2 + 3$ with the mapping ru
 The vertex $(0, 0)$ goes to $(-1, 3)$. The points $(\pm1, 1)$ go to $(0, 1)$ and $(-2, 1)$. The points $(\pm2, 4)$ go
 to $(1, -5)$ and $(-3, -5)$. Plot these five and draw the curve through them.
 
+<figure class="play" data-play="graph" data-form="vertex"><span class="ai-tag">AI-created</span><figcaption><b>Move y = x².</b> h slides it sideways, k up and down, a stretches it.</figcaption></figure>
+
 ## Worked examples
 
 **1. A parabola.** Sketch $y = -2(x + 1)^2 + 3$.

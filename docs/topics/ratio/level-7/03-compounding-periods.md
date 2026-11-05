@@ -128,6 +128,8 @@ $$(1 + i)^{12} = (1 + j)^{2}, \qquad \text{which gives} \qquad i = (1 + j)^{2/12
 The same idea converts any rate to any period: match the growth over one common length of time, then take the right
 root.
 
+<figure class="play" data-play="interest" data-mode="periods"><span class="ai-tag">AI-created</span><figcaption><b>How often it compounds.</b> Monthly beats yearly a little; daily beats monthly by very little. Made-up amounts.</figcaption></figure>
+
 ## Worked examples
 
 **1. Monthly compounding.** 5000 dollars is invested at 6% compounded monthly for 3 years. Find the amount.

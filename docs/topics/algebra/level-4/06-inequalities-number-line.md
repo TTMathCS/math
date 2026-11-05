@@ -142,6 +142,8 @@ Check two things:
 1. **The edge.** Put the edge number in: the two sides should be **equal**.
 2. **The direction.** Put in one number that should work and one that should not.
 
+<figure class="play" data-play="numline" data-mode="ineq"><span class="ai-tag">AI-created</span><figcaption><b>Draw the inequality.</b> Pick the sign and the number; the gold ray is every number that works.</figcaption></figure>
+
 ## Worked examples
 
 **1. One step.** Solve $x + 4 > 9$ and draw it.

@@ -140,6 +140,8 @@ A rectangle has area 48 cm² and width 6 cm. Then $6 \times \text{length} = 48$.
 $48 \div 6 = 8$, so the length is **8 cm**. In a picture: 48 squares are arranged in 6 rows, so each row has
 $48 \div 6 = 8$ squares.
 
+<figure class="play" data-play="area" data-shape="rect"><span class="ai-tag">AI-created</span><figcaption><b>Count or multiply.</b> Length × width gives the same as counting squares.</figcaption></figure>
+
 ## Worked examples
 
 **1. Tiles.** A bathroom floor is 3 m by 2 m. How many 1 m² tiles cover it?

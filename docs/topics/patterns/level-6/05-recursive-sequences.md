@@ -112,6 +112,8 @@ A rule that looks back two steps needs **two** starting values. With the same re
 a different sequence: starting 2, 1 gives the **Lucas numbers** 2, 1, 3, 4, 7, 11, 18, 29, ... In a spreadsheet, type
 the two starts in A1 and A2, put `=A2+A1` in A3, and copy down.
 
+<figure class="play" data-play="seq" data-kind="fib"><span class="ai-tag">AI-created</span><figcaption><b>A rule that looks back.</b> Fibonacci is built from the two terms before.</figcaption></figure>
+
 ## Worked examples
 
 **1. A medicine model (made-up numbers).** A patient takes 100 mg of a medicine each morning. By the next morning the

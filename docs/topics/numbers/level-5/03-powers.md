@@ -136,6 +136,8 @@ The laws are about **multiplying and dividing**. There are no such laws for addi
 
 And Law 1 needs the **same base**: $2^3 \times 3^2 = 8 \times 9 = 72$, and there is no way to write it as one power.
 
+<figure class="play" data-play="seq" data-kind="geom"><span class="ai-tag">AI-created</span><figcaption><b>Powers grow fast.</b> Start at 1 and keep multiplying by r.</figcaption></figure>
+
 ## Worked examples
 
 **1. Evaluate** $5^3$, $(-2)^5$ and $\left(\tfrac34\right)^2$.

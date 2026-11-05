@@ -318,6 +318,8 @@ In the small hall, lockers **1, 4 and 9** end open. In the big hall with 100 loc
 That is **10 lockers**, and every other locker is closed. Nobody had to walk the hall at all. That is the power of
 a good reason.
 
+<figure class="play" data-play="hundred" data-mode="squares"><span class="ai-tag">AI-created</span><figcaption><b>The open lockers.</b> Only the square numbers have an odd number of factors.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Is 49 a square? How many factors?**

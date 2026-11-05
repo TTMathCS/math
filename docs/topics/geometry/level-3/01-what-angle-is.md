@@ -191,6 +191,8 @@ turn, "a 360" is a full turn, as you will see in the next lesson), the hands of 
 Builders need right angles so that walls stand up straight. Mars rovers are steered by telling them how much to turn,
 because nobody on Earth can grab the wheel.
 
+<figure class="play" data-play="angle" data-mode="one"><span class="ai-tag">AI-created</span><figcaption><b>An angle is an amount of turn.</b> Turn the ray.</figcaption></figure>
+
 ## Worked examples
 
 **1. Angles on a clock.** What kind of angle do the hands make (the smaller one) at each time?

@@ -106,6 +106,8 @@ $$y = \left(x + \frac{b}{2}\right)^2 - \frac{b^2}{4} + c.$$
 So the vertex is at $x = -\dfrac{b}{2}$. With $a$ in front, the same work gives the vertex at
 $x = -\dfrac{b}{2a}$, a formula worth remembering (you will prove it in the next lesson).
 
+<figure class="play" data-play="graph" data-form="vertex"><span class="ai-tag">AI-created</span><figcaption><b>Vertex form.</b> h and k move the turning point; a stretches and flips the curve.</figcaption></figure>
+
 ## Worked examples
 
 **1. A simple one.** Write $y = x^2 + 6x + 2$ in vertex form and give the vertex.

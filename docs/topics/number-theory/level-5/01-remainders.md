@@ -168,6 +168,8 @@ So a square always leaves remainder 0 or 1 when divided by 3, **never 2**. This 
 because every whole number is in one of the three families. So, for example, 2, 5, 8, 11, 14, 17, ... can never be
 square numbers, and you know it without checking a single square root.
 
+<figure class="play" data-play="clock"><span class="ai-tag">AI-created</span><figcaption><b>Remainders on a clock.</b> Go round the clock as many times as needed; where you stop is the remainder.</figcaption></figure>
+
 ## Worked examples
 
 **1. The days of the week.** Today is Monday. What day will it be in 1000 days?

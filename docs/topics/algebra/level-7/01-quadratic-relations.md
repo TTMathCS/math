@@ -135,6 +135,8 @@ If you know the zeros and one other point, the factored form gives the equation 
 $y = a(x - r)(x - s)$, put in the point, and solve for $a$. If you know the vertex and one other point, use the vertex
 form the same way.
 
+<figure class="play" data-play="graph" data-form="quad"><span class="ai-tag">AI-created</span><figcaption><b>A parabola.</b> Change a, b and c; the discriminant says how many times it crosses the x-axis.</figcaption></figure>
+
 ## Worked examples
 
 **1. From factored form.** Describe $y = 2(x - 1)(x - 5)$.

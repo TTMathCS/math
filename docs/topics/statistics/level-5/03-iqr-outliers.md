@@ -136,6 +136,8 @@ Finding an outlier is the start of a question, not the end. Ask:
 Sometimes the outlier is the most interesting value in the whole data set: the patient who recovered, the star that
 flickered, the one test score that shows a student needs help.
 
+<figure class="play" data-play="stats" data-show="spread"><span class="ai-tag">AI-created</span><figcaption><b>The IQR.</b> Add a value far out and see the whisker reach for it.</figcaption></figure>
+
 ## Worked examples
 
 **1. A low outlier.** Ten quiz scores: 14, 61, 65, 70, 72, 75, 78, 80, 83, 85.

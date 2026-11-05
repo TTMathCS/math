@@ -122,6 +122,8 @@ the Fibonacci pattern, and a fair number did not: some had near misses, some had
 adding each new seed at a fixed turning angle, and that tends to produce Fibonacci spirals, but nature is messy. Be
 suspicious of anyone who says Fibonacci numbers are "everywhere".
 
+<figure class="play" data-play="seq" data-kind="fib"><span class="ai-tag">AI-created</span><figcaption><b>Fibonacci.</b> Each term is the two before added together.</figcaption></figure>
+
 ## Worked examples
 
 **1. Continue the sequence to the 15th term.** From the table, the 11th and 12th terms are 89 and 144.

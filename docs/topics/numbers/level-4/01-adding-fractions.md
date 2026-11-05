@@ -122,6 +122,8 @@ Same answer. This way never needs regrouping, but the numbers get bigger.
 $2\tfrac13 + 1\tfrac34$ is a bit more than $2 + 2 = 4$ (because $1\tfrac34$ is a quarter short of 2 and $\tfrac13$
 is more than a quarter). Our answer $4\tfrac{1}{12}$ is a bit more than 4. ✓ Always ask: does the size make sense?
 
+<figure class="play" data-play="fraction" data-mode="add"><span class="ai-tag">AI-created</span><figcaption><b>Common pieces first.</b> Both fractions are cut into the same size pieces, then counted together.</figcaption></figure>
+
 ## Worked examples
 
 **1. Same denominator.** $\tfrac{5}{9} + \tfrac{7}{9} = \tfrac{12}{9}$. Simplify: divide by 3 to get $\tfrac43$,

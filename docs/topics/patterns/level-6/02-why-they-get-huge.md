@@ -127,6 +127,8 @@ Halving goes the other way just as quickly. Cut a 1 metre string in half, then c
 10 cuts it is $\tfrac{1}{1024}$ m, under a millimetre. After 30 cuts it is about $\tfrac{1}{10^9}$ m, a nanometre,
 only a few atoms wide. With $r = \tfrac12$ the terms rush towards zero but, in mathematics, never reach it.
 
+<figure class="play" data-play="seq" data-kind="geom"><span class="ai-tag">AI-created</span><figcaption><b>Doubling.</b> With r = 2, twenty terms reach over half a million.</figcaption></figure>
+
 ## Worked examples
 
 **1. Estimating a power of 2.** Estimate $2^{25}$.

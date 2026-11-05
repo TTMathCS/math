@@ -113,6 +113,8 @@ $\tfrac{1}{2^n}$ of it. The sum creeps up towards 1 but never gets there with a 
 if you add **forever** is a question for [level 7](../level-7/index.md) and for the [Infinity](../../infinity/index.md)
 topic.
 
+<figure class="play" data-play="seq" data-kind="geom"><span class="ai-tag">AI-created</span><figcaption><b>The sum of a geometric sequence.</b> Try r = 0.5 and watch the sum settle near 2a.</figcaption></figure>
+
 ## Worked examples
 
 **1. A doubling sum.** $3 + 6 + 12 + \cdots$ (10 terms).

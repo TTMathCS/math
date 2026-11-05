@@ -127,6 +127,8 @@ And here is a bonus. Two numbers with the same digit sum leave the same remainde
 **difference** is a pile of nines. Try it: 72 − 27 = 45 = 9 × 5, and 91 − 19 = 72 = 9 × 8. A number minus its
 reverse is always a multiple of 9.
 
+<figure class="play" data-play="hundred" data-mode="multiples"><span class="ai-tag">AI-created</span><figcaption><b>Multiples of 3 and 9.</b> Add the digits of any shaded number.</figcaption></figure>
+
 ## Worked examples
 
 **1. Test 51,234 for 3 and 9, and find the remainders.**

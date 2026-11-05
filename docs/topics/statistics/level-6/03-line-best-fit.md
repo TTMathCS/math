@@ -164,6 +164,8 @@ the **least-squares line**, which a calculator or spreadsheet can find. For the 
 $y = 4.78x + 49.6$, very close to our $y = 4.75x + 50$. You will learn how it works, and why it is "best", in
 [level 7](../level-7/index.md).
 
+<figure class="play" data-play="scatter"><span class="ai-tag">AI-created</span><figcaption><b>The line of best fit.</b> It follows the cloud of points.</figcaption></figure>
+
 ## Worked examples
 
 **1. From the graph to the equation.** A line of best fit passes through $(2, 10)$ and $(6, 22)$. Find its equation.

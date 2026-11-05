@@ -170,6 +170,8 @@ Think of adding as **moving**:
 up to −3 is 4 steps to the right, so $-3 - (-7) = 4$. Check with the rule: $-3 + 7 = 4$. ✓ This is how we find the
 change in temperature: from −7 °C to −3 °C is a rise of 4 degrees.
 
+<figure class="play" data-play="numline" data-mode="add"><span class="ai-tag">AI-created</span><figcaption><b>Hops on the number line.</b> Adding a negative number hops left.</figcaption></figure>
+
 ## Worked examples
 
 **1. Compare.** Order from smallest: 2, −5, 0, −1, −12. On the number line from left to right: **−12, −5, −1, 0, 2**.

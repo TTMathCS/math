@@ -117,6 +117,8 @@ A tally chart or a line plot (level 2) shows the mode at a glance: it is the tal
 They often come out close together, and sometimes very different. Each is honest in its own way; the skill is
 saying **which** one you used.
 
+<figure class="play" data-play="stats" data-show="centre"><span class="ai-tag">AI-created</span><figcaption><b>Median and mode.</b> Add one very big value: the mean moves, the median hardly does.</figcaption></figure>
+
 ## Worked examples
 
 **1. Median and mode of an odd list.** Heights of seven seedlings, in cm: 6, 9, 5, 9, 7, 11, 8.

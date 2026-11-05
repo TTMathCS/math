@@ -145,6 +145,8 @@ At 4 minutes the cocoa is at 59.4 °C, which is 39.4 above the room, and $-0.105
 minute. That matches the central estimate of $-4.15$. The hotter the cocoa compared with the room, the faster it
 cools. This rule is called **Newton's law of cooling**, after Isaac Newton, who studied it.
 
+<figure class="play" data-play="graph" data-form="exp"><span class="ai-tag">AI-created</span><figcaption><b>The steeper it gets.</b> An exponential curve rises faster the higher it is.</figcaption></figure>
+
 ## Worked examples
 
 **1. The bacteria at 3 hours.** How fast is the colony growing at $t = 3$?

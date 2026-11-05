@@ -137,6 +137,8 @@ Picture a 4 by 4 square of dots and cut it along a staircase line, so one side g
 below it, and the other side gets everything above. The bigger piece is a staircase with rows 1, 2, 3, 4 (that is
 10 dots). The smaller piece is a staircase with rows 1, 2, 3 (that is 6 dots). Together, $10 + 6 = 16 = 4 \times 4$.
 
+<figure class="play" data-play="seq" data-kind="tri"><span class="ai-tag">AI-created</span><figcaption><b>Triangular numbers.</b> 1, 3, 6, 10 …: add 1 more each time than the time before.</figcaption></figure>
+
 ## Worked examples
 
 **1. The 20th triangular number.** $20 \times 21 \div 2 = 420 \div 2 = 210$.

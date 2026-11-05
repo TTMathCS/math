@@ -135,6 +135,8 @@ Exponential functions are one-to-one (each passes the horizontal line test), so 
 solve an equation like $2^x = 32$, write both sides with the same base: $32 = 2^5$, so $x = 5$. Equations that cannot
 be written with a common base, like $3^x = 20$, need logarithms: [level 8](../level-8/05-exp-log-equations.md).
 
+<figure class="play" data-play="graph" data-form="exp"><span class="ai-tag">AI-created</span><figcaption><b>Growth and decay.</b> b above 1 grows, b below 1 shrinks; a is where it starts at x = 0.</figcaption></figure>
+
 ## Worked examples
 
 **1. Rational exponents.**

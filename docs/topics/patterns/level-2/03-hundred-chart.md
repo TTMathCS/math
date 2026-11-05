@@ -1148,6 +1148,8 @@ The pictures are not only pretty. They help you **check** and **predict**.
 - Is 74 in the count by 3s? Find it on the 3s picture: 72 is coloured and 75 is coloured, but 74 is not. No.
 - What comes after 63 in the count by 9s? One down (73), one left: **72**.
 
+<figure class="play" data-play="hundred" data-mode="multiples"><span class="ai-tag">AI-created</span><figcaption><b>Patterns in the hundred chart.</b> Multiples of 9 run down a diagonal; multiples of 10 down a column.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Moves on the chart.** Start at 46. Where do you land after one step down, then two steps right?

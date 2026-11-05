@@ -233,6 +233,8 @@ dice upside down. The opposite faces of a die always add to 7 (1 is opposite 6, 
 So a pair with total 5, like orange 1 and blue 4, turns into orange 6 and blue 3, total 9. Every way to make 5 turns
 into a way to make 9, and back again. So they must have the same number of ways.
 
+<figure class="play" data-play="dice" data-n="2"><span class="ai-tag">AI-created</span><figcaption><b>Check the table.</b> Roll two dice many times: each total turns up about as often as its share of the 36 squares (gold).</figcaption></figure>
+
 ## Worked examples
 
 **1. A total of 8.** From the table, 8 appears 5 times: (2, 6), (3, 5), (4, 4), (5, 3), (6, 2). Write pairs as

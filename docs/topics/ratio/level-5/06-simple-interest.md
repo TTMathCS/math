@@ -123,6 +123,8 @@ every 100 dollars borrowed for 2 weeks. That sounds small. But 15% for 14 days, 
 $0.15 \times \dfrac{365}{14} \approx 3.91$, which is about **391% a year**. Compare that with a credit card at about
 20% a year. Always turn a fee into a yearly rate before you decide.
 
+<figure class="play" data-play="interest" data-mode="both"><span class="ai-tag">AI-created</span><figcaption><b>Simple against compound.</b> Simple interest is a straight line; compound curves upward. Made-up amounts.</figcaption></figure>
+
 ## Worked examples
 
 **1. Saving for whole years.** 2000 dollars is saved at 3% a year simple interest for 4 years.

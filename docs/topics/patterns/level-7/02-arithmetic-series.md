@@ -123,6 +123,8 @@ And "not a multiple of 3 **or** 5" needs one more idea. If you take away the mul
 5, the multiples of 15 (like 15, 30, 45) have been taken away twice, so you must add them back once. Counting things
 this way is called **inclusion and exclusion**; it lives in [Counting](../../counting/index.md).
 
+<figure class="play" data-play="seq" data-kind="arith"><span class="ai-tag">AI-created</span><figcaption><b>An arithmetic series.</b> The sum of the terms shown is below the bars.</figcaption></figure>
+
 ## Worked examples
 
 **1. The question from the start.** Add all the multiples of 7 between 100 and 500.

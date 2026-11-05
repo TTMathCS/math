@@ -117,6 +117,8 @@ In words: **flip the fraction and change the sign.** The perpendicular to slope 
 horizontal line and a vertical line are also perpendicular, but the rule does not apply because a vertical line has
 no slope.
 
+<figure class="play" data-play="graph" data-form="line"><span class="ai-tag">AI-created</span><figcaption><b>y = m x + b.</b> Change m and b and read the line.</figcaption></figure>
+
 ## Worked examples
 
 **1. Slope from two points.** Through $(1, 2)$ and $(7, 10)$: $m = \dfrac{10 - 2}{7 - 1} = \dfrac86 = \dfrac43$. The

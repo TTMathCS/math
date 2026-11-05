@@ -117,6 +117,8 @@ $$(p - 1)! \equiv -1 \pmod p \quad \text{for every prime } p.$$
 
 This is **Wilson's theorem**, named after John Wilson, an 18th-century English mathematician.
 
+<figure class="play" data-play="clock" data-mode="times"><span class="ai-tag">AI-created</span><figcaption><b>Multiplying on a clock.</b> Look for the b that brings a back to 1.</figcaption></figure>
+
 ## Worked examples
 
 **1. An inverse by search.** Find the inverse of 3 mod 11.

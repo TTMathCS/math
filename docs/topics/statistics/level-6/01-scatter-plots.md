@@ -141,6 +141,8 @@ A scatter plot answers two kinds of question.
   straight or curved? This overall pattern is called the **trend**, and the next lesson gives you the words to
   describe it.
 
+<figure class="play" data-play="scatter"><span class="ai-tag">AI-created</span><figcaption><b>A scatter plot.</b> Move the link from −1 to 1.</figcaption></figure>
+
 ## Worked examples
 
 **1. Plotting points.** Plot student G (5 hours, 78 points) and student J (8 hours, 90 points).

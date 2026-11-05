@@ -157,6 +157,8 @@ On a curve, "the rate" has no single value. If someone says "the cocoa cooled at
 either an **average** over some time, or the rate at one particular moment. Lesson 3 is about the first; level 6 is
 all about the second.
 
+<figure class="play" data-play="graph" data-form="line"><span class="ai-tag">AI-created</span><figcaption><b>Positive, negative, zero.</b> Drag m through 0 and watch the line tip over.</figcaption></figure>
+
 ## Worked examples
 
 **1. A bank balance.** Leo has 240 dollars on 1 March and 168 dollars on 1 April (31 days later). Find the rate of

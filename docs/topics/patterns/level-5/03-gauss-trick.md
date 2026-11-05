@@ -129,6 +129,8 @@ algebra above never needed $n$ to be even. It also gives a shortcut: with an odd
 is the average**, so the sum is $n$ times the middle term. For example, $4 + 7 + 10 + 13 + 16$ has middle term 10, so
 the sum is $5 \times 10 = 50$.
 
+<figure class="play" data-play="seq" data-kind="arith"><span class="ai-tag">AI-created</span><figcaption><b>Add them all up.</b> The sum of n terms is n × (first + last) ÷ 2; check it below the bars.</figcaption></figure>
+
 ## Worked examples
 
 **1. Gauss's sum, by formula.** $1 + 2 + \cdots + 100$: $n = 100$, $a = 1$, $l = 100$, so

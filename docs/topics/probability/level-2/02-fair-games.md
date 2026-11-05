@@ -143,6 +143,8 @@ diagonal of the table: 1 and 1, 2 and 2, up to 6 and 6. That is **6 ways** for A
 
 Very unfair to A: B has 5 times as many ways. To fix it with points, A would need 5 points for every win.
 
+<figure class="play" data-play="spinner" data-parts="red:1,blue:1"><span class="ai-tag">AI-created</span><figcaption><b>Is this spinner fair?</b> Two equal halves: spin many times and both should get about half.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Is it fair?**

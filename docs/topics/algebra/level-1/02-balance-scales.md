@@ -223,6 +223,8 @@ work? Yes! The things on the left pan get lighter, and the things on the right p
 way. If they were the same on Earth, they are still the same on Mars. A balance compares the two sides, so it gives
 the same answer on any planet. (A bathroom scale is different: it would show a much smaller number on Mars.)
 
+<figure class="play" data-play="balance"><span class="ai-tag">AI-created</span><figcaption><b>Keep it level.</b> Take the same from both sides until one box stands alone. Press New one for another.</figcaption></figure>
+
 ## Worked examples
 
 **1. The apples.** One apple balances 3 blocks. How many blocks balance 2 apples?

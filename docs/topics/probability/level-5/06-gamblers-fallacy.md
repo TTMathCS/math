@@ -124,6 +124,8 @@ the chances, and that is just ordinary probability:
   to "make up for it".
 - **Weather.** Rainy days tend to follow rainy days, so yesterday really does change today's chance.
 
+<figure class="play" data-play="spinner" data-parts="red:1,blue:1"><span class="ai-tag">AI-created</span><figcaption><b>No memory.</b> After five reds in a row, blue is still exactly as likely as red on the next spin.</figcaption></figure>
+
 ## Worked examples
 
 **1. After five heads.** A fair coin has landed heads 5 times. Find the chance the next flip is heads.

@@ -177,6 +177,8 @@ So division has **the same sign rules**: same signs give a positive answer, diff
 And, as always, you **cannot divide by zero**. $5 \div 0$ would need a number that gives 5 when multiplied by 0, and
 there is none, because anything times 0 is 0.
 
+<figure class="play" data-play="numline" data-mode="add"><span class="ai-tag">AI-created</span><figcaption><b>Hops left and right.</b> Repeated adding of a negative number goes left each time.</figcaption></figure>
+
 ## Worked examples
 
 **1. Products.** Work out $(-7) \times 6$, $(-4) \times (-9)$ and $0 \times (-15)$.

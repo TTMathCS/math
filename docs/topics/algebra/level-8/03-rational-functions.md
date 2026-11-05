@@ -125,6 +125,8 @@ Never multiply an inequality by an expression whose sign you do not know. Instea
    its bottom is 0.)
 4. Zeros of the top may be included for $\le$ or $\ge$; zeros of the bottom never are.
 
+<figure class="play" data-play="graph" data-form="recip"><span class="ai-tag">AI-created</span><figcaption><b>y = a / x.</b> It never touches the axes: the asymptotes.</figcaption></figure>
+
 ## Worked examples
 
 **1. A full description.** Describe $f(x) = \dfrac{2x + 1}{x - 3}$.

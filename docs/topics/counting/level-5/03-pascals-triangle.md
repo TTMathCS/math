@@ -168,6 +168,8 @@ exactly $r$ of them must be to the right. A route is fixed by choosing **which**
 $\dbinom{n}{r}$ ways. And the adding rule is clear here too: every route to a peg arrives from the peg above-left or
 the peg above-right. This idea, "choose which steps go which way", is the key to the next lesson.
 
+<figure class="play" data-play="pascal"><span class="ai-tag">AI-created</span><figcaption><b>Pascal's triangle.</b> Each number is the sum of the two above. Tap a row.</figcaption></figure>
+
 ## Worked examples
 
 **1. Two new rows.** Build rows 7 and 8 from row 6 (1, 6, 15, 20, 15, 6, 1).

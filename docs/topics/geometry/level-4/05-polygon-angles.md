@@ -158,6 +158,8 @@ hexagon**. Bees use the hexagon, which of the three encloses the most space for 
 If you are allowed to mix shapes, more patterns work. A regular octagon has 135° angles: two of them make 270°,
 leaving exactly 90° for a square. That is the octagon-and-square pattern often seen on kitchen floors.
 
+<figure class="play" data-play="angle" data-mode="polygon"><span class="ai-tag">AI-created</span><figcaption><b>Cut it into triangles.</b> n sides make n − 2 triangles.</figcaption></figure>
+
 ## Worked examples
 
 **1. The angle sum of a nonagon.** $n = 9$: $(9 - 2) \times 180 = 7 \times 180 = 1260°$.

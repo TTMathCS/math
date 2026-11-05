@@ -214,6 +214,8 @@ the stretch from 0 to 1.
 A fraction with 1 on top, like 1/2, 1/3 or 1/4, is called a **unit fraction**: it is one single part. On the number
 line, you can see again that 1/4 is closer to 0 than 1/3, and 1/3 is closer to 0 than 1/2. So 1/4 < 1/3 < 1/2.
 
+<figure class="play" data-play="fraction" data-mode="compare"><span class="ai-tag">AI-created</span><figcaption><b>Halves, thirds, quarters.</b> More pieces in the whole means smaller pieces.</figcaption></figure>
+
 ## Worked examples
 
 **1. Is it halves?** A rectangle is cut into two pieces. One piece is 5 squares and the other is 3 squares. Is it cut

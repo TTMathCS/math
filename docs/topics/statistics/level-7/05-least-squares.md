@@ -142,6 +142,8 @@ much smaller that is than "0.8" sounds.
 - The line predicts $y$ from $x$. To predict $x$ from $y$ you need a **different** line (it minimises horizontal
   misses instead of vertical ones), unless $r = \pm 1$.
 
+<figure class="play" data-play="scatter"><span class="ai-tag">AI-created</span><figcaption><b>Least squares.</b> The gold line keeps the squared gaps smallest.</figcaption></figure>
+
 ## Worked examples
 
 **1. The full calculation.** Practice hours $x$ and points $y$: (1, 2), (2, 4), (3, 5), (4, 4), (5, 5).

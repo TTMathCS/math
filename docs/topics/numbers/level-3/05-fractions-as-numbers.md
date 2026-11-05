@@ -133,6 +133,8 @@ A fraction is always a fraction **of** something. Half of a small pizza is less 
 the number line, the whole is the length from 0 to 1. In a story, ask: "a third of **what**?" A third of a class of
 24 is 8 children; a third of a sol (a Mars day, about 24 hours and 40 minutes) is a bit more than 8 hours.
 
+<figure class="play" data-play="fraction" data-mode="compare"><span class="ai-tag">AI-created</span><figcaption><b>Two fractions side by side.</b> Change them and see which bar is longer.</figcaption></figure>
+
 ## Worked examples
 
 **1. Place a fraction.** Where is $\tfrac25$ on the number line?

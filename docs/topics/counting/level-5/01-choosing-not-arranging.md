@@ -142,6 +142,8 @@ appears: it is the same pair as AB, already counted.
 - $\dbinom{n}{2} = \dfrac{n(n-1)}{2}$: the handshake numbers from level 2. A handshake is a choice of 2 people, and
   shaking hands with Ben is the same handshake as Ben shaking hands with you.
 
+<figure class="play" data-play="arrange" data-mode="comb"><span class="ai-tag">AI-created</span><figcaption><b>Choose, don't arrange.</b> AB and BA are the same group.</figcaption></figure>
+
 ## Worked examples
 
 **1. A pizza.** A pizza shop has 10 toppings. How many pizzas have exactly 3 different toppings?
