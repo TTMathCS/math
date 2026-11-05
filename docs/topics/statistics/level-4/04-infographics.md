@@ -125,6 +125,8 @@ Clear is not the same as honest. Ask:
 4. Check every number against the data, and every picture against its number.
 5. Add a **source line**. Show a friend for ten seconds and ask what the message was. If they cannot say, simplify.
 
+<figure class="play" data-play="bars" data-mode="cut"><span class="ai-tag">AI-created</span><figcaption><b>Check the scale.</b> The same numbers look very different when the scale doesn't start at 0. Made-up counts.</figcaption></figure>
+
 ## Worked examples
 
 **1. Checking the numbers.** An infographic says: "Survey of 80 students. Favourite subject: Math 30%, Art 25%,

@@ -244,6 +244,8 @@ The four-lines-and-a-gate tally is common in Canada, the UK and the US, but it i
 
 All three ideas are the same: one mark for each thing, and a finished picture for every five.
 
+<figure class="play" data-play="bars"><span class="ai-tag">AI-created</span><figcaption><b>From tallies to bars.</b> Each tap is one more tally. Made-up counts.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Reading tallies.** A tally chart shows: red, three gates and two lines; blue, one gate and four lines;

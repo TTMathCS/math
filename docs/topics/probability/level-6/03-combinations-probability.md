@@ -89,6 +89,8 @@ another, without replacement). Both are right. The combination method counts **u
 method follows **one order** of picks. Doing a question both ways is an excellent check, and worked example 2 does
 exactly that.
 
+<figure class="play" data-play="binom"><span class="ai-tag">AI-created</span><figcaption><b>Count, then divide.</b> Each bar is (n choose x) times the chance of one such run.</figcaption></figure>
+
 ## Worked examples
 
 **1. A committee by lot.** A club has 10 members: 6 girls and 4 boys. Three names are drawn from a hat to form a

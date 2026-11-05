@@ -147,6 +147,8 @@ binomial histogram becomes more and more bell-shaped; that is the subject of
 The most likely value (the **mode**) is always close to the mean $np$: it is the whole number $k$ with
 $np - (1 - p) \le k \le np + p$. For the quiz, $2.5 - 0.75 = 1.75 \le k \le 2.75$, so the mode is 2.
 
+<figure class="play" data-play="binom"><span class="ai-tag">AI-created</span><figcaption><b>The binomial distribution.</b> n tries, chance p each.</figcaption></figure>
+
 ## Worked examples
 
 **1. The quiz, in full.** $X \sim \operatorname{B}(10, \tfrac14)$. Since $p = \tfrac14$ and $1 - p = \tfrac34$,

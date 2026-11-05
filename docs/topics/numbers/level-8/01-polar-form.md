@@ -144,6 +144,8 @@ shapes keep their shape: a square goes to a square, a triangle to a similar tria
 \operatorname{cis}\tfrac\pi2$ is the quarter turn of level 7, with $s = 1$. This is why engineers and physicists use
 complex numbers for anything that rotates or oscillates: rotating is just multiplying.
 
+<figure class="play" data-play="unitwave"><span class="ai-tag">AI-created</span><figcaption><b>A point on the circle.</b> Its angle and its distance from the centre describe it.</figcaption></figure>
+
 ## Worked examples
 
 **1. Rectangular to polar (second quadrant).** Write $-1 + i\sqrt3$ in polar form.

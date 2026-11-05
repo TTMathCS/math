@@ -196,6 +196,8 @@ survey. Others put them from tallest to shortest, which makes the most popular a
 seasons, the natural order of the year (winter, spring, summer, fall) is also a good choice. Choose an order and say
 why.
 
+<figure class="play" data-play="bars"><span class="ai-tag">AI-created</span><figcaption><b>Make a bar graph.</b> Tap to change the counts. Made-up counts.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Drawing a bar graph.** Draw a bar graph of the pet table.

@@ -147,6 +147,8 @@ spins a little more slowly than Earth, so a sol is a bit longer than our day: ab
 as long as a short cartoon film. If you lived on Mars, your bedtime would slip later and later compared with Earth
 clocks!
 
+<figure class="play" data-play="timeclock"><span class="ai-tag">AI-created</span><figcaption><b>Read the clock.</b> Move the time and watch both hands.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Put the day in order.** Put these in order: eat lunch, wake up, go to bed, eat breakfast.

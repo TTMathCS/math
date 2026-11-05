@@ -157,6 +157,8 @@ the total grows only like the square root of the number of policies, while the e
 it; level 8 explains this), while one household facing one possible large loss faces a lot. That is why insurance can make
 sense for both sides even though its expected value favours the insurer.
 
+<figure class="play" data-play="binom"><span class="ai-tag">AI-created</span><figcaption><b>Spread.</b> The variance n p (1 − p) is biggest when p = 0.5.</figcaption></figure>
+
 ## Worked examples
 
 **1. Heads in three flips.** From lesson 1, $H$ takes 0, 1, 2, 3 with probabilities $\tfrac18$, $\tfrac38$, $\tfrac38$,

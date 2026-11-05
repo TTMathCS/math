@@ -113,6 +113,8 @@ $$P(\text{car behind 1} \mid \text{host opens 3}) = \frac{1/6}{1/2} = \frac13.$$
 Exactly the answer from the table, now by the formula of [lesson 1](01-given-two-way-tables.md). Reasoning backwards
 along a tree like this is a first taste of Bayes' theorem ([level 8](../level-8/index.md)).
 
+<figure class="play" data-play="monty"><span class="ai-tag">AI-created</span><figcaption><b>Play it.</b> Then play 1,000 games each way: switching wins about two times in three.</figcaption></figure>
+
 ## Worked examples
 
 **1. Changing the rules: the forgetful host.** Suppose the host does **not** know where the car is. He opens one of

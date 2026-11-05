@@ -114,6 +114,8 @@ switched off, so it kept going at whatever speed it had, steadily. That steady s
 distance-time graph, the steady motion is a straight line that just grazes the curve at $t = 2$: the **tangent line**.
 You will meet it properly in [lesson 3](03-secant-tangent.md).
 
+<figure class="play" data-play="secant"><span class="ai-tag">AI-created</span><figcaption><b>Instant speed.</b> Shrink the interval and the average turns into the rate at a point.</figcaption></figure>
+
 ## Worked examples
 
 **1. A car pulling away.** A dashcam records a car's distance from the traffic lights each second.

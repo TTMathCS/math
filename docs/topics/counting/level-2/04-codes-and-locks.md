@@ -100,6 +100,8 @@ ask: *can a symbol be used again?*
 - **Repeats allowed**: the number of choices stays the **same** at every step.
 - **No repeats**: the number of choices goes **down by one** at every step.
 
+<figure class="play" data-play="outfits"><span class="ai-tag">AI-created</span><figcaption><b>Choices in a row.</b> Each new choice multiplies the number of ways.</figcaption></figure>
+
 ## Worked examples
 
 **1. A small lock.** A lock has 2 dials, each showing 1, 2, 3 or 4. How many codes?

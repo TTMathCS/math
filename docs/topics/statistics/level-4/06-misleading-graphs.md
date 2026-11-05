@@ -160,6 +160,8 @@ bars, which grow in only one direction.
 5. Read the **actual numbers** and compare them yourself: how much bigger is one really, as a fraction or percent?
 6. Who made the graph, and is anything **left out** (missing years, missing groups)?
 
+<figure class="play" data-play="bars" data-mode="cut"><span class="ai-tag">AI-created</span><figcaption><b>The cut-off scale.</b> Start the scale at 8 instead of 0 and small differences look huge. Made-up counts.</figcaption></figure>
+
 ## Worked examples
 
 **1. How big does it look, how big is it?** A bar graph's axis starts at 90. Bar P is 95 and bar Q is 100.

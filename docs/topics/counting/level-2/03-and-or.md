@@ -114,6 +114,8 @@ counts the red ball twice! The true answer is 7 − 1 = **6**. When something co
 or take away the ones you counted twice. (In later levels this idea grows into a big tool called
 **inclusion-exclusion**.)
 
+<figure class="play" data-play="outfits"><span class="ai-tag">AI-created</span><figcaption><b>"And" multiplies.</b> A shirt and trousers and a hat: multiply the counts.</figcaption></figure>
+
 ## Worked examples
 
 **1. Borrowing a book.** The class library has 5 story books and 3 comics.

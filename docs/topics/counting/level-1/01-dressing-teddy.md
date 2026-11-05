@@ -118,6 +118,8 @@ Look at the box one more time. To get 5, you would have to count the 2 shirts do
 the bottom: that is counting the **labels** of the box, not the outfits **inside** it. The outfits live inside the
 box. There are 6 of them.
 
+<figure class="play" data-play="outfits"><span class="ai-tag">AI-created</span><figcaption><b>Dress the teddy.</b> Every shirt with every pair of trousers.</figcaption></figure>
+
 ## Worked examples
 
 **1. Hats and scarves.** A snowman has 3 hats (red, yellow, purple) and 2 scarves (long, short). How many

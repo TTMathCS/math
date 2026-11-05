@@ -160,6 +160,8 @@ Just as a double bar graph compares two groups, a line graph can carry **two lin
 example the noon temperature in two cities over the same week. Where the lines cross, the two cities were equally warm
 at that time.
 
+<figure class="play" data-play="bars"><span class="ai-tag">AI-created</span><figcaption><b>Compare the bars.</b> Change one and read the differences. Made-up counts.</figcaption></figure>
+
 ## Worked examples
 
 **1. Reading the double bar graph.** How many children in total chose basketball, and which grade liked it more?

@@ -144,6 +144,8 @@ spread grows like $\sqrt n$, so the **proportion** of heads, $\tfrac{X}{n}$, has
 $\tfrac{\sqrt{np(1 - p)}}{n} = \sqrt{\tfrac{p(1 - p)}{n}}$, which shrinks as $n$ grows. That is the margin of error of every
 opinion poll, and it is the start of the law of large numbers in lesson 5.
 
+<figure class="play" data-play="binom"><span class="ai-tag">AI-created</span><figcaption><b>The binomial turns into a bell.</b> Make n bigger and the bars look more and more like a normal curve.</figcaption></figure>
+
 ## Worked examples
 
 **1. Exactly 50 heads in 100 flips.** $P(X = 50) \approx P(49.5 < Y < 50.5)$, $z = \pm 0.1$:

@@ -156,6 +156,8 @@ whole number keeps divisibility.
 A clay tablet from ancient Babylon, now called Plimpton 322 (from about 1800 BCE), lists numbers closely tied to
 Pythagorean triples, including large ones. The recipe itself appears in Euclid's *Elements*, Book X.
 
+<figure class="play" data-play="pythag"><span class="ai-tag">AI-created</span><figcaption><b>a² + b² = c².</b> The rearrangement proof behind every Pythagorean triple.</figcaption></figure>
+
 ## Worked examples
 
 **1. From $m$ and $n$.** $m = 7$, $n = 4$ (coprime, not both odd): $a = 49 - 16 = 33$, $b = 56$, $c = 49 + 16 = 65$.

@@ -137,6 +137,8 @@ A day on Mars, called a **sol**, is **24 h 39 min 35 s** long. That is 39 minute
 Earth, nearly 40 minutes. People who drive rovers sometimes live on "Mars time" for a while, so their work day starts
 about 40 minutes later every Earth day, to keep pace with the rover's mornings.
 
+<figure class="play" data-play="timeclock" data-mode="elapsed"><span class="ai-tag">AI-created</span><figcaption><b>How long until?</b> Add minutes to a start time.</figcaption></figure>
+
 ## Worked examples
 
 **1. The bus.** 9:45 to 11:20: 15 min to 10:00, 1 h to 11:00, 20 min to 11:20. Total **1 h 35 min**.

@@ -210,6 +210,8 @@ Waiting times, the sizes of earthquakes, the populations of towns and the number
 are all skewed right. For them the 68–95–99.7 rule gives wrong answers, and the median and IQR describe the data
 better.
 
+<figure class="play" data-play="normal"><span class="ai-tag">AI-created</span><figcaption><b>The normal curve.</b> 68%, 95% and 99.7% within 1, 2 and 3 standard deviations.</figcaption></figure>
+
 ## Worked examples
 
 The heights of the adult women in a town are close to normal with mean $\mu = 163$ cm and standard deviation

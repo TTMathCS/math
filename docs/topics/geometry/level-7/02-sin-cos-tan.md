@@ -142,6 +142,8 @@ the ratio that uses the side you know and the side you want. Then rearrange.
 answered by the **inverse** functions $\sin^{-1}$, $\cos^{-1}$ and $\tan^{-1}$ (on calculators often the SHIFT or 2nd
 key). The little $-1$ does not mean "one over"; it means "undo". $\sin^{-1}(0.5) = 30°$ because $\sin 30° = 0.5$.
 
+<figure class="play" data-play="unitwave"><span class="ai-tag">AI-created</span><figcaption><b>Sine and cosine on the unit circle.</b> The height is the sine; the distance across is the cosine.</figcaption></figure>
+
 ## Worked examples
 
 **1. A rover on a slope.** A rover drives 50 m straight up a slope that rises at 12°. How much height does it gain,

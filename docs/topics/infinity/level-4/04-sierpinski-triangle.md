@@ -169,6 +169,8 @@ Write out Pascal's triangle and colour the odd numbers. The same pattern appears
 [Patterns in Pascal's triangle](../../counting/level-7/04-pascal-patterns.md). Mathematicians love it when the same shape
 appears from two completely different directions: it usually means there is a deeper reason underneath.
 
+<figure class="play" data-play="fractal" data-kind="sierpinski"><span class="ai-tag">AI-created</span><figcaption><b>The Sierpinski triangle.</b> Cut out the middle again and again.</figcaption></figure>
+
 ## Worked examples
 
 **1. Step 6.** How many triangles are there after 6 steps, what is the side of each (starting side 1), and what area is

@@ -175,6 +175,8 @@ Dog is the most popular pet. But did **most of the children** choose dog? Most o
 half. 7 children chose dog, and 9 did not (4 and 2 and 3 make 9). So **more children did not choose dog** than did!
 The honest sentence is "dog was chosen more than any other pet", not "most children like dogs best".
 
+<figure class="play" data-play="bars"><span class="ai-tag">AI-created</span><figcaption><b>Read the graph.</b> Which is most? How many more bananas than grapes? Made-up counts.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Reading a weather graph.** A class put one sticker on a graph each day for 15 school days.

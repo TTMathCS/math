@@ -174,6 +174,8 @@ The tangent at $x = a$ passes through $\big(a, f(a)\big)$ with slope $f'(a)$, so
 
 $$y = f(a) + f'(a)(x - a).$$
 
+<figure class="play" data-play="secant"><span class="ai-tag">AI-created</span><figcaption><b>From first principles.</b> ((1 + h)² − 1²) ÷ h = 2 + h, which tends to 2.</figcaption></figure>
+
 ## Worked examples
 
 **1. One point, from the definition.** Find $f'(2)$ for $f(x) = x^2 - 3x$.

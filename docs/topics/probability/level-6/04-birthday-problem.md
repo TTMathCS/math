@@ -133,6 +133,8 @@ where $e \approx 2.718$ is the number you meet in [Change](../../change/index.md
 about 0.500, close to the exact 0.493. It shows that matches become likely once $n$ is around $\sqrt{d}$, not
 around $d$.
 
+<figure class="play" data-play="birthday"><span class="ai-tag">AI-created</span><figcaption><b>Shared birthdays.</b> It passes 50% at 23 people.</figcaption></figure>
+
 ## Worked examples
 
 **1. Three people.** Find the chance that at least two of three people share a birthday.

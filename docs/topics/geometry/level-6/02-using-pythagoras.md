@@ -147,6 +147,8 @@ $$d^2 + R^2 = (R + h)^2 = R^2 + 2Rh + h^2, \qquad d = \sqrt{2Rh + h^2}$$
 
 For a person, $h$ is tiny compared with $R$, and $h^2$ hardly matters, so $d \approx \sqrt{2Rh}$.
 
+<figure class="play" data-play="pythag"><span class="ai-tag">AI-created</span><figcaption><b>Why it works.</b> The same four triangles leave c² one way and a² + b² the other.</figcaption></figure>
+
 ## Worked examples
 
 **1. A ladder.** A 13 m ladder leans against a wall with its foot 5 m out. How high does it reach?

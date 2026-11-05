@@ -140,6 +140,8 @@ It gains 9.8 m/s every second, exactly the acceleration of gravity from [level 5
 completely different routes, one by thinking about acceleration and one by shrinking intervals, agree. On Mars, where
 $d \approx 1.855t^2$, the same steps give a speed of $3.71t$ m/s.
 
+<figure class="play" data-play="secant"><span class="ai-tag">AI-created</span><figcaption><b>Shrink the gap.</b> Slide h toward 0.</figcaption></figure>
+
 ## Worked examples
 
 **1. The stone at 3 s.** Find the exact speed at $t = 3$.

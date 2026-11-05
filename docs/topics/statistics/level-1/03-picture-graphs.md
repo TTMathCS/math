@@ -171,6 +171,8 @@ Here is something nice about picture graphs. Each sticker is one real child. If 
 sticker, you could even find out who chose what. Nothing is lost. The graph is just the children's answers, sorted
 into rows and lined up.
 
+<figure class="play" data-play="bars"><span class="ai-tag">AI-created</span><figcaption><b>A graph you can change.</b> Tap the top of a bar to add one, the bottom to take one. Made-up counts.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. From a list to a graph.** Ten children said their favourite colour: red, blue, blue, green, red, blue,

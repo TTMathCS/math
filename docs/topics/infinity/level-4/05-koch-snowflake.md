@@ -149,6 +149,8 @@ finds more wiggles. In 1967 Mandelbrot wrote a famous paper about this, "How lon
 coastlines stop wiggling at the size of grains of sand, so they are not infinitely long; but over a wide range of
 ruler sizes they behave like a Koch curve.
 
+<figure class="play" data-play="fractal" data-kind="koch"><span class="ai-tag">AI-created</span><figcaption><b>The Koch snowflake.</b> Every level makes the edge 4/3 as long.</figcaption></figure>
+
 ## Worked examples
 
 **1. Perimeter at step 3.** Starting side 1, find the perimeter after 3 steps.

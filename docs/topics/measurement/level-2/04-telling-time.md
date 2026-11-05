@@ -773,6 +773,8 @@ Mars spins a little slower than Earth. A day on Mars, called a **sol**, lasts 24
 an Earth clock does not fit Mars. Some rover teams have lived on "Mars time" for the first months of a mission,
 starting work about 40 minutes later each Earth day, so that they were awake during the rover's Mars daytime.
 
+<figure class="play" data-play="timeclock"><span class="ai-tag">AI-created</span><figcaption><b>Telling time.</b> The short hand moves slowly between the numbers.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Read three clocks.**

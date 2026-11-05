@@ -176,6 +176,8 @@ ways:
 
 Every derivative in this level is a limit of exactly this $\frac{0}{0}$ kind.
 
+<figure class="play" data-play="secant"><span class="ai-tag">AI-created</span><figcaption><b>A limit.</b> As h gets close to 0, the slope gets close to 2.</figcaption></figure>
+
 ## Worked examples
 
 **1. Factor and cancel.** Find $\lim_{x \to 3} \dfrac{x^2 - 9}{x - 3}$.

@@ -103,6 +103,8 @@ of $h$.
 - **Say the units.** A rate of change of temperature over time is in °C per minute (or per hour, or per second).
 - **Uneven steps are fine.** Always divide the change in output by the actual change in input.
 
+<figure class="play" data-play="secant"><span class="ai-tag">AI-created</span><figcaption><b>Estimate the slope.</b> A small h gives a close estimate.</figcaption></figure>
+
 ## Worked examples
 
 **1. The very first reading.** Estimate how fast the cocoa is cooling at $t = 0$.

@@ -99,6 +99,8 @@ What about Teddy's outfits from level 1, 2 shirts and 3 pants? As a tree: 2 bran
 **6 tips**. The box and the tree show the same 6 outfits: each **row** of the box is one **first branch** of the
 tree. A tree is a box that can keep going: a box stops at two steps, a tree can have three, four or a hundred.
 
+<figure class="play" data-play="outfits"><span class="ai-tag">AI-created</span><figcaption><b>A tree as rows.</b> Each row is one branch: one shirt with all the trousers.</figcaption></figure>
+
 ## Worked examples
 
 **1. Ice-cream with toppings.** You choose a cone or a cup, then one flavour (chocolate or vanilla), then one topping

@@ -204,6 +204,8 @@ hide the shape; bins that are too narrow (one bar for every value) make a spiky 
 is about $\sqrt{n}$ bins for $n$ values, then adjust by eye. A real feature, such as two humps, survives a change of
 bin width; a chance bump usually does not.
 
+<figure class="play" data-play="galton"><span class="ai-tag">AI-created</span><figcaption><b>A shape from chance.</b> Many small random steps pile up into a symmetric bell.</figcaption></figure>
+
 ## Worked examples
 
 **1. Describe a distribution with SOCS.** The waiting times above.

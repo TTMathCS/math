@@ -127,6 +127,8 @@ A pictograph is friendly and fun to look at, and a key lets it show big numbers.
 exact, and some numbers do not fit the key. A bar graph with a scale can show any number. Use a pictograph to make a
 point quickly and clearly; use a bar graph when you need exact values.
 
+<figure class="play" data-play="bars"><span class="ai-tag">AI-created</span><figcaption><b>Counts as bars.</b> A pictograph shows the same counts with pictures. Made-up counts.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Reading with a key of 10.** Here is the school's book reading pictograph.

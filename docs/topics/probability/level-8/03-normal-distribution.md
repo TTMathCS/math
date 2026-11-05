@@ -157,6 +157,8 @@ The model is excellent for "how likely is something within 2 or 3 standard devia
 "how likely is something 6 standard deviations away?". Checking whether data look normal is part of
 [Statistics](../../statistics/index.md).
 
+<figure class="play" data-play="normal"><span class="ai-tag">AI-created</span><figcaption><b>Mean and spread.</b> The mean moves the curve; the standard deviation widens it.</figcaption></figure>
+
 ## Worked examples
 
 **1. Underweight cereal.** $X \sim \operatorname{N}(505, 3^2)$. $P(X < 500)$:

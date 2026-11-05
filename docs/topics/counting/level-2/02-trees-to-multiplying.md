@@ -97,6 +97,8 @@ The rule needs **every** end to split the same number of ways. In last lesson's 
 dogs came in 3. The tree was not even, so we cannot multiply "2 animals × something". Instead we count each part and
 **add**: 2 cats and 3 dogs make 5 pets. Before you multiply, always check: *does every branch split the same way?*
 
+<figure class="play" data-play="outfits"><span class="ai-tag">AI-created</span><figcaption><b>Multiply the choices.</b> Add hats: every outfit gets every hat.</figcaption></figure>
+
 ## Worked examples
 
 **1. The robot shop.** Head (4 kinds), body (3), arms (5), legs (2). Every head goes with every body, and so on, so

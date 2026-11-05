@@ -149,6 +149,8 @@ and $b$. In [level 6](../level-6/index.md) you will find that the stone's speed 
 for a falling stone, the average speed over any interval equals the speed at the **middle** of the interval. That is a
 special property of curves like $t^2$, and it makes them easy to work with.
 
+<figure class="play" data-play="secant"><span class="ai-tag">AI-created</span><figcaption><b>Average rate on a curve.</b> The secant's slope is the average rate between two points.</figcaption></figure>
+
 ## Worked examples
 
 **1. Late in the fall.** Find the stone's average speed from $t = 3$ to $t = 5$.

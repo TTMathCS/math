@@ -223,6 +223,8 @@ branches. For example: toss a coin; on heads roll a die, on tails spin a spinner
 splits into 6, the tails branch into 4. A tree can also **stop early** on some paths, as in a "best of three" match
 (worked example 3).
 
+<figure class="play" data-play="outfits"><span class="ai-tag">AI-created</span><figcaption><b>Every branch of the tree.</b> Each picture is one path through it.</figcaption></figure>
+
 ## Worked examples
 
 **1. More from three flips.** Use the tree above.

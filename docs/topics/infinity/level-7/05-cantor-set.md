@@ -164,6 +164,8 @@ It is also **self-similar**: the left third of $C$ is an exact copy of $C$ shrun
 third. It is a fractal, like the Sierpinski triangle of level 4. Its **fractal dimension** is
 $\tfrac{\log 2}{\log 3} \approx 0.63$: more than a scatter of points (dimension 0), less than a line (dimension 1).
 
+<figure class="play" data-play="fractal" data-kind="cantor"><span class="ai-tag">AI-created</span><figcaption><b>The Cantor set.</b> Remove the middle third of every piece, for ever.</figcaption></figure>
+
 ## Worked examples
 
 **1. Length after 4 stages.** After stage 4 there are $2^4 = 16$ pieces, each $\tfrac1{81}$ long, so $\tfrac{16}{81}$

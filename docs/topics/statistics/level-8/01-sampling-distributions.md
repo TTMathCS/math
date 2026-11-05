@@ -214,6 +214,8 @@ $$\text{standard deviation of } \hat{p} = \sqrt{\frac{p(1 - p)}{n}},$$
 
 centred on $p$, and close to normal when $np$ and $n(1 - p)$ are both at least about 10.
 
+<figure class="play" data-play="galton"><span class="ai-tag">AI-created</span><figcaption><b>Sums of many random steps.</b> They pile up into a bell, whatever the steps look like.</figcaption></figure>
+
 ## Worked examples
 
 **1. The tall sample, solved.** Heights: $\mu = 163$, $\sigma = 7$. Samples of $n = 25$.
