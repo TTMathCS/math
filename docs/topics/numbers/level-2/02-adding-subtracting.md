@@ -312,6 +312,8 @@ regrouping. Try it for the opening puzzle: 307 → 310 is 3, and 310 → 370 is 
 Taking away and adding undo each other. So if 52 − 27 = 25, then 25 + 27 must give back 52. Check: 25 + 27 is
 40 + 12 = 52. ✓ If you get back the number you started with, your subtraction is right. If not, look for the mistake.
 
+<figure class="play" data-play="numline" data-mode="add"><span class="ai-tag">AI-created</span><figcaption><b>Adding and subtracting as hops.</b> Start anywhere and hop.</figcaption></figure>
+
 ## Worked examples
 
 **1. Splitting.** 36 + 48. Tens: 30 + 40 = 70. Ones: 6 + 8 = 14. Together: 70 + 14 = **84**.

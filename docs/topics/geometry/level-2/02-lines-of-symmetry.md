@@ -188,6 +188,8 @@ and look).
 Nature loves symmetry. A butterfly, a leaf, a face and most animals have an up-and-down mirror line, more or less.
 Look at your own face in a mirror: it is nearly symmetric, but not perfectly. Nature is close, and math is exact.
 
+<figure class="play" data-play="transform"><span class="ai-tag">AI-created</span><figcaption><b>Flip it.</b> A flip over a line is a reflection; a shape with a line of symmetry lands on itself.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Finish the picture.** Here is half a picture on squared paper. The dashed line is a mirror line.

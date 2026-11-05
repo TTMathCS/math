@@ -161,6 +161,8 @@ The word "function" was used in this sense by Leibniz and Johann Bernoulli aroun
 made popular by Euler in the 1730s. The modern "exactly one output" definition came later, in the 1800s, when
 mathematicians found strange functions that no single formula seemed to describe.
 
+<figure class="play" data-play="graph" data-form="quad"><span class="ai-tag">AI-created</span><figcaption><b>A function.</b> Every x gives exactly one y.</figcaption></figure>
+
 ## Worked examples
 
 **1. Evaluating.** $f(x) = 3x^2 - 2x + 1$. Find $f(2)$, $f(-1)$ and $f(a + 1)$.

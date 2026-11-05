@@ -110,6 +110,8 @@ In every case with $|r| \ge 1$ the terms do **not** shrink to 0, and a series wh
 settle. The formula $\frac{a}{1 - r}$ still gives a number when you put in $r = 2$, but that number ($-a$) means
 nothing. Always **check $|r| < 1$ first**.
 
+<figure class="play" data-play="seq" data-kind="geom"><span class="ai-tag">AI-created</span><figcaption><b>An infinite sum that settles.</b> Set r = 0.5 and add terms: the sum creeps up towards 2a.</figcaption></figure>
+
 ## Worked examples
 
 **1. A first sum.** Find $8 + 4 + 2 + 1 + \cdots$.

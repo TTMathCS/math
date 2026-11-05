@@ -145,6 +145,8 @@ Doubling grows faster than every polynomial. It is a geometric sequence, the sub
    of the pattern, or a reason from a picture, is what makes it certain. (Remember the circle-cutting puzzle in
    [Patterns that trick you](../level-3/06-patterns-that-trick.md).)
 
+<figure class="play" data-play="seq" data-kind="square"><span class="ai-tag">AI-created</span><figcaption><b>Differences.</b> The square numbers go up by 3, 5, 7 …: the second difference is always 2.</figcaption></figure>
+
 ## Worked examples
 
 **1. Linear.** $3, 7, 11, 15, 19$: first differences 4, 4, 4, 4. Linear, $t_n = 4n - 1$.

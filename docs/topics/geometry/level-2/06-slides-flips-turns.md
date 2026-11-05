@@ -218,6 +218,8 @@ The moves explain the tilings from the last lesson. In a square tiling, you can 
 to the right and it lands on itself. In the tiling made from a lopsided triangle, every second triangle is a **half
 turn** of its neighbour. Every tiling is a shape repeated by slides, flips and turns.
 
+<figure class="play" data-play="transform"><span class="ai-tag">AI-created</span><figcaption><b>Slide, flip, turn.</b> The gold flag moves; the grey one stays to compare.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Describe a slide.** A shape's top corner is at a point. After a slide, the same corner is 4 squares

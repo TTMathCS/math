@@ -119,6 +119,8 @@ When the ratio is between 0 and 1, the pieces shrink fast enough for the sum to 
 formula for the total, and why it works, is in [Patterns level 7: infinite geometric series](../../patterns/level-7/03-infinite-geometric.md).
 Here we work each one out from the picture or the partial sums.
 
+<figure class="play" data-play="seq" data-kind="geom"><span class="ai-tag">AI-created</span><figcaption><b>Half, a quarter, an eighth …</b> Set r = 0.5: the sum gets closer and closer to twice the first term but never passes it.</figcaption></figure>
+
 ## Worked examples
 
 **1. How many pieces to get within a thousandth?** How many pieces of $\frac12 + \frac14 + \cdots$ do you need before

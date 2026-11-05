@@ -121,6 +121,8 @@ true answer is $\dfrac{252}{2} = 126$.
 This only happens when the groups are the **same size** and have **no names**. With a team of 4 and a team of 6
 there is no double counting: the team of 4 is always the smaller one, so you can tell them apart.
 
+<figure class="play" data-play="arrange" data-mode="comb"><span class="ai-tag">AI-created</span><figcaption><b>In or out.</b> Each group of k is one way of choosing who is in.</figcaption></figure>
+
 ## Worked examples
 
 **1. Big numbers, small work.** Find $\dbinom{12}{10}$, $\dbinom{20}{17}$ and $\dbinom{100}{98}$.

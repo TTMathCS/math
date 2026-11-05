@@ -157,6 +157,8 @@ It was guessed by Euler and Legendre, and first proved by Gauss in 1796, when he
 lets you **flip** a hard question ("is 5 a square mod 1013?") into an easy one ("is 1013 a square mod 5?"). A
 companion rule, also stated without proof: 2 is a square mod $p$ exactly when $p \equiv 1$ or $7 \pmod 8$.
 
+<figure class="play" data-play="clock" data-mode="times"><span class="ai-tag">AI-created</span><figcaption><b>Squares on a clock.</b> Set a = b and see which hours a square can land on.</figcaption></figure>
+
 ## Worked examples
 
 **1. The squares mod 13.** Square 1 to 6: $1, 4, 9, 16 \equiv 3, 25 \equiv 12, 36 \equiv 10$. The residues are

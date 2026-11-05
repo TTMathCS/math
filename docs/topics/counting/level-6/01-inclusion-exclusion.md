@@ -122,6 +122,8 @@ Often the question asks for elements in **none** of the sets. Then take the unio
 
 $$\text{none} = \text{total} - |A \cup B \cup C|.$$
 
+<figure class="play" data-play="venn"><span class="ai-tag">AI-created</span><figcaption><b>Inclusion-exclusion.</b> Add both circles, then take away the overlap counted twice.</figcaption></figure>
+
 ## Worked examples
 
 **1. A survey with three languages.** Of 40 students, 20 study French, 15 Spanish and 10 German. 6 study French and

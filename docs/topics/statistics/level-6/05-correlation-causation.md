@@ -117,6 +117,8 @@ build a case from many observational studies, from a known **mechanism** (how th
 3. How many data points are there, and how many pairs were searched? Could it be chance?
 4. Was it an experiment with random assignment, or an observational study?
 
+<figure class="play" data-play="scatter"><span class="ai-tag">AI-created</span><figcaption><b>A link is not a cause.</b> Two things can move together because a third thing drives both. Made-up points.</figcaption></figure>
+
 ## Worked examples
 
 **1. Lurking variable.** In a survey, people who use more sunscreen got sunburned more often last summer. Does

@@ -140,6 +140,8 @@ every term follows it, not just the first five.
 Notice that the rule can have fractions in it even though every term is a whole number. In $\dfrac{n(n + 1)}{2}$, one
 of $n$ and $n + 1$ is always even, so the division always comes out exactly.
 
+<figure class="play" data-play="seq" data-kind="square"><span class="ai-tag">AI-created</span><figcaption><b>A quadratic pattern.</b> The bar tops curve upward.</figcaption></figure>
+
 ## Worked examples
 
 **1. A rule with a fraction.** Find the rule for $5, 8, 14, 23, 35$.

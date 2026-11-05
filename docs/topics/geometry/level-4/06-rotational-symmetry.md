@@ -155,6 +155,8 @@ Rotational symmetry is everywhere things spin: wheels and hubcaps, fans, propell
 order 5), snowflakes (order 6, because of the way water molecules fit together), and the logos and tiles that
 designers make. Engineers care about it: a wheel with rotational symmetry is balanced, so it spins without wobbling.
 
+<figure class="play" data-play="transform"><span class="ai-tag">AI-created</span><figcaption><b>Turn it.</b> Four quarter-turns bring the flag back to where it started.</figcaption></figure>
+
 ## Worked examples
 
 **1. A regular octagon.** Order **8** (8 equal sides and angles). Angle of rotation $360 \div 8 = 45°$. Lines of

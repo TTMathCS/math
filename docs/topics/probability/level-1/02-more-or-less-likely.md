@@ -167,6 +167,8 @@ the wrong answer.
 So for a fair test, the things in the bag must be the same size, the same shape and the same feel. Only the colour
 is different, and you cannot feel colour.
 
+<figure class="play" data-play="spinner" data-parts="red:1,blue:5"><span class="ai-tag">AI-created</span><figcaption><b>More likely, less likely.</b> Blue covers five times as much of the circle as red. Spin and see.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Which colour is more likely?**

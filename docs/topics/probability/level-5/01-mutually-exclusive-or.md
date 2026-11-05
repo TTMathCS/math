@@ -146,6 +146,8 @@ the same answer as adding red, green and yellow.
 Ask one question: **"Is there a single outcome that is in both events?"** Try to build one. If you can, they are not
 mutually exclusive. If it is impossible, they are.
 
+<figure class="play" data-play="venn"><span class="ai-tag">AI-created</span><figcaption><b>Overlap or not.</b> Multiples of 2 and of 3 overlap at 6, 12, 18; pick 4 and 6 and see a different overlap.</figcaption></figure>
+
 ## Worked examples
 
 **1. A die.** Find the probability of rolling a 2 or a 5.

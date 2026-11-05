@@ -128,6 +128,8 @@ Given dots on a straight line, you can read the rule off:
 2. Run back to $n = 0$ (step back one more time from the first dot). The height there is the zero term.
 3. Write $t_n = dn + (\text{zero term})$.
 
+<figure class="play" data-play="seq" data-kind="arith"><span class="ai-tag">AI-created</span><figcaption><b>A pattern as a graph.</b> Adding the same each time puts the bar tops on a straight line.</figcaption></figure>
+
 ## Worked examples
 
 **1. Plot $t_n = 2n + 1$.** The points are $(1, 3)$, $(2, 5)$, $(3, 7)$, $(4, 9)$. Each step is 1 across and 2 up,

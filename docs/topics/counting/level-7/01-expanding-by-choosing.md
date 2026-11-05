@@ -191,6 +191,8 @@ $ba$. For $n = 3$ a cube of side $a + b$ splits into 8 boxes: one $a^3$ cube, on
 three $ab^2$ rods, matching the 8 words of the tree. For $n = 4$ and beyond there is no picture to draw, but the
 counting argument does not care: it works in any number of brackets.
 
+<figure class="play" data-play="pascal"><span class="ai-tag">AI-created</span><figcaption><b>Coefficients by choosing.</b> Row n of Pascal's triangle gives the numbers in (a + b)ⁿ.</figcaption></figure>
+
 ## Worked examples
 
 **1. Expand $(a + b)^4$ by choosing.** There are 4 brackets.

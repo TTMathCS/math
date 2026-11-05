@@ -266,6 +266,8 @@ true at once, and one term cannot sit in two separate windows. The same argument
 numbers: pick a closeness less than half the gap between them. So **a limit, if it exists, is one single number**.
 That is what lets us write "the limit" and use an equals sign.
 
+<figure class="play" data-play="seq" data-kind="geom"><span class="ai-tag">AI-created</span><figcaption><b>Settling down.</b> With r between −1 and 1 the terms shrink towards 0.</figcaption></figure>
+
 ## Worked examples
 
 **1. How far for one thousandth?** For $a_n = \dfrac1n$, from which term on is every term within 0.001 of 0?

@@ -164,6 +164,8 @@ edges.**
 
 The same idea works the other way: the same perimeter can surround different areas, which is the rabbit puzzle.
 
+<figure class="play" data-play="area" data-shape="rect"><span class="ai-tag">AI-created</span><figcaption><b>Count the squares.</b> Then check: length × width.</figcaption></figure>
+
 ## Worked examples
 
 **1. Counting.** A shape on a centimetre grid covers 9 whole squares and 6 half squares. Its area?

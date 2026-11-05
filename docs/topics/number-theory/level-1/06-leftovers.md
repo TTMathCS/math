@@ -206,6 +206,8 @@ in [lesson 2](02-odd-even-line.md). So odd and even are really just "leftovers w
 What if there are fewer sweets than friends? 10 friends share 7 sweets. There are not even enough for one round. So
 each friend gets **0**, and **all 7 are left over**. The rule still works: 7 is smaller than 10.
 
+<figure class="play" data-play="clock"><span class="ai-tag">AI-created</span><figcaption><b>Leftovers on a clock.</b> Share around n places; what is left over is where you stop.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Seventeen stickers among five friends.**

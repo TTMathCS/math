@@ -136,6 +136,8 @@ With the rule "if it rains, then the ground gets wet", here is what you can and 
 
 The two unsafe moves are famous mistakes. Detectives in stories make them, and so do people reading adverts.
 
+<figure class="play" data-play="truth"><span class="ai-tag">AI-created</span><figcaption><b>If … then.</b> Pick IF P THEN Q: the only false row is "P true, Q false".</figcaption></figure>
+
 ## Worked examples
 
 **1. Numbers.** "If a whole number ends in 0, then it is even."

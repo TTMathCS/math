@@ -166,6 +166,8 @@ Repeating decimals can be turned back into fractions too, with a clever trick th
 6](../level-6/index.md). For now, here is a taste: you know $0.\overline{1} = \tfrac19$, so
 $0.\overline{4} = 4 \times \tfrac19 = \tfrac49$.
 
+<figure class="play" data-play="fraction" data-mode="compare"><span class="ai-tag">AI-created</span><figcaption><b>Compare two fractions.</b> Bars of the same length are equal amounts, however they are written.</figcaption></figure>
+
 ## Worked examples
 
 **1. Divide.** Write $\tfrac{7}{20}$ as a decimal. Either divide $7 \div 20 = 0.35$, or notice

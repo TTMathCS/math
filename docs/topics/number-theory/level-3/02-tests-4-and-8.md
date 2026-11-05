@@ -147,6 +147,8 @@ So 2024 and 2028 are leap years. 1900 was not (it ends in 00 and 1900 is not div
 A year on Mars is much longer: about 687 Earth days, which is about 669 Mars days (called **sols**). Any calendar for
 Mars would need leap rules of its own.
 
+<figure class="play" data-play="hundred" data-mode="multiples"><span class="ai-tag">AI-created</span><figcaption><b>Multiples of 4 and 8.</b> Look at the last two digits of each shaded number.</figcaption></figure>
+
 ## Worked examples
 
 **1. Is 5,716 divisible by 4?**

@@ -134,6 +134,8 @@ $2^{n-1}$ means $n - 1$ twos multiplied together, the same "one less than the po
 has had no doublings yet. The Fibonacci sequence shows that a recursive rule can be very simple while the explicit
 one is very hard.
 
+<figure class="play" data-play="seq" data-kind="arith"><span class="ai-tag">AI-created</span><figcaption><b>Step rule and position rule.</b> Term n is a + (n − 1) × d.</figcaption></figure>
+
 ## Worked examples
 
 **1. Both rules for 7, 11, 15, 19, ...**

@@ -167,6 +167,8 @@ places ($34 \times 1000 = 34\,000$).
 This lets you use small facts for big numbers: $30 \times 7$ is $10 \times 3 \times 7 = 10 \times 21 = 210$.
 And $60 \times 80$ is $6 \times 8 \times 10 \times 10 = 48 \times 100 = 4800$.
 
+<figure class="play" data-play="hundred" data-mode="multiples"><span class="ai-tag">AI-created</span><figcaption><b>A times table on the hundred chart.</b> Pick a number and see its multiples.</figcaption></figure>
+
 ## Worked examples
 
 **1. Rebuild $6 \times 8$.** Split 6 into 5 and 1: $5 \times 8 = 40$ (half of 80) and $1 \times 8 = 8$. Total

@@ -166,6 +166,8 @@ Every term is exactly **1 more** than 3 × its position. So the 100th term is $3
 a different road. When two different ways give the same answer, you can trust it much more. (In level 4 you will
 see why these two ways must always agree.)
 
+<figure class="play" data-play="seq" data-kind="arith"><span class="ai-tag">AI-created</span><figcaption><b>Term and position.</b> The small numbers under the bars are the positions.</figcaption></figure>
+
 ## Worked examples
 
 **1. The 10th and 25th terms of 5, 9, 13, 17, ...**

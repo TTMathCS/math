@@ -150,6 +150,8 @@ back where you started. That is why every adding fact gives you taking-away fact
 Adding **0** changes nothing: 7 + 0 = 7 (you put together 7 things with no things). Taking away **0** changes
 nothing: 7 − 0 = 7. Taking away **everything** leaves nothing: 7 − 7 = 0.
 
+<figure class="play" data-play="numline" data-mode="add"><span class="ai-tag">AI-created</span><figcaption><b>Hop along the line.</b> Adding hops right; taking away hops left.</figcaption></figure>
+
 ## Worked examples
 
 **1. Counting on.** 8 birds sit on a fence. 4 more land. How many birds now?

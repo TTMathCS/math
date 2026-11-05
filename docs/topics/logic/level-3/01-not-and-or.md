@@ -148,6 +148,8 @@ false, one blunt pencil is enough. So the opposite is:
 This is the same idea as the **and** rule. "All my pencils are sharp" is really "pencil 1 is sharp **and** pencil 2 is
 sharp **and** pencil 3 is sharp ...", and to break a long **and**, one failure is enough.
 
+<figure class="play" data-play="truth"><span class="ai-tag">AI-created</span><figcaption><b>NOT, AND, OR.</b> Pick one and tap the rows: AND needs both, OR needs at least one.</figcaption></figure>
+
 ## Worked examples
 
 **1. True or false?** Decide each one.

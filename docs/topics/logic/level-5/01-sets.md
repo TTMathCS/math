@@ -194,6 +194,8 @@ With these letters, set-builder form gets short. "The even integers" is
 $\{\, n \in \mathbb{Z} : n = 2k \text{ for some } k \in \mathbb{Z} \,\}$, read "the set of integers $n$ such that $n$
 is twice some integer".
 
+<figure class="play" data-play="venn"><span class="ai-tag">AI-created</span><figcaption><b>Two sets.</b> A and B hold multiples from 1 to 20; the numbers outside both sit in the corners.</figcaption></figure>
+
 ## Worked examples
 
 **1. From a description to a list.** List $A = \{\, n \in \mathbb{N} : n^2 < 30 \,\}$.

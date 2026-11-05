@@ -111,6 +111,8 @@ is geometric ($n$ is an **exponent**): each step multiplies by 2. $t_n = n^2$ is
 exponent). And $t_n = 2^n + 1$ is neither: the ratios are $\tfrac53, \tfrac95, \tfrac{17}{9}, \ldots$ The "+1" spoils
 the multiplying.
 
+<figure class="play" data-play="seq" data-kind="geom"><span class="ai-tag">AI-created</span><figcaption><b>a and r.</b> a is the first bar; r is how many times bigger each bar is than the last.</figcaption></figure>
+
 ## Worked examples
 
 **1. A shrinking sequence.** $t_3 = 100$ and $t_6 = 12.5$. Find $a$ and $r$.

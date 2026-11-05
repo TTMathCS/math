@@ -125,6 +125,8 @@ Real problems usually need a basic count plus one of these tools:
 
 A good habit: when you finish, **check with a tiny version** of the problem that you can list by hand.
 
+<figure class="play" data-play="arrange" data-mode="perm"><span class="ai-tag">AI-created</span><figcaption><b>Order or not?</b> Compare the list here with the same n and k on a choosing lesson.</figcaption></figure>
+
 ## Worked examples
 
 **1. Number plates.** A plate has 3 letters (A to Z) then 3 digits (0 to 9). Order matters (ABC is not CBA) and

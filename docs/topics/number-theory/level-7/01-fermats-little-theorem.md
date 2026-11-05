@@ -163,6 +163,8 @@ The reason: write $n = q(p-1) + r$. Then $a^n = \big(a^{p-1}\big)^q \cdot a^r \e
 The rule is: **reduce the base mod $p$, but reduce the exponent mod $p - 1$**. Mixing these up is the most common
 mistake with this theorem.
 
+<figure class="play" data-play="clock" data-mode="times"><span class="ai-tag">AI-created</span><figcaption><b>Multiplying on a prime clock.</b> With n = 7, every number from 1 to 6 has a partner that gives 1.</figcaption></figure>
+
 ## Worked examples
 
 **1. $3^{100} \bmod 7$.** 7 is prime and 3 is not a multiple of 7, so $3^6 \equiv 1$. Divide the exponent by 6:

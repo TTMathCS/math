@@ -163,6 +163,8 @@ $$2 + 4 + \cdots + 2n = n^2 + n = n(n + 1)$$
 That is twice the $n$th triangular number from level 3, which makes sense: $2 + 4 + \cdots + 2n$ is
 $2 \times (1 + 2 + \cdots + n)$.
 
+<figure class="play" data-play="seq" data-kind="square"><span class="ai-tag">AI-created</span><figcaption><b>Odd numbers add to squares.</b> 1, 1 + 3, 1 + 3 + 5 …: each sum is a square.</figcaption></figure>
+
 ## Worked examples
 
 **1. The opening question.** 99 is the 50th odd number, so $1 + 3 + \cdots + 99 = 50^2 = 2500$.

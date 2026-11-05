@@ -163,6 +163,8 @@ The same backwards thinking works for other rules.
 - **Last counter loses** (called the **misère** version, from the French for "misery"): now 1 counter on your turn is
   L, since you are forced to take it. Working back: L positions are **1, 5, 9, 13, ...**, one more than a multiple of 4.
 
+<figure class="play" data-play="nim"><span class="ai-tag">AI-created</span><figcaption><b>Play Nim.</b> The computer leaves a multiple of 4 whenever it can. Can you win?</figcaption></figure>
+
 ## Worked examples
 
 **1. A pile of 23.** You go first, take 1 to 3, last counter wins. What do you take?

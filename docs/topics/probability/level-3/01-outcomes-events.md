@@ -190,6 +190,8 @@ $2 \times 2 = 4$ events: no outcomes (impossible), $\{H\}$, $\{T\}$, and $\{H, T
 So a die has only 6 outcomes but 64 events. That is another way to see the friend's mistake: there are many events,
 and they are not all equally likely.
 
+<figure class="play" data-play="dice" data-n="1"><span class="ai-tag">AI-created</span><figcaption><b>Six outcomes.</b> The event "an even number" is three of them: 2, 4 and 6.</figcaption></figure>
+
 ## Worked examples
 
 **1. A four-colour spinner.** A spinner has four equal parts: red, blue, green and yellow.

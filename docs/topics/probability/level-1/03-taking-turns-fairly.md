@@ -166,6 +166,8 @@ need to choose just **once**.
 - "Pick a number from 1 to 10, and closest to my number wins." Fair only if the person with the number cannot change
   it after hearing the guesses. Write it down first, and keep it hidden.
 
+<figure class="play" data-play="spinner" data-parts="red:1,blue:1"><span class="ai-tag">AI-created</span><figcaption><b>A fair way to choose.</b> Two equal halves give each side the same chance.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Is it fair?**

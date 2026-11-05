@@ -191,6 +191,8 @@ $1 \times 9 = 9$. They are $25 - 1$, $25 - 4$, $25 - 9$, $25 - 16$: the square m
 of these: start from a 5 by 5 square (25 dots), take off one column of 5 to leave 5 rows of 4 (20 dots), then add
 one more row of 4 to get 6 rows of 4 (24 dots). You took off 5 and put back 4, so you are 1 short: $24 = 25 - 1$.
 
+<figure class="play" data-play="hundred" data-mode="multiples"><span class="ai-tag">AI-created</span><figcaption><b>Patterns in the times tables.</b> Try 9 and 11.</figcaption></figure>
+
 ## Worked examples
 
 **1. The last digit of $4 \times 37$, without multiplying it all out.** The last digits of the 4s repeat every 5.

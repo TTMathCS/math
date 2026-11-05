@@ -204,6 +204,8 @@ There are 6 corners, so 6 × 3 = 18. But wait: each diagonal has been counted **
 ends. So there are 18 ÷ 2 = **9** diagonals. That kind of careful counting, and then fixing the double count, is a
 real mathematician's trick.
 
+<figure class="play" data-play="angle" data-mode="polygon"><span class="ai-tag">AI-created</span><figcaption><b>Regular polygons.</b> More sides, bigger angles at each corner.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Name it.** A shape has 8 straight sides, all the same length, and 8 corners, all the same size. What

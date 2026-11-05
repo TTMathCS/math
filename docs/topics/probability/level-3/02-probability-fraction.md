@@ -141,6 +141,8 @@ A probability is an ordinary fraction, so everything you know about fractions wo
   wins. If not, change them to the same bottom first (equivalent fractions, from
   [Numbers level 3](../../numbers/level-3/06-equivalent-fractions.md)).
 
+<figure class="play" data-play="spinner" data-parts="red:1,blue:2,gold:3"><span class="ai-tag">AI-created</span><figcaption><b>Probability as a fraction.</b> Red is 1/6 of the circle, blue 2/6, gold 3/6.</figcaption></figure>
+
 ## Worked examples
 
 **1. The two bags.** Back to the question at the start.

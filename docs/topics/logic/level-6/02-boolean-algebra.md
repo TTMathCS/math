@@ -134,6 +134,8 @@ So NOT costs 1 NAND, AND costs 2, OR costs 3. A gate that can build every other 
 universal too (by the dual argument). Chip factories like this: one kind of gate, made billions of times, is simpler
 to manufacture than many kinds.
 
+<figure class="play" data-play="truth"><span class="ai-tag">AI-created</span><figcaption><b>Check a law.</b> Compare XOR with "(P OR Q) AND NOT (P AND Q)" row by row.</figcaption></figure>
+
 ## Worked examples
 
 **1. Absorption in action.** Simplify $\neg(\neg A \lor \neg B) \lor B$.

@@ -174,6 +174,8 @@ usually reliable. Using it **outside** the range (the spring with 5 kg) is **ext
 spring may stretch differently or snap, and the straight line knows nothing about that. A model is only trusted where
 it has been tested.
 
+<figure class="play" data-play="graph" data-form="power"><span class="ai-tag">AI-created</span><figcaption><b>Straight or curved.</b> n = 1 is a line; any other power bends.</figcaption></figure>
+
 ## Worked examples
 
 **1. A linear table.** $x$: 0, 1, 2, 3, 4 and $y$: 3, 7, 11, 15, 19.

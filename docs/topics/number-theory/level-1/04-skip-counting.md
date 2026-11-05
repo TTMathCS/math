@@ -371,6 +371,8 @@ Six nickels are 5, 10, 15, 20, 25, 30: **30 cents**. A **dime** is worth 10 cent
 three dimes are 10, 20, 30, also 30 cents. So six nickels are worth the same as three dimes. That is the "two 5s
 make a 10" idea again.
 
+<figure class="play" data-play="hundred" data-mode="multiples"><span class="ai-tag">AI-created</span><figcaption><b>Skip counting.</b> Count by 2s, 5s or 10s and see where you land.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Socks by 2s.** There are 9 pairs of socks on the line. How many socks is that?

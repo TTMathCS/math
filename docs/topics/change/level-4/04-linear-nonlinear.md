@@ -135,6 +135,8 @@ from 9 to 36, **four times** as big. A doubled square holds 2 rows of 2 copies o
 For non-linear change, the rate of change depends on **where** you look. The area of a square grows by 3 cm² per cm
 between sides 1 and 2, but by 11 cm² per cm between sides 5 and 6. There is no single "rate" for the whole table.
 
+<figure class="play" data-play="graph" data-form="power"><span class="ai-tag">AI-created</span><figcaption><b>Steady or not.</b> A line changes by the same amount each step; a curve does not.</figcaption></figure>
+
 ## Worked examples
 
 **1. Thirty years of savings.** After $n$ years, Steady has $1000 + 100n$ dollars: after 30 years,

@@ -159,6 +159,8 @@ calculation, like "angles on a straight line" or "angles around a point". This i
 argument where every step has a reason. Writing the reason also catches mistakes, because if you cannot name a fact
 for a step, the step is probably wrong.
 
+<figure class="play" data-play="angle" data-mode="one"><span class="ai-tag">AI-created</span><figcaption><b>A straight angle.</b> Turn to 180°: a straight line. All the way round is 360°.</figcaption></figure>
+
 ## Worked examples
 
 **1. One missing angle on a line.** Two adjacent angles on a straight line are 128° and $a$. Find $a$.

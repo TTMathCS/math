@@ -160,6 +160,8 @@ All the random variables in this level take values you can **list**: whole numbe
 **discrete**. In [level 8](../level-8/index.md) you will meet **continuous** random variables (a waiting time, a
 height), which can take any value in an interval and need a different picture: a curve instead of bars.
 
+<figure class="play" data-play="dice" data-n="2"><span class="ai-tag">AI-created</span><figcaption><b>A random variable.</b> The total of two dice: each value has its own chance.</figcaption></figure>
+
 ## Worked examples
 
 **1. Heads in three flips.** Flip a fair coin three times and let $H$ be the number of heads. Find the distribution

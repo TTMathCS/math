@@ -111,6 +111,8 @@ The **tangent** at $x = a$ has slope $m = f'(a)$. The **normal** is the line thr
 the tangent. Perpendicular lines have slopes that multiply to $-1$, so the normal's slope is $-\frac{1}{m}$ (when
 $m \ne 0$). Normals point straight out from a curve, the way light bounces off a curved mirror.
 
+<figure class="play" data-play="graph" data-form="power"><span class="ai-tag">AI-created</span><figcaption><b>y = xⁿ.</b> The slope of xⁿ is n xⁿ⁻¹: the higher the power, the faster it steepens.</figcaption></figure>
+
 ## Worked examples
 
 **1. Roots and fractions.** Differentiate $y = 3\sqrt{x} - \dfrac{2}{x^2} + \dfrac{1}{4x}$.

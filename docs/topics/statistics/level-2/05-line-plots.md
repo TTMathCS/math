@@ -125,6 +125,8 @@ outliers.
 Each X is one child, so the number of X's is the number of children. Count them: 2 and 3 and 5 and 4 and 3 and 2 and
 1 make **20**. Twenty children, twenty X's. The total check works here too.
 
+<figure class="play" data-play="stats" data-show="centre"><span class="ai-tag">AI-created</span><figcaption><b>A line plot.</b> Tap to add an X (here a dot) above a value.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Questions from the teeth plot.**

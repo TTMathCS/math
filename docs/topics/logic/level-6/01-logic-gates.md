@@ -193,6 +193,8 @@ It is called "half" because it cannot accept a carry coming in from the column t
 three bits (the two digits and the incoming carry) and is built from two half adders and an OR gate. Line up 64 full
 adders, each passing its carry to the next, and you can add 64-bit numbers. That is, in outline, how a processor adds.
 
+<figure class="play" data-play="truth"><span class="ai-tag">AI-created</span><figcaption><b>Lamps as gates.</b> Gold means on. Each connective is a gate wired from P and Q.</figcaption></figure>
+
 ## Worked examples
 
 **1. Reading the tables.** What does each gate output for $A = 1$, $B = 0$? AND: 0. OR: 1. XOR: 1 (they differ).

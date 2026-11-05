@@ -125,6 +125,8 @@ which grows without limit. Yet nobody would pay a million dollars to play: half 
 puzzle (posed in the 1700s) is one reason people think about **risk** as well as the average, which is the subject of
 the next lesson.
 
+<figure class="play" data-play="dice" data-n="1"><span class="ai-tag">AI-created</span><figcaption><b>The long-run average.</b> Over many rolls a die averages 3.5, a value it can never show.</figcaption></figure>
+
 ## Worked examples
 
 **1. Chuck-a-luck.** Let $X$ be the player's profit on a 1-dollar bet. The number of dice showing your number is

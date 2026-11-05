@@ -196,6 +196,8 @@ You can often turn a false sentence into a true one by changing a word.
 - "All birds can fly." False. Change it: "**Most** birds can fly." True. Or: "**Some** birds can fly." True.
 - "3 is more than 5." False. Change it: "3 is **less** than 5." True.
 
+<figure class="play" data-play="truth"><span class="ai-tag">AI-created</span><figcaption><b>True or false.</b> Pick NOT and see a statement flip.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. True or false?** Decide for each one, and say how you know.

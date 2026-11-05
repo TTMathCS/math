@@ -127,6 +127,8 @@ forecasting the weather. Good practice:
 3. Ask whether there is a reason, beyond the data, to think the pattern continues (knowledge of how the thing works).
 4. Check against limits and common sense: is the answer even possible?
 
+<figure class="play" data-play="scatter"><span class="ai-tag">AI-created</span><figcaption><b>Reading the line.</b> Inside the cloud of points the line is a fair guess; far outside it is not.</figcaption></figure>
+
 ## Worked examples
 
 **1. Which kind?** The study data had hours from 1 to 8. Using score = 4.75 × hours + 50:

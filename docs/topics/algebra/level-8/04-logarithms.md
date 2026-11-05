@@ -135,6 +135,8 @@ $$\log_b x = \frac{\log x}{\log b} \qquad \text{(and the same with } \ln \text{)
 A whole number $N$ has $d$ digits exactly when $10^{d - 1} \le N < 10^d$, that is when $d - 1 \le \log N < d$. So
 **the number of digits is the whole-number part of $\log N$, plus 1**.
 
+<figure class="play" data-play="graph" data-form="exp"><span class="ai-tag">AI-created</span><figcaption><b>The curve a logarithm undoes.</b> Reading the graph sideways, from y back to x, is taking a logarithm.</figcaption></figure>
+
 ## Worked examples
 
 **1. Evaluating.**

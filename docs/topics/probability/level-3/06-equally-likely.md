@@ -134,6 +134,8 @@ equal chances. Equal chances need a **reason**, like symmetry. A football match 
 outcomes, but there is no reason at all for each to be $\tfrac13$. A strong team playing a weak one might win most of
 the time.
 
+<figure class="play" data-play="dice" data-n="2"><span class="ai-tag">AI-created</span><figcaption><b>Totals are not equally likely.</b> The 36 pairs are; the 11 totals are not.</figcaption></figure>
+
 ## Worked examples
 
 **1. A spinner with angles.** A spinner has three parts with angles $180°$ (red), $120°$ (blue) and $60°$ (green).

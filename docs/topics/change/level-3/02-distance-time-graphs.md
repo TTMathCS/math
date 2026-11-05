@@ -141,6 +141,8 @@ Each part of the walk above is a **straight** line. A straight piece means a **s
 every minute. Real people speed up and slow down a little, so a real graph would be slightly wobbly or curved. Curved
 graphs, where the speed changes, come in [lesson 5](05-fast-then-slower.md).
 
+<figure class="play" data-play="graph" data-form="line"><span class="ai-tag">AI-created</span><figcaption><b>Distance against time.</b> A steeper line is a faster trip; a negative slope is going back.</figcaption></figure>
+
 ## Worked examples
 
 **1. Reading the walk to school** (the first graph).

@@ -144,6 +144,8 @@ and the term rises by $18 - 9 = 9$. Each step is then $9 \div 3 = 3$, so $d = 3$
 the zero term: position 2 is 2 jumps from the zero term, so the zero term is $9 - 2 \times 3 = 3$. The rule is
 $t_n = 3n + 3$. Check: $t_5 = 15 + 3 = 18$ ✓.
 
+<figure class="play" data-play="seq" data-kind="arith"><span class="ai-tag">AI-created</span><figcaption><b>Find the rule.</b> The step d is the jump between bars.</figcaption></figure>
+
 ## Worked examples
 
 **1. 11, 18, 25, 32, ...**

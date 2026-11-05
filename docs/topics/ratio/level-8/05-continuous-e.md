@@ -127,6 +127,8 @@ in calculus, is that **its rate of change equals itself**: at every moment, $e^{
 current size. That is exactly "change proportional to amount", the reason for exponential behaviour in
 [level 7](../level-7/01-growth-decay-world.md).
 
+<figure class="play" data-play="interest" data-mode="periods"><span class="ai-tag">AI-created</span><figcaption><b>Towards e.</b> Compounding more and more often gives less and less extra. Made-up amounts.</figcaption></figure>
+
 ## Worked examples
 
 **1. Ever more often.** 1000 dollars at 5% for 10 years:

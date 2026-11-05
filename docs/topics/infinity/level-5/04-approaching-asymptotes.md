@@ -185,6 +185,8 @@ where $R$, about 3390 km, is the radius of Mars. At twice the radius it is a qua
 zero: the graph has the horizontal asymptote $g = 0$. A spacecraft leaving Mars feels a weaker and weaker tug, all
 the way out.
 
+<figure class="play" data-play="graph" data-form="recip"><span class="ai-tag">AI-created</span><figcaption><b>Closer and closer.</b> y = a / x gets near the axes and never reaches them.</figcaption></figure>
+
 ## Worked examples
 
 **1. Lifted curve.** For $y = 3 + \dfrac2x$, find the asymptotes, and find how big $x$ must be for $y$ to be within

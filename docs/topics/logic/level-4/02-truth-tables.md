@@ -164,6 +164,8 @@ Rows 5 and 7 differ. So they are **not** equivalent: here the brackets change th
 finish my homework", $q$: "it is sunny", $r$: "it is my birthday". With $p$ false and $r$ true, "I finish my homework
 and it is sunny or my birthday" is false, but "I finish my homework and it is sunny, or it is my birthday" is true.)
 
+<figure class="play" data-play="truth"><span class="ai-tag">AI-created</span><figcaption><b>Every row at once.</b> Two statements give four rows; pick the connective.</figcaption></figure>
+
 ## Worked examples
 
 **1. "Or, but not both."** Build the table for $(p \lor q) \land \neg(p \land q)$.

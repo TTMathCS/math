@@ -166,6 +166,8 @@ as $e$ is the base that makes the constant 1.
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | $f'(x)$ | $e^x$ | $k e^{kx}$ | $\ln b \cdot b^x$ | $\frac1x$ | $\cos x$ | $-\sin x$ | $\frac{1}{\cos^2 x}$ |
 
+<figure class="play" data-play="graph" data-form="sine"><span class="ai-tag">AI-created</span><figcaption><b>A sine wave.</b> Its slope is steepest where it crosses the centre line and zero at the tops.</figcaption></figure>
+
 ## Worked examples
 
 **1. Product with $e^x$.** Differentiate $y = x^2 e^x$ and find where the tangent is flat.

@@ -92,6 +92,8 @@ ${}^{10}P_4 = 5040$. A president plus 3 equal members sits in between.
 - If Ben **must not** be on it, remove him from the pool before choosing.
 - If Ana and Ben **refuse to serve together**, count all committees and take away those with both of them.
 
+<figure class="play" data-play="arrange" data-mode="comb"><span class="ai-tag">AI-created</span><figcaption><b>Committees.</b> List every committee of k from n people.</figcaption></figure>
+
 ## Worked examples
 
 **1. Exactly and at least.** From 6 boys and 5 girls, a committee of 4. How many have (a) exactly 2 girls, (b) at least

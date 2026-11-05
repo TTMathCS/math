@@ -158,6 +158,8 @@ In many towns, the houses on one side of a street have odd numbers (1, 3, 5, 7, 
 side have even numbers (2, 4, 6, 8, ...). As you walk along one side, the numbers hop by 2, just like on the number
 line. So if you are looking for house 47, you know which side to walk on: the odd side, because 47 ends in 7.
 
+<figure class="play" data-play="hundred" data-mode="multiples"><span class="ai-tag">AI-created</span><figcaption><b>Even numbers.</b> Pick 2: every other number is shaded.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Three numbers.** Is each number odd or even: 47, 350, 2,468?

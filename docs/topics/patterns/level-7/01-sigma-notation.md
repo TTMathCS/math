@@ -142,6 +142,8 @@ Try $n = 2$ with $a_k = b_k = k$: the left side is $1 + 4 = 5$, the right side i
 $\sum k^2$ is not $\left(\sum k\right)^2$. (In lesson 5 you will find the true formula for $\sum k^2$, and a surprise
 about $\sum k^3$.)
 
+<figure class="play" data-play="seq" data-kind="arith"><span class="ai-tag">AI-created</span><figcaption><b>A sum of terms.</b> The total below the bars is what Σ writes in one symbol.</figcaption></figure>
+
 ## Worked examples
 
 **1. Expand and evaluate.** Find $\displaystyle\sum_{k=3}^{7} (2k + 1)$.

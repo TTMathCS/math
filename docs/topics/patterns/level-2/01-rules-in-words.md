@@ -403,6 +403,8 @@ A rule must be clear enough that two people who follow it get **exactly** the sa
 
 When you write a rule, read it back and ask: could someone follow this without asking me any questions?
 
+<figure class="play" data-play="seq" data-kind="arith"><span class="ai-tag">AI-created</span><figcaption><b>"Start at a, add d."</b> A rule in words, as bars.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Find the rule.** 6, 9, 12, 15, 18, ...

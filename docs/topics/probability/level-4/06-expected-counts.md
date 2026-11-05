@@ -136,6 +136,8 @@ whether the difference is a normal wobble or something too big to be chance.
 In [level 3](../level-3/06-equally-likely.md) a die rolled 600 times showed 137 sixes. Expected: $600 \times \tfrac16 = 100$. For 600 rolls of a fair die, the count of sixes is between 82 and 118 about 96% of the time, and 137 or more
 happens only about 6 times in 100 000. So 137 is not a normal wobble. That die is very likely loaded.
 
+<figure class="play" data-play="dice" data-n="1"><span class="ai-tag">AI-created</span><figcaption><b>Expected counts.</b> In 1,000 rolls expect about 167 of each face; real rolls wobble around that.</figcaption></figure>
+
 ## Worked examples
 
 **1. Expected counts with two dice.** Two dice are rolled 180 times. How many times do you expect a total of 8? A

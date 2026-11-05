@@ -134,6 +134,8 @@ $$7^{100} = (7^4)^{25} \equiv 1^{25} = 1 \pmod{100},$$
 
 and $7^{100}$ ends in **01**, as promised at the start.
 
+<figure class="play" data-play="clock" data-mode="times"><span class="ai-tag">AI-created</span><figcaption><b>Last digits.</b> Set n = 10: multiplying on a 10-hour clock keeps only the last digit.</figcaption></figure>
+
 ## Worked examples
 
 **1. The last digit of $2^{2026}$.** (This number has 610 digits.)

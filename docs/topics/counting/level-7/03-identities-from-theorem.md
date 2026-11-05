@@ -127,6 +127,8 @@ $$\sum_{k=0}^{n} k\binom{n}{k} = n \cdot 2^{n-1}.$$
 For $n = 3$: $0 + 3 + 6 + 3 = 12 = 3 \times 4$. ✓ (Another way: each of the $n$ things is in exactly half the
 subsets, $2^{n-1}$ of them.)
 
+<figure class="play" data-play="pascal"><span class="ai-tag">AI-created</span><figcaption><b>Each row adds to a power of 2.</b> Tap any row.</figcaption></figure>
+
 ## Worked examples
 
 **1. Subsets with at least two things.** How many subsets of a 10-element set have at least 2 members?

@@ -135,6 +135,8 @@ Now test 1,001. For 11: 1 − 0 + 0 − 1 = 0. Divisible. For 7: 100 − 2 = 98 
 So any three-digit number written twice is that number times 7 × 11 × 13. Dividing by 7, 11 and 13 just takes those
 three factors away again, and leaves the number you started with.
 
+<figure class="play" data-play="hundred" data-mode="multiples"><span class="ai-tag">AI-created</span><figcaption><b>Multiples of 6 and 11.</b> 11 runs down a diagonal: 11, 22, 33 …</figcaption></figure>
+
 ## Worked examples
 
 **1. Is 5,316 divisible by 12?**

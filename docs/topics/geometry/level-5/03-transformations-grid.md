@@ -154,6 +154,8 @@ Two transformations done one after the other can often be replaced by a single o
 Two flips undo each other's "turning over", which is why the result keeps orientation. In fact every isometry of the
 plane can be made from **at most three** reflections. Mirrors are the atoms of rigid motion.
 
+<figure class="play" data-play="transform"><span class="ai-tag">AI-created</span><figcaption><b>Transformations on a grid.</b> Watch what each move does to the coordinates.</figcaption></figure>
+
 ## Worked examples
 
 **1. A translation.** Triangle $A(2, 1)$, $B(5, 1)$, $C(2, 4)$ is moved 6 left and 3 down: $(x, y) \to (x - 6,\ y - 3)$.

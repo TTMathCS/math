@@ -144,6 +144,8 @@ breaks down, and so does the rule.
 For decay, $\ln(1 - r) \approx -r - \tfrac{r^2}{2}$, which pushes the other way: the half-life is a little **shorter**
 than $72 \div R$. At 3% decay a year, the rule says 24 years; the truth is about 22.8.
 
+<figure class="play" data-play="graph" data-form="exp"><span class="ai-tag">AI-created</span><figcaption><b>Doubling and halving.</b> b = 2 doubles each step; b = 0.5 halves.</figcaption></figure>
+
 ## Worked examples
 
 **1. Rule against exact.** How long does money take to double at 6% a year, compounded yearly?

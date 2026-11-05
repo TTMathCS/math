@@ -106,6 +106,8 @@ compounded for decades, just like interest, and it is taken whether the investme
 </svg>
 </div>
 
+<figure class="play" data-play="interest" data-mode="both"><span class="ai-tag">AI-created</span><figcaption><b>Growth over time.</b> Compound growth curves upward. Made-up amounts, not advice.</figcaption></figure>
+
 ## Worked examples
 
 **1. A GIC.** 5000 dollars in a 3-year GIC at 4% compounded yearly (a made-up rate; check current rates) grows to

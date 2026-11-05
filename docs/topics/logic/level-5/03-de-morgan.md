@@ -160,6 +160,8 @@ The opposite of a promise "if you tidy your room, you get ice cream" is **not** 
 tidied your room **and** you got no ice cream". (One way to see it with De Morgan: $p \to q$ means the same as
 $\neg p \lor q$, and the opposite of that is $p \land \neg q$.)
 
+<figure class="play" data-play="venn"><span class="ai-tag">AI-created</span><figcaption><b>De Morgan.</b> "Not in A or B" lights exactly the numbers that are in neither.</figcaption></figure>
+
 ## Worked examples
 
 **1. Everyday opposites.** Write the opposite of each, using De Morgan.

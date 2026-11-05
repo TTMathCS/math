@@ -151,6 +151,8 @@ case works the same way after multiplying through by $d^n$.
 So for $x^3 - 7x + 6$, any whole-number zero divides 6: try $\pm1, \pm2, \pm3, \pm6$. That short list is the secret
 to the opening puzzle.
 
+<figure class="play" data-play="graph" data-form="power"><span class="ai-tag">AI-created</span><figcaption><b>Powers of x.</b> Odd powers rise on the right and fall on the left; even powers rise on both sides.</figcaption></figure>
+
 ## Worked examples
 
 **1. Reading a polynomial.** Describe $y = -2(x - 1)^2(x + 3)$.

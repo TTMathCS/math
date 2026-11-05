@@ -171,6 +171,8 @@ The full version for three or more sets, the **inclusion-exclusion principle**, 
 [Counting level 6](../../counting/level-6/01-inclusion-exclusion.md). Here we mostly fill in Venn diagrams region by
 region, which always works and shows **why** the formula is right.
 
+<figure class="play" data-play="venn"><span class="ai-tag">AI-created</span><figcaption><b>Union and intersection.</b> ∩ is in both circles; ∪ is in at least one.</figcaption></figure>
+
 ## Worked examples
 
 **1. Small sets.** Let $U = \{1, 2, \ldots, 10\}$, $A = \{1, 2, 3, 4, 5, 6\}$ and $B = \{2, 4, 6, 8\}$.

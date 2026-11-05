@@ -121,6 +121,8 @@ no single answer that keeps everything working, **school mathematics leaves $0^0
 formulas tidy. Many calculators and computer languages also give 1. But that is a convenient agreement for those
 settings, not a fact forced by the laws.)
 
+<figure class="play" data-play="seq" data-kind="geom"><span class="ai-tag">AI-created</span><figcaption><b>Halving each time.</b> Set r = 0.5: each term is the one before divided by 2, which is what negative powers keep doing.</figcaption></figure>
+
 ## Worked examples
 
 **1. Evaluate** $5^{-2}$, $(-4)^{-3}$ and $7^0$.

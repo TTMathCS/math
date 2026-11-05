@@ -468,6 +468,8 @@ A rocket launch counts down by 1s: 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0, lift off! S
 everybody knows exactly when the engines start. How many numbers are said, from 10 down to 0? Ten hops, so **eleven**
 numbers.
 
+<figure class="play" data-play="seq" data-kind="arith"><span class="ai-tag">AI-created</span><figcaption><b>Growing or shrinking.</b> A negative d makes the pattern shrink.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Count up by 5s.** Start at 35 and count up by 5s. Write the next five numbers.

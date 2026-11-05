@@ -100,6 +100,8 @@ Three uses:
 Three z-scores worth remembering: 1.28 cuts off the top 10%, 1.645 the top 5%, and 1.96 the top 2.5% (so
 $\pm 1.96$ holds the middle 95%). You will use 1.96 again in [level 8](../level-8/index.md).
 
+<figure class="play" data-play="stats" data-show="sd"><span class="ai-tag">AI-created</span><figcaption><b>How far from the mean?</b> A z-score counts standard deviations: the band is one each side.</figcaption></figure>
+
 ## Worked examples
 
 Women's heights in a town: normal, $\mu = 163$ cm, $\sigma = 7$ cm.

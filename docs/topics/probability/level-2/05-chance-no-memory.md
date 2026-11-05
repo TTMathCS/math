@@ -149,6 +149,8 @@ is this a fair coin at all? Maybe it has heads on both sides! Then the next flip
 less. If the past makes you think the coin is a trick coin, that is a reason to expect **more heads**. It is never a
 reason to expect tails to be "due".
 
+<figure class="play" data-play="spinner" data-parts="red:1,blue:1"><span class="ai-tag">AI-created</span><figcaption><b>The spinner forgets.</b> Whatever came before, each spin is a fresh half-and-half.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. A die with a long wait.**

@@ -128,6 +128,8 @@ Example: how many whole numbers from 1 to 100 are divisible by 2, 3 or 5? Divisi
 both 2 and 3 (that is, by 6): 16. By 10: 10. By 15: 6. By all three (by 30): 3. So the count is
 $50 + 33 + 20 - 16 - 10 - 6 + 3 = 74$, and a number picked at random from 1 to 100 has a $\tfrac{74}{100}$ chance.
 
+<figure class="play" data-play="venn"><span class="ai-tag">AI-created</span><figcaption><b>Don't count the middle twice.</b> |A ∪ B| = |A| + |B| − |A ∩ B|: count each region.</figcaption></figure>
+
 ## Worked examples
 
 **1. A die, overlapping events.** One die is rolled. Find $P(\text{even or more than 4})$.

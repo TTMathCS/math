@@ -245,6 +245,8 @@ those.
 You only need to try **primes** as factors. If 4 went into a number, then 2 would go into it too (since 4 = 2 × 2),
 and you would already have found 2.
 
+<figure class="play" data-play="hundred" data-mode="sieve"><span class="ai-tag">AI-created</span><figcaption><b>Primes up to 100.</b> Press Play to sieve out the composite numbers.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Is 29 prime?**

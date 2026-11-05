@@ -182,6 +182,8 @@ Notice the difference from the last lesson. Angles on a line give an equation th
 give an equation that says **two things are equal**. Knowing which fact fits the picture tells you which equation to
 write.
 
+<figure class="play" data-play="angle" data-mode="one"><span class="ai-tag">AI-created</span><figcaption><b>Angles on a straight line.</b> Whatever this angle is, the angle next to it on a line is 180° minus it.</figcaption></figure>
+
 ## Worked examples
 
 **1. All four from one.** Two lines cross and one angle is 38°. Find the other three.

@@ -129,6 +129,8 @@ $1 - P(\text{not } A) = 1 - (1 - P(A)) = P(A)$.
 And the two ends of the scale are opposites of each other: the opposite of the certain event is the impossible one.
 $1 - 1 = 0$ and $1 - 0 = 1$.
 
+<figure class="play" data-play="dice" data-n="1"><span class="ai-tag">AI-created</span><figcaption><b>Not a six.</b> Five of the six faces: the chance of "not six" is 1 − 1/6.</figcaption></figure>
+
 ## Worked examples
 
 **1. Not a heart.** A card is taken from a full pack of 52. $P(\text{heart}) = \tfrac{13}{52} = \tfrac14$, so

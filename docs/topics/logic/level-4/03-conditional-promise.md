@@ -137,6 +137,8 @@ Examples of true biconditionals:
 
 Mathematicians often shorten "if and only if" to **iff**. To prove an "iff", you must prove **both** directions.
 
+<figure class="play" data-play="truth"><span class="ai-tag">AI-created</span><figcaption><b>The promise.</b> "If it rains, I'll bring an umbrella" is broken only when it rains and I don't.</figcaption></figure>
+
 ## Worked examples
 
 **1. The four cards.** Let $p$: "the card has a vowel" and $q$: "the card has an even number". The rule is

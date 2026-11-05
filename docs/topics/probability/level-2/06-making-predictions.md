@@ -118,6 +118,8 @@ spinner gives 31 or more only about 3 times in 10 000! So you have a good reason
 really half orange: maybe the orange part is bigger, or the arrow sticks. That is how scientists use predictions: if
 the result is far from what you predicted, something is probably different from what you thought.
 
+<figure class="play" data-play="dice" data-n="1"><span class="ai-tag">AI-created</span><figcaption><b>Predict, then roll.</b> In 600 rolls, about how many sixes? Roll and check against the gold marks.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. A die.**
