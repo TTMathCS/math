@@ -154,6 +154,8 @@ So there are three kinds to look for:
 | Bigger each time | **Speeding up** (growing faster) | Curve bending up |
 | Smaller each time | **Slowing down** | Curve bending over, flattening out |
 
+<figure class="play" data-play="motion"><span class="ai-tag">AI-created</span><figcaption><b>Steady, then not.</b> Each leg is steady; the whole trip is not.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Pocket money.** Zara gets 3 dollars every week and saves all of it. She starts with nothing. Is this

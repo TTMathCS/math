@@ -177,6 +177,8 @@ odd) gives odd: 9 take away 4 is 5.
 Any number added to **itself** gives an even number. Why? If the number is even, it is even + even. If it is odd,
 it is odd + odd. Both give even! So **every double is even**, as you saw in [Fair sharing](../level-1/03-fair-sharing-two.md).
 
+<figure class="play" data-play="tenframe" data-mode="pairs"><span class="ai-tag">AI-created</span><figcaption><b>Odd and even.</b> Add 1 and see odd and even take turns.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Without adding.** Is 347 + 589 odd or even?

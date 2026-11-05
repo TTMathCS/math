@@ -203,6 +203,8 @@ remainders in stories.
   never use up any cookies. There is no answer. Mathematicians say dividing by zero is **not allowed** (it has no
   meaning).
 
+<figure class="play" data-play="array" data-mode="share"><span class="ai-tag">AI-created</span><figcaption><b>Fair shares.</b> Share the dots into groups; the red ones are left over.</figcaption></figure>
+
 ## Worked examples
 
 **1. Sharing.** 15 stickers are shared fairly among 5 children. How many each?

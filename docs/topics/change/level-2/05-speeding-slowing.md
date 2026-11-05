@@ -150,6 +150,8 @@ On Mars, gravity pulls less hard, only a bit more than a third as strongly as on
 speed would slow down more gently, so it would go about two and a half times as high and stay up about two and a half
 times as long.
 
+<figure class="play" data-play="motion" data-mode="accel"><span class="ai-tag">AI-created</span><figcaption><b>Speeding up.</b> The distance graph curves upward as the speed grows.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Ria's bike ride.** Ria writes down how far she has ridden at the end of each minute.

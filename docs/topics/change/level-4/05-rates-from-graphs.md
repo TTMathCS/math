@@ -124,6 +124,8 @@ squashes its time axis, a slow change can look steep. Always turn steepness into
 comparing two different graphs. (Newspapers sometimes stretch axes on purpose to make a change look dramatic: see
 [Graphs that mislead](../../statistics/level-4/06-misleading-graphs.md).)
 
+<figure class="play" data-play="motion"><span class="ai-tag">AI-created</span><figcaption><b>Rates from graphs.</b> The slope on the left is the height on the right.</figcaption></figure>
+
 ## Worked examples
 
 **1. A rise and run.** A straight line on a graph of distance (km) against time (h) passes through (2, 30) and

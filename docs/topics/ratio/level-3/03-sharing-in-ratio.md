@@ -132,6 +132,8 @@ But with things you cannot cut, like marbles or people, a share that is not a wh
 be met exactly. Sharing 20 marbles in the ratio $2 : 1$ gives one box $= 20 \div 3 = 6\tfrac23$ marbles. You cannot
 do it exactly; the nearest is 13 and 7, or 14 and 6.
 
+<figure class="play" data-play="ratiomix" data-mode="share"><span class="ai-tag">AI-created</span><figcaption><b>Share in a ratio.</b> Count the parts, find one part, multiply.</figcaption></figure>
+
 ## Worked examples
 
 **1. Share 56 dollars in the ratio $3 : 4$.**

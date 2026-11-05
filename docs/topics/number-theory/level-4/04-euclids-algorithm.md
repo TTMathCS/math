@@ -127,6 +127,8 @@ never more than **five times the number of digits** of the smaller number. So fo
 1,500 divisions: nothing for a computer. That is why Euclid's algorithm is used inside the codes that protect
 messages online (see [cryptography.akadian.ca](https://cryptography.akadian.ca/)).
 
+<figure class="play" data-play="euclid"><span class="ai-tag">AI-created</span><figcaption><b>Euclid's algorithm.</b> Divide, keep the remainder, repeat.</figcaption></figure>
+
 ## Worked examples
 
 **1. gcd(1071, 462), in a table.**

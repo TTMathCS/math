@@ -133,6 +133,8 @@ increases the surface area. Crushed ice cools a drink faster than one big block,
 lump of wheat, and your lungs are packed with millions of tiny air sacs so that a small chest has a huge surface for
 taking in oxygen. In [level 7](../index.md) you will see this as the square-cube law.
 
+<figure class="play" data-play="solid" data-shape="box"><span class="ai-tag">AI-created</span><figcaption><b>Surface area.</b> The six faces come in three pairs.</figcaption></figure>
+
 ## Worked examples
 
 **1. A box.** Find the surface area of a box 4 cm by 3 cm by 2 cm.

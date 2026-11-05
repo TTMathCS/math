@@ -132,6 +132,8 @@ made this point vividly in his 1926 essay *On Being the Right Size*: a mouse dro
 away, while for larger animals the same fall is fatal. Dust floats for a long time for the same reason: tiny grains are
 all surface. On Mars, fine dust raised by storms stays high in the thin air for weeks.
 
+<figure class="play" data-play="solid" data-shape="box" data-mode="scale"><span class="ai-tag">AI-created</span><figcaption><b>The square-cube law.</b> Double every length: four times the surface, eight times the volume.</figcaption></figure>
+
 ## Worked examples
 
 **1. A model ship.** A 1 : 50 model of a ship is made from the same materials. The model needs 0.2 L of paint and

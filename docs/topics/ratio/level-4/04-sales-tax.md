@@ -132,6 +132,8 @@ Notice that taking 13% **off** 113 dollars does **not** get you back to 100: 13%
 $113 - 14.69 = 98.31$. The 13% was a percent of the price **before** tax, not of the total. You will meet this kind of
 "reverse percent" again in [level 6](../level-6/index.md).
 
+<figure class="play" data-play="percent" data-mode="change"><span class="ai-tag">AI-created</span><figcaption><b>Adding tax.</b> Up by the tax rate: multiply by 1 plus the rate. Made-up prices.</figcaption></figure>
+
 ## Worked examples
 
 **1. The video game.** 60 dollars with 13% HST.

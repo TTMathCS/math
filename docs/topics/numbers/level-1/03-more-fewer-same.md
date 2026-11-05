@@ -152,6 +152,8 @@ The number line answers lots of questions at a glance:
 - **One less** than 14 is the number just to the left: 13.
 - A number **between** 6 and 9 is any number on the line after 6 and before 9: 7 or 8.
 
+<figure class="play" data-play="tenframe"><span class="ai-tag">AI-created</span><figcaption><b>One more, one less.</b> Add 1 or take 1.</figcaption></figure>
+
 ## Worked examples
 
 **1. The buttons.** Count the top row: 1, 2, 3, 4, 5, 6. Count the bottom row: 1, 2, 3, 4, 5, 6, 7. 7 comes after 6,

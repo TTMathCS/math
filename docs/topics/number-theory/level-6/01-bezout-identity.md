@@ -156,6 +156,8 @@ The $x$ and $y$ are never unique. Since $84 \times 5 - 60 \times 7 = 420 - 420 =
 subtract 7 from $y$ without changing $84x + 60y$. So $x = 3$, $y = -4$ works too: $252 - 240 = 12$. ✓ The next lesson
 finds **all** the answers.
 
+<figure class="play" data-play="euclid"><span class="ai-tag">AI-created</span><figcaption><b>The steps behind Bézout.</b> Working these lines backwards writes the gcd as a × x + b × y.</figcaption></figure>
+
 ## Worked examples
 
 **1. The frog.** Write 1 as a combination of 11 and 7 using Euclid backwards.

@@ -146,6 +146,8 @@ forecasts ("40% chance of rain") and in the news.
 A percent always has an **"of what?"**. Mars's surface gravity is about 38% of Earth's. That means a rock that weighs
 100 newtons on Earth would weigh about 38 newtons on Mars: 38 for every 100. The "of what" here is Earth's gravity.
 
+<figure class="play" data-play="percent" data-mode="of"><span class="ai-tag">AI-created</span><figcaption><b>Out of every hundred.</b> The gold squares are the percent of the 100-square. Made-up amounts.</figcaption></figure>
+
 ## Worked examples
 
 **1. A fraction with an easy bottom.** Write $\tfrac{9}{25}$ as a percent.

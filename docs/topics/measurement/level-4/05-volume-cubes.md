@@ -126,6 +126,8 @@ $4 \times 3 \times 2.5 = 30$ cm³. Just as in level 3 for area, the formula work
 All three lengths must be in the **same unit** before you multiply, and then the volume is in that unit cubed. A
 box 2 m by 50 cm by 1 m is $2 \times 0.5 \times 1 = 1$ m³ (not $2 \times 50 \times 1 = 100$ of anything).
 
+<figure class="play" data-play="solid" data-shape="box"><span class="ai-tag">AI-created</span><figcaption><b>Volume of a box.</b> Length × width × height cubes.</figcaption></figure>
+
 ## Worked examples
 
 **1. A cereal box.** A box is 20 cm long, 8 cm wide and 30 cm tall. Its volume?

@@ -128,6 +128,8 @@ If the base is an L-shape or a shape with a hole, find its area the way you did 
 subtracting a hole, and then multiply by the height. The prism rule does not care how complicated the base is, as long
 as the shape stays the same all the way through.
 
+<figure class="play" data-play="solid" data-shape="box"><span class="ai-tag">AI-created</span><figcaption><b>A rectangular prism.</b> Base area times height.</figcaption></figure>
+
 ## Worked examples
 
 **1. A tent.** A tent is a triangular prism. Its front is a triangle 2 m wide at the ground and 1.5 m tall in the

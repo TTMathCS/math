@@ -167,6 +167,8 @@ already more than 97, you can stop after 7. **97 is prime.**
 The rule: **test the primes up to the one whose square passes your number.** (This is the same reason the sieve of
 Eratosthenes in level 2 could stop after 7 for numbers up to 100.)
 
+<figure class="play" data-play="factree"><span class="ai-tag">AI-created</span><figcaption><b>A factor tree.</b> Split until every branch ends in a prime.</figcaption></figure>
+
 ## Worked examples
 
 **1. Factorize 5,040 with a ladder.**

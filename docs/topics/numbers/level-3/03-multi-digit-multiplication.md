@@ -123,6 +123,8 @@ For a three-digit number, the rectangle just has more pieces. $368 \times 24$:
 Estimate first: $368$ is about 400, and 24 is about 25. $400 \times 25 = 10\,000$. We rounded both numbers **up**, so
 the true answer should be a bit less than 10 000. And 8832 is. ✓
 
+<figure class="play" data-play="array" data-mode="times"><span class="ai-tag">AI-created</span><figcaption><b>Rows of dots.</b> A product is a rectangle; the same rectangle on its side gives the same total.</figcaption></figure>
+
 ## Worked examples
 
 **1. One-digit times three-digit: $236 \times 7$.**

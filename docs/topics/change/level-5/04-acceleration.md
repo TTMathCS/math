@@ -137,6 +137,8 @@ $$g \approx 9.8 \text{ m/s}^2 \text{ on Earth}.$$
 A heavy stone and a light stone dropped together gain speed at the same rate (if the air does not interfere). On Mars,
 which is smaller and pulls less strongly, $g$ is about 3.71 m/s². The next lesson is all about falling.
 
+<figure class="play" data-play="motion" data-mode="accel"><span class="ai-tag">AI-created</span><figcaption><b>Acceleration.</b> Speed grows by the same amount each second.</figcaption></figure>
+
 ## Worked examples
 
 **1. A sprinter.** A sprinter goes from 0 to 9 m/s in the first 3 s of a race. Find her average acceleration.

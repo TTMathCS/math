@@ -135,6 +135,8 @@ The ball ends where it started, so its **displacement** (final position minus st
 **travelled** about $20.4 + 20.4 = 40.8$ m. To find distance travelled, find every time the velocity changes sign
 (every turn-round), and add up the lengths of the pieces in between.
 
+<figure class="play" data-play="motion" data-mode="accel"><span class="ai-tag">AI-created</span><figcaption><b>Velocity and acceleration.</b> The slope of distance is speed; the slope of speed is acceleration.</figcaption></figure>
+
 ## Worked examples
 
 **1. A particle that turns round twice.** A particle moves with $s(t) = t^3 - 6t^2 + 9t$ for $0 \le t \le 4$. Describe

@@ -138,6 +138,8 @@ In "for every" problems there are always **two** things to count:
 Before you start, say out loud which is which. "The groups are bikes. Each group has 2 wheels." That one sentence
 stops most mistakes.
 
+<figure class="play" data-play="ratiomix"><span class="ai-tag">AI-created</span><figcaption><b>For every 2 gold, 3 blue.</b> Make more batches; the ratio stays the same.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Mars rovers.** Each Mars rover has 6 wheels. How many wheels do 2 rovers have?

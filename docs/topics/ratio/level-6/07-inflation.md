@@ -131,6 +131,8 @@ Inflation is not bad for everybody.
 - **People on fixed incomes lose**, unless their income rises with prices. Many Canadian pensions, such as the Canada
   Pension Plan, are adjusted each year for inflation (this is called **indexing**).
 
+<figure class="play" data-play="percent" data-mode="twice"><span class="ai-tag">AI-created</span><figcaption><b>Prices up, value down.</b> Two changes in a row multiply, they don't add. Made-up amounts.</figcaption></figure>
+
 ## Worked examples
 
 **1. The inflation rate.** The CPI goes from 150.0 to 154.5 in a year. What is the inflation rate?

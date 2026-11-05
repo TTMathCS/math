@@ -120,6 +120,8 @@ $$\frac16 + \frac38 = \frac{4}{24} + \frac{9}{24} = \frac{13}{24}.$$
 (24 ÷ 6 = 4, so multiply the top and bottom of $\frac16$ by 4; 24 ÷ 8 = 3, so multiply $\frac38$ by 3.) Using 48 would
 also work, but you would get $\frac{26}{48}$ and have to simplify.
 
+<figure class="play" data-play="euclid"><span class="ai-tag">AI-created</span><figcaption><b>The least common multiple.</b> a × b ÷ gcd.</figcaption></figure>
+
 ## Worked examples
 
 **1. Gears.** A small gear with 12 teeth turns a big gear with 18 teeth. A tooth on each is painted, and right now the

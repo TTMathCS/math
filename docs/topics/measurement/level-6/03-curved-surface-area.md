@@ -139,6 +139,8 @@ which gives $SA = 4\pi r^2$. The volume formula and the area formula fit togethe
 
 A hemisphere has curved surface $2\pi r^2$; if it has a flat face, add $\pi r^2$ for a total of $3\pi r^2$.
 
+<figure class="play" data-play="solid" data-shape="sphere"><span class="ai-tag">AI-created</span><figcaption><b>A sphere's surface.</b> 4 π r²: four circles of the same radius.</figcaption></figure>
+
 ## Worked examples
 
 **1. A square pyramid.** A pyramid has a square base 10 m on each side and a vertical height of 12 m. Find its

@@ -119,6 +119,8 @@ Many rates tell you **how fast something changes**: a plant grows 2 centimetres 
 shorter per hour, the water in a tank goes up 5 litres per minute. These are called **rates of change**, and they are
 what this whole topic is about. Speed is the most famous one: how fast your position changes.
 
+<figure class="play" data-play="motion"><span class="ai-tag">AI-created</span><figcaption><b>Kilometres per hour.</b> Speed is how much distance each hour adds.</figcaption></figure>
+
 ## Worked examples
 
 **1. A bike ride.** A cyclist rides 36 kilometres in 3 hours. What is her rate in kilometres per hour?

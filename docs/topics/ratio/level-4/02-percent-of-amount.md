@@ -124,6 +124,8 @@ Always do a quick sense check:
 - 50% is half, 25% is a quarter, 10% is a tenth: compare your answer with these.
 - 35% is a bit more than a third, so 35% of 80 should be a bit more than $80 \div 3 \approx 27$. And 28 is. ✓
 
+<figure class="play" data-play="percent" data-mode="of"><span class="ai-tag">AI-created</span><figcaption><b>A percent of an amount.</b> Change the amount and the percent. Made-up amounts.</figcaption></figure>
+
 ## Worked examples
 
 **1. A mental build.** Find 15% of 60.

@@ -138,6 +138,8 @@ a stick 50 cm long are **not** in the ratio $2 : 50$. Change the metres to centi
 ratio means "200 centimetres for every 50 centimetres", and it is fair to compare. Because both parts have the same
 unit, the units cancel and a ratio is just numbers.
 
+<figure class="play" data-play="ratiomix"><span class="ai-tag">AI-created</span><figcaption><b>Writing a ratio.</b> Gold to blue, a : b.</figcaption></figure>
+
 ## Worked examples
 
 **1. Reading a picture.** A tray has 4 muffins and 6 cookies.

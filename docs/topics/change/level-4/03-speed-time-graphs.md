@@ -170,6 +170,8 @@ The two graphs tell the same story in two languages:
 
 These two facts are the two halves of calculus, seen here with nothing but rectangles.
 
+<figure class="play" data-play="motion"><span class="ai-tag">AI-created</span><figcaption><b>Speed-time graphs.</b> Right: flat lines are steady speeds.</figcaption></figure>
+
 ## Worked examples
 
 **1. Reading the bus graph.** How far did the bus go, and what was its average speed?

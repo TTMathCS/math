@@ -118,6 +118,8 @@ coprime numbers.**
 You could also simplify in several small steps: $\frac{36}{48} = \frac{18}{24} = \frac{9}{12} = \frac34$. The GCD
 just does all the steps at once.
 
+<figure class="play" data-play="euclid"><span class="ai-tag">AI-created</span><figcaption><b>The greatest common divisor.</b> Euclid's steps find it without listing factors.</figcaption></figure>
+
 ## Worked examples
 
 **1. Find gcd(126, 210) and simplify $\frac{126}{210}$.**

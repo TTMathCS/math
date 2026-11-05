@@ -126,6 +126,8 @@ total of all twelve boxes is
 Check by adding the list: 1 + 2 + 3 + 4 + 6 + 8 + 9 + 12 + 18 + 24 + 36 + 72 = 195. ✓ This trick is the key to
 **perfect numbers** in [level 4](../level-4/06-perfect-numbers.md).
 
+<figure class="play" data-play="factree"><span class="ai-tag">AI-created</span><figcaption><b>Count the factors from the primes.</b> Add one to each power and multiply.</figcaption></figure>
+
 ## Worked examples
 
 **1. How many factors has 100? List them.**

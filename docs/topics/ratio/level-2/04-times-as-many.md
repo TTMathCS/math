@@ -113,6 +113,8 @@ Ava has 15 stickers. That is 3 times as many as Ben. How many does Ben have?
 Draw Ava's 15 as **3 equal bars**. Each bar is Ben's amount. Share 15 into 3 equal parts: 5, 5 and 5. So **Ben has
 5**. Check: 3 times 5 is 5, 10, 15. Yes.
 
+<figure class="play" data-play="ratiomix"><span class="ai-tag">AI-created</span><figcaption><b>Times as many.</b> Set gold 1, blue 3: three times as many blue, however many batches.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Twice as many.** Sam has 7 toy cars. Kim has twice as many. How many does Kim have?

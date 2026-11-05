@@ -126,6 +126,8 @@ If you know the volume, rearrange: $r^3 = \dfrac{3V}{4\pi}$, so $r = \sqrt[3]{\d
 (the number that, cubed, gives what is under the sign) is on any scientific calculator; see
 [Square roots and cube roots](../../numbers/level-5/06-square-roots.md).
 
+<figure class="play" data-play="solid" data-shape="sphere"><span class="ai-tag">AI-created</span><figcaption><b>A sphere.</b> 4/3 π r³.</figcaption></figure>
+
 ## Worked examples
 
 **1. A ball.** A ball has radius 6 cm. $V = \tfrac43 \pi \times 6^3 = \tfrac43 \pi \times 216 = 288\pi \approx 904.8$ cm³.

@@ -117,6 +117,8 @@ $$h = \frac{V}{\pi r^2}$$
 This is the same move as finding a missing length of a prism, and the algebra is in
 [Rearranging formulas](../../algebra/level-5/03-rearranging-formulas.md).
 
+<figure class="play" data-play="solid" data-shape="cyl"><span class="ai-tag">AI-created</span><figcaption><b>A cylinder.</b> A circle's area times the height.</figcaption></figure>
+
 ## Worked examples
 
 **1. A water tank.** A round tank has radius 0.5 m and height 1.2 m. How many litres does it hold?

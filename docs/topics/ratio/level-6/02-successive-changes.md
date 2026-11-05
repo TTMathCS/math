@@ -120,6 +120,8 @@ Taking a percent off the "after" amount always uses the wrong base.
 If a price went through several changes, divide by the overall multiplier. A price after 25% off and then 13% tax is
 67.80 dollars. The overall multiplier is $0.75 \times 1.13 = 0.8475$, and $67.80 \div 0.8475 = 80$ dollars before.
 
+<figure class="play" data-play="percent" data-mode="twice"><span class="ai-tag">AI-created</span><figcaption><b>Up then down.</b> Up 25% then down 25% does not bring you back. Made-up amounts.</figcaption></figure>
+
 ## Worked examples
 
 **1. Up 10%, down 10%.** Overall: $1.10 \times 0.90 = 0.99$. Down **1%**.

@@ -134,6 +134,8 @@ You need a bowl of counters (beans, buttons or pasta work well) and a friend.
 At first you will count and think hard. After a few rounds you will just look at the last digit and know. That is
 the even and odd trick at work.
 
+<figure class="play" data-play="tenframe" data-mode="pairs"><span class="ai-tag">AI-created</span><figcaption><b>Share between two.</b> Each pair gives one to each person; an odd one is left.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Strawberries.** Two friends share 14 strawberries fairly. How many does each get? Is any left over?

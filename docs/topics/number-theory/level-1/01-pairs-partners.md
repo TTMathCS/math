@@ -155,6 +155,8 @@ be even. And it is.
 Some planets have moons that go around them. Our Earth has one Moon. The planet Mars has **two** small moons,
 called Phobos and Deimos. So Mars has a pair of moons: 2 is even, and both moons have a partner.
 
+<figure class="play" data-play="tenframe" data-mode="pairs"><span class="ai-tag">AI-created</span><figcaption><b>Everyone a partner?</b> Even numbers pair up exactly; odd numbers leave one out.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Eight children.** 8 children go to the park. The teacher says, "Hold hands with a partner." Does

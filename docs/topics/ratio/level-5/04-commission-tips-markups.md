@@ -105,6 +105,8 @@ Common set-ups:
 Notice that salary plus commission is **not** proportional to sales: it is "a fixed part plus a rate", the
 "neither" case from [lesson 2](02-direct-inverse.md). Straight commission **is** proportional.
 
+<figure class="play" data-play="percent" data-mode="change"><span class="ai-tag">AI-created</span><figcaption><b>A markup or a tip.</b> The new amount is the old one times (1 + p/100). Made-up amounts.</figcaption></figure>
+
 ## Worked examples
 
 **1. A tip.** A family's restaurant bill is 64 dollars before tax. They tip 15%. How much is the tip?

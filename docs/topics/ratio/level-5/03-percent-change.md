@@ -112,6 +112,8 @@ Percent change has a direction: it starts from an original. If two things are ju
 and "after" (two shops' prices on the same day, say), you must say which one you are measuring against: "the second
 shop is 25% dearer than the first" and "the first shop is 20% cheaper than the second" are both true for 40 and 50.
 
+<figure class="play" data-play="percent" data-mode="change"><span class="ai-tag">AI-created</span><figcaption><b>Percent change.</b> Up or down by p%: one multiplication. Made-up amounts.</figcaption></figure>
+
 ## Worked examples
 
 **1. Up.** A game goes from 40 dollars to 50 dollars. Percent change?

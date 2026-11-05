@@ -143,6 +143,8 @@ What you must **not** write is $\dfrac{x}{260} = \dfrac{100}{7}$, which mixes li
 
 All three give the same answer, so one method can check another.
 
+<figure class="play" data-play="ratiomix"><span class="ai-tag">AI-created</span><figcaption><b>A proportion.</b> Two ratios equal: 2 : 3 = 6 : 9.</figcaption></figure>
+
 ## Worked examples
 
 **1. Notebooks, three ways.** 5 notebooks cost 8 dollars. How much do 12 cost?

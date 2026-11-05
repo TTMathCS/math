@@ -106,6 +106,8 @@ $\pi \times 4 \times 16 = 64\pi$ cm³. Their surfaces are
 The tall thin one uses about 12% more metal. Which cylinder of a given volume uses the **least** material is a lovely
 question, and you will answer it in [level 6](../level-6/04-best-shapes.md).
 
+<figure class="play" data-play="solid" data-shape="cyl"><span class="ai-tag">AI-created</span><figcaption><b>Unroll the side.</b> Two circles and a rectangle 2πr wide.</figcaption></figure>
+
 ## Worked examples
 
 **1. A can and its label.** A can is 7.5 cm across and 10 cm tall. Find the area of its label and its total surface

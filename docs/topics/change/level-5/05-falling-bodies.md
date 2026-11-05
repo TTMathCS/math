@@ -150,6 +150,8 @@ astronaut David Scott of Apollo 15 dropped a hammer and a falcon feather side by
 and they hit the ground together. On Earth the feather drifts because of the air, not because gravity treats it
 differently. Mars has a thin atmosphere, so a feather there would still drift, just less.
 
+<figure class="play" data-play="motion" data-mode="accel"><span class="ai-tag">AI-created</span><figcaption><b>A falling stone.</b> On Earth it gains about 9.8 m/s each second (air resistance left out).</figcaption></figure>
+
 ## Worked examples
 
 **1. The well.** A stone takes 2.5 s to reach the water. How deep is the well (ignoring the time the sound takes to

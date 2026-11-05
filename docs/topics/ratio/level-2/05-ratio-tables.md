@@ -113,6 +113,8 @@ A ratio table works from either column.
 
 If the number you know is not in the table yet, keep adding rows (or use a shortcut) until it appears.
 
+<figure class="play" data-play="ratiomix"><span class="ai-tag">AI-created</span><figcaption><b>A ratio table, as tiles.</b> Each batch is the next row of the table.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Lemons to water.** You have 12 lemons. How many cups of water do you need?

@@ -116,6 +116,8 @@ statistics, election results and test reports use them. Raw numbers can mislead:
 won more games than a team with 15 wins out of 20, but the second team won a bigger **share** of its games (75%
 against about 73.3%).
 
+<figure class="play" data-play="percent" data-mode="of"><span class="ai-tag">AI-created</span><figcaption><b>Part and whole.</b> The gold bar is the part; the percent says how much of the whole it is.</figcaption></figure>
+
 ## Worked examples
 
 **1. A test score.** 34 out of 40 as a percent.

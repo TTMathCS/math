@@ -147,6 +147,8 @@ By uniqueness the same number cannot have both an even and an odd number of 2s. 
 $\sqrt 2$ is **irrational** (not a fraction). The same argument works for $\sqrt 3$, $\sqrt 5$, and the square root of
 any whole number that is not a perfect square.
 
+<figure class="play" data-play="factree"><span class="ai-tag">AI-created</span><figcaption><b>Split another way.</b> The tree changes, the primes at the ends never do.</figcaption></figure>
+
 ## Worked examples
 
 **1. Using Euclid's lemma.** Show that if 7 divides $13n$, then 7 divides $n$.

@@ -118,6 +118,8 @@ A mover does not always keep the same speed. A car is slow when it starts, fast 
 when it stops at a red light. A child runs fast at the start of a race and gets tired at the end. You will learn more
 about speeding up and slowing down in level 2.
 
+<figure class="play" data-play="motion"><span class="ai-tag">AI-created</span><figcaption><b>Fast and slow.</b> A steep distance line is a fast leg. Made-up trip.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Toy cars.** Three toy cars are pushed from the same line at the same moment. After a count of three,

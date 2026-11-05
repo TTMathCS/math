@@ -267,6 +267,8 @@ The trick also works backwards. Find **13 − 5**.
 Going down to ten first, then past it, is just like going up to ten first, then past it. Ten is a stepping stone in
 the middle of the river.
 
+<figure class="play" data-play="tenframe"><span class="ai-tag">AI-created</span><figcaption><b>Make ten.</b> How many more fill the frame?</figcaption></figure>
+
 ## Worked examples
 
 **1. A partner of ten.** What goes with 6 to make 10?

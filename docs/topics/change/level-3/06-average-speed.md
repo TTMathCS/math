@@ -126,6 +126,8 @@ But getting **there** at 30 km/h already took $60 \div 30 = 2$ hours. All your t
 around. To average 60 km/h you would have to drive the 60 km home in **no time at all**. No car, plane or rocket can
 do that. The slow first half has eaten the whole time budget.
 
+<figure class="play" data-play="motion"><span class="ai-tag">AI-created</span><figcaption><b>Average speed.</b> Total distance ÷ total time, which is not just the two speeds averaged.</figcaption></figure>
+
 ## Worked examples
 
 **1. A bus trip.** A bus travels 150 km in 3 hours. Average speed: $150 \div 3 = 50$ km/h.

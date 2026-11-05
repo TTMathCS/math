@@ -133,6 +133,8 @@ So the graph knew the distance all along. **The slope of a speed-time graph is t
 the distance.** These are the two great ideas of calculus, the derivative and the integral, met here in their
 simplest form, with straight lines.
 
+<figure class="play" data-play="motion"><span class="ai-tag">AI-created</span><figcaption><b>Area is distance.</b> The shaded area under the speed graph is the distance travelled.</figcaption></figure>
+
 ## Worked examples
 
 **1. A falling stone.** A stone falls for 3 s on Earth. Its speed goes from 0 to $9.8 \times 3 = 29.4$ m/s. How far

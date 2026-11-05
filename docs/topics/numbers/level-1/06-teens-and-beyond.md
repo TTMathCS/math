@@ -280,6 +280,8 @@ place, the **hundreds** place. You will explore it in level 2.
 This is exactly like a car's distance counter (or the counter on a Mars rover that shows how far it has driven): when
 a wheel reaches 9 and turns once more, it goes back to 0 and pushes the next wheel up by one.
 
+<figure class="play" data-play="tenframe"><span class="ai-tag">AI-created</span><figcaption><b>Teen numbers.</b> One full ten and some more.</figcaption></figure>
+
 ## Worked examples
 
 **1. Tens and ones.** How many tens and ones are in 58?

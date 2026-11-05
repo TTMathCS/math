@@ -130,6 +130,8 @@ In a real story, the remainder must be **thought about**, not just written down.
 
 Sometimes the remainder **is** the answer: "130 eggs in trays of 40; how many eggs are left over?" Answer: 10.
 
+<figure class="play" data-play="array" data-mode="share"><span class="ai-tag">AI-created</span><figcaption><b>Division with a remainder.</b> Each group gets the same; what is left is the remainder.</figcaption></figure>
+
 ## Worked examples
 
 **1. Share and check: $5482 \div 6$.**

@@ -112,6 +112,8 @@ To make two races match, the easiest moves are **doubling** and **halving**:
 The distance and the time must always change **together**, in the same way. If you double one and not the other, you
 have changed the speed.
 
+<figure class="play" data-play="motion"><span class="ai-tag">AI-created</span><figcaption><b>Two speeds.</b> Compare the slopes of the two legs. Made-up trip.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Two walkers.** Ana walks 6 km in 2 hours. Ben walks 9 km in 3 hours. Who walks faster?

@@ -147,6 +147,8 @@ The fact is about **two** numbers. For three numbers it usually fails. For 2, 4 
 GCD × LCM = 16. But 2 × 4 × 8 = 64. With three numbers, a prime shared by all three is counted three times in the
 product, but only twice in GCD × LCM.
 
+<figure class="play" data-play="euclid"><span class="ai-tag">AI-created</span><figcaption><b>gcd × lcm = a × b.</b> Check it for any pair.</figcaption></figure>
+
 ## Worked examples
 
 **1. Check it for 20 and 45.**

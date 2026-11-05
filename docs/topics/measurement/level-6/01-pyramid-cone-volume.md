@@ -144,6 +144,8 @@ pyramid is one third of base times height, so **all** of them are.
 Adding up thin slices like this is exactly how calculus finds volumes; with an integral the $\tfrac13$ appears from
 adding up the squares $t^2$, because $\int_0^h t^2\,dt = \tfrac13 h^3$.
 
+<figure class="play" data-play="solid" data-shape="cone"><span class="ai-tag">AI-created</span><figcaption><b>A third of a cylinder.</b> Same base, same height, a third of the volume.</figcaption></figure>
+
 ## Worked examples
 
 **1. A square pyramid.** A pyramid has a square base 6 m on each side and a height of 4 m.

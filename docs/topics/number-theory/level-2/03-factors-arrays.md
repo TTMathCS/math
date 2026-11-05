@@ -207,6 +207,8 @@ The 6 pairs with **itself**, because 6 rows of 6 is a **square**. In the rainbow
 with no arc. So 36 has 9 factors: 1, 2, 3, 4, 6, 9, 12, 18, 36. That is an **odd** number of factors. You will find
 out exactly which numbers do this in [Square numbers and the locker puzzle](06-square-numbers-lockers.md).
 
+<figure class="play" data-play="array" data-mode="rect"><span class="ai-tag">AI-created</span><figcaption><b>Factors as rectangles.</b> Each rectangle's sides are a factor pair.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Factors of 18.**

@@ -157,6 +157,8 @@ There is often more than one way to see a number. Here are ways to see **eight**
 All three are right. Being able to see a number in many ways is what makes adding easy later. When you meet
 8 + 2 or 10 − 2 or 4 + 4, you will already know the answer is 8, because you have **seen** it.
 
+<figure class="play" data-play="tenframe"><span class="ai-tag">AI-created</span><figcaption><b>See it without counting.</b> A ten-frame shows 5 and 10 at a glance.</figcaption></figure>
+
 ## Worked examples
 
 **1. A dice and one more.** You roll a five on one dice and a one on the other. How many dots?

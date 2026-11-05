@@ -250,6 +250,8 @@ right. Seen from above, the wheels make a rectangle: 2 rows of 3.
 </svg>
 </div>
 
+<figure class="play" data-play="array" data-mode="rect"><span class="ai-tag">AI-created</span><figcaption><b>Rectangle numbers.</b> Every rectangle you can make with n dots. A prime makes only a single row.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Is 10 a rectangle number?**

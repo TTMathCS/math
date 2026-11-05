@@ -130,6 +130,8 @@ lesson ["For every"](02-for-every.md).
 Look down the flour row: 2, 4, 6, counting by twos. The eggs row: 3, 6, 9, counting by threes. Every row counts by
 its own number, the number for one cake.
 
+<figure class="play" data-play="ratiomix"><span class="ai-tag">AI-created</span><figcaption><b>Double the recipe.</b> Two batches double both colours.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Pancakes for two batches.** One batch of pancakes needs 1 cup of flour, 1 egg and 2 cups of milk. How

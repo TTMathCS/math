@@ -153,6 +153,8 @@ What if the bowl is empty? Then you do not say any counting word at all. The num
 and we write it **0**. Zero is a real number. If someone asks "how many dinosaurs are in your kitchen?", the right
 answer is "zero".
 
+<figure class="play" data-play="tenframe"><span class="ai-tag">AI-created</span><figcaption><b>Count the counters.</b> Add and take away; the number follows.</figcaption></figure>
+
 ## Worked examples
 
 **1. Counting a row.** How many stars? ★ ★ ★ ★ ★ ★

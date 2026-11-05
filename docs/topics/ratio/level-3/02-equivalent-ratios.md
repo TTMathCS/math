@@ -142,6 +142,8 @@ Both ways agree, as they must.
 Two mixes taste **the same** exactly when their ratios are equivalent, that is, when they simplify to the same
 simplest form.
 
+<figure class="play" data-play="ratiomix"><span class="ai-tag">AI-created</span><figcaption><b>Equivalent ratios.</b> 6 : 9 is three batches of 2 : 3.</figcaption></figure>
+
 ## Worked examples
 
 **1. Simplify $24 : 36$.**

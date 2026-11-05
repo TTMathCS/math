@@ -196,6 +196,8 @@ Or you know 2 × 7 = 14. Then 4 × 7 is **double** that, because 4 groups is two
 In level 3 you will use this idea to build all the times tables from just a few easy ones:
 [Times tables with understanding](../level-3/02-times-tables.md).
 
+<figure class="play" data-play="array" data-mode="times"><span class="ai-tag">AI-created</span><figcaption><b>Equal groups in rows.</b> Rows × in each row.</figcaption></figure>
+
 ## Worked examples
 
 **1. Equal groups.** There are 5 spiders. Each spider has 8 legs. How many legs?

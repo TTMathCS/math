@@ -125,6 +125,8 @@ You can go the other way too: start with words and draw the graph. Take the stor
 piece, decide: up, down or flat? Steep or gentle? Sudden or steady? Then join the pieces in order. The end of one
 piece is always the start of the next, because nothing can be in two states at the same moment.
 
+<figure class="play" data-play="motion"><span class="ai-tag">AI-created</span><figcaption><b>A graph tells a story.</b> Set a speed to 0 and the trip stops for a while.</figcaption></figure>
+
 ## Worked examples
 
 **1. A kettle.** "A kettle of water at 20 °C is switched on. It heats steadily and reaches 100 °C after 4 minutes.

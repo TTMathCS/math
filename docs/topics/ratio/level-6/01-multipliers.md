@@ -117,6 +117,8 @@ in a row are the subject of the [next lesson](02-successive-changes.md).
 - **Repeats**: the same change many times is a power, like $1.05^{10}$. That is compound interest
   ([lesson 4](04-compound-interest.md)).
 
+<figure class="play" data-play="percent" data-mode="change"><span class="ai-tag">AI-created</span><figcaption><b>The multiplier.</b> Each change is one number to multiply by.</figcaption></figure>
+
 ## Worked examples
 
 **1. Increase.** Increase 250 by 8%.

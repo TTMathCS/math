@@ -114,6 +114,8 @@ If you know the original and sale prices, find the discount in dollars and write
 in [lesson 3](03-as-a-percent.md). A game that was 60 dollars and is now 45 dollars has 15 dollars off, and
 $15 \div 60 = 0.25$, so it is **25% off**.
 
+<figure class="play" data-play="percent" data-mode="change"><span class="ai-tag">AI-created</span><figcaption><b>A discount.</b> Set a negative change: 25% off means × 0.75. Made-up prices.</figcaption></figure>
+
 ## Worked examples
 
 **1. A simple discount.** Shoes cost 45 dollars. They are 15% off. What is the sale price?
