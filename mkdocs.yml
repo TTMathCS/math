@@ -50,6 +50,7 @@ extra_css:
   - stylesheets/sketch.css
   - stylesheets/play.css
   - katex/katex.min.css
+  - stylesheets/ask.css
 
 extra:
   homepage: https://www.akadian.ca/
@@ -65,6 +66,7 @@ extra_javascript:
   - javascripts/reader.js
   - javascripts/play.js
   - javascripts/levelcheck.js
+  - javascripts/ask.js
 
 markdown_extensions:
   - toc:
