@@ -336,6 +336,8 @@ $p(0) = 1$, $p(1) = 3$, $p(2) = 7$. Write $p = a + bx + cx^2$: then $a = 1$, $a 
 $2b + 4c = 6$, giving $c = 1$, $b = 1$: $p = 1 + x + x^2$. *Check:* $p(1) = 3$, $p(2) = 1 + 2 + 4 = 7$. The same theorem over a
 finite field underlies Reed-Solomon codes and secret sharing.
 
+<figure class="play" data-play="matrix2" data-mode="map" data-m="1,2,0.5,1"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> When the determinant is 0 the whole plane lands on a line: the image has dimension 1 and a whole line (the kernel) goes to 0. Rank plus nullity is 2.</figcaption></figure>
+
 ## 6.4 The matrix of a linear map
 
 A linear map is decided by where the basis vectors go (Theorem 6.1). Write those images in coordinates and you have a table of

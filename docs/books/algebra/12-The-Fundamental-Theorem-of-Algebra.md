@@ -279,6 +279,8 @@ p = lambda z: z * z - 2 * z + 2
 print([winding(p, R) for R in (0.5, 1, 1.5, 2, 10)])   # [0, 0, 2, 2, 2]
 ```
 
+<figure class="play" data-play="winding"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Grow the circle and watch its image under p(z) = z³ − 2z + 2: each time the circle swallows a root, the image winds once more round 0.</figcaption></figure>
+
 ## 12.5 Consequences: factoring over $\mathbb{R}$ and $\mathbb{C}$
 
 Over $\mathbb{C}$, the corollary of 12.1 says everything: every polynomial is a constant times a product of linear

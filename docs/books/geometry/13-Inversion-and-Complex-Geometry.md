@@ -353,6 +353,8 @@ independently in the following decades; William Thomson (later Lord Kelvin) used
 of electric charge on conductors, his "method of images". The name and the systematic theory grew through the 19th
 century.
 
+<figure class="play" data-play="invert"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Inversion in the unit circle: slide a line and its image is a circle through the centre.</figcaption></figure>
+
 ## 13.3 Apollonius' problem and Steiner chains
 
 *Level: advanced.* Apollonius of Perga (about 200 BC) wrote a book, *Tangencies*, now lost, that solved this

@@ -216,6 +216,8 @@ major arc. Find $\angle ACB$, and the inscribed angle $\angle ADB$ for a point $
 lay the right-angle corner on the rim; the points where the two arms cross the rim are the ends of a diameter (by
 Thales). Draw it. Do this twice; the two diameters cross at the centre.
 
+<figure class="play" data-play="inscribed"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Move P round the circle: the angle APB stays half the angle at the centre, wherever P is on the same arc.</figcaption></figure>
+
 ## 6.3 Cyclic quadrilaterals
 
 Every triangle has a circumcircle (6.1). Four points usually do not lie on one circle: the circle through three of

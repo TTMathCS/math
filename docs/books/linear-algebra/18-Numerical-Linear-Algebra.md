@@ -483,6 +483,8 @@ The result finds all eigenvalues of a dense $n \times n$ matrix in about $10n^3$
 eigenvalue routine in a scientific library (for example the LAPACK routines behind NumPy and MATLAB) runs a descendant of
 Francis's algorithm. A close relative computes the SVD (Golub and Kahan, 1965).
 
+<figure class="play" data-play="matrix2" data-mode="power" data-m="2,1,1,1.5"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Power iteration: multiply by A and rescale, again and again; the direction settles on the eigenvector of the largest eigenvalue.</figcaption></figure>
+
 ## 18.5 Sparse matrices
 
 *Level: advanced.* Most large matrices in science are **sparse**: almost all entries are zero. Model the temperature on

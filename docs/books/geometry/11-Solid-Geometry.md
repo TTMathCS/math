@@ -350,6 +350,8 @@ holes. Imre Lakatos's book *Proofs and Refutations* (1976) is a classic dialogue
 mathematicians to sharpen what "polyhedron" means. The Euler characteristic is the first invariant of **topology**, and
 returns in Chapters [19](19-Curves-and-Surfaces.md) and [21](21-Where-Geometry-Goes.md).
 
+<figure class="play" data-play="platonic"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The five Platonic solids, turning. For each, corners minus edges plus faces is 2.</figcaption></figure>
+
 ## 11.4 Cavalieri's principle and volume
 
 *Level: intermediate.*

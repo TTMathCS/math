@@ -243,6 +243,8 @@ simple closed curve (one that does not cross itself) this is $\pm 2\pi$ (Hopf's 
 space curve, $\int \kappa\, ds \ge 2\pi$, with equality only for plane convex curves (Fenchel, 1929). These are first
 examples of the pattern that ends the chapter: integrate curvature, get a number that depends only on the shape's topology.
 
+<figure class="play" data-play="curvature"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Slide along an ellipse: the osculating circle hugs the curve, its radius 1/κ.</figcaption></figure>
+
 ## 19.3 Surfaces and the first fundamental form
 
 *Level: advanced.* Now let the moving point depend on two parameters. A **parametrised surface** (a chart of a surface)

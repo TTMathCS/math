@@ -109,6 +109,8 @@ a right triangle? $AB^2 = 9 + 16 = 25$, $BC^2 = 16 + 9 = 25$, $AC^2 = 49 + 1 = 5
 of Pythagoras ([Chapter 4](04-Area-and-Pythagoras.md)) says the angle at $B$ is right, and the triangle is also
 isosceles.
 
+<figure class="play" data-play="points"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Tap to move two points; read the distance (Pythagoras), the midpoint and the slope.</figcaption></figure>
+
 ## 8.3 Lines and circles in coordinates
 
 ### Lines

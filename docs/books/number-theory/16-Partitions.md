@@ -118,6 +118,8 @@ symmetrically at its corner, to rebuild a unique symmetric diagram. $\blacksquar
 Check with $n = 12$: the self-conjugate partitions are $6+2+1+1+1+1$ (hooks $11$ and $1$), $5+3+2+1+1$ (hooks $9, 3$)
 and $4+4+2+2$ (hooks $7, 5$). The partitions into distinct odd parts are $11+1$, $9+3$, $7+5$. Three each.
 
+<figure class="play" data-play="partition"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The partitions of n as Ferrers diagrams. Flip one over its diagonal for its conjugate, and compare the odd-part and different-part counts.</figcaption></figure>
+
 ## 16.2 Generating functions and Euler's odd-distinct theorem
 
 *Level: intermediate.*

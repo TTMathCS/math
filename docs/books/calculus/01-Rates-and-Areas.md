@@ -310,6 +310,8 @@ def sums(f, a, b, n):
 print(sums(lambda x: x * x, 0, 1, 1000))   # (0.3328335, 0.3338335) up to rounding
 ```
 
+<figure class="play" data-play="riemann"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The area under y = x² from 0 to 2 by rectangles. More, thinner rectangles close in on the exact 8/3.</figcaption></figure>
+
 ## 1.4 Archimedes and the parabola
 
 *Level: intermediate.*

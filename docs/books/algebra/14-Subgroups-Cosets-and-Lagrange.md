@@ -374,6 +374,8 @@ corollary (see [cryptography.akadian.ca/book](https://cryptography.akadian.ca/bo
 (The formula holds for infinite groups too, as long as the indices are finite, by choosing coset representatives; this
 is the group cousin of the tower law for fields in [Chapter 19](19-Fields-and-Extensions.md).)
 
+<figure class="play" data-play="cosets"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A subgroup of the clock group and its cosets. The cosets never overlap and are all the same size, so the subgroup's size divides n.</figcaption></figure>
+
 ## 14.5 The order of an element
 
 *Level: advanced.*

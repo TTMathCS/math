@@ -411,6 +411,8 @@ questions that look like biology.
 radius 1 mm and one of radius 2 mm: the bigger one has $2^2 = 4$ times the surface and $2^3 = 8$ times the water, so
 half as much surface **per litre**. Small things are mostly surface; big things are mostly inside.
 
+<figure class="play" data-play="solid" data-mode="scale"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Scale a solid by k: lengths grow by k, areas by k², volumes by k³.</figcaption></figure>
+
 ## 5.4 The geometric mean and the altitude theorem
 
 The **arithmetic mean** of two positive numbers $a$ and $b$ is $(a+b)/2$, the number halfway between them. The

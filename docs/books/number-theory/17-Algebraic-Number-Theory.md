@@ -340,6 +340,8 @@ Note what the theorem says: the splitting of $p$ depends only on $p$ modulo $|d_
 That a prime's behaviour in an extension is governed by a congruence condition is the first case of **class field theory**,
 and the search for such laws for every extension is the Langlands programme ([Chapter 21](21-Where-Number-Theory-Goes.md)).
 
+<figure class="play" data-play="twosq" data-mode="gauss"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The Gaussian integers, where factoring into primes is still unique: 5 splits as (2 + i)(2 − i), 3 does not.</figcaption></figure>
+
 ## 17.4 The class number
 
 *Level: expert.*

@@ -82,6 +82,8 @@ differential equations and algebra. Moreover, *nearly* defective matrices, with 
 eigenvectors nearly parallel, behave numerically almost as badly as defective ones. We need a theory of what happens
 instead.
 
+<figure class="play" data-play="matrix2" data-mode="eigen" data-m="1,1,0,1"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The shear [1 1; 0 1] has only one eigenvector direction, so it cannot be diagonalised: the simplest Jordan block.</figcaption></figure>
+
 ## 16.2 Generalised eigenvectors
 
 *Level: advanced.*

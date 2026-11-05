@@ -530,6 +530,8 @@ compact spaces.
 Henry John Stephen Smith described such sets in 1875, and Cantor's version appeared in 1883. The Topics lesson
 [The Cantor set](../../topics/infinity/level-7/05-cantor-set.md) builds it gently.
 
+<figure class="play" data-play="fractal" data-kind="cantor"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The Cantor set: keep removing the middle thirds. What remains has total length 0 yet as many points as the whole line.</figcaption></figure>
+
 ## A short history
 
 The pieces of this chapter came from different places. Open and closed sets on the line grew out of Cantor's work on sets

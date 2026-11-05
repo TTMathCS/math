@@ -641,6 +641,8 @@ print(math.sqrt(math.pi) / 2 * math.erf(1))    # 0.746824132812427
 Modern software uses **adaptive** rules (more points where $f$ wiggles) and **Gaussian quadrature** (cleverly placed
 points that make $n$ points exact for polynomials of degree $2n - 1$), but the ideas are the ones above.
 
+<figure class="play" data-play="sums" data-mode="rules"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Numerical integration on the same strips: left rectangles, the trapezoid rule and Simpson's rule, against the exact area.</figcaption></figure>
+
 ## Check yourself
 
 ??? question "1. Compute $\int_0^1 x^2e^{x^3}\,dx$."

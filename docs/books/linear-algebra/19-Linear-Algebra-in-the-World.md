@@ -437,6 +437,8 @@ data so well, which remains an active research question; and a model's output be
 nothing either way about whether it "understands". Honest uses of these tools come with honest descriptions of their
 limits ([Statistics, Chapter 19](../statistics/19-Statistical-Learning.md)).
 
+<figure class="play" data-play="pca"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Principal components: turn the line and see how much of the cloud's spread it keeps. The best direction is the top eigenvector of the covariance matrix.</figcaption></figure>
+
 ## 19.5 Coding theory again, and compressed sensing
 
 *Level: advanced.* In [Chapter 7](07-The-Four-Subspaces.md) you met linear codes: a code is a subspace $C$ of

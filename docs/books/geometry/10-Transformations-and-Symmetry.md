@@ -375,6 +375,8 @@ and it is direct with the same rotation angle, up to sign, since determinants an
 are similar. These rules say: **the symmetries of a pattern carry its rotation centres to rotation centres of the same
 order, and its mirrors to mirrors.** That fact drives 10.6.
 
+<figure class="play" data-play="transform"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Slides, flips and turns: each keeps the shape's size and angles, and two flips in a row make a turn or a slide.</figcaption></figure>
+
 ## 10.4 Symmetry groups of figures
 
 *Level: intermediate to advanced.*

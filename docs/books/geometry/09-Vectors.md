@@ -449,6 +449,8 @@ $|\mathbf{u} + \mathbf{v}|^2 = |\mathbf{u}|^2 + 2\,\mathbf{u}\cdot\mathbf{v} + |
 using Cauchy-Schwarz in the middle. $\square$ In words: one side of a triangle is never longer than the other two
 together, the theorem of [Chapter 2](02-Triangles-and-Congruence.md), now proved by algebra.
 
+<figure class="play" data-play="dotprod"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The dot product and the angle between two vectors: zero exactly when they are at right angles.</figcaption></figure>
+
 ## 9.4 Projections
 
 *Level: intermediate.*

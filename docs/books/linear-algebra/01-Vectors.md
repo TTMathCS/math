@@ -440,6 +440,8 @@ print(w, dot(w, u), dot(w, v))        # (6, 2, -5) 0 0
 print(round(norm(w), 4))              # 8.0623, which is sqrt(65)
 ```
 
+<figure class="play" data-play="dotprod"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Move the tip of b: the dot product a·b = |a||b| cos θ is positive when the arrows point the same way, zero at a right angle and negative when they point apart.</figcaption></figure>
+
 ## 1.4 Lines and planes in space
 
 In the plane a line can be written $y = mx + b$. In space that fails: one equation in $x, y, z$ describes a plane, not a

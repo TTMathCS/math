@@ -499,6 +499,8 @@ for k in range(8):
     p = mul(p, 0b010)
 ```
 
+<figure class="play" data-play="powmod"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The non-zero numbers mod p under multiplication. A primitive root reaches every one of them: the multiplicative group of a finite field is cyclic.</figcaption></figure>
+
 ## 19.6 Transcendental numbers
 
 *Level: expert.* Is every real number algebraic? Liouville gave the first example of one that is not, in 1844 (with the

@@ -656,6 +656,8 @@ The converse also holds (by elimination, as in Theorem 2.11): if $AB = DE$, $AC 
 $\angle A > \angle D$. We will use the hinge theorem in Chapter 4 to tell acute, right and obtuse triangles apart by
 their side lengths.
 
+<figure class="play" data-play="tri3"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Pick three lengths: a triangle exists only if each is shorter than the other two together, and then the three sides fix it (SSS).</figcaption></figure>
+
 ## 2.5 Constructions with compass and straightedge
 
 ### The rules

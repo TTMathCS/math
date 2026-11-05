@@ -391,6 +391,8 @@ $W = \operatorname{span}(\mathbf{w}_1, \ldots)$, then $U + W$ is the span of all
 together. Chapter 5 proves a formula linking the sizes: $\dim(U + W) = \dim U + \dim W - \dim(U \cap W)$, like counting
 the elements of a union of two sets.
 
+<figure class="play" data-play="matrix2" data-mode="map" data-m="1,2,0.5,1"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The span of two vectors (the gold and blue arrows): the grid is every combination of them. Line them up (determinant 0) and the span collapses to a line.</figcaption></figure>
+
 ## 4.4 Fields other than the reals
 
 *Level: intermediate to advanced.*

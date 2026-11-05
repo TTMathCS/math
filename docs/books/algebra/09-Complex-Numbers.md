@@ -302,6 +302,8 @@ $\operatorname{cis}30° = \frac{\sqrt3}{2} + \frac12 i$, giving $\frac{3\sqrt3}{
 is $\left(1 + \frac{3\sqrt3}{2}, \frac52\right) \approx (3.598, 2.5)$. Rotations of the plane are just
 $z \mapsto c + w(z - c)$ with $|w| = 1$: a whole chapter of geometry in one line.
 
+<figure class="play" data-play="complex" data-mode="times"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Multiplying by i turns a point a quarter turn about 0; squaring doubles its angle and squares its length.</figcaption></figure>
+
 ## 9.5 De Moivre's theorem
 
 Applying Theorem 9.2 repeatedly to one number gives its powers.

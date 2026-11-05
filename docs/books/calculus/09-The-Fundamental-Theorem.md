@@ -233,6 +233,8 @@ print((G(x + h) - G(x - h)) / (2 * h))   # about 0.778
 print(f(x))                              # sin(2.25) = 0.7780731968879212
 ```
 
+<figure class="play" data-play="sums" data-mode="accum"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The area function A(x) grows at the rate f(x): the fundamental theorem of calculus.</figcaption></figure>
+
 ## 9.3 The fundamental theorem, part 2
 
 Part 1 is about differentiating integrals. Part 2 is the part you will use a thousand times: it **computes**

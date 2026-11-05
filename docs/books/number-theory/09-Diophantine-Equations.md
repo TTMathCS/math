@@ -132,6 +132,8 @@ And not every conic has a rational point. The circle $x^2 + y^2 = 3$ has none: i
 $\gcd(a, b, c) = 1$ then $a^2 + b^2 = 3c^2$. Mod 3, squares are 0 or 1, so $a^2 + b^2 \equiv 0$ forces $3 \mid a$ and
 $3 \mid b$; then $9 \mid 3c^2$, so $3 \mid c$, contradicting $\gcd = 1$.
 
+<figure class="play" data-play="triples"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Every primitive Pythagorean triple comes from m and n: m² − n², 2mn, m² + n².</figcaption></figure>
+
 ## 9.2 Fermat's descent
 
 *Level: advanced.*

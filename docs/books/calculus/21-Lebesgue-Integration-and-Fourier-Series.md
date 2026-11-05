@@ -354,6 +354,8 @@ $$
 At $x = \pi/2$ this gives Leibniz's series again. This is the series Abel used in 1826 to show that a convergent sum of
 continuous functions can jump (Chapter 19).
 
+<figure class="play" data-play="fourier"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A square wave built from sine waves, its Fourier series. Add terms, see the Gibbs overshoot, and press Sound to hear it.</figcaption></figure>
+
 ## 21.5 When does a Fourier series converge?
 
 *Level: advanced.* The answer depends on what "converge" means, and the different answers are among the deepest results of

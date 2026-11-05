@@ -498,6 +498,8 @@ which a computer confirms to any number of digits. Only square roots appear, so 
 Explicit step-by-step constructions of the 17-gon exist (Richmond's of 1893 is a well-known one); the 257-gon was worked
 out by Richelot in the 19th century, and Johann Hermes spent years on the 65537-gon.
 
+<figure class="play" data-play="ngon"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Which regular polygons can be drawn with straightedge and compass: a power of 2 times different Fermat primes.</figcaption></figure>
+
 ## 14.6 Other tools
 
 *Level: advanced.* The impossibility theorems are about one particular toolkit. Change the tools and the answers

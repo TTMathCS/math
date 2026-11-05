@@ -583,6 +583,8 @@ $20 = 27 - 9 + 3 - 1$: put the object with the 9 and the 1 on one side, and the 
 the division algorithm again, with remainders taken in $\{-1, 0, 1\}$ instead of $\{0, 1, 2\}$: a remainder of 2 is
 replaced by $-1$ and the quotient goes up by one.
 
+<figure class="play" data-play="placeval" data-mode="base"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The same number in another base: each place is worth the base times the place to its right.</figcaption></figure>
+
 ## A short history thread
 
 Books VII to IX of Euclid's *Elements* (Alexandria, about 300 BC) contain the first systematic number theory that

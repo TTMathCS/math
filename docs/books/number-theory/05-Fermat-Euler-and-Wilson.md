@@ -473,6 +473,8 @@ that is not $\pm 1$, which is impossible modulo a prime: 561 is composite. (Even
 us a factor.) That is the
 **Miller-Rabin test** of [Chapter 12](12-Primality-Factoring-and-RSA.md), used to make every RSA key.
 
+<figure class="play" data-play="fermat"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The Fermat test, one base per square. Try 561 = 3 × 11 × 17, a Carmichael number: every base that shares no factor with it says "maybe prime".</figcaption></figure>
+
 ## A short history thread
 
 Pierre de Fermat stated the little theorem in a letter to Bernard Frénicle de Bessy dated 18 October 1640, without

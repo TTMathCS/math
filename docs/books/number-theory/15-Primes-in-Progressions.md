@@ -109,6 +109,8 @@ zeros of the relevant $L$-functions satisfy no linear relations, they proved tha
 $3 \bmod 4$ team leads has logarithmic density about $0.9959$. The reason is that non-residues (like 3 mod 4) get an
 extra push from the squares of primes, which all fall in the residue class 1.
 
+<figure class="play" data-play="primecount" data-mode="race"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Primes of the form 4k + 1 against 4k + 3. Dirichlet's theorem says each kind has infinitely many; Chebyshev noticed the 4k + 3s are usually ahead.</figcaption></figure>
+
 ## 15.2 Characters mod $n$
 
 *Level: advanced.*

@@ -212,6 +212,8 @@ closer to 1 as $n$ grows (for $n \ge 15$ it is below 2, since $(16/15)^{10} \app
 the exponential by more than the power, the ratio $2^n / n^{10}$ grows by a fixed factor above 1 at every step and
 must eventually pass any bound. The same argument shows that $a^n$ beats $n^k$ for any $a > 1$ and any $k$.
 
+<figure class="play" data-play="graph" data-form="exp"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> y = a · bˣ: a base above 1 grows, a base between 0 and 1 decays, and every curve passes through (0, a).</figcaption></figure>
+
 ## 7.3 Logarithms: the inverse of exponentials
 
 $2^x = 8$ has the solution $x = 3$. What about $2^x = 10$? Somewhere between 3 and 4, since $2^3 = 8 < 10 < 16 = 2^4$.

@@ -139,6 +139,8 @@ equation is $0 \cdot x = 0$, and every $x$ is a solution. The answer depends on 
 gives every case. This kind of reasoning, splitting into cases according to whether you are dividing by zero,
 comes back in linear systems ([Chapter 3](03-Lines-and-Linear-Systems.md)) and in linear algebra.
 
+<figure class="play" data-play="balance"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Keep the balance level: whatever you do to one side, do to the other, until one x stands alone.</figcaption></figure>
+
 ## 2.3 Rearranging formulas
 
 A formula like $v = u + at$ (final speed equals starting speed plus acceleration times time) is written to compute

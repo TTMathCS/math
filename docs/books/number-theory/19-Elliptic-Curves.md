@@ -249,6 +249,8 @@ P = (F(3), F(5))
 print(add(P, P, 0))               # (Fraction(129, 100), Fraction(-383, 1000))  on y^2 = x^3 - 2
 ```
 
+<figure class="play" data-play="ellcurve"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The chord-and-tangent rule on y² = x³ − x + 1: draw the line through P and Q, find the third point, and flip it.</figcaption></figure>
+
 ## 19.3 Mordell's theorem: rank and torsion
 
 *Level: advanced.* Write $E(\mathbb{Q})$ for the group of rational points of $E$ (with $O$). How big can it be?

@@ -374,6 +374,8 @@ exponents and explains why $x^0 = 1$.
 
 The top is $27a^6b^3 \cdot a = 27a^7b^3$. Dividing, $\frac{27}{9} a^{7-4} b^{3-2} = 3a^3b$.
 
+<figure class="play" data-play="tiles"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Expanding (x + a)(x + b) as a rectangle of tiles: the big square is x², the strips are the x terms and the corner holds a × b unit squares.</figcaption></figure>
+
 ## 1.6 Substitution and formulas
 
 To **substitute** is to replace each letter by a number and evaluate. Two habits prevent nearly all mistakes:

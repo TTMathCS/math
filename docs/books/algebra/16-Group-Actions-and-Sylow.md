@@ -262,6 +262,8 @@ def count_orbits(n, k):
 print(count_orbits(4, 2), count_orbits(6, 2))   # 6 14
 ```
 
+<figure class="play" data-play="necklace"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Burnside counting on necklaces: average, over all the turns, how many colourings each turn leaves unchanged.</figcaption></figure>
+
 ## 16.4 The class equation, and $p$-groups have a centre
 
 *Level: advanced.*

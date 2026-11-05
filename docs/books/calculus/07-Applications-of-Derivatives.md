@@ -265,6 +265,8 @@ continues at $\theta_2$ with $\sin\theta_2 = \frac{0.7071}{1.33} = 0.532$, so $\
 a straw in a glass looks broken. The law was found by experiment (by Ibn Sahl in tenth-century Baghdad, and again by Willebrord
 Snellius in 1621, and published by Descartes in 1637); Fermat's least-time derivation explained *why*.
 
+<figure class="play" data-play="boxopt"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The open box: cut squares from the corners of a 12 by 12 card. The volume peaks where its derivative is 0, at x = 2.</figcaption></figure>
+
 ## 7.3 Related rates
 
 When two quantities are tied by an equation and both change with time, their rates of change are tied too. Differentiate the

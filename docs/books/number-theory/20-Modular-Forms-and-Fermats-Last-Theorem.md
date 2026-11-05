@@ -442,6 +442,8 @@ true.**
 When Ribet's proof became known in 1986, the problem changed shape. Proving Fermat now meant proving the modularity
 conjecture for semistable curves, a central question that many people already wanted to solve for its own sake.
 
+<figure class="play" data-play="ellcurve" data-mode="fp"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> An elliptic curve over the numbers mod p. The counts of its points for each prime are what a modular form must match in the Taniyama-Shimura correspondence.</figcaption></figure>
+
 ## 20.4 Wiles, 1986 to 1995
 
 *Level: expert.* Andrew Wiles, then at Princeton, had loved Fermat's problem since he was ten. On hearing of Ribet's result

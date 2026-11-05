@@ -162,6 +162,8 @@ $6^2 = 36 = 0$; in $M_2(\mathbb{R})$, $\begin{pmatrix} 0 & 1 \\ 0 & 0 \end{pmatr
 $a^2 = a$ (in $\mathbb{Z}_6$: $0, 1, 3, 4$). A domain has no nilpotents except 0, and no idempotents except 0 and 1
 (from $a(a - 1) = 0$).
 
+<figure class="play" data-play="clock" data-mode="times"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Multiplying on a clock of n hours. When n is not prime, two non-zero numbers can multiply to 0, so Z<sub>n</sub> is not an integral domain.</figcaption></figure>
+
 ## 17.3 Ideals and quotient rings
 
 *Level: advanced.*

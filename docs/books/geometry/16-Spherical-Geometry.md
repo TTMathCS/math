@@ -202,6 +202,8 @@ km$^2$.
 The formula is named after Albert Girard, who published it in 1629. Thomas Harriot had found it earlier, around 1603,
 but did not publish. Euler and Legendre later gave the proof by lunes.
 
+<figure class="play" data-play="sphere"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A triangle on a sphere with two right angles on the equator: its angles add up to more than 180°, and the extra is its area.</figcaption></figure>
+
 ## 16.3 Spherical trigonometry
 
 *Level: advanced.* Work on the unit sphere. A spherical triangle $ABC$ has **sides** $a, b, c$ (the arcs opposite $A$,

@@ -263,6 +263,8 @@ because measurements carry errors, and there is no exact solution. The best one 
 to $b$. That is the method of least squares, [Chapter 12](12-Projections-and-Least-Squares.md), and the four subspaces are its
 skeleton.
 
+<figure class="play" data-play="matrix2" data-mode="map" data-m="2,1,1,0.5"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Ax = b has a solution only when b is in the column space, the set the grid covers. With determinant 0 that is just a line.</figcaption></figure>
+
 ## 7.4 The big picture
 
 *Level: intermediate to advanced.*

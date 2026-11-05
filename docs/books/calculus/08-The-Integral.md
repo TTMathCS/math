@@ -261,6 +261,8 @@ $$
 \int_a^b f(x)\,dx = \lim_{n \to \infty}\sum_{k=1}^{n}f(t_k)\,\frac{b - a}{n} .
 $$
 
+<figure class="play" data-play="sums" data-mode="lower"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Lower and upper sums for y = 1 + sin x on [0, 3]: as the strips thin, both close in on the exact area 4 − cos 3.</figcaption></figure>
+
 ## 8.3 Properties of the integral
 
 All the following hold for integrable functions $f$ and $g$ on $[a, b]$ and constants $c$.

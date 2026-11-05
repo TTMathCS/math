@@ -280,6 +280,8 @@ $$x^3-(-2)x^2+(-7)x-16=x^3+2x^2-7x-16.$$
 In all these examples the quantity we wanted had a special feature: it did not change if the roots were renamed. That
 is the key to the next section.
 
+<figure class="play" data-play="polyroots"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Move the three roots of a cubic and watch Vieta's formulas: the coefficients are the sum, the pair products and the product of the roots.</figcaption></figure>
+
 ## 10.5 Symmetric polynomials
 
 *Level: advanced.*

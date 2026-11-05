@@ -260,6 +260,8 @@ cryptographers often choose primes with $p - 1$ of a known shape, such as $p = 2
     print([least_primitive_root(p) for p in [3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41]])
     ```
 
+<figure class="play" data-play="powmod"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The powers of every number mod p. Each row comes back to 1 after a number of steps that divides p − 1; the gold rows are the primitive roots.</figcaption></figure>
+
 ## 7.3 Which moduli have primitive roots
 
 *Level: advanced.*

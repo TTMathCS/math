@@ -130,6 +130,8 @@ $A = U_r\Sigma_rV_r^T$, with $U_r$ of size $m\times r$, $\Sigma_r$ of size $r\ti
 And $A$ maps the row-space basis to the column-space basis one vector at a time, scaled by $\sigma_i$. This is the most
 complete description of a linear map between inner product spaces that one can give.
 
+<figure class="play" data-play="matrix2" data-mode="circle" data-m="1.5,1,0,1"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Any matrix sends the unit circle to an ellipse. The longest and shortest half-axes are the singular values.</figcaption></figure>
+
 ## 15.2 Proof from the spectral theorem
 
 *Level: advanced.*

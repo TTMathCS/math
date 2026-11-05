@@ -586,6 +586,8 @@ geometric meaning as signed volume, and the definition by the three properties, 
 credited with the characterisation by properties, and Thomas Muir's four-volume *Theory of Determinants in the Historical Order of Development* (1890-1923)
 records the whole story.
 
+<figure class="play" data-play="matrix2" data-mode="map" data-m="1.5,0.5,0,1"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The determinant is how much the matrix scales area: the gold square's area. A negative determinant flips it over (red).</figcaption></figure>
+
 ## Check yourself
 
 ??? question "1. Compute $\det\begin{pmatrix} 3 & 7 \\ 2 & 5 \end{pmatrix}$ and $\det\begin{pmatrix} 1 & 2 & 3 \\ 0 & 4 & 5 \\ 0 & 0 & 6 \end{pmatrix}$."

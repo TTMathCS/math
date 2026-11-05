@@ -451,6 +451,8 @@ cubic with roots $\theta_1,\theta_2,\theta_3$ have the same discriminant.* For a
 and two non-real roots; $\Delta>0$ means all four real or none real. Example 8, $y^4+4y-1$, has $\Delta=-7168<0$, and
 indeed two real roots.
 
+<figure class="play" data-play="polyroots"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A cubic built from its roots. When two roots meet, the graph just touches the axis there: that is when the discriminant is 0.</figcaption></figure>
+
 ## 11.8 Lagrange's resolvents: the pattern that fails at degree 5
 
 *Level: expert.*

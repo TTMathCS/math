@@ -115,6 +115,8 @@ to $\sqrt x$ counts the primes up to $x$, and Meissel in the 1870s turned this i
 $\pi(10^9)$ by hand (getting it slightly wrong). Refinements by Lehmer, by Lagarias, Miller and Odlyzko, and by Deléglise
 and Rivat, and analytic methods based on the zeta function, now give exact values of $\pi(x)$ far beyond $10^{20}$.
 
+<figure class="play" data-play="primecount"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> π(x), the number of primes up to x, against x / ln x. Their ratio creeps towards 1, as the prime number theorem says.</figcaption></figure>
+
 ## 13.2 Chebyshev's bounds
 
 *Level: advanced.*

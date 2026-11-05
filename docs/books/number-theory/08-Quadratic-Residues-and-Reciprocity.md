@@ -73,6 +73,8 @@ square, zero, or a nonresidue mod $p$; and when $D \equiv s^2$, the solutions ar
 
 Everything thus depends on one question: *given $a$ and $p$, is $a$ a square mod $p$?*
 
+<figure class="play" data-play="qres"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Square every number mod p. Exactly half of the non-zero numbers are hit, and −1 is one of them only when p leaves 1 on division by 4.</figcaption></figure>
+
 ## 8.2 The Legendre symbol and Euler's criterion
 
 *Level: advanced.*

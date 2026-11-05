@@ -277,6 +277,8 @@ separately and glues (see the [cryptography book, chapter 13](https://cryptograp
     ```
     This is the one-at-a-time method; `pow(M, -1, m)` (Python 3.8 or later) is the inverse of $M$ mod $m$.
 
+<figure class="play" data-play="crt"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Two remainder conditions at once. When m and n share no factor, exactly one number below m·n fits both.</figcaption></figure>
+
 ## 6.2 Multiplicative functions
 
 *Level: intermediate.*

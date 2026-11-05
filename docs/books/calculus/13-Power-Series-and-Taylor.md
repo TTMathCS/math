@@ -334,6 +334,8 @@ Fluxions* (1742), which is why that case carries his name. The remainder in the 
 Lagrange, in his *Théorie des fonctions analytiques* (1797). Lagrange hoped to build all of calculus on power
 series; 13.6 shows why that hope could not work.
 
+<figure class="play" data-play="taylor" data-f="sin"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Taylor polynomials of sin x round 0: each extra term keeps the polynomial close to the curve over a wider stretch.</figcaption></figure>
+
 ## 13.4 The great series
 
 A function equals its Taylor series at $x$ exactly when $R_n(x) \to 0$ as $n \to \infty$. For the functions below we

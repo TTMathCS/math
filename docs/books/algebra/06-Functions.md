@@ -440,6 +440,8 @@ choose one preimage for every $b$ at once; that this is always possible is the *
 assumptions of modern set theory. For finite sets, and for most functions given by formulas, no axiom is needed
 because a choice can be written down.
 
+<figure class="play" data-play="funcmap"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Random functions between two small sets. Check each one: is it one-to-one, onto, both? Only a bijection has an inverse.</figcaption></figure>
+
 ## 6.6 Even, odd, periodic and piecewise functions
 
 Some functions have symmetry, and symmetry saves work.

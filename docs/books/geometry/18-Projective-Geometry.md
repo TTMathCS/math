@@ -109,6 +109,8 @@ Cameras obey the same equations; computer graphics draws every 3D scene with the
 backwards to recover a 3D scene from photographs. The cameras on Mars rovers are calibrated with this pinhole model
 (plus corrections for lens distortion) so that pairs of images can be turned into maps of the terrain.
 
+<figure class="play" data-play="perspective"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Parallel lines on a tiled floor meet at vanishing points on the horizon, the points at infinity of the projective plane.</figcaption></figure>
+
 ## 18.2 The projective plane and homogeneous coordinates
 
 *Level: intermediate.* The canvas suggests a recipe: a point of the picture *is* a line through the eye. Two points

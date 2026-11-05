@@ -460,6 +460,8 @@ These two linear equations (the **normal equations**) give the least-squares lin
 [Statistics, Chapter 11](../statistics/11-Linear-Regression.md). For the points $(0, 1), (1, 3), (2, 4)$ they read
 $5m + 3c = 11$ and $3m + 3c = 8$, so $m = 1.5$ and $c = 7/6$.
 
+<figure class="play" data-play="gdbowl"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Level curves of f(x, y) = x² + 10y² and steps downhill along the gradient towards the minimum.</figcaption></figure>
+
 ## 15.6 Lagrange multipliers
 
 *Level: advanced.*

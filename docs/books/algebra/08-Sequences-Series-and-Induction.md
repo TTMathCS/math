@@ -578,6 +578,8 @@ series like $1 - \frac12 + \frac13 - \frac14 + \cdots$, which converges (to $\ln
 add up to any number you like (Riemann's rearrangement theorem). See [MAT137 Unit 13](../../uoft/MAT137/unit13.md)
 and [MAT159H1 Unit 5](../../uoft/MAT159H1/unit05.md).
 
+<figure class="play" data-play="seq" data-kind="geom"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A geometric sequence and its running sum. With a ratio between −1 and 1 the sum settles towards a / (1 − r).</figcaption></figure>
+
 ## Check yourself
 
 ??? question "1. The 4th term of an arithmetic sequence is 17 and the 10th is 41. Find the first term, the common difference, and the sum of the first 20 terms."

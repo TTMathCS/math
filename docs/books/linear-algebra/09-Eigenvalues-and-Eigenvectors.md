@@ -117,6 +117,8 @@ $\lambda = 0$: if $\lambda \neq 0$, the leading term of $\lambda p$ has higher d
 the only eigenvalue is 0 and the eigenvectors are the nonzero constants. The same operator, on different spaces, has
 very different eigenvalues. Chapter 10 makes heavy use of the exponential eigenfunctions.
 
+<figure class="play" data-play="matrix2" data-mode="eigen" data-m="2,1,1,2"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Turn the blue vector v and watch Av (gold). Along the dashed lines Av is just v stretched: those are the eigenvectors.</figcaption></figure>
+
 ## 9.2 The characteristic polynomial
 
 Guessing works for reflections. For a general matrix we need a method. The key line is

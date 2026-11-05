@@ -568,6 +568,8 @@ too, contradicting "no common factor". $\blacksquare$
 This is why the "any real numbers" step of Theorem 4.1 is not a mere technicality, and why Chapter 5 has to work to
 prove the intercept theorem for lengths without a common unit.
 
+<figure class="play" data-play="pythag"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The rearrangement proof of Pythagoras: the same four triangles in a square leave c², or a² + b².</figcaption></figure>
+
 ## 4.4 The converse
 
 **Theorem 4.8 (Euclid I.48).** If the sides of a triangle satisfy $a^2 + b^2 = c^2$, then the angle opposite $c$ is a

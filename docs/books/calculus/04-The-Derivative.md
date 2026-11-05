@@ -164,6 +164,8 @@ curves, which is why we define tangents by slopes.
 
 The right description is the zoom one: the tangent is the line that the curve resembles most closely near the point.
 
+<figure class="play" data-play="secant"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> From secant to tangent on y = x²: slide h towards 0 and the slope 2 + h becomes 2.</figcaption></figure>
+
 ## 4.2 The derivative as a function
 
 ### A new function from an old one

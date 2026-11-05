@@ -374,6 +374,8 @@ $$
 to weight each measurement by $1/\sigma_i^2$, the reciprocal of its variance. Orbit determination always uses weights,
 since different tracking stations and instruments have different accuracies.
 
+<figure class="play" data-play="linefit"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Least squares: tap to add points. The line is the projection of the data onto the space of all lines, found exactly by the normal equations.</figcaption></figure>
+
 ## 12.4 The QR factorisation
 
 *Level: intermediate to advanced.*

@@ -305,6 +305,8 @@ A quotient is a way of **deliberately forgetting**: $G/N$ is $G$ seen by someone
 differ by something in $N$. Taking the remainder mod $n$, reading the angle of a rotation but not how many full turns
 were made, keeping only the parity of a permutation: each is a quotient.
 
+<figure class="play" data-play="cosets"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The cosets of H are the members of the quotient group: each colour is one element of Z<sub>n</sub>/H, and there are gcd(n, d) of them.</figcaption></figure>
+
 ## 15.6 The isomorphism theorems
 
 *Level: advanced.*

@@ -206,6 +206,8 @@ first result in the analysis of algorithms: a proof of how long a computation ta
 $\frac{12 \ln 2}{\pi^2} \ln N \approx 0.84 \ln N$ (results of Heilbronn and Dixon around 1970; see Knuth's
 *Seminumerical Algorithms*).
 
+<figure class="play" data-play="euclid"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Euclid's algorithm one step at a time: replace the bigger number by its remainder until the remainder is 0.</figcaption></figure>
+
 ## 3.3 Bézout's identity and the extended algorithm
 
 ### The question

@@ -110,6 +110,8 @@ $\mathbb{Z}/n\mathbb{Z}$ (read "Z mod n Z"; some books write $\mathbb{Z}_n$). It
 integers containing exactly one member of each class, such as $\{0, 1, \dots, n - 1\}$ or $\{-2, -1, 0, 1, 2\}$
 modulo 5, is a **complete residue system**.
 
+<figure class="play" data-play="clock"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Clock arithmetic: the answer is the remainder after dividing by n.</figcaption></figure>
+
 ## 4.2 The rules of congruence
 
 ### Adding and multiplying

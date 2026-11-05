@@ -565,6 +565,8 @@ cases in his work on gravitation, and Green had a version too. Stokes's theorem 
 William Thomson to George Gabriel Stokes in 1850; Stokes set it as a question in the Smith's Prize examination at
 Cambridge in 1854, and the name stuck.
 
+<figure class="play" data-play="field" data-mode="spin"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Three vector fields: one that spins (curl), one that spreads (divergence) and a gradient (neither round a loop). Press Play to let dust drift.</figcaption></figure>
+
 ## 17.6 Maxwell's equations in words
 
 *Level: a guided tour.*

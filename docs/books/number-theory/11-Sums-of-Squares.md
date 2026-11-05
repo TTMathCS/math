@@ -243,6 +243,8 @@ listed above (each has $a \neq b$, both nonzero, so it gives 8 signed ordered pa
 The formula was found by Gauss and Jacobi in the early nineteenth century. We sketch its proof in 11.2, where it
 becomes a counting of Gaussian integers.
 
+<figure class="play" data-play="twosq"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Does the circle x² + y² = n pass through a grid point? Exactly when n is a sum of two squares.</figcaption></figure>
+
 ## 11.2 The view from the Gaussian integers
 
 *Level: advanced.*

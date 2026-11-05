@@ -263,6 +263,8 @@ the sine graph shifted left by $90°$, since $\cos\theta = \sin(\theta + 90°)$ 
 Every repeating motion, from a swinging pendulum to alternating current to the height of a point on a wheel, is built
 from these waves; that is the subject of Fourier analysis, far beyond this book.
 
+<figure class="play" data-play="unitwave"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A point going round the unit circle: its height traces the sine curve and its distance across the cosine.</figcaption></figure>
+
 ## 7.4 Radians
 
 Degrees are a Babylonian inheritance: 360 parts to a full turn, a number with many divisors. Nothing in geometry

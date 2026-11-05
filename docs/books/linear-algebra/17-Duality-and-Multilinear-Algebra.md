@@ -664,6 +664,8 @@ $df_1 \wedge \cdots \wedge df_n = \det(J)\, dx_1 \wedge \cdots \wedge dx_n$. Gre
 become one statement, $\int_M d\omega = \int_{\partial M} \omega$; see the one-page sketch in
 [Calculus, Chapter 17](../calculus/17-Vector-Calculus.md), 17.7.
 
+<figure class="play" data-play="matrix2" data-mode="map" data-m="1,0.6,-0.4,1.2"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The determinant as the signed area of the parallelogram the two columns span, the wedge product of the columns.</figcaption></figure>
+
 ## A short history
 
 Hermann Grassmann published the exterior algebra in *Die lineale Ausdehnungslehre* in 1844, with a revised version in

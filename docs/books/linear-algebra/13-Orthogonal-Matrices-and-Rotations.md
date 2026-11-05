@@ -195,6 +195,8 @@ the axis. $-I$ is the rotation by $180°$ about any axis followed by the mirror 
 called **rotoreflections** or improper rotations. A rigid object cannot be moved into its mirror image by a continuous
 motion, which is why physicists separate $SO(3)$, the motions you can actually perform, from the rest of $O(3)$.
 
+<figure class="play" data-play="matrix2" data-mode="rot"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Orthogonal 2 × 2 matrices: every one is a rotation or a reflection. The unit square keeps its shape and area; a reflection flips it.</figcaption></figure>
+
 ## 13.3 Every rotation in 3D has an axis
 
 *Level: intermediate to advanced.*

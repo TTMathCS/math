@@ -302,6 +302,8 @@ subtract readings to get the angle between two rays.
 $\angle AOB$, and where would its bisector read? The angle is $112 - 25 = 87°$. The bisector makes $43.5°$ with
 each arm, so it reads $25 + 43.5 = 68.5°$. **Check:** $112 - 68.5 = 43.5$.
 
+<figure class="play" data-play="angle" data-mode="one"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Turn the ray and read the angle and its name: acute, right, obtuse, straight, reflex.</figcaption></figure>
+
 ## 1.4 The first angle facts, with proofs
 
 Now we can prove things. Each theorem below is something you could have guessed from a drawing. The point is to see

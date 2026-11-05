@@ -320,6 +320,8 @@ print(matmul(L, U))            # [[2, 1, 1], [4, 3, 3], [8, 7, 9]], see section 
 The three nested loops (over $i$, $j$ and $k$) show the cost: multiplying two $n \times n$ matrices this way takes
 $n^3$ multiplications. Whether one can do substantially better is a famous open problem (Chapter 18 and Chapter 20).
 
+<figure class="play" data-play="matrix2" data-mode="map"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A matrix as a machine on the plane: the columns are where (1, 0) and (0, 1) go, and every grid line follows.</figcaption></figure>
+
 ## 3.4 Identity, inverse, transpose
 
 **The identity.** The $n \times n$ **identity matrix** $I$ (or $I_n$) has 1s on the main diagonal and 0s elsewhere.

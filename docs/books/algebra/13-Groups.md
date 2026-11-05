@@ -111,6 +111,8 @@ a "do nothing" symmetry. Every symmetry can be undone by another one (a rotation
 flipping again). And when you do three moves in a row, it does not matter how you group them in your head. Those are
 the axioms.
 
+<figure class="play" data-play="group"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Turn and flip a square in any order. Only eight positions ever turn up: the group of symmetries of the square.</figcaption></figure>
+
 ## 13.2 The axioms
 
 A **binary operation** on a set $G$ is a rule that takes two elements $a,b$ of $G$, in order, and gives an element of

@@ -480,6 +480,8 @@ and Cauchy's proofs already contain $\varepsilon$ and $\delta$ arguments in word
 lectures in Berlin in the second half of the 1800s. Berkeley's objection is answered by the definition: we never
 divide by zero and never "throw away" anything; we only ask what happens for nonzero $h$ close to zero.
 
+<figure class="play" data-play="limit"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The ε–δ game on sin x / x near 0: choose a band round 1, and see the window round 0 that keeps every value inside it.</figcaption></figure>
+
 ## 2.6 Proving the limit laws
 
 *Level: advanced.*

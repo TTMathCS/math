@@ -275,6 +275,8 @@ Check: $355/113 = 3.14159292\ldots$ and $\pi = 3.14159265\ldots$, a difference o
 window. The huge next partial quotient $a_4 = 292$ is what makes $q_4$ large and $355/113$ so good: the error is about
 $1/(292 \cdot 113^2)$ instead of the typical $1/113^2$.
 
+<figure class="play" data-play="contfrac"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The convergents of π, √2, e and the golden ratio, each closer than the one before. 355/113 is π's famous one.</figcaption></figure>
+
 ## 10.3 Best approximations
 
 *Level: advanced.*

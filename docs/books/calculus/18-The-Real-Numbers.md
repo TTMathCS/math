@@ -656,6 +656,8 @@ That proof shows directly that completeness is the cause.
   disprove that there is none. The Topics lesson
   [The continuum hypothesis](../../topics/infinity/level-8/04-continuum-hypothesis.md) tells that story gently.
 
+<figure class="play" data-play="diagonal"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Cantor's diagonal argument: flip the diagonal digits of any list of binary strings and you get one the list misses.</figcaption></figure>
+
 ## A short history
 
 The Greeks met the gap first. The discovery that the side and diagonal of a square have no common measure is usually

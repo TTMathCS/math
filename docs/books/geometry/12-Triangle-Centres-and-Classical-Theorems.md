@@ -254,6 +254,8 @@ A useful by-product of proof 1: with origin $O$, $\mathbf{h} - \mathbf{a} = \mat
 where $M_a$ is the midpoint of $BC$. So $AH = 2\,OM_a$: **the distance from a corner to the orthocentre is twice the
 distance from the circumcentre to the opposite side.**
 
+<figure class="play" data-play="centres"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Tap to move a corner: the circumcentre, centroid and orthocentre stay on one line, the Euler line.</figcaption></figure>
+
 ## 12.3 The nine-point circle
 
 *Level: advanced.*

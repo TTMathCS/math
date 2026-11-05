@@ -179,6 +179,8 @@ only asks for differentiability inside, so it still applies.
 at all times. Then in 8 hours it drives at most $0.15 \times 8 = 1.2$ km, because $f(8) - f(0) = f'(c)\cdot 8 \le 1.2$. This is
 "obvious", but the MVT is what makes it a theorem, and the same argument works where intuition is weaker.
 
+<figure class="play" data-play="tangent" data-f="cube" data-mode="mvt"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The mean value theorem: somewhere between a and b the tangent runs parallel to the chord.</figcaption></figure>
+
 ## 6.3 Consequences: increasing, decreasing, constant
 
 Here is the payoff. Each statement below is "obvious" from pictures, and each is false without the mean value theorem (over

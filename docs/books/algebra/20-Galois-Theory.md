@@ -661,6 +661,8 @@ print(round(eta0 + eta1, 9), round(eta0 * eta1, 9))    # -1.0 -4.0
 print((mu0 + math.sqrt(mu0**2 - 4*mu1)) / 2, 2 * math.cos(2 * math.pi / 17))   # both 1.8649444588...
 ```
 
+<figure class="play" data-play="ngon"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Which regular polygons can be constructed: 2<sup>k</sup> times different Fermat primes, as Gauss found and Wantzel proved.</figcaption></figure>
+
 ## Check yourself
 
 ??? question "1. List the four elements of $\operatorname{Gal}(\mathbb{Q}(\sqrt2, \sqrt3)/\mathbb{Q})$ and the fixed field of each subgroup of order 2."

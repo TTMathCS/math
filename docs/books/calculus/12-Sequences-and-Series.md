@@ -528,6 +528,8 @@ A taste of that connection was also Euler's: since every integer factors uniquel
 $\sum\frac{1}{n^s} = \prod_p\frac{1}{1 - p^{-s}}$ for $s > 1$, and letting $s\to1$ (where the harmonic series diverges)
 shows that there are infinitely many primes.
 
+<figure class="play" data-play="series"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Partial sums of four series: the harmonic series never settles; 1/n² settles at π²/6, the Basel problem.</figcaption></figure>
+
 ## Check yourself
 
 ??? question "1. Prove from the definition that $\frac{3n^2+1}{2n^2-n}\to\frac32$."

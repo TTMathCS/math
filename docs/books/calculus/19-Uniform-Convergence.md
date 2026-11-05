@@ -155,6 +155,8 @@ $|f(x) - f_n(x)| \le \varepsilon$, for all $x$ and all $n \ge N$. That is unifor
 This is completeness again, now one level up: the space of bounded functions with the sup norm is complete. Chapter 20
 will turn that sentence into a precise and powerful theorem.
 
+<figure class="play" data-play="unif"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> xⁿ on [0, 1] converges at every point, but not uniformly: near x = 1 the curve always escapes the band.</figcaption></figure>
+
 ## 19.2 Uniform limits of continuous functions are continuous
 
 *Level: advanced.* Example 1 shows that pointwise limits can break continuity. Uniform limits cannot.

@@ -279,6 +279,8 @@ $$
 
 **Example.** A triangle with angles $30^\circ$, $45^\circ$ and $60^\circ$ has area $\pi - \frac{3\pi}{4} = \frac{\pi}{4} \approx 0.785$.
 
+<figure class="play" data-play="poincare"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A triangle in the Poincaré disc: push the corners out and the angle sum drops below 180°; the shortfall is the area.</figcaption></figure>
+
 ## 17.4 Many parallels
 
 *Level: advanced to expert.* Take a line $\ell$ and a point $P$ not on it. In the disc, put $P$ at the centre $0$

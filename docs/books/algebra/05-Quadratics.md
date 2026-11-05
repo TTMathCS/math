@@ -180,6 +180,8 @@ there is no real solution. (With complex numbers there are two, $-1 \pm 2i$; see
 Completing the square does more than solve equations: it rewrites a quadratic in a form that shows its vertex
 (5.5), and it is used again for circles, for integrals in calculus, and for quadratic forms in linear algebra.
 
+<figure class="play" data-play="tiles" data-mode="square"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Completing the square with tiles: cut the bx strip in half, fold one half round, and the missing corner is (b/2)².</figcaption></figure>
+
 ## 5.3 The quadratic formula, proved
 
 Complete the square once and for all on the general equation.

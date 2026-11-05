@@ -571,6 +571,8 @@ For the regular pentagram each tip is $36°$. Walking around the star you turn $
 you go around the centre twice. The number of times is the star's **turning number**, and for any closed polygonal path
 the sum of the turning angles is $360°$ times it.
 
+<figure class="play" data-play="angle" data-mode="polygon"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The angles inside a polygon with n sides add up to (n − 2) × 180°.</figcaption></figure>
+
 ## 3.4 Tilings of the plane by regular polygons
 
 *Level: intermediate.*

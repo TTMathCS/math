@@ -693,6 +693,8 @@ economy can produce a surplus; the steady states of Markov chains and PageRank (
 number of paths in a graph, which is the Perron root of its adjacency matrix ([Chapter 19](19-Linear-Algebra-in-the-World.md));
 and ranking methods for sports teams.
 
+<figure class="play" data-play="matrix2" data-mode="power" data-m="1.2,0.6,0.4,0.8"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Apply a matrix with positive entries again and again: any start settles onto one direction, the Perron-Frobenius eigenvector, as a population's age mix does.</figcaption></figure>
+
 ## A short history
 
 Systems of linear differential equations with constant coefficients were solved by d'Alembert, Euler and Lagrange in

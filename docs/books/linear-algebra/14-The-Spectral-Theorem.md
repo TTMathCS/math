@@ -277,6 +277,8 @@ and by symmetry $p = p'$. The same argument applied to $-q$ gives $m = m'$. $\sq
 The pair $(p, m)$ is the **signature** of the form. Sylvester stated this law in 1852, calling it a law of inertia
 because the counts refuse to change.
 
+<figure class="play" data-play="matrix2" data-mode="circle" data-m="2,0.8,0.8,1"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A symmetric matrix sends the unit circle to an ellipse whose axes are its eigenvectors, at right angles, as the spectral theorem says.</figcaption></figure>
+
 ## 14.4 Positive definite matrices and Cholesky
 
 *Level: advanced.*

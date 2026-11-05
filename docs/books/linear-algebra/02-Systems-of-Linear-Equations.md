@@ -262,6 +262,8 @@ about 8 times slower. A system of 1000 equations needs roughly $3 \times 10^8$ m
 on a laptop. For big systems with special structure, Chapter 18 has faster methods, and it also explains why real
 programs swap rows even when the pivot is not zero: dividing by a tiny pivot magnifies rounding errors.
 
+<figure class="play" data-play="elim"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Gaussian elimination on three equations, one row operation at a time, then back substitution. The system is made up so the answer comes out whole.</figcaption></figure>
+
 ## 2.3 Row echelon form and reduced row echelon form
 
 Elimination for square systems with nonzero pivots ends in a triangle. For general systems, with more equations than

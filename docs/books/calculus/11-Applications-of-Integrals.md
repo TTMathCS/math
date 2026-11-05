@@ -465,6 +465,8 @@ known. The famous proof squares the integral, turning it into a double integral 
 coordinates; that is [Chapter 16](16-Multiple-Integrals.md), Section 16.2. First we need to know what an integral
 over an infinite range means.
 
+<figure class="play" data-play="normal"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A probability density: the area under the normal curve within k standard deviations of the mean.</figcaption></figure>
+
 ## 11.6 Improper integrals
 
 ### Definitions

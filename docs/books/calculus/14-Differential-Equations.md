@@ -583,6 +583,8 @@ for n in (10, 100, 1000):
 
 The error column shrinks by a factor of about 10 each time $n$ grows tenfold: first order, as promised.
 
+<figure class="play" data-play="slopefield"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The slope field of dy/dx = x − y and Euler's method: smaller steps follow the exact solution more closely.</figcaption></figure>
+
 ## 14.6 Existence and uniqueness
 
 *Level: advanced.*

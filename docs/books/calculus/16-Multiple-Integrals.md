@@ -485,6 +485,8 @@ apart (the sphere-packing bound, [Combinatorics, Chapter 19](../combinatorics/19
 mathematics behind the error-correcting codes that protect data on a long, noisy radio link such as the one between
 a Mars rover and Earth.
 
+<figure class="play" data-play="nball"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The volume of the unit ball in n dimensions: it peaks at n = 5 and then shrinks towards 0.</figcaption></figure>
+
 ## Check yourself
 
 ??? question "1. Compute $\iint_R xe^{xy}\,dA$ over $R = [0, 1] \times [0, 1]$. Which order is easier?"

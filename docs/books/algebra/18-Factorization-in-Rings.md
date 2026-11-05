@@ -433,6 +433,8 @@ So $65 = 4^2 + 7^2 = 8^2 + 1^2$, the two representations in the table. Check: $1
 With three distinct primes $\equiv 1 \pmod 4$, such as $1105 = 5 \cdot 13 \cdot 17$, the choices give four
 essentially different representations: $1105 = 4^2 + 33^2 = 9^2 + 32^2 = 12^2 + 31^2 = 23^2 + 24^2$.
 
+<figure class="play" data-play="twosq" data-mode="gauss"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The Gaussian primes. Primes like 5 = (2 + i)(2 − i) split; primes that leave 3 on division by 4 stay prime and sit on the axes.</figcaption></figure>
+
 ## 18.5 Gauss's lemma and Eisenstein's criterion
 
 *Level: advanced.* Now polynomials. In $\mathbb{Q}[x]$, a Euclidean domain, every polynomial factors uniquely into

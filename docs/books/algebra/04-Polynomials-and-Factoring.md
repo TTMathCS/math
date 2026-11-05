@@ -328,6 +328,8 @@ is unique, just like prime factorisation of integers ([Chapter 18](18-Factorizat
 4. Factor each factor again until every piece is irreducible.
 5. Check by expanding, or by substituting one value.
 
+<figure class="play" data-play="tiles"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Factoring run backwards: x² + (a + b)x + ab fills a rectangle exactly when it splits as (x + a)(x + b).</figcaption></figure>
+
 ## 4.5 Long division and synthetic division
 
 *Level: intermediate, with an advanced proof.*

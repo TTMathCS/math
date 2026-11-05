@@ -329,6 +329,8 @@ intuition, and he wanted a proof from the properties of numbers alone. Lacking a
 could not quite finish; the gap was filled when Dedekind, Cantor and others constructed the reals around 1872
 (Chapter 18). Cauchy gave a proof by repeated subdivision, essentially bisection, in his *Cours d'analyse* (1821).
 
+<figure class="play" data-play="sqrt"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The intermediate value theorem at work: halve the gap where x² − n changes sign, again and again, and close in on √n.</figcaption></figure>
+
 ## 3.3 The extreme value theorem
 
 *Optimisation* means finding the largest or smallest value of something: the largest area for a given fence, the

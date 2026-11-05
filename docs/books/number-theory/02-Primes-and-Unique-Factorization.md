@@ -319,6 +319,8 @@ of its prime divisors below $\sqrt N$, and the average number of these grows ext
     print(len(sieve(100)), len(sieve(1000)), len(sieve(10**6)))   # 25 168 78498
     ```
 
+<figure class="play" data-play="hundred" data-mode="sieve"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The sieve of Eratosthenes: cross out the multiples of 2, 3, 5 and 7, and what is left above 1 are the primes up to 100.</figcaption></figure>
+
 ## 2.2 Infinitely many primes
 
 The primes thin out: 25 below 100, 168 below 1000, 78,498 below a million. Perhaps they stop? They do not.

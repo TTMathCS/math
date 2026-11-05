@@ -583,6 +583,8 @@ theorem appeared in 1949. "Elementary" means no complex analysis, not easy; the 
 The episode led to a well-known priority dispute between the two, which is best read in Goldfeld's account listed at the
 end rather than in summaries.
 
+<figure class="play" data-play="primecount"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The prime number theorem in a picture: the prime count and x / ln x keep pace as x grows, though x / ln x stays a little low.</figcaption></figure>
+
 ## 14.5 The Riemann hypothesis and what it would give
 
 *Level: expert.*

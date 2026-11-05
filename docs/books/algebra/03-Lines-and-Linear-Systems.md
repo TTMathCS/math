@@ -269,6 +269,8 @@ $x = \frac{-12 - 3}{-5} = 3$, $y = \frac{2 - 12}{-5} = 2$. ✓
 For hand calculation, elimination is usually quicker; the value of the formula is that it shows **exactly when**
 there is a single solution.
 
+<figure class="play" data-play="graph" data-form="two"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Two lines, two equations: where they cross is the one pair (x, y) that makes both true. Make them parallel and there is no solution.</figcaption></figure>
+
 ## 3.5 When there is no solution, or infinitely many
 
 Two lines in the plane can do only three things.

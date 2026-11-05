@@ -223,6 +223,8 @@ side is $2 + 2 = 4$. So no inner product gives the taxicab norm. (Conversely, a 
 1935 says that every norm satisfying the parallelogram law comes from an inner product, recovered by the **polarisation
 identity** $\langle u, v\rangle = \frac14\left(\|u + v\|^2 - \|u - v\|^2\right)$ in the real case.)
 
+<figure class="play" data-play="dotprod"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The dot product and the angle. Cauchy-Schwarz says |a·b| is never more than |a||b|, with equality only when the arrows line up.</figcaption></figure>
+
 ## 11.3 Orthogonal and orthonormal bases
 
 **Definitions.** A list of vectors $u_1, \dots, u_k$ is **orthogonal** if $\langle u_i, u_j\rangle = 0$ whenever

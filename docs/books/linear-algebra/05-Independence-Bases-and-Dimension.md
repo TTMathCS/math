@@ -202,6 +202,8 @@ then $a = 0$.
 entry $1$ and zeros elsewhere, are independent: $\sum c_{ij} E_{ij}$ is the matrix with entries $c_{ij}$, and it is zero
 only when every $c_{ij}$ is.
 
+<figure class="play" data-play="matrix2" data-mode="map" data-m="1,0.5,0.5,1"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Two vectors are independent when neither is a multiple of the other: the shaded square keeps some area. Make them dependent and it flattens to a line.</figcaption></figure>
+
 ## 5.2 Bases
 
 Independence is about having no waste; spanning is about having enough. A list that does both is the ideal set of

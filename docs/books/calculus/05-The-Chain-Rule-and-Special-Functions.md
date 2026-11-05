@@ -322,6 +322,8 @@ distribution. It rises for $x < 0$, falls for $x > 0$, and has its peak at $x = 
 **Example 11.** $\frac{d}{dx}\left(x e^{-x}\right) = e^{-x} - x e^{-x} = (1 - x)e^{-x}$, which is 0 only at $x = 1$. This function
 rises to a peak of $1/e$ at $x = 1$ and then decays; Chapter 7 sketches it.
 
+<figure class="play" data-play="tangent" data-f="exp"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The tangent to y = eˣ: wherever you put the point, its slope equals its height. The blue curve, the slope (dashed), lies exactly on top of the curve.</figcaption></figure>
+
 ## 5.4 Logarithms, inverse functions and implicit differentiation
 
 ### The derivative of an inverse function

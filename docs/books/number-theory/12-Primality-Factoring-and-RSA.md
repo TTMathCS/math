@@ -419,6 +419,8 @@ and sign hashes with a padding scheme (PSS), use the Chinese remainder theorem t
 times, and must avoid many implementation pitfalls. All of this is in
 [the cryptography book's RSA chapter](https://cryptography.akadian.ca/book/13-RSA/).
 
+<figure class="play" data-play="tinyrsa"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> RSA with this chapter's numbers: p = 61, q = 53, n = 3233, e = 17, d = 2753. Lock a message number and open it again.</figcaption></figure>
+
 ## 12.6 Discrete logarithms and elliptic curves
 
 *Level: pointer.*
