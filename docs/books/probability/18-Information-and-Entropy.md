@@ -163,6 +163,8 @@ print(H([1/36] * 36))                      # 5.1699...
 print(H([c / 36 for c in sums.values()]))  # 3.2744...
 ```
 
+<figure class="play" data-play="entropy"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The entropy of a coin: a fair coin carries one bit per flip; a lopsided one carries less and can be compressed.</figcaption></figure>
+
 ## 18.2 Properties of entropy
 
 *Level: advanced.*

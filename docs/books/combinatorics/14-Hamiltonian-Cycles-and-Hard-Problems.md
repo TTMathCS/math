@@ -293,6 +293,8 @@ proof of optimality, instances with tens of thousands of cities; the largest, a 
 Lin-Kernighan method of 1973 and its descendants) find tours within a fraction of a percent of the best on large real
 instances, but without a guarantee.
 
+<figure class="play" data-play="tsp"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A travelling salesman's tour: nearest neighbour first, then uncross the legs. Good tours are easy; the best one is hard.</figcaption></figure>
+
 ## 14.4 P versus NP in plain words
 
 *Level: advanced.*

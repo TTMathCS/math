@@ -348,6 +348,8 @@ closed intervals $B_n = \left[\tfrac1n, 1\right]$, the union $\bigcup_{n \ge 1} 
 $0 < x \le 1$ is in some $B_n$, but 0 is in none of them. Infinite unions of closed sets need not be closed, a fact
 that matters in [Calculus, Chapter 20](../calculus/20-Metric-Spaces-and-Topology-of-R.md).
 
+<figure class="play" data-play="venn"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Union, intersection and complement on a Venn diagram, and De Morgan's laws.</figcaption></figure>
+
 ## 5.3 The power set
 
 A pizza place offers three toppings, mushroom, olive and pepper, and you may take any combination, including none.

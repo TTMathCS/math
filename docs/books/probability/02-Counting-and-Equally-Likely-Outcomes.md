@@ -244,6 +244,8 @@ level they promise.
 
 So the model is a slight underestimate of the real chance, and the conclusion "23 is enough" stands.
 
+<figure class="play" data-play="birthday"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The chance that at least two of n people share a birthday passes one half at just 23 people.</figcaption></figure>
+
 ## 2.3 Sampling with and without replacement
 
 **A question.** An urn holds $N$ balls, numbered $1$ to $N$. You draw $k$ of them. How many results are possible, and are they

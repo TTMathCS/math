@@ -230,6 +230,8 @@ $\chi = 2$, so the indices must add to 2: for example, one source and one sink (
 pole), or two whirlpools. On a torus, $\chi = 0$, and a field with no zeros at all is allowed. We prove a version of
 this in 17.4.
 
+<figure class="play" data-play="field" data-mode="spin"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A vector field that spins round a point must stop somewhere, at its centre: on a sphere every field has such a point (the hairy ball theorem).</figcaption></figure>
+
 ## 17.3 The degree of a map
 
 *Level: advanced.* On the circle, the winding number counted how many times a loop wraps around

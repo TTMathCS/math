@@ -127,6 +127,8 @@ Define **EXP** to be the problems decidable in time $O(2^{n^k})$ for some $k$. T
 $\mathrm{P} \ne \mathrm{EXP}$: there are problems that provably need exponential time. That is one of the very few
 *separations* between natural complexity classes that anyone has proved.
 
+<figure class="play" data-play="growth"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Polynomial against exponential: how many steps lg n, n, n lg n, n² and 2ⁿ take as n grows.</figcaption></figure>
+
 ## 16.2 NP and certificates
 
 *Level: intermediate.*

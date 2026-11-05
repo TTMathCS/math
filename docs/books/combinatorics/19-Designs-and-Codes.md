@@ -417,6 +417,8 @@ whose error probability tends to 0 as the length grows. Shannon's proof used ran
 ([Chapter 17](17-The-Probabilistic-Method.md)), and gave no construction. Coding theory is the long search for explicit codes
 that come close.
 
+<figure class="play" data-play="hamming"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The Hamming (7, 4) code: flip any bit and the three checks point straight at it.</figcaption></figure>
+
 ## 19.6 Reed-Muller codes and Mariner 9; Reed-Solomon codes
 
 *Level: advanced to expert.*

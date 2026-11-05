@@ -432,6 +432,8 @@ literals is true") that must all hold at once. Any formula can be turned into an
 that is satisfiable exactly when the original is) of comparable size by adding new variables; this trick, due to
 G. S. Tseitin (1968), appears again in [Chapter 16](16-Complexity.md).
 
+<figure class="play" data-play="cnfflip"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A formula in conjunctive normal form: it is true only when every clause has a true literal. Flip the variables.</figcaption></figure>
+
 ## 2.5 Complete sets of connectives
 *Level: intermediate.*
 

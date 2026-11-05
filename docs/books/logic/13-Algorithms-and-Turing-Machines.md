@@ -319,6 +319,8 @@ $S$-steps proportional to the length of the used tape, so if $M$ takes $t$ steps
 constant factor). Nothing more can be computed, only (possibly) faster. That last word, *faster*, is the seed of
 complexity theory.
 
+<figure class="play" data-play="turing" data-mode="add1"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A Turing machine adding 1 to the binary number 1011, one rule at a time.</figcaption></figure>
+
 ## 13.3 The Church-Turing thesis
 
 *Level: intermediate.*

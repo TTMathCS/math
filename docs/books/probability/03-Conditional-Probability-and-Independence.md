@@ -462,6 +462,8 @@ became famous in 1990, when Marilyn vos Savant answered it in her *Parade* magaz
 readers, many with doctorates, wrote to say she was wrong. She was right under the standard rules, which her column took
 for granted but did not fully state. Much of the argument came from people silently assuming different rules.
 
+<figure class="play" data-play="monty"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Monty Hall: play it yourself, or play 1,000 games each way. Switching wins about two times in three.</figcaption></figure>
+
 ## 3.6 Gambler's ruin by conditioning
 
 *Level: intermediate.*

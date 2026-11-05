@@ -573,6 +573,8 @@ radius, she set the radius proportional to the *square root* of the count, so th
 4. Show the variation, not just the averages, when it matters (box plots, dots, error bars).
 5. Prefer positions on a common scale (dots, bars) to angles, areas, volumes and colours.
 
+<figure class="play" data-play="bars" data-mode="cut"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A bar graph whose scale starts above 0 makes small differences look huge: one of the commonest dishonest graphs.</figcaption></figure>
+
 ## 2.6 Anscombe's quartet
 
 **A question.** If two datasets have the same mean, the same spread and the same best-fit line, are they essentially

@@ -263,6 +263,8 @@ the truth.
   samples, where it is one of several corrections ([Chapter 8](08-Confidence-Intervals.md) on Student's $t$ is the
   important one).
 
+<figure class="play" data-play="nminus1"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Why divide by n − 1: dividing by n comes out too small on average; n − 1 comes out right.</figcaption></figure>
+
 ## 7.3 The method of moments
 
 ### The idea

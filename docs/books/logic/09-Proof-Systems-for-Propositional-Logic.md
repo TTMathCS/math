@@ -535,6 +535,8 @@ $\Delta \models \varphi \to \psi$; for $\lor$E, if $\Delta \models \varphi \lor 
 $\Delta \cup \{\varphi\} \models \chi$ and $\Delta \cup \{\psi\} \models \chi$, then $\Delta \models \chi$ (in a
 valuation satisfying $\Delta$, one of $\varphi$ and $\psi$ is true); the other rules are similar.
 
+<figure class="play" data-play="truth" data-gates="1"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Truth tables as lamps: semantics is just checking every row, which is what soundness and completeness compare proofs with.</figcaption></figure>
+
 ## 9.5 Completeness
 
 *Level: advanced.*

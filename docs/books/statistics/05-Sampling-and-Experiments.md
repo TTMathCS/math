@@ -838,6 +838,8 @@ for choice in combinations(cups, 4):               # all 70 ways she could choos
 print(counts)                                      # [1, 16, 36, 16, 1]
 ```
 
+<figure class="play" data-play="arrange" data-mode="comb"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The lady tasting tea: choosing which 4 of 8 cups had milk first can be done in (8 choose 4) = 70 ways, so guessing all right has chance 1/70. Set n = 8, k = 4.</figcaption></figure>
+
 ## A short history
 
 The idea that a small sample, if chosen properly, can stand for a whole population was resisted for a long time; many

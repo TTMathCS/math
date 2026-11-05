@@ -263,6 +263,8 @@ is proved in [Chapter 13](13-Likelihood-Theory.md).
 Fisher and Neyman disagreed bitterly for decades. Modern practice uses Fisher's p-value with Neyman and Pearson's
 $\alpha$, power and alternatives, which works well enough if you remember which idea each piece came from.
 
+<figure class="play" data-play="pvalue"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Is the coin fair? The p-value is the chance, if it were fair, of a count at least as far from n/2 as the one you saw.</figcaption></figure>
+
 ## 9.3 Errors of type I and II, power
 
 ### Two ways to be wrong

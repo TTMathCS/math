@@ -408,6 +408,8 @@ be solved efficiently: the answer is an Euler circuit after the cheapest way of 
 even, and finding that cheapest way is a matching problem (in a general graph, harder than the bipartite matchings of
 [Chapter 13](13-Matchings-and-Flows.md), but still efficiently solvable).
 
+<figure class="play" data-play="graphdeg"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The bridges of Königsberg: tap a bridge to remove it and count the places with an odd number of bridges.</figcaption></figure>
+
 ## 10.5 Bipartite graphs
 
 ### Two teams

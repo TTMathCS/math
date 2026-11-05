@@ -207,6 +207,8 @@ exponential with rate $\lambda$. Two independent uniforms give two independent s
 **Box-Muller** formulas $\sqrt{-2\ln U_1}\cos(2\pi U_2)$ and $\sqrt{-2\ln U_1}\sin(2\pi U_2)$, which are the polar
 coordinates proof of the Gaussian integral ([Chapter 10](10-The-Normal-Distribution.md)) run backwards.
 
+<figure class="play" data-play="montecarlo"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Pseudo-random points estimate π: the share inside a quarter circle is close to π/4.</figcaption></figure>
+
 ## 19.2 Randomized algorithms
 
 *Level: intermediate to advanced.*

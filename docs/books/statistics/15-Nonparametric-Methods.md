@@ -318,6 +318,8 @@ mixes the spreads and the test of "equal means" is no longer exact. If observati
 clusters, plain permutation breaks the dependence; permute whole clusters or blocks instead. And a permutation test
 gives a p-value, not an estimate of the size of the effect; for that, invert it or use the bootstrap.
 
+<figure class="play" data-play="permtest"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A permutation test on made-up scores: shuffle the group labels many times and see how often chance alone gives a gap as big.</figcaption></figure>
+
 ## 15.4 Rank correlation
 
 *Level: intermediate to advanced.*

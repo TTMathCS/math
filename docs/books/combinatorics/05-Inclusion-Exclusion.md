@@ -129,6 +129,8 @@ $20 - 2 - 6 - 2 = 10$; Mandarin only: $15 - 2 - 3 - 2 = 8$. Total: $2 + 6 + 3 + 
 The Venn check is a good habit, and it also catches impossible data: if some region came out negative, the numbers
 could not come from a real group.
 
+<figure class="play" data-play="venn"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Inclusion-exclusion on two sets: |A ∪ B| = |A| + |B| − |A ∩ B|.</figcaption></figure>
+
 ## 5.2 The general formula
 
 *Level: intermediate.*

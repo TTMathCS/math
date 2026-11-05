@@ -130,6 +130,8 @@ They always lie between 0 (impossible) and 1 (certain). Odds are a different sca
 1 favourable case for every 5 unfavourable ones, which is probability $\frac{1}{1+5} = \frac{1}{6}$. Chapter 4 uses
 odds seriously.
 
+<figure class="play" data-play="coins"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Flip a fair coin many times: the share of heads is jumpy at first, then settles near one half, the frequency view of chance.</figcaption></figure>
+
 ## 1.2 Sample spaces and events
 
 **A question.** Roll two dice. What is the probability that the total is 7?

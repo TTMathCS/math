@@ -130,6 +130,8 @@ Unrolling, $L_n = 1 + (1 + 2 + \dots + n) = 1 + \frac{n(n+1)}{2}$. Ten lines mak
 product rule of [Chapter 1](01-Counting-Principles.md). Solving it is a separate, more mechanical job, which the rest
 of the chapter makes systematic.
 
+<figure class="play" data-play="hanoi"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The Towers of Hanoi: n discs take 2ⁿ − 1 moves, from the recurrence T(n) = 2T(n − 1) + 1.</figcaption></figure>
+
 ## 6.2 Linear recurrences with constant coefficients
 
 *Level: intermediate; the proofs are advanced.*

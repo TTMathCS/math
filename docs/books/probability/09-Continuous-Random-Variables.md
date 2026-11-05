@@ -705,6 +705,8 @@ ran this argument backwards: it says the expected crossings depend only on lengt
 constant. This is the start of **integral geometry**, which measures curves and surfaces by averaging over random
 lines.
 
+<figure class="play" data-play="buffon"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Buffon's needle: needles of length 1 on lines 1 apart cross a line with chance 2/π, so dropping them estimates π.</figcaption></figure>
+
 ## Check yourself
 
 ??? question "1. For which $k$ is $f(x) = kx(1 - x)$ on $[0, 1]$ a density? Find $P(X < \tfrac12)$, $E[X]$ and $\operatorname{Var}(X)$."

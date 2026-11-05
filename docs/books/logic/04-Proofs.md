@@ -461,6 +461,8 @@ exist. So $n \notin S$: $P(n)$ holds. By (S), $P(n)$ for all $n$, so $S$ is empt
 The three implications (W) $\to$ (I) $\to$ (S) $\to$ (W) form a cycle, so each principle implies the other two.
 $\blacksquare$
 
+<figure class="play" data-play="seq" data-kind="tri"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The triangular numbers 1, 3, 6, 10, …: each adds the next whole number, and induction proves the nth is n(n + 1)/2.</figcaption></figure>
+
 ## 4.6 Counterexamples
 
 A statement "for all $x$, $P(x)$" is destroyed by a single $x$ with $P(x)$ false (section 3.2). No number of

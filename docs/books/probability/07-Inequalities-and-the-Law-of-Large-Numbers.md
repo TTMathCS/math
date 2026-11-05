@@ -149,6 +149,8 @@ also a **strong law** (Kolmogorov, 1933): under the same hypothesis, $\bar X_n \
 stronger kind of convergence. Chapter 12 states it and explains the difference, and Chapter 17 makes the kinds of
 convergence precise.
 
+<figure class="play" data-play="coinruns"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The law of large numbers: the share of heads in n flips crowds ever closer to one half as n grows.</figcaption></figure>
+
 ## 7.3 What the law does and does not say
 
 The law of large numbers is one of the most quoted and most misquoted results in mathematics. Here is what it does not

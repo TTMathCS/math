@@ -252,6 +252,8 @@ why they became a default method for tabular data.
 another, each one focused on what the previous ones got wrong (AdaBoost, Yoav Freund and Robert Schapire, 1997;
 gradient boosting, Friedman, 2001). Bagging mainly reduces variance; boosting mainly reduces bias.
 
+<figure class="play" data-play="knnk"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> k nearest neighbours: a new point takes the vote of the k closest labelled points. Small k follows noise; large k blurs the boundary.</figcaption></figure>
+
 ## 19.4 Evaluating classifiers
 
 *Level: advanced.*

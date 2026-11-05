@@ -622,6 +622,8 @@ coefficients. The honest options are to fix the model in advance, to select on o
 another (**sample splitting**), or to use methods of **post-selection inference** developed since the 2010s that
 correct for the selection.
 
+<figure class="play" data-play="polyfit"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Fit polynomials of rising degree to ten noisy points: training error keeps falling, error on new points falls then rises. That is overfitting.</figcaption></figure>
+
 ## 12.6 ANOVA as regression
 
 ### Comparing several means

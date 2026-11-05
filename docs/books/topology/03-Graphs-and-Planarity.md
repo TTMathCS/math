@@ -455,6 +455,8 @@ print(all(colour[u] != colour[v] for u, v in edges))   # True
 The icosahedron's chromatic number is in fact 4, so greedy colouring in this order wastes a colour; some other orders
 find 4. Greedy is fast, not optimal.
 
+<figure class="play" data-play="colour"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Colour a planar map so that neighbours differ: four colours always suffice.</figcaption></figure>
+
 ## 3.6 Graphs on a torus: seven colours and Heawood's bound
 
 *Level: advanced.*

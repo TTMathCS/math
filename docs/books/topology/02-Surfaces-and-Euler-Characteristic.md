@@ -151,6 +151,8 @@ fact about polyhedra but a number attached to a *surface*, and it detects holes.
 **Check (ring face):** big cube 8 vertices, 12 edges; small cube adds 8 vertices and 12 edges (its bottom square lies
 in the big face); faces: 6 of the big cube (one being the ring) plus 5 of the small cube = 11. $16 - 24 + 11 = 3$.
 
+<figure class="play" data-play="platonic"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The Platonic solids: V − E + F = 2 for every one.</figcaption></figure>
+
 ## 2.2 The five Platonic solids
 
 A **regular polyhedron**, or **Platonic solid**, is a convex polyhedron whose faces are all the same regular polygon

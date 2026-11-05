@@ -285,6 +285,8 @@ NP-complete ([Chapter 14](14-Hamiltonian-Cycles-and-Hard-Problems.md) explains w
 The triangle $ABC$ forces 3 slots. Greedy in the order $A, B, C, D, E$: $A = 1$, $B = 2$, $C = 3$, $D = 1$ (neighbours $B$,
 $E$; only $B$ coloured, with 2), $E = 2$ (neighbours $C = 3$, $D = 1$). Three slots suffice: $\{A, D\}$, $\{B, E\}$, $\{C\}$.
 
+<figure class="play" data-play="colour"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Colour a made-up map so that neighbours differ. Its middle region touches a ring of five, so it needs four colours.</figcaption></figure>
+
 ## 12.4 The five colour theorem
 
 *Level: advanced.*

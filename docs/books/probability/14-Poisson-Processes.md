@@ -85,6 +85,8 @@ corps over twenty years. Agner Krarup Erlang, working for the Copenhagen Telepho
 to telephone traffic from 1909 and founded queueing theory. Ernest Rutherford and Hans Geiger counted alpha particles
 in 1910 (section 14.7).
 
+<figure class="play" data-play="poisson"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Random arrivals at λ a minute: count each minute's arrivals and compare with the Poisson chances.</figcaption></figure>
+
 ## 14.2 Three equivalent definitions
 
 *Level: intermediate to advanced.*

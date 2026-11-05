@@ -213,6 +213,8 @@ Since homotopic maps have equal degrees, $z \mapsto \bar z$ is not homotopic to 
 homotopic to $z \mapsto z^3$. Degree in higher dimensions is the subject of
 [Chapter 17](17-Applications-of-Algebraic-Topology.md).
 
+<figure class="play" data-play="winding"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The winding number, the integer that the fundamental group of the circle counts: it jumps only when the loop passes through a root.</figcaption></figure>
+
 ## 14.2 Covering spaces and the lifting lemmas
 
 *Level: advanced; the classification at the end is expert, stated without proof.*

@@ -238,6 +238,8 @@ $\nu \to \nu + \sum T(x_i)$, $\kappa \to \kappa + n$: the prior acts like $\kapp
 $\nu$. Diaconis and Ylvisaker (1979) characterised these priors as exactly the ones that make the posterior mean
 of the expected value a linear function of the sample mean.
 
+<figure class="play" data-play="betacoin"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A Beta prior updated flip by flip: the posterior narrows round the coin's true chance of heads.</figcaption></figure>
+
 ## 14.3 Credible intervals and confidence intervals
 
 *Level: advanced.*

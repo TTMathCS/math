@@ -541,6 +541,8 @@ respect unions, $f[X_1 \cup X_2] = f[X_1] \cup f[X_2]$, but not intersections; e
 asymmetry is why topology defines continuity by preimages of open sets
 ([Calculus, Chapter 20](../calculus/20-Metric-Spaces-and-Topology-of-R.md)).
 
+<figure class="play" data-play="funcmap"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A function as a set of arrows: one-to-one, onto, or both.</figcaption></figure>
+
 ## 6.5 Inverses and composition
 
 You encrypt a message by shifting each letter three places, then shift again by five. The result is a shift by eight,

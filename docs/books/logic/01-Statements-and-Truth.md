@@ -244,6 +244,8 @@ table(lambda p, q, r: (p or q) and not r, "pqr")
 
 The output is the last column of worked example 1.3, row by row in the standard order.
 
+<figure class="play" data-play="truth"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A truth table: pick a connective and switch P and Q.</figcaption></figure>
+
 ## 1.4 If ... then
 
 "If it rains, the match is cancelled." "If $n$ is divisible by 4, then $n$ is even." Sentences of this shape are

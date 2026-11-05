@@ -639,6 +639,8 @@ independent of every hidden variable, and a correlation between treatment and ou
 is the reason randomised trials are trusted, and it is a theorem of this chapter (functions of independent variables
 are independent) at work. The careful theory of causal inference belongs to the Statistics book planned for this site.
 
+<figure class="play" data-play="scatter"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A made-up cloud of pairs: move the strength of the link and watch the correlation r and the best-fit line.</figcaption></figure>
+
 ## 11.4 Sums: convolution
 
 ### The question

@@ -239,6 +239,8 @@ print(count)                      # 328: even three-digit numbers, digits all di
 print(62**8, 62**8 - 52**8)       # 218340105584896 164880377053440
 ```
 
+<figure class="play" data-play="outfits"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The product rule: a shirts and b trousers make a × b outfits.</figcaption></figure>
+
 ## 1.3 Counting the complement
 
 **A question.** How many whole numbers from 1 to 1000 contain the digit 7 at least once?

@@ -174,6 +174,8 @@ in "On the mathematical foundations of theoretical statistics" (*Philosophical T
 maximum, carried the evidence. Earlier writers, including Daniel Bernoulli and Gauss, had used ideas close to maximum
 likelihood in special cases; Fisher made it a general method with a theory.
 
+<figure class="play" data-play="likelihood"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The likelihood of a coin's chance of heads after h heads in n flips: it peaks at h/n and narrows as n grows.</figcaption></figure>
+
 ## 13.2 Fisher information
 
 *Level: advanced.*

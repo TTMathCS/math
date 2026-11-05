@@ -413,6 +413,8 @@ mean, of a ratio, of a correlation; the effect of skewness, outliers or a small 
 error rate. Statisticians use it constantly to check methods before trusting them. Its one limitation is that it needs
 the population to be known. With real data we do not know the population, which leads to the bootstrap.
 
+<figure class="play" data-play="clt"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The sampling distribution of the mean, simulated: 2,000 sample averages, centred on the true mean, spread 1/√n.</figcaption></figure>
+
 ## 6.6 The bootstrap idea
 
 *Level: intermediate, with advanced proofs.*

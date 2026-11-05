@@ -527,6 +527,8 @@ needed: time averages converge even when $P(X_n = j)$ oscillates. This theorem i
 Carlo ([Chapter 19](19-Randomness-in-Computing.md)): to average $f$ against a complicated $\pi$, build a chain with
 stationary distribution $\pi$ and average along its path.
 
+<figure class="play" data-play="markov"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A three-state weather chain (made-up chances). Start sunny or rainy: either way the chances settle to the same stationary distribution.</figcaption></figure>
+
 ## 13.5 Absorbing chains
 
 *Level: intermediate to advanced.*

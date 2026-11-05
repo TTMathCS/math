@@ -193,6 +193,8 @@ $$
 
 Two positives bring the probability to about one half; §4.3 shows a quicker way to see this.
 
+<figure class="play" data-play="medtest"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Bayes' rule with natural frequencies: how many positive tests are real depends heavily on how common the condition is.</figcaption></figure>
+
 ## 4.3 The odds form
 
 *Level: beginner to intermediate.*

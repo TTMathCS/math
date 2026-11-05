@@ -150,6 +150,8 @@ $a + b = c$ in $B$, then $ax + bx \equiv cx \pmod p$ with all three in $C$, whic
 The constant $1/3$ is the truth: Eberhard, Green and Manners showed in 2014 that $1/3$ cannot be replaced by any larger
 constant, though Bourgain had earlier improved the bound to $(n+2)/3$.
 
+<figure class="play" data-play="ramsey"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Random colourings, as in Erdős's argument. With 6 points a one-colour triangle is certain; Erdős showed that for large n a random colouring avoids big one-colour groups.</figcaption></figure>
+
 ## 17.2 Linearity of expectation
 
 *Level: intermediate.* A **random variable** $X$ is a number attached to each outcome: the number of heads, the number of

@@ -621,6 +621,8 @@ contains the edges $s \to x$ for $x \in A$ and $y \to t$ for $y \in N(B)$, so it
 $|A| + |N(B)| \ge |A| + |B| = |X|$. Every cut has capacity at least $|X|$ (take $L \ge |X|$), so the max flow is $|X|$,
 and the matching covers $X$. This is a second proof of Hall's theorem, from max-flow min-cut.
 
+<figure class="play" data-play="maxflow"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The max-flow algorithm on a small made-up network: push flow along paths with spare room until none is left; the flow then equals the minimum cut.</figcaption></figure>
+
 ## 13.6 Menger's theorem
 
 *Level: advanced to expert.*

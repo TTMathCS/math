@@ -387,6 +387,8 @@ The expected gain is exactly 0, as the theorem says: the strategy trades a high 
 chance of a ruinous loss. In real roulette, with $p < 1/2$, the expectation is negative. Even with unlimited credit,
 the stake you need is $2^{k-1}$ at a geometric time $k$, whose expectation $\sum_k 2^{k-1}2^{-k}$ is infinite.
 
+<figure class="play" data-play="walk" data-mode="ruin"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Gambler's ruin in a fair game: starting with a of N coins, you reach N first with chance a / N, so no betting system gains on average.</figcaption></figure>
+
 ## 15.5 Martingale convergence
 
 *Level: advanced to expert.*

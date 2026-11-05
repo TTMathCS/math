@@ -512,6 +512,8 @@ a fact that itself takes proof). But the converse fails: the **Cantor set**
 ([Topics: The Cantor set](../../topics/infinity/level-7/05-cantor-set.md)) has length zero and is uncountable.
 Cardinality and length measure different things.
 
+<figure class="play" data-play="diagonal"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Cantor's diagonal argument: flip the diagonal and the new string is missing from any list.</figcaption></figure>
+
 ## 7.4 Cantor's theorem
 
 The diagonal argument shows $\mathbb{N}$ is smaller than $\{0,1\}^{\mathbb{N}}$, which is the same as $\mathcal{P}(\mathbb{N})$

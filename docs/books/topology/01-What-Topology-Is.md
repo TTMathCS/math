@@ -506,6 +506,8 @@ counted once if its two sides go to opposite sides of the line, and zero or two 
   ball: a loop in its outside can be caught by the horns and cannot be shrunk away. Pictures of it are worth
   looking up.
 
+<figure class="play" data-play="jordan"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Tap anywhere: a ray to the right crosses the curve an odd number of times from inside and an even number from outside.</figcaption></figure>
+
 ## 1.5 What "the same" will mean
 
 So far "deformation" has been intuitive. Part II of this book makes it precise. Here is the definition we are aiming

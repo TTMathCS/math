@@ -471,6 +471,8 @@ Greed is not always this lucky. The cheapest route that visits every town and re
 of [Chapter 14](14-Hamiltonian-Cycles-and-Hard-Problems.md), has no known fast algorithm, although the MST gives a route
 at most twice the optimum when distances obey the triangle inequality.
 
+<figure class="play" data-play="spantree"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Kruskal's method for a minimum spanning tree: shortest edges first, skipping any that would close a loop.</figcaption></figure>
+
 ## 11.5 The matrix-tree theorem
 
 *Level: advanced.*

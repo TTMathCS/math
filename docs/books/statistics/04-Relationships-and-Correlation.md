@@ -255,6 +255,8 @@ is lower among the admitted students than it would be among all applicants.
 moderate and $0.5$ or more strong. In physics experiments $r = 0.9$ may be disappointing; in psychology $r = 0.3$ may be
 important. Context decides.
 
+<figure class="play" data-play="scatter"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Change the strength and direction of a made-up link and watch r and the least squares line.</figcaption></figure>
+
 ## 4.3 The least squares line
 
 *Level: intermediate.*

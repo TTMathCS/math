@@ -99,6 +99,8 @@ bichromatic angles (two edges of one colour and one of the other: the angles at 
 monochromatic one has none. So there are at most $36 / 2 = 18$ non-monochromatic triangles, out of
 $\binom{6}{3} = 20$: at least 2 are monochromatic. (A. W. Goodman worked out the exact minimum for every $K_n$ in 1959.)
 
+<figure class="play" data-play="ramsey"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Colour the lines between 6 points two ways: a one-colour triangle always appears. With 5 points it can be avoided.</figcaption></figure>
+
 ## 16.2 Ramsey's theorem
 
 *Level: advanced.*

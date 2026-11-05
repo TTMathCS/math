@@ -731,6 +731,8 @@ Read the last row with conjugation in mind: $\sum_{j \le k}p(n,j)$ is also the n
 size at most $k$. The table is due to Gian-Carlo Rota, and the name "twelvefold way" to Joel Spencer; Richard Stanley's
 *Enumerative Combinatorics* made it standard.
 
+<figure class="play" data-play="partition"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Integer partitions as Ferrers diagrams; flip one for its conjugate.</figcaption></figure>
+
 ## 9.5 Compositions
 
 What if order *does* matter? A **composition** of $n$ is an ordered list of positive integers adding to $n$. The

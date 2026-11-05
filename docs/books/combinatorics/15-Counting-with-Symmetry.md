@@ -162,6 +162,8 @@ So there are 130 necklaces but only 92 bracelets: 38 pairs of necklaces are mirr
 number, so $p$ divides $k^p + (p - 1)k = (k^p - k) + pk$, so $p$ divides $k^p - k$. That is Fermat's little theorem,
 proved by counting necklaces.
 
+<figure class="play" data-play="necklace"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Burnside's lemma on necklaces: c^n colourings, but far fewer necklaces once turning is allowed.</figcaption></figure>
+
 ## 15.3 The cycle index and Pólya's theorem
 
 *Level: advanced.*

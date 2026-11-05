@@ -385,6 +385,8 @@ $\frac{2x_1 + x_2}{\sqrt5}$, carries $\frac{6}{7} \approx 86\%$ of the total var
   the Marchenko-Pastur law of random matrix theory (the [Probability book's last chapter](../probability/20-Where-Probability-Goes.md)
   surveys random matrices), and it means "the first component explains a lot" can be an artefact of dimension.
 
+<figure class="play" data-play="pca"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Turn the line through a made-up cloud of points: the first principal component keeps the most spread.</figcaption></figure>
+
 ## 18.4 The curse of dimensionality
 
 *Level: advanced.*

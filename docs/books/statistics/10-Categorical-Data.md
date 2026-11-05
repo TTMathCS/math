@@ -222,6 +222,8 @@ X2 = sum((o - e) ** 2 / e for o, e in zip(obs, exp))
 print(n, exp, round(X2, 3))       # 556 [312.75, 104.25, 104.25, 34.75] 0.47
 ```
 
+<figure class="play" data-play="dice" data-n="1"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Is the die fair? Roll it and compare the tally with the expected count for each face, as a chi-square test does.</figcaption></figure>
+
 ## 10.2 Tests of independence
 
 ### Two categorical variables

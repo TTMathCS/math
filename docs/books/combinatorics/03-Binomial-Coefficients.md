@@ -178,6 +178,8 @@ Niccolò Tartaglia. Blaise Pascal's *Traité du triangle arithmétique*, written
 first to study it systematically, proving its properties (with one of the first clear uses of mathematical induction)
 and applying it to probability.
 
+<figure class="play" data-play="pascal"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Pascal's triangle: each number is the two above added; each row sums to a power of 2.</figcaption></figure>
+
 ## 3.2 The binomial theorem
 
 **A question.** What is $(x + y)^5$ multiplied out, without multiplying bracket by bracket?

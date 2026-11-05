@@ -177,6 +177,8 @@ those of $F$ and $G$ do. $\square$
 
 The equivalence class of $f$ is written $[f]$ and called its **path class** or **homotopy class**.
 
+<figure class="play" data-play="winding"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Loops round a point: the image of a circle winds round 0 a whole number of times, an invariant that cannot change without passing through 0.</figcaption></figure>
+
 ## 13.2 The group axioms up to homotopy
 
 *Level: advanced.*

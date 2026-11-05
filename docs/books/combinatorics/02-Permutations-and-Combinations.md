@@ -254,6 +254,8 @@ print(comb(52, 5), 13 * comb(4, 3) * 12 * comb(4, 2), comb(13, 2) * 6 * 6 * 44)
 # 2598960 3744 123552
 ```
 
+<figure class="play" data-play="arrange" data-mode="comb"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Every group of k chosen from n, order ignored: n choose k of them.</figcaption></figure>
+
 ## 2.4 With repetition: stars and bars
 
 *Level: intermediate.*

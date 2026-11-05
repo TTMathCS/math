@@ -615,6 +615,8 @@ Later work by others has reduced the number of states substantially; a 745-state
 2023, and the true threshold is unknown. Somewhere between 6 and a few hundred states, the busy beaver values pass beyond
 what our axioms can determine.
 
+<figure class="play" data-play="turing" data-mode="beaver"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The two-state busy beaver: four 1s in six steps, then it halts. Busy beaver numbers grow faster than anything computable.</figcaption></figure>
+
 ## Check yourself
 
 ??? question "1. A friend says: 'The halting problem is easy. Just run the program; if it stops, say yes; if it doesn't stop after a very long time, say no.' What is wrong?"

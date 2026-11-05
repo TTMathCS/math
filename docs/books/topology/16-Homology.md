@@ -565,6 +565,8 @@ Chapter 2 (Section 2.1 for the comparison theorem). We use the result.
 - **Dimension.** For a point, $\chi = 1$. A space with $\chi \ne 1$ is not contractible. So $S^2$ ($\chi = 2$) is not
   homotopy equivalent to a point: the question left open in 16.1.
 
+<figure class="play" data-play="platonic"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> V − E + F = 2 for every Platonic solid: the Euler characteristic of the sphere, which homology explains.</figcaption></figure>
+
 ## 16.6 Homology and homotopy
 
 *Level: expert. Statements, with proof sketches and references.*

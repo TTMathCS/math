@@ -318,6 +318,8 @@ harms, and the people in a trial may differ from the people a policy will reach 
 validity**). And some randomised experiments would be unethical. The rest of the chapter is about learning causes
 from data we did not design, and about the extra assumptions that requires.
 
+<figure class="play" data-play="permtest"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Randomisation is what makes this test work: if the treatment did nothing, any split of the people into groups was equally likely.</figcaption></figure>
+
 ## 17.4 Observational methods
 
 *Level: expert (ideas with proofs of the key facts).*

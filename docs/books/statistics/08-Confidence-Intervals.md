@@ -147,6 +147,8 @@ Like every method in this book, a confidence interval accounts for **random samp
 biased ([Chapter 5](05-Sampling-and-Experiments.md)), the measurements flawed, or the model wrong, a 95 percent interval
 can miss far more often than 1 time in 20, and it gives no warning.
 
+<figure class="play" data-play="cicover"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Forty 95% confidence intervals from forty samples: about 95 in 100 catch the true mean, and you never know which.</figcaption></figure>
+
 ## 8.2 Intervals for a mean with known $\sigma$
 
 ### The pivot

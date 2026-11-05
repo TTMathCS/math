@@ -390,6 +390,8 @@ their boundary circles, then balls along their boundary spheres, are called **ce
 J. H. C. Whitehead, who set out their theory in 1949). Most spaces in this book are of this kind, and [Chapter 16](16-Homology.md)
 computes their homology cell by cell.
 
+<figure class="play" data-play="gluing"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A torus from a square: glue opposite edges and the walker wraps round for ever.</figcaption></figure>
+
 ## 6.3 Cones and suspensions
 
 *Level: advanced.* Two constructions turn any space $X$ into a new one with a predictable shape.

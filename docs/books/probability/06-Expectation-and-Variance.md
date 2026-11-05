@@ -569,6 +569,8 @@ have no limiting distribution under any normalisation; limits exist only along s
 $n = 2^m$, a result of Anders Martin-Löf, 1985). See Feller, Volume II, for stable laws, and Chapter 12 of this book for
 the case of finite variance.
 
+<figure class="play" data-play="stpete"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The St Petersburg game: an infinite expected win, yet the average over many plays creeps up only slowly.</figcaption></figure>
+
 ## A short history
 
 The idea of an expected value is older than the word "probability" in its modern sense. Christiaan Huygens's short

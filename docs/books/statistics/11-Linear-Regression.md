@@ -271,6 +271,8 @@ diagnostics.
 $s^2 = 21.38/6 \approx 3.564$ and $s \approx 1.888$ words per minute. A typical learner is within about 2 words per
 minute of the line.
 
+<figure class="play" data-play="linefit"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Tap to add points; the least squares line and R² update at once.</figcaption></figure>
+
 ## 11.3 Inference on slopes
 
 ### The t statistic

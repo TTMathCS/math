@@ -231,6 +231,8 @@ abcab'c' (-1, 'non-orientable, k = 3')
 
 The numbers $g$ and $k$ in the output are explained in 10.4 and 10.5.
 
+<figure class="play" data-play="gluing" data-mode="klein"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The Klein bottle's square: one pair of edges glued with a twist, so the walker comes back mirrored.</figcaption></figure>
+
 ## 10.2 Orientability
 
 An ant walking on a sphere can carry a small clock face with it, and wherever it goes the clock still runs clockwise as

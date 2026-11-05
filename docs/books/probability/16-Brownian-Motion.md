@@ -224,6 +224,8 @@ $$
 (Statement only; see Mörters and Peres, chapter 5.) The zero set $\{t : B_t = 0\}$ is also remarkable: with probability
 1 it is a closed set with no isolated points, uncountable, of total length 0, and of fractal dimension $1/2$.
 
+<figure class="play" data-play="walk" data-mode="brown"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> More, smaller steps squeezed into the same time: the random walk turns into Brownian motion, just as rough at every scale.</figcaption></figure>
+
 ## 16.4 The reflection principle and hitting times
 
 *Level: advanced.*

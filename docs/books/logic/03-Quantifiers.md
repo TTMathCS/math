@@ -345,6 +345,8 @@ quantifier swap separates **pointwise** from **uniform convergence** of a sequen
 of [Calculus, chapter 19](../calculus/19-Uniform-Convergence.md): in "$\forall x\, \forall \varepsilon\, \exists N$"
 the $N$ may depend on $x$, and in "$\forall \varepsilon\, \exists N\, \forall x$" it may not.
 
+<figure class="play" data-play="quant"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> "Everyone likes some song" against "some song is liked by everyone": tap the squares and see that swapping ∀ and ∃ changes the meaning.</figcaption></figure>
+
 ## 3.4 Translating English into symbols and back
 
 Translation is a skill, and like any translation it needs judgement: English is ambiguous where symbols are not. The

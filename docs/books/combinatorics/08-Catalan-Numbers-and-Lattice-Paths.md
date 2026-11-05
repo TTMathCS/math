@@ -300,6 +300,8 @@ $$
 The fraction $\frac{1}{2n+1}$ is now visible: one good sequence in each orbit of size $2n + 1$. This argument goes back
 to Aryeh Dvoretzky and Theodore Motzkin (1947), and the same idea counts many tree families (exercise 12).
 
+<figure class="play" data-play="lattice"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Lattice paths on a grid: of all (2n choose n), exactly 1 in n + 1 never rise above the diagonal. That count is the Catalan number.</figcaption></figure>
+
 ## 8.4 The generating function derivation
 
 *Level: advanced.*

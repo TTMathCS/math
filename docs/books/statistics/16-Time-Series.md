@@ -281,6 +281,8 @@ neighbours makes values $k$ apart share terms, so they become correlated, and co
 lesson is a warning. A smoothed series with regular-looking cycles is not evidence of a cycle in the world; the
 smoother may have made them.
 
+<figure class="play" data-play="smooth"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A moving average on a made-up monthly series: a 12-month window cancels the yearly season and leaves the trend.</figcaption></figure>
+
 ## 16.4 AR(1) and stationarity
 
 *Level: advanced.*

@@ -85,6 +85,8 @@ of 1622 by the French Jesuit Jean Leurechon, who used it to argue that two peopl
 The word "pigeonhole" refers to the small compartments of an old writing desk, not to birds, although the birds have
 taken over the pictures.
 
+<figure class="play" data-play="pigeon"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> More pigeons than holes: some hole always gets at least two, however they are placed.</figcaption></figure>
+
 ## 4.2 Classic uses
 
 **Socks and gloves.** With 10 red, 10 blue and 10 green socks in the drawer, how many socks must you take to be sure

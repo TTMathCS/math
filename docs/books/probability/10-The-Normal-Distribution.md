@@ -454,6 +454,8 @@ the Poisson value is $e^{-1} \approx 0.368$, while the normal approximation with
 $\Phi\left(\frac{0.5 - 1}{\sqrt{0.99}}\right) \approx 0.308$. A common rule of thumb asks for $np \ge 10$ and
 $nq \ge 10$ before trusting the normal approximation; it is a rule of thumb, not a theorem.
 
+<figure class="play" data-play="galton"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A Galton board: each ball's landing place is a binomial count, and many balls trace the bell curve.</figcaption></figure>
+
 ## 10.5 Why it appears everywhere
 
 The normal law is used to model measurement errors, heights, test scores, noise in electronic circuits, the positions

@@ -172,6 +172,8 @@ Aleksandr Lyapunov proved it in 1901 under a condition on third moments, using w
 functions; Jarl Waldemar Lindeberg found in 1922 a much weaker sufficient condition; and in 1935 William Feller and Paul
 Lévy showed that Lindeberg's condition is also necessary, under a natural assumption that no single term dominates.
 
+<figure class="play" data-play="clt"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Averages of samples from a lopsided distribution pile up in a bell curve, narrower as the sample grows: the central limit theorem.</figcaption></figure>
+
 ## 12.2 A proof via moment generating functions
 
 *Level: advanced.*

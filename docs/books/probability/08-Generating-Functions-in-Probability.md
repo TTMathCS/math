@@ -468,6 +468,8 @@ analysis in Lawler and Limic. The return probability in three dimensions is abou
 integral evaluated by G. N. Watson in 1939. A remark often attributed to Shizuo Kakutani sums it up: a drunk man will
 find his way home, but a drunk bird may get lost forever.
 
+<figure class="play" data-play="walk" data-mode="line"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Ten random walkers on a line. Their typical distance after n steps grows like √n.</figcaption></figure>
+
 ## A short history
 
 Generating functions in probability go back to Abraham de Moivre, who used them for dice sums in the early eighteenth

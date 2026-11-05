@@ -432,6 +432,8 @@ for k in range(6):
 | independent trials until the $r$-th success | trials | negative binomial($r, p$) |
 | many chances, each rare, roughly independent | events | Poisson($\lambda$) |
 
+<figure class="play" data-play="binom"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The binomial family: n tries, each a success with chance p. The gold line is the mean, n p.</figcaption></figure>
+
 ## 5.3 The cumulative distribution function
 
 The pmf works for discrete random variables but breaks down for continuous ones (Chapter 9), where every single value
