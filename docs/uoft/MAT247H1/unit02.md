@@ -71,6 +71,8 @@ collapse to a dot product. Gram&ndash;Schmidt says you can always build one.</p>
   </div>
 </div>
 
+<figure class="play" data-play="dotprod"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Move the blue vector: the dot product is zero exactly at a right angle, the test behind orthogonal sets and Gram–Schmidt.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Gram&ndash;Schmidt</h3>
   <div class="box thm"><div class="bl">Theorem <b>Gram&ndash;Schmidt</b></div>

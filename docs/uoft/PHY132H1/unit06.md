@@ -65,6 +65,8 @@ effect.</p>
   </div>
 </div>
 
+<figure class="play" data-play="faraday"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Drop a magnet through a coil: the flux rises and falls, and the voltage, −dΦ/dt, pulses one way then the other (made-up units).</figcaption></figure>
+
 <div class="block reveal">
   <h3>Lenz's law</h3>
   <div class="box thm"><div class="bl">Rule <b>The induced effect opposes the change</b></div>

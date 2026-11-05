@@ -94,6 +94,8 @@ world today.</p>
     Riemann sums that define the integral (Unit 7).</div>
 </div>
 
+<figure class="play" data-play="archpi"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Archimedes' squeeze: polygons inside and outside a circle trap π, from 6 sides up to his 96.</figcaption></figure>
+
 <div class="block reveal">
   <h3>The scientific revolution makes it urgent (1600s)</h3>
   <p>When Europe turned to measuring the heavens and the motion of bodies, the old

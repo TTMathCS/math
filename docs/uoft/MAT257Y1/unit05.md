@@ -157,6 +157,8 @@ function that shows why.</p>
   &bull; Expanding to second order and calling the remainder $o(\|h\|)$. It is
   $o(\|h\|^2)$, and the sharper statement is the one you need.</p></div>
 
+<figure class="play" data-play="taylor" data-f="exp"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Taylor polynomials of eˣ in one variable: each extra term hugs the curve farther out, the picture the n-variable theorem extends.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Practice</h3>
   <p class="prac-intro">Original problems written for this guide in the style of
