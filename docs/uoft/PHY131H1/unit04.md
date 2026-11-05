@@ -104,6 +104,8 @@ is a force drawn that does not exist, or one left out.</p>
   </div>
 </div>
 
+<figure class="play" data-play="incline"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A block on a ramp: the pull down the slope against friction. It slips once tan θ is bigger than the grip μs, on Earth and Mars alike (friction numbers made up but typical).</figcaption></figure>
+
 <div class="block reveal">
   <h3>The third law</h3>
   <div class="box thm"><div class="bl">Rule <b>Pairs act on different bodies</b></div>

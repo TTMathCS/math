@@ -150,6 +150,8 @@ the course.</p>
   &bull; Believing the vector calculus dictionary works outside $\mathbb{R}^3$.
   Only the form language survives.</p></div>
 
+<figure class="play" data-play="field" data-mode="spin"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A swirling field round the origin: the work round a loop that circles the middle is not zero, the hole in the plane at work.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Practice</h3>
   <p class="prac-intro">Original problems written for this guide in the style of

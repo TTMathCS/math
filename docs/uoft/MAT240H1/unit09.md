@@ -103,6 +103,8 @@ what Unit 10 needs to analyze characteristic and minimal polynomials.</p>
   </div>
 </div>
 
+<figure class="play" data-play="polyroots"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A cubic from its roots: the coefficients follow Vieta's formulas.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Irreducibility depends on the field</h3>
   <div class="box def"><div class="bl">Definition</div>

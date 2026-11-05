@@ -74,6 +74,8 @@ the calculator is lying to you.</p>
   </div>
 </div>
 
+<figure class="play" data-play="units" data-kind="length"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The metric ladder: each step is ten times the next, the habit behind every unit conversion.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Vectors</h3>
   <div class="box def"><div class="bl">Definition</div>

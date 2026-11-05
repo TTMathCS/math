@@ -122,6 +122,8 @@ constant-acceleration problem you will meet this term.</p>
   </div>
 </div>
 
+<figure class="play" data-play="motion" data-mode="accel"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Steady speeding up as two graphs: position bends upward, velocity climbs in a straight line, and the area under velocity is the distance.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Free fall</h3>
   <div class="box def"><div class="bl">Definition</div>

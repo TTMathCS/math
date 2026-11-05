@@ -81,6 +81,8 @@ $\mathbb{R}$ different from $\mathbb{Q}$.</p>
     the whole sequence.</div>
 </div>
 
+<figure class="play" data-play="seqlim"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Three sequences and the ε–N game; the middle one, aₙ₊₁ = √(2 + aₙ), rises and is bounded by 2, so it must converge.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Cauchy sequences</h3>
   <div class="box def"><div class="bl">Definition <b>Cauchy</b></div>

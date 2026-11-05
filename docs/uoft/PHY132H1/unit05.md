@@ -83,6 +83,8 @@ force can never change a particle's speed.</p>
   </div>
 </div>
 
+<figure class="play" data-play="bfield"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A charge in a steady magnetic field moves in a circle of radius r = mv ÷ (qB); the other sign of charge turns the other way (made-up units).</figcaption></figure>
+
 <div class="block reveal">
   <h3>Force on a current</h3>
   <div class="box thm"><div class="bl">Rule <b>A wire is many moving charges</b></div>

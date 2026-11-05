@@ -97,6 +97,8 @@ Power series let us represent, differentiate, integrate, and approximate functio
     ($-1&lt;x\le1$).</p></div>
 </div>
 
+<figure class="play" data-play="taylor" data-f="sin"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Add terms of the Taylor series of sin x and watch the polynomial hug the curve over a wider stretch.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Taylor's theorem with remainder</h3>
   <div class="box thm"><div class="bl">Theorem</div>

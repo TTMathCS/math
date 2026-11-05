@@ -124,6 +124,8 @@ point where Unit 9 shows why it must eventually fail.</p>
     what the question is actually asking.</p></div>
 </div>
 
+<figure class="play" data-play="lens"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A thin lens: move the object and follow the rays to the image, 1/f = 1/do + 1/di.</figcaption></figure>
+
 <div class="block reveal">
   <h3>The eye and corrective lenses</h3>
   <div class="box eg"><div class="bl">Example <b>Two common defects</b></div>

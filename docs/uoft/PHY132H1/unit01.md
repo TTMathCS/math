@@ -106,6 +106,8 @@ that.</p>
   </div>
 </div>
 
+<figure class="play" data-play="charges"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Two charges and their field: opposite charges pull together, alike push apart.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Superposition</h3>
   <div class="box thm"><div class="bl">Rule <b>Forces add as vectors</b></div>

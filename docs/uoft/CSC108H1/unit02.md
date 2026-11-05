@@ -120,6 +120,8 @@ range(5, 0, -1) <i># 5 4 3 2 1      - counting down</i></pre></div>
   </div>
 </div>
 
+<figure class="play" data-play="guessnum"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Guess my number: a loop that keeps asking until you get it, and the halving trick that never needs more than 7 guesses.</figcaption></figure>
+
 <div class="block reveal">
   <h3>break, continue, and the loop that will not end</h3>
   <div class="box def"><div class="bl">Definition</div>

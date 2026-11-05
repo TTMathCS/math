@@ -136,6 +136,8 @@ hypothesis.</p>
   </div>
 </div>
 
+<figure class="play" data-play="matrix2" data-mode="eigen" data-m="2,1,1,2"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A symmetric matrix: its eigenvectors meet at right angles, the real spectral theorem in the plane.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Spectral resolution</h3>
   <div class="box def"><div class="bl">Definition</div>

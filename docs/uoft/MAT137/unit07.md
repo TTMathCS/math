@@ -80,6 +80,8 @@ the Fundamental Theorem (next unit) meaningful rather than magical.</p>
   sums and lowers upper sums, squeezing toward the area.</p>
 </div>
 
+<figure class="play" data-play="sums" data-mode="lower"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Lower and upper sums squeeze the area between them as the strips get thinner.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Integrability</h3>
   <div class="box def"><div class="bl">Definition <b>Riemann integral</b></div>

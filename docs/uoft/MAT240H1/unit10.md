@@ -67,6 +67,8 @@ null spaces find the eigenvectors, and change of basis cashes them in.</p>
   </div>
 </div>
 
+<figure class="play" data-play="matrix2" data-mode="power"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Apply the matrix again and again: the direction settles on the eigenvector with the biggest eigenvalue.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Independence and the diagonalizability test</h3>
   <div class="box thm"><div class="bl">Theorem <b>Distinct eigenvalues</b></div>

@@ -115,6 +115,8 @@ series — is built on. Spend real time until you can write ε–δ proofs cold.
   </div>
 </div>
 
+<figure class="play" data-play="limit"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Play the ε–δ game with sin x / x near 0: pick a band ε round 1 and see the widest δ that keeps every value inside.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Writing an ε–δ proof</h3>
   <p>The structure is always the same: "Let $\varepsilon>0$. Choose

@@ -130,6 +130,8 @@ PHY132H1.</p>
     string.</p></div>
 </div>
 
+<figure class="play" data-play="wave" data-mode="standing"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Standing waves on a string: the first few harmonics, with nodes that never move. Press Sound to hear them.</figcaption></figure>
+
 <div class="block reveal">
   <h3>The Doppler effect</h3>
   <div class="box thm"><div class="bl">Rule <b>Relative motion shifts frequency</b></div>

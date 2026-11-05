@@ -107,6 +107,8 @@ simple, which is the whole story of Unit 10.</p>
   • Similarity uses one basis change on both sides ($P$ and $P^{-1}$); using two
   unrelated matrices $Q^{-1}AP$ is a different, weaker equivalence.</p></div>
 
+<figure class="play" data-play="matrix2" data-mode="eigen"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Turn a vector v and watch Av: where they line up, v is an eigenvector, the basis that makes the matrix simplest.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Practice</h3>
   <p class="prac-intro">Original problems written for this guide in the style of

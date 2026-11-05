@@ -109,6 +109,8 @@ of inverse functions — comes from it.</p>
   </div>
 </div>
 
+<figure class="play" data-play="tangent" data-mode="mvt" data-f="cube"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The Mean Value Theorem: somewhere between the two ends, the tangent is parallel to the chord joining them.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Consequences</h3>
   <div class="box thm"><div class="bl">Corollaries</div>

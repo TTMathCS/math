@@ -112,6 +112,8 @@ different-looking conditions, all the same condition.</p>
     $1$.</p></div>
 </div>
 
+<figure class="play" data-play="matrix2" data-mode="rot"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Rotations and reflections: every length stays the same.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Structure of the isometry groups</h3>
   <div class="box thm"><div class="bl">Theorem <b>They form groups</b></div>

@@ -93,6 +93,8 @@ detaches and travels as light.</p>
   </div>
 </div>
 
+<figure class="play" data-play="field" data-mode="source"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A field flowing straight out of the middle, like a point charge: dust released anywhere drifts outward along the lines.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Gauss's law</h3>
   <div class="box def"><div class="bl">Definition</div>

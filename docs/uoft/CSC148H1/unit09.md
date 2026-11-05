@@ -176,6 +176,8 @@ for x in xs:
   &bull; Optimising growth rate on data that will never be large. Sometimes
   $O(n^2)$ is the right answer.</p></div>
 
+<figure class="play" data-play="dynarray"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A list that doubles when full: a few appends are expensive, but the average stays small (amortised cost).</figcaption></figure>
+
 <div class="block reveal">
   <h3>Practice</h3>
   <p class="prac-intro">Write out each answer before opening it. Original

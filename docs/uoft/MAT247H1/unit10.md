@@ -163,6 +163,8 @@ surfaces.</p>
   but far less transparent than Jordan form; use it when the field forces
   you.</p></div>
 
+<figure class="play" data-play="pca"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The spread of a cloud of points along a direction is a quadratic form; its biggest and smallest directions are the eigenvectors.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Practice</h3>
   <p class="prac-intro">Original problems written for this guide in the style of

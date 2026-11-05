@@ -109,6 +109,8 @@ one-dimensional problems, sharing only a clock.</p>
     lines.</p></div>
 </div>
 
+<figure class="play" data-play="projectile"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Throw a ball at any speed and angle on Earth (g = 9.81 m/s²) or Mars (3.73 m/s², NASA): 45° goes farthest on level ground, and the same throw goes about 2.6 times as far on Mars.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Relative motion</h3>
   <div class="box thm"><div class="bl">Rule <b>Velocities add as vectors</b></div>

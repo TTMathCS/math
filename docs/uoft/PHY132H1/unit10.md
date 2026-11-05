@@ -120,6 +120,8 @@ speed of light is the same for everyone.</p>
   </div>
 </div>
 
+<figure class="play" data-play="relativity"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Light clocks: the faster the clock moves, the longer its tick, by the factor γ.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Momentum, energy, mass</h3>
   <div class="box thm"><div class="bl">Rule <b>The relativistic forms</b></div>

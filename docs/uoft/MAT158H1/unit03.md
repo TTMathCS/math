@@ -76,6 +76,8 @@ analyst carries around.</p>
     $\delta$ is fine — it does not need to be the biggest one.</div>
 </div>
 
+<figure class="play" data-play="limit"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The ε–δ game with sin x / x near 0: for each ε there is a δ.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Uniqueness of limits</h3>
   <div class="box thm"><div class="bl">Theorem</div>

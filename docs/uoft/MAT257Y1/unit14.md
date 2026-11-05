@@ -129,6 +129,8 @@ same statement.</p>
     $\binom32=3$ in $\mathbb{R}^3$.</p></div>
 </div>
 
+<figure class="play" data-play="field" data-mode="source"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A field flowing out of the middle: the flow out of a closed curve adds up the divergence inside, the divergence theorem.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Using it</h3>
   <div class="box eg"><div class="bl">Example <b>Area from the boundary</b></div>

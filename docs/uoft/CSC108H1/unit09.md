@@ -104,6 +104,8 @@ anything. Learning to see it is the point.</p>
     what a logarithm buys.</div></div>
 </div>
 
+<figure class="play" data-play="halving"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Binary search against a plain scan in a sorted list of 1,000 numbers.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Big-O</h3>
   <div class="box def"><div class="bl">Definition</div>

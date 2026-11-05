@@ -102,6 +102,8 @@ travelling disturbance is light.</p>
   </div>
 </div>
 
+<figure class="play" data-play="wave" data-mode="doppler"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The Doppler effect: a moving source crowds its waves ahead and spreads them behind. Light from moving stars shifts the same way.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Energy, intensity, polarisation</h3>
   <div class="box thm"><div class="bl">Rule <b>Intensity</b></div>

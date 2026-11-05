@@ -166,6 +166,8 @@ every theorem in the next five units is a statement about that map.</p>
   stronger: $x^2\sin(1/x)$ is differentiable everywhere with a discontinuous
   derivative.</p></div>
 
+<figure class="play" data-play="gdbowl"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Gradient steps on a long narrow bowl: each step goes against the gradient, the direction of steepest rise.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Practice</h3>
   <p class="prac-intro">Original problems written for this guide in the style of

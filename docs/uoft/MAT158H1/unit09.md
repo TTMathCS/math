@@ -52,6 +52,8 @@ right and the Fundamental Theorem (next unit) is a short proof.</p>
     $L(f,P_1)\le L(f,P_1\cup P_2)\le U(f,P_1\cup P_2)\le U(f,P_2)$.</p></div>
 </div>
 
+<figure class="play" data-play="sums" data-mode="lower"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Lower and upper sums close in on each other as the partition gets finer.</figcaption></figure>
+
 <div class="block reveal">
   <h3>The definition and the working criterion</h3>
   <div class="box def"><div class="bl">Definition <b>Integrable</b></div>

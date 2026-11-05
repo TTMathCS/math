@@ -124,6 +124,8 @@ notion of a basis in Unit 3.</p>
   • Adding vectors can only grow the span; removing a <em>dependent</em> vector
   keeps it unchanged.</p></div>
 
+<figure class="play" data-play="dotprod"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Two vectors in the plane: when they line up, one is a multiple of the other and they are dependent.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Practice</h3>
   <p class="prac-intro">Original problems written for this guide in the style of

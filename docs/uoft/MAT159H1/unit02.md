@@ -65,6 +65,8 @@ two units from now.</p>
   </div>
 </div>
 
+<figure class="play" data-play="series"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The harmonic series against the squares: one adds up for ever, the other settles, which is the p-test at p = 1 and p = 2.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Comparison tests</h3>
   <div class="box thm"><div class="bl">Direct comparison</div>

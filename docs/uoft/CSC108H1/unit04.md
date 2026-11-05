@@ -72,6 +72,8 @@ s[::-1]   <i># 'retupmoc' - reversed</i></pre></div>
     was empty.</p></div>
 </div>
 
+<figure class="play" data-play="slice" data-s="Olympus Mons"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Python slicing s[a:b:c]: move start, stop and step and see which letters it keeps.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Immutability</h3>
   <div class="box thm"><div class="bl">Rule <b>Strings never change</b></div>

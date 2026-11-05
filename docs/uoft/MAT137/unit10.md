@@ -89,6 +89,8 @@ and arc length. The skill is setting up the right integral.</p>
     $V=\int_0^4\pi(\sqrt{x})^2\,dx=\pi\int_0^4 x\,dx=8\pi.$</p></div>
 </div>
 
+<figure class="play" data-play="riemann"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Area by thin rectangles: more slices get closer to the exact value, the same idea that builds a volume from discs.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Average value</h3>
   <div class="box def"><div class="bl">Definition</div>

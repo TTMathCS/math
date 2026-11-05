@@ -55,6 +55,8 @@ functions apart (partial fractions).</p>
   </div>
 </div>
 
+<figure class="play" data-play="sums" data-mode="rules"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> When no antiderivative is handy: left rectangles, the trapezoid rule and Simpson's rule on the same strips.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Definite integral discipline</h3>
   <p>For definite integrals, every symbol must describe the same variable. After

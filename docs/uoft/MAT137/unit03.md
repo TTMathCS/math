@@ -170,6 +170,8 @@ apply them.</p>
     $\sqrt{4.1}\approx 2+\frac14(0.1)=2.025$.</p></div>
 </div>
 
+<figure class="play" data-play="tangent" data-f="exp"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The tangent line to eˣ: slide the point; near it, the line and the curve are almost the same.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Implicit differentiation</h3>
   <p>When $y$ is defined implicitly by an equation, differentiate both sides in

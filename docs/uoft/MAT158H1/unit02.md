@@ -96,6 +96,8 @@ real numbers for granted.</p>
     things — $s$ is an upper bound, and nothing smaller is.</div>
 </div>
 
+<figure class="play" data-play="contfrac"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Rational approximations of an irrational number: each convergent is a fraction, but the limit is not, which is the gap completeness fills.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Two consequences you will use constantly</h3>
   <div class="box thm"><div class="bl">Theorem <b>Archimedean property</b></div>

@@ -137,6 +137,8 @@ spectral theorem &mdash; is built on the axioms below.</p>
   carries many different inner products, and "orthogonal" means nothing until you
   name one.</p></div>
 
+<figure class="play" data-play="dotprod"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The dot product a·b = |a||b|cos θ: it never beats |a||b|, which is Cauchy–Schwarz in the plane.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Practice</h3>
   <p class="prac-intro">Original problems written for this guide in the style of

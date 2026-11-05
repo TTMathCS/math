@@ -172,6 +172,8 @@ def total_rec(xs: list) -&gt; int:
   &bull; Slicing a list on every call and quietly making the function
   quadratic.</p></div>
 
+<figure class="play" data-play="fibtree"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The calls of a plain recursive fib(n), drawn as a tree: the same small values are worked out again and again.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Practice</h3>
   <p class="prac-intro">Write out each answer before opening it. Original

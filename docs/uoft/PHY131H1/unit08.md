@@ -118,6 +118,8 @@ translation.</p>
   </div>
 </div>
 
+<figure class="play" data-play="field" data-mode="spin"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A rotating velocity field: every point turns round the centre, faster the farther out it sits, v = ωr.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Angular momentum</h3>
   <div class="box def"><div class="bl">Definition</div>

@@ -94,6 +94,8 @@ def _merge(left: list, right: list) -&gt; list:
     hopeless.</p></div>
 </div>
 
+<figure class="play" data-play="sortsound"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Hear a sort: each comparison plays a note. Insertion sort drags on; mergesort and quicksort finish fast.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Quicksort</h3>
   <div class="box eg"><div class="bl">Example <b>Partition, then recurse</b></div>

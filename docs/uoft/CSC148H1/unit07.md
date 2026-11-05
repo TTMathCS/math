@@ -219,6 +219,8 @@ def postorder(self) -&gt; list:
   &bull; Expecting level order to fall out of recursion. It needs a
   queue.</p></div>
 
+<figure class="play" data-play="hanoi"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The towers of Hanoi: the recursive solution moves n discs in 2ⁿ − 1 moves.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Practice</h3>
   <p class="prac-intro">Write out each answer before opening it. Original

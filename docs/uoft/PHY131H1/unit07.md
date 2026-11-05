@@ -155,6 +155,8 @@ unit.</p>
   &bull; Applying conservation when a large external force acts, such as a ball
   bouncing off a wall bolted to the Earth.</p></div>
 
+<figure class="play" data-play="collide"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Two carts collide: bouncing (elastic) keeps the kinetic energy, sticking loses some, and momentum is the same before and after either way.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Practice</h3>
   <p class="prac-intro">Work each fully before opening the answer. Original

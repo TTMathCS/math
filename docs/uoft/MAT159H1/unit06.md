@@ -58,6 +58,8 @@ example.</p>
   </div>
 </div>
 
+<figure class="play" data-play="unif"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> xⁿ on [0, 1]: it converges at every point, but not uniformly, since part of the curve near 1 always leaves the band.</figcaption></figure>
+
 <div class="block reveal">
   <h3>The Weierstrass M-test</h3>
   <div class="box thm"><div class="bl">Theorem <b>M-test</b></div>

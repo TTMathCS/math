@@ -83,6 +83,8 @@ stopping there.</p>
     argument.</p></div>
 </div>
 
+<figure class="play" data-play="metre"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Hear the beat of iambs, trochees and dactyls in lines by Shakespeare, Blake and Longfellow.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Line breaks</h3>
   <div class="box def"><div class="bl">Definition</div>

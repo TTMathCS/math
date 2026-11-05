@@ -60,6 +60,8 @@ $\det(AB)=\det A\,\det B$ does all the theory.</p>
     entries; $\det(A^t)=\det A$.</p></div>
 </div>
 
+<figure class="play" data-play="matrix2" data-mode="map"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The determinant as signed area: drag the matrix entries and watch the unit square's image grow, shrink and flip.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Computing by row reduction</h3>
   <div class="box thm"><div class="bl">Theorem <b>Row-operation rules</b></div>

@@ -74,6 +74,8 @@ one of the most examinable sequences in the course, and every link is short.</p>
   </div>
 </div>
 
+<figure class="play" data-play="tangent" data-mode="mvt" data-f="cube"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Somewhere between the ends, the tangent is parallel to the chord: the Mean Value Theorem.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Consequences</h3>
   <div class="box thm"><div class="bl">Corollaries <b>on an interval</b></div>

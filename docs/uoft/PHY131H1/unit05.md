@@ -157,6 +157,8 @@ and circular motion because the acceleration points somewhere counterintuitive
   &bull; Forgetting that $N$ changes on an incline, which changes friction
   too.</p></div>
 
+<figure class="play" data-play="bfield"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A force that always points sideways bends motion into a circle without changing the speed: here a charge in a magnetic field, r = mv ÷ (qB) (made-up units).</figcaption></figure>
+
 <div class="block reveal">
   <h3>Practice</h3>
   <p class="prac-intro">Work each fully before opening the answer. Original

@@ -101,6 +101,8 @@ continuous. This unit builds both the rules and the counterexamples.</p>
   </div>
 </div>
 
+<figure class="play" data-play="secant"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> From secant to tangent on y = x²: as h shrinks, the slope (2 + h) settles at 2.</figcaption></figure>
+
 <div class="block reveal">
   <h3>The analysis showpiece: $x^2\sin(1/x)$</h3>
   <div class="box eg"><div class="bl">Example <b>Differentiable everywhere,

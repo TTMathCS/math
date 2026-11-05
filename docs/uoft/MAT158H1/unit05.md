@@ -70,6 +70,8 @@ bound axiom earns its keep.</p>
     root in $(0,1+c)$.</p></div>
 </div>
 
+<figure class="play" data-play="halving"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Halving to find a target, the same bisection idea that proves the Intermediate Value Theorem.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Boundedness, then Extreme Value</h3>
   <div class="box thm"><div class="bl">Theorem <b>Boundedness</b></div>

@@ -59,6 +59,8 @@ page.</p>
     At a jump of $f$, $F$ has a corner.</div>
 </div>
 
+<figure class="play" data-play="sums" data-mode="accum"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The area function drawn as its own curve: its slope at x is f(x).</figcaption></figure>
+
 <div class="block reveal">
   <h3>Part 2 — evaluation by antiderivatives</h3>
   <div class="box thm"><div class="bl">Theorem <b>FTC, Part 2</b></div>

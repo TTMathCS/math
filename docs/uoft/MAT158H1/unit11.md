@@ -87,6 +87,8 @@ from the FTC of Unit 10 and the inverse function theorem of Unit 8.</p>
     every real exponent, at last.</div>
 </div>
 
+<figure class="play" data-play="tangent" data-f="ln"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The tangent to ln x: its slope is 1/x, the fact the whole logarithm is built from.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Growth rates</h3>
   <div class="box thm"><div class="bl">Theorem</div>

@@ -82,6 +82,8 @@ legal.</p>
     in disguise.</div>
 </div>
 
+<figure class="play" data-play="gdbowl"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Walking downhill to a minimum, where the gradient is zero.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Constrained extrema</h3>
   <div class="box thm"><div class="bl">Theorem <b>Lagrange multipliers</b></div>

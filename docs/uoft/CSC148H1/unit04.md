@@ -242,6 +242,8 @@ new_node.next = self._first   <i># points at itself!</i></pre></div>
   &bull; Expecting <code>len()</code> to be free. It walks the whole
   list.</p></div>
 
+<figure class="play" data-play="llist"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> One insert, two ways: an array shifts every later item, a linked list changes two arrows.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Practice</h3>
   <p class="prac-intro">Write out each answer before opening it. Original

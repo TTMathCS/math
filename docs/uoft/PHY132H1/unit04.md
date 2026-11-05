@@ -113,6 +113,8 @@ looks.</p>
   </div>
 </div>
 
+<figure class="play" data-play="circuit"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Two resistors in series and in parallel: watch the current and the voltages follow Ohm's law and Kirchhoff's rules.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Kirchhoff's rules</h3>
   <div class="box thm"><div class="bl">Rule <b>Junction rule &mdash; charge conservation</b></div>

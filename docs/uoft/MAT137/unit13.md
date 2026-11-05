@@ -78,6 +78,8 @@ series can converge without converging absolutely.</p>
     for $|r|\ge1$.</p></div>
 </div>
 
+<figure class="play" data-play="series"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Partial sums term by term: the harmonic series creeps up for ever, the squares settle at π²/6, the alternating series zigzags in.</figcaption></figure>
+
 <div class="block reveal">
   <h3>The divergence test</h3>
   <div class="box thm"><div class="bl">Theorem</div>

@@ -167,6 +167,8 @@ instead of one.</p>
   &bull; Expecting uniqueness. $\Sigma$ is unique, but $U$ and $V$ are not when
   singular values repeat or vanish.</p></div>
 
+<figure class="play" data-play="matrix2" data-mode="circle"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The unit circle becomes an ellipse; its half-axes are the singular values.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Practice</h3>
   <p class="prac-intro">Original problems written for this guide in the style of

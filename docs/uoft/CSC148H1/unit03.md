@@ -155,6 +155,8 @@ with the other.</p>
   </div>
 </div>
 
+<figure class="play" data-play="stackq"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A stack and a queue get the same arrivals: one gives back the newest first, the other the oldest.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Why the choice changes the answer</h3>
   <div class="box eg"><div class="bl">Example <b>The same code, two behaviours</b></div>

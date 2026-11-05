@@ -80,6 +80,8 @@ integrals without ever returning to sums.</p>
   </div>
 </div>
 
+<figure class="play" data-play="sums" data-mode="accum"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The area function A(x) drawn beside f(x): wherever you stop, A's slope is f there.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Part 2 — evaluation</h3>
   <div class="box thm"><div class="bl">Theorem <b>FTC, Part 2</b></div>

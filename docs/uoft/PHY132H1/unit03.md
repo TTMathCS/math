@@ -102,6 +102,8 @@ should be.</p>
   </div>
 </div>
 
+<figure class="play" data-play="field" data-mode="grad"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A field that is the gradient of a potential: no swirl, and the work round any closed loop is zero.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Capacitance</h3>
   <div class="box def"><div class="bl">Definition</div>

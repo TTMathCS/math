@@ -99,6 +99,8 @@ a is c   <i># True  - one list, two names</i></pre></div>
   </div>
 </div>
 
+<figure class="play" data-play="alias"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Two names for one list, or two lists: press the buttons and watch the arrows.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Copying</h3>
   <div class="box thm"><div class="bl">Rule <b>Three ways to copy, one gap</b></div>

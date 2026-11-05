@@ -106,6 +106,8 @@ b = 1.0000000000
     number.</p></div>
 </div>
 
+<figure class="play" data-play="floatsum"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Add 0.1 again and again in real floating point (your browser uses the same 64-bit numbers as Python) and watch the error grow.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Choosing a numeric type</h3>
   <div class="box thm"><div class="bl">Rule <b>Which type when</b></div>

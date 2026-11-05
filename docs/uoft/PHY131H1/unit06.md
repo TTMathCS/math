@@ -140,6 +140,8 @@ bookkeeping.</p>
     both sides of the equation.</p></div>
 </div>
 
+<figure class="play" data-play="spring"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A mass on a spring: energy flows between kinetic and spring energy, and their total stays the same.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Power</h3>
   <div class="box def"><div class="bl">Definition</div>

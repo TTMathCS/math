@@ -87,6 +87,8 @@ settled the argument about what light is.</p>
   </div>
 </div>
 
+<figure class="play" data-play="slit"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Two slits: change the spacing and the wavelength and watch the bright fringes spread or crowd.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Single-slit diffraction</h3>
   <div class="box thm"><div class="bl">Rule <b>One slit also produces a pattern</b></div>

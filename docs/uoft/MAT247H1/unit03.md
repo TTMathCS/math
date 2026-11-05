@@ -159,6 +159,8 @@ $T^*$ relate, so this is the pivot of the whole term.</p>
   boundedness. In this course $V$ is finite-dimensional, so Riesz always
   applies.</p></div>
 
+<figure class="play" data-play="linefit"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Least squares: tap to add points; the line is the projection that makes the squared misses smallest.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Practice</h3>
   <p class="prac-intro">Original problems written for this guide in the style of

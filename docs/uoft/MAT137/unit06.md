@@ -104,6 +104,8 @@ limits can't reach.</p>
   </div>
 </div>
 
+<figure class="play" data-play="boxopt"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The open-box problem: cut squares from the corners of a card; the volume is largest where its derivative is zero.</figcaption></figure>
+
 <div class="block reveal">
   <h3>L'Hôpital's rule</h3>
   <div class="box thm"><div class="bl">Theorem <b>L'Hôpital</b></div>

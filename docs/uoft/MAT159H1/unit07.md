@@ -61,6 +61,8 @@ course.</p>
     genuinely behave differently.</p></div>
 </div>
 
+<figure class="play" data-play="taylor" data-f="ln"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The series for ln(1 + x) only works for −1 < x ≤ 1: add terms and watch it fail outside its radius of convergence.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Term-by-term calculus</h3>
   <div class="box thm"><div class="bl">Theorem</div>

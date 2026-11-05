@@ -62,6 +62,8 @@ basis.</p>
   </div>
 </div>
 
+<figure class="play" data-play="matrix2" data-mode="map"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> A linear map of the plane: the grid stays a grid, and the determinant is the signed area of the gold square's image.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Null space and range</h3>
   <div class="box def"><div class="bl">Definition</div>

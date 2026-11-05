@@ -115,6 +115,8 @@ foundation before building the standard toolkit.</p>
     something simpler while $dv$ integrates easily.</div>
 </div>
 
+<figure class="play" data-play="sums" data-mode="rules"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Numerical rules for integrals beside the exact value: rectangles, trapezoids and Simpson.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Partial fractions</h3>
   <p>Any proper rational function $P(x)/Q(x)$ (degree of $P$ less than degree of

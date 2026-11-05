@@ -56,6 +56,8 @@ one is multiplication by an invertible matrix.</p>
     forbidden.</div>
 </div>
 
+<figure class="play" data-play="elim"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Gaussian elimination one row operation at a time, then back substitution.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Echelon form, rank, and solving</h3>
   <div class="box def"><div class="bl">Definition</div>

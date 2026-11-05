@@ -76,6 +76,8 @@ one-dimensional ones.</p>
     compactness had to come first.</p></div>
 </div>
 
+<figure class="play" data-play="riemann"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Building an integral from thin rectangles, the one-variable picture behind the multivariable definition.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Measure zero and content zero</h3>
   <div class="box def"><div class="bl">Definition</div>

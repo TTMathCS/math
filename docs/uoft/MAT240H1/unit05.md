@@ -67,6 +67,8 @@ matrices.</p>
     is injective but not onto.</p></div>
 </div>
 
+<figure class="play" data-play="matrix2" data-mode="map" data-m="1,2,0.5,1"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> This matrix squashes the plane onto a line: rank 1, and a whole line of vectors goes to zero.</figcaption></figure>
+
 <div class="block reveal">
   <h3>The matrix of a linear map</h3>
   <div class="box def"><div class="bl">Definition</div>

@@ -102,6 +102,8 @@ that condition and the answer is already known.</p>
     is why his observation held.</p></div>
 </div>
 
+<figure class="play" data-play="spring"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Change the amplitude and the period stays put: that is simple harmonic motion.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Energy in oscillation</h3>
   <div class="box thm"><div class="bl">Rule <b>Total energy is constant</b></div>

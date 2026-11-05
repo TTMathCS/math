@@ -69,6 +69,8 @@ of the next two units.</p>
     $x$.</p></div>
 </div>
 
+<figure class="play" data-play="taylor" data-f="exp"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> Taylor polynomials of eˣ: more terms hug the curve farther from 0.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Error bounds in practice</h3>
   <div class="box eg"><div class="bl">Example <b>Cosine near $0$</b></div>

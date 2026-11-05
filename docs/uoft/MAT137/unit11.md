@@ -79,6 +79,8 @@ final units.</p>
     $N=\lceil1/\varepsilon\rceil$.</p></div>
 </div>
 
+<figure class="play" data-play="seqlim"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The ε–N game: shrink the band round the limit and see how far out you must go before every later term stays inside.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Limit laws and squeeze</h3>
   <div class="box thm"><div class="bl">Tools</div>

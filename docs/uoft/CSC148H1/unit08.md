@@ -232,6 +232,8 @@ cheap insertion.</p>
   &bull; Forgetting that in-order, not preorder, is the traversal that comes out
   sorted.</p></div>
 
+<figure class="play" data-play="bstorder"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The same keys into a binary search tree in random and in sorted order: bushy and shallow, or a list 15 deep.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Practice</h3>
   <p class="prac-intro">Write out each answer before opening it. Original

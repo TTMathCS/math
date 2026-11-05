@@ -112,6 +112,8 @@ uniform convergence and power series that close the course.</p>
   $\to0$.<br>
   • Never reorder the terms of a series you only know converges conditionally.</p></div>
 
+<figure class="play" data-play="series"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The alternating harmonic series zigzags in towards its sum, while the plain harmonic series runs away.</figcaption></figure>
+
 <div class="block reveal">
   <h3>Practice</h3>
   <div class="prac">

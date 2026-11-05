@@ -88,6 +88,8 @@ them is to define $\ln$ as an integral and recover everything else from there.</
   </div>
 </div>
 
+<figure class="play" data-play="sums" data-mode="accum"><span class="ai-tag">AI-created</span><figcaption><b>Try it.</b> The area from a starting point up to x, drawn as a curve of its own: its slope is the function you started with.</figcaption></figure>
+
 <div class="block reveal">
   <h3>The exponential function</h3>
   <div class="box def"><div class="bl">Definition <b>exp</b></div>
