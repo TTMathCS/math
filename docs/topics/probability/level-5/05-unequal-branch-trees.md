@@ -106,6 +106,8 @@ Any situation that happens in stages can be drawn as a tree, as long as you know
 what came before it. Weather and travel, games played in rounds, a machine that is tested twice: all of them make
 trees with unequal branches. Some trees even **stop early** on some paths, because the game is already decided.
 
+<figure class="play" data-play="spinner" data-parts="red:1,blue:3"><span class="ai-tag">AI-created</span><figcaption><b>Unequal chances.</b> A tree's branches carry 1/4 and 3/4 here.</figcaption></figure>
+
 ## Worked examples
 
 **1. One of each colour.** From the bag above (3 red, 5 blue, no replacement), find $P(\text{one of each colour})$.

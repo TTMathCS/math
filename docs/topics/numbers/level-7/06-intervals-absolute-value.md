@@ -153,6 +153,8 @@ $$|x - z| \le |x - y| + |y - z|$$
 example to bound errors: if $x$ is within 0.1 of 2 and $y$ is within 0.2 of 3, then
 $|(x + y) - 5| = |(x - 2) + (y - 3)| \le 0.1 + 0.2$, so $x + y$ is within 0.3 of 5.
 
+<figure class="play" data-play="numline" data-mode="ineq"><span class="ai-tag">AI-created</span><figcaption><b>An interval.</b> x > a is everything to the right of a.</figcaption></figure>
+
 ## Worked examples
 
 **1. Equations.** Solve $|2x - 5| = 7$ and $|x - 1| = |x + 3|$.

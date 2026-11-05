@@ -265,6 +265,8 @@ Here is a test to tell them apart.
 - **Growing**: further on, things are **bigger**, or there are **more** of them. Tower 10 looks very different from
   tower 1.
 
+<figure class="play" data-play="seq" data-kind="arith"><span class="ai-tag">AI-created</span><figcaption><b>A growing pattern.</b> Add the same each time.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. What comes next?** A pattern of towers has 1, 3, 5, 7 blocks. How many blocks are in the next tower?

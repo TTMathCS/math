@@ -125,6 +125,8 @@ Mathematicians write the Greek capital letter **delta**, $\Delta$, to mean "chan
 $\Delta\,\text{pay}$, and the rate of change is $\dfrac{\Delta\,\text{output}}{\Delta\,\text{input}}$. You do not have to
 use it, but you will see it everywhere in science.
 
+<figure class="play" data-play="graph" data-form="line"><span class="ai-tag">AI-created</span><figcaption><b>Rate from a table.</b> The slope is how much y changes for each 1 of x.</figcaption></figure>
+
 ## Worked examples
 
 **1. An oven warming up.** An oven is switched on.

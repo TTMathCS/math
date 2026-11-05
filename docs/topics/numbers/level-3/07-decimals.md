@@ -129,6 +129,8 @@ To compare two decimals:
 Compare 2.307 and 2.37: write 2.307 and 2.370. Ones: 2 and 2. Tenths: 3 and 3. Hundredths: 0 and 7. So
 **2.37 is bigger**.
 
+<figure class="play" data-play="placeval"><span class="ai-tag">AI-created</span><figcaption><b>Places.</b> Each place is ten times the one to its right; decimals carry on to the right.</figcaption></figure>
+
 ## Worked examples
 
 **1. Read a decimal.** What is the 6 worth in 12.36? In 6.21?

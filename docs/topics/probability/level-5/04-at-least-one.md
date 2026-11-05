@@ -99,6 +99,8 @@ only if **both** fail: $0.05 \times 0.05 = 0.0025$. So the chance that at least 
 Space missions, including the rovers on Mars, often carry backups of vital equipment for this reason. (The
 "independently" matters: two radios that share one power supply can fail together.)
 
+<figure class="play" data-play="dice" data-n="1"><span class="ai-tag">AI-created</span><figcaption><b>At least one six.</b> Roll a few times and count how often a six shows up at all.</figcaption></figure>
+
 ## Worked examples
 
 **1. De Méré's bet 1.** At least one 6 in 4 rolls.

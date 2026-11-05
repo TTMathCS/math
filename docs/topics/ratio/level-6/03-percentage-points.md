@@ -107,6 +107,8 @@ When you take a percent of a group that is itself a percent of a bigger group, m
 and 25% **of those** also take Spanish, then $0.40 \times 0.25 = 0.10$: 10% of the **whole class** take both. Not
 $40\% - 25\% = 15\%$ and not $25\%$.
 
+<figure class="play" data-play="percent" data-mode="change"><span class="ai-tag">AI-created</span><figcaption><b>Percent of a percent.</b> From 20% to 25% is 5 points, but a 25% rise.</figcaption></figure>
+
 ## Worked examples
 
 **1. The bank.** A rate goes from 4% to 5%.

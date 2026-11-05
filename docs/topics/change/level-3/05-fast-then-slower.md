@@ -117,6 +117,8 @@ You can tell them apart from a table, without drawing anything: look at the diff
 (from [the last lesson](04-change-in-tables.md)). Same differences: steady, a straight line. Growing differences: a
 curve that gets steeper. Shrinking differences: a curve that gets flatter.
 
+<figure class="play" data-play="motion"><span class="ai-tag">AI-created</span><figcaption><b>Fast, then slower.</b> The distance line bends where the speed drops. Made-up trip.</figcaption></figure>
+
 ## Worked examples
 
 **1. When can I drink it?** Cocoa is nice to drink below 40 °C. Using the table, when does it get there?

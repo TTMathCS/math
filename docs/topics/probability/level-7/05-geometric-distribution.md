@@ -156,6 +156,8 @@ distribution is **memoryless**: the past failures do not bring the success any c
 Some books let the geometric variable count the **failures before** the first success, $Y = X - 1$, with values
 $0, 1, 2, \dots$ and mean $\tfrac1p - 1$. Both are fine; always check which one a calculator or book means.
 
+<figure class="play" data-play="dice" data-n="1"><span class="ai-tag">AI-created</span><figcaption><b>Waiting for a six.</b> On average it takes 6 rolls.</figcaption></figure>
+
 ## Worked examples
 
 **1. First six on the third roll.** $P(X = 3) = \left(\tfrac56\right)^2 \cdot \tfrac16 = \tfrac{25}{216} \approx 0.116$.

@@ -119,6 +119,8 @@ fall into a repeating pattern. Johann Lambert proved this in 1761. So any fracti
 For most work, use the $\pi$ key on a calculator, or 3.14. Better still, keep $\pi$ as a symbol and give an **exact**
 answer like $10\pi$ cm, rounding only at the very end.
 
+<figure class="play" data-play="area" data-shape="circle"><span class="ai-tag">AI-created</span><figcaption><b>A circle.</b> Its area and its distance round both come from π.</figcaption></figure>
+
 ## Worked examples
 
 **1. A circle from its radius.** Radius 7 cm: $C = 2\pi \times 7 = 14\pi \approx 43.98$ cm.

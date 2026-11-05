@@ -132,6 +132,8 @@ googol of zeros. **Nobody can ever write a googolplex out in full.** There is no
 And yet a googolplex is **still finite**. It is a real number, with a clear rule that says exactly what it is. A
 googolplex and one is bigger. Infinity is still infinitely far away.
 
+<figure class="play" data-play="sci"><span class="ai-tag">AI-created</span><figcaption><b>Big powers of ten.</b> A googol is 10¹⁰⁰, far past this slider.</figcaption></figure>
+
 ## Worked examples
 
 **1. How many zeros?** A thousand thousands is a million. Count the zeros: a thousand has 3, so a thousand thousands

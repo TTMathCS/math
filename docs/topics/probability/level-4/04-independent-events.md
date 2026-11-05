@@ -168,6 +168,8 @@ gives the wrong answer. Take a bag with 3 red and 2 blue marbles.
 
 Level 5 shows how trees handle that case: you still multiply along a branch, but you use the **changed** chances.
 
+<figure class="play" data-play="dice" data-n="1"><span class="ai-tag">AI-created</span><figcaption><b>Independent rolls.</b> The last roll changes nothing about the next.</figcaption></figure>
+
 ## Worked examples
 
 **1. Heads and even.** A coin and a die. $P(H) = \tfrac12$ and $P(\text{even}) = \tfrac12$, and they are independent.

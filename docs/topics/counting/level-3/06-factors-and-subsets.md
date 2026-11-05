@@ -154,6 +154,8 @@ The "add 1" is for the choice "none of this prime".
 For $72 = 2 \times 2 \times 2 \times 3 \times 3$: the 2s give 0, 1, 2 or 3 of them (4 choices), the 3s give 0, 1 or 2
 (3 choices). 4 × 3 = **12** factors: 1, 2, 3, 4, 6, 8, 9, 12, 18, 24, 36, 72.
 
+<figure class="play" data-play="factree"><span class="ai-tag">AI-created</span><figcaption><b>Factors from primes.</b> Each factor picks how many of each prime to use.</figcaption></figure>
+
 ## Worked examples
 
 **1. Subsets of four things.** A set {A, B, C, D} has 2 × 2 × 2 × 2 = **16** subsets. Sorted by size:

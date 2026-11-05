@@ -181,6 +181,8 @@ Philosophers still discuss whether limits answer **everything** Zeno was worried
 mathematical part is settled: the times add up to a finite number, and that number is exactly when Achilles draws
 level.
 
+<figure class="play" data-play="seq" data-kind="geom"><span class="ai-tag">AI-created</span><figcaption><b>Infinitely many steps, a finite sum.</b> Add terms and watch the sum stop growing.</figcaption></figure>
+
 ## Worked examples
 
 **1. A general race.** A runner at speed $v$ chases a walker at a slower speed $w$ who has a head start of $d$ metres.

@@ -190,6 +190,8 @@ Not every growing picture adds the same amount each time. A staircase made of 1,
 squares (the triangular numbers from level 3) adds 2, then 3, then 4: the difference is not constant, so there is no
 rule of the form $dn + c$. Check the differences **before** you hunt for $d$ and the zero term.
 
+<figure class="play" data-play="seq" data-kind="tri"><span class="ai-tag">AI-created</span><figcaption><b>Growing triangles.</b> Each step adds one more row.</figcaption></figure>
+
 ## Worked examples
 
 **1. The 20th L-shape.** $2 \times 20 + 1 = 41$ tiles: 1 corner and two arms of 20.

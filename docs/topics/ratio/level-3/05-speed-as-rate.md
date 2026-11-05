@@ -114,6 +114,8 @@ hard ground, slower than a walking tortoise. Meanwhile, a radio message from Ear
 light, about 300 000 km every second. Even so, Mars is so far away (from about 55 million km to about 400 million km,
 depending on where the two planets are in their orbits) that a message takes several minutes to arrive.
 
+<figure class="play" data-play="motion"><span class="ai-tag">AI-created</span><figcaption><b>Speed is a rate.</b> Kilometres per hour, as the slope of a line. Made-up trip.</figcaption></figure>
+
 ## Worked examples
 
 **1. Finding distance.** A cyclist rides at 15 km/h for 2.5 hours. How far?

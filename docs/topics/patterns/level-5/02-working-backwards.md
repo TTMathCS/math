@@ -116,6 +116,8 @@ Why: $y - x = d$ and $z - y = d$, so $y - x = z - y$, which rearranges to $2y = 
 **average** (the mean) of its two neighbours. That is where the name "arithmetic mean" comes from: the everyday
 average of two numbers is the number that sits halfway between them.
 
+<figure class="play" data-play="seq" data-kind="arith"><span class="ai-tag">AI-created</span><figcaption><b>Work backwards.</b> From any term, take away d to find the one before.</figcaption></figure>
+
 ## Worked examples
 
 **1. Two terms, going down.** An arithmetic sequence has $t_3 = 20$ and $t_{10} = -8$. Find $a$, $d$ and $t_n$.

@@ -123,6 +123,8 @@ crossing point off a graph is only as accurate as the drawing. If the lines meet
 no hand-drawn graph will tell you that exactly. The next lesson gives two algebraic methods that find the exact answer
 every time. Graphing remains the way to check that the answer is sensible.
 
+<figure class="play" data-play="graph" data-form="two"><span class="ai-tag">AI-created</span><figcaption><b>Two lines, one point.</b> Where they cross is the solution of both equations.</figcaption></figure>
+
 ## Worked examples
 
 **1. The phone plans** (shown above): the lines $y = 2g + 30$ and $y = 4g + 10$ cross at $(10, 50)$.

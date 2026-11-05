@@ -143,6 +143,8 @@ ending in 5, like 45, is exactly halfway; the usual rule is to round it **up**, 
 Then: 38 + 45 is about 40 + 50 = **90**. The exact answer is 83. That is fairly close, so 83 makes sense. If you had
 written 183 or 73, the estimate would warn you that something went wrong.
 
+<figure class="play" data-play="numline" data-mode="add"><span class="ai-tag">AI-created</span><figcaption><b>One family, four facts.</b> 3 + 5 = 8 and 8 − 5 = 3 are the same hops forward and back.</figcaption></figure>
+
 ## Worked examples
 
 **1. A fact family.** Write the fact family for 6, 9 and 15.

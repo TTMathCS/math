@@ -271,6 +271,8 @@ blue). Each new triangle shares a side with the one before, so it needs only **2
 Rule: start at 3 and add 2 each time. Look at the colours another way: each triangle has one orange and one blue
 toothpick, and there is **one** extra green one at the start. So shape 10 uses 10 orange, 10 blue and 1 green: **21**.
 
+<figure class="play" data-play="seq" data-kind="square"><span class="ai-tag">AI-created</span><figcaption><b>Growing squares.</b> 1, 4, 9, 16 dots.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Shape 7 of the squares, two ways.**

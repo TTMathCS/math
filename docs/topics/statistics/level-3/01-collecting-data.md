@@ -130,6 +130,8 @@ numbers**, not tally marks: later you will want to find the mean and median, and
 Writing the child's number, not their name, keeps the answers private. People answer more honestly when they know
 their name will not be shown.
 
+<figure class="play" data-play="bars"><span class="ai-tag">AI-created</span><figcaption><b>Collect and show.</b> Each tap is one more answer. Made-up counts.</figcaption></figure>
+
 ## Worked examples
 
 **1. Primary or secondary?** Sort these.

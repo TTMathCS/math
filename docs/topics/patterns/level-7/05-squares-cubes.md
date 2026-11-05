@@ -150,6 +150,8 @@ $$\boxed{\;1^3 + 2^3 + \cdots + n^3 = \left(\frac{n(n + 1)}{2}\right)^2 = (1 + 2
 This is sometimes called **Nicomachus's theorem**, after a Greek writer of about 100 CE who described the pattern
 behind it.
 
+<figure class="play" data-play="seq" data-kind="square"><span class="ai-tag">AI-created</span><figcaption><b>Squares.</b> Their differences are the odd numbers.</figcaption></figure>
+
 ## Worked examples
 
 **1. The cannonballs.** A square pyramid with a 10 by 10 base:

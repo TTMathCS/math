@@ -109,6 +109,8 @@ For rational functions (fractions of polynomials) look for lines the graph appro
 6. **Second derivative**: a sign table, concavity, inflection points.
 7. **Plot** the special points, draw the asymptotes, and join them with the right shapes.
 
+<figure class="play" data-play="graph" data-form="quad"><span class="ai-tag">AI-created</span><figcaption><b>Sketch from the formula.</b> Where it turns, where it crosses, which way it opens.</figcaption></figure>
+
 ## Worked examples
 
 **1. A cubic.** Sketch $f(x) = x^3 - 3x^2 - 9x + 5$.

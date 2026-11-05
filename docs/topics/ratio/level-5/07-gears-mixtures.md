@@ -168,6 +168,8 @@ $\dfrac{\text{servings wanted}}{\text{servings in recipe}}$. Things that are not
 the oven temperature stays the same, and the baking time changes only a little (a bigger cake takes longer, but not
 twice as long).
 
+<figure class="play" data-play="ratiomix"><span class="ai-tag">AI-created</span><figcaption><b>Mixtures.</b> A mix keeps its ratio however much you make.</figcaption></figure>
+
 ## Worked examples
 
 **1. Two gears.** A 12-tooth gear drives a 36-tooth gear. The small gear turns 60 times a minute. How fast does the big

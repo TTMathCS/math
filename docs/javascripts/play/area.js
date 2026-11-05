@@ -14,7 +14,7 @@ PLAY("area", function (fig, k) {
     g.fill(); g.globalAlpha = 1; g.strokeStyle = C.gold; g.lineWidth = 3; g.stroke();
     if (sh !== "circle" && sh !== "rect") { g.setLineDash([5, 4]); g.strokeStyle = C.ink; g.lineWidth = 2; g.beginPath(); g.moveTo(x0 + s * u, y0); g.lineTo(x0 + s * u, y0 - h * u); g.stroke(); g.setLineDash([]); }
     g.fillStyle = C.bg; g.globalAlpha = 0.85; g.fillRect(x0 + 2, 6, 520, 30); g.globalAlpha = 1; g.fillStyle = C.ink; g.font = F(19, 800); g.textAlign = "left"; g.fillText(f + " = " + +A.toFixed(2) + " square units", x0 + 6, 28);
-    out.textContent = sh === "para" ? "Sliding the top edge keeps the area the same: a parallelogram is a rectangle with one end moved to the other." : sh === "tri" ? "Moving the top corner sideways keeps the area: base and height stay the same." : sh === "circle" ? "Diameter " + h + ", radius " + h / 2 + ". Count the squares inside to check." : "Count the shaded squares to check.";
+    out.textContent = sh === "para" ? "Sliding the top edge keeps the area the same: a parallelogram is a rectangle with one end moved to the other." : sh === "tri" ? "Moving the top corner sideways keeps the area: base and height stay the same." : sh === "circle" ? "Diameter " + h + ", radius " + h / 2 + ". Count the squares inside to check." : "Count the shaded squares to check. Perimeter 2 × (" + b + " + " + h + ") = " + 2 * (b + h) + " units.";
   }
   if (sh === "circle") k.slider("Diameter", 1, 9, 1, 6, function (v) { return v; }, function (v) { h = +v; draw(); });
   else { k.slider(sh === "trap" ? "Bottom a" : sh === "rect" ? "Length" : "Base", 1, 12, 1, b, function (v) { return v; }, function (v) { b = +v; draw(); });

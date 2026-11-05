@@ -187,6 +187,8 @@ need six different digits, and you only have five.
 Notice that 4-digit and 5-digit codes with no repeats both give 120. With 4 slots you use 4 of the 5 digits: 5 × 4 × 3
 × 2. With 5 slots the last slot has exactly 1 choice (the one digit left), and multiplying by 1 changes nothing.
 
+<figure class="play" data-play="arrange" data-mode="perm"><span class="ai-tag">AI-created</span><figcaption><b>No repeats.</b> Each letter used once: fewer choices at each step.</figcaption></figure>
+
 ## Worked examples
 
 **1. Four-letter "words".** How many 4-letter "words" (any string of letters, real word or not) can be made from the

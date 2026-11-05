@@ -126,6 +126,8 @@ These numbers can be drawn as triangles of dots: 1 dot, then a row of 2 under it
 Why triangles? Look at the tidy list for 5 friends: 4 and 3 and 2 and 1. Put those as rows of dots, the longest at
 the bottom, and you get the triangle of 10.
 
+<figure class="play" data-play="arrange" data-mode="comb"><span class="ai-tag">AI-created</span><figcaption><b>Handshakes.</b> Set k = 2: each pair shakes hands once.</figcaption></figure>
+
 ## Worked examples
 
 **1. Six friends.** How many handshakes?

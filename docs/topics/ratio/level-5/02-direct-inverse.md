@@ -128,6 +128,8 @@ on **days** (more days, more eggs: direct). Painting time depends on **painters*
 building** (direct). Handle one change at a time, keeping everything else fixed. That is the secret to the hen
 puzzle.
 
+<figure class="play" data-play="graph" data-form="recip"><span class="ai-tag">AI-created</span><figcaption><b>Inverse proportion.</b> Double x and y halves: y = a / x.</figcaption></figure>
+
 ## Worked examples
 
 **1. Weight on Mars.** A backpack makes a bathroom scale on Earth read 20 kg. Using $k \approx 0.38$, what would the

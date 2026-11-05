@@ -161,6 +161,8 @@ steps make a straight line. The square numbers make a curve that bends upwards, 
 bigger. A table and a graph are two ways of showing the same change. (More in [Graphing a
 pattern](../../patterns/level-4/03-graphing-a-pattern.md).)
 
+<figure class="play" data-play="seq" data-kind="arith"><span class="ai-tag">AI-created</span><figcaption><b>Change in a table.</b> The same change each step makes a steady pattern.</figcaption></figure>
+
 ## Worked examples
 
 **1. Is it steady?** A tank is filled with water, then drained. Minute by minute it holds 200, 185, 170, 155, 140

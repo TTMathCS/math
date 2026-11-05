@@ -160,6 +160,8 @@ zero. That idea, called **optimization**, is one of the most useful things calcu
   corners, where the rate jumps from negative to positive without passing through zero. Zero rates find the smooth
   tops and bottoms; corners and endpoints must be checked separately.
 
+<figure class="play" data-play="graph" data-form="sine"><span class="ai-tag">AI-created</span><figcaption><b>Where is it changing fastest?</b> A sine wave is steepest as it crosses its centre line.</figcaption></figure>
+
 ## Worked examples
 
 **1. The highest point of a throw.** A ball's height is $H(t) = 30t - 5t^2$ m. When is it highest, and how high?

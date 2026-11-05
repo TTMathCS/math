@@ -116,6 +116,8 @@ Offers are written to look good. Before you sign, look for:
 
 Prices, fees and rates in this lesson are examples; real ones change, so check the current ones.
 
+<figure class="play" data-play="graph" data-form="two"><span class="ai-tag">AI-created</span><figcaption><b>Two plans.</b> Each line is a cost: a start fee plus a rate. Where they cross, the plans cost the same. Made-up numbers.</figcaption></figure>
+
 ## Worked examples
 
 **1. Break-even.** Plan A is 45 dollars a month; Plan B is 25 dollars plus 4 dollars per GB.

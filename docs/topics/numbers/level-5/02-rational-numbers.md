@@ -155,6 +155,8 @@ whatever fraction you name, half of it is smaller and still bigger than 0. We sa
 </svg>
 </div>
 
+<figure class="play" data-play="numline" data-mode="add"><span class="ai-tag">AI-created</span><figcaption><b>Numbers on a line.</b> Every fraction has a place between the whole numbers.</figcaption></figure>
+
 ## Worked examples
 
 **1. Compare** $-\tfrac25$ and $-\tfrac37$.

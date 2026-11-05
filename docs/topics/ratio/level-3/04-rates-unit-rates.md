@@ -138,6 +138,8 @@ not work like that. A taxi might charge a fixed fee just to get in, then so much
 cost twice as much because the movie is twice as long. Before you use the unitary method, ask: "If I double one
 thing, does the other really double?"
 
+<figure class="play" data-play="ratiomix"><span class="ai-tag">AI-created</span><figcaption><b>Per one.</b> Divide both by the gold count to get blue per gold.</figcaption></figure>
+
 ## Worked examples
 
 **1. A car trip.** A car travels 240 km in 3 hours at a steady speed. How far in 5 hours?

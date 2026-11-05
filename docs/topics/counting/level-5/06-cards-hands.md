@@ -176,6 +176,8 @@ up about once in every $2\,598\,960 \div 3744 \approx 694$ hands; four of a kind
 pair about 42 times in every 100 hands. This is where counting hands over to
 [Probability](../../probability/index.md).
 
+<figure class="play" data-play="arrange" data-mode="comb"><span class="ai-tag">AI-created</span><figcaption><b>Hands of cards.</b> A hand is a group: order doesn't matter.</figcaption></figure>
+
 ## Worked examples
 
 **1. Three of a kind.** Three cards of one rank and two other cards of two **different** other ranks (otherwise it

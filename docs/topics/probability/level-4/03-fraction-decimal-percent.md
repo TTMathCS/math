@@ -235,6 +235,8 @@ only fair way to judge a probability: by what happens in the long run.
 The rule $P(\text{not } A) = 1 - P(A)$ from [level 3](../level-3/03-not-happening.md) becomes "100% minus" in percents.
 A 40% chance of rain is a $100\% - 40\% = 60\%$ chance of no rain.
 
+<figure class="play" data-play="percent" data-mode="of"><span class="ai-tag">AI-created</span><figcaption><b>The same chance three ways.</b> 25 out of 100 is 1/4, 0.25, 25%.</figcaption></figure>
+
 ## Worked examples
 
 **1. One probability, three ways.** In three coin flips, $P(\text{exactly two heads}) = \tfrac38$ (from

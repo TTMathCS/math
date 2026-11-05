@@ -118,6 +118,8 @@ $3 \times 1 \times 3 = 9$. Routes avoiding it: $35 - 9 = 26$.
 You can always check with the corner-by-corner method: write the numbers again, but do not add along the closed
 block. Both methods give 26.
 
+<figure class="play" data-play="pascal"><span class="ai-tag">AI-created</span><figcaption><b>Grid paths.</b> The number of paths to each corner of a grid is a number in Pascal's triangle.</figcaption></figure>
+
 ## Worked examples
 
 **1. A bigger grid.** How many shortest routes cross a grid 6 blocks east and 4 blocks north?

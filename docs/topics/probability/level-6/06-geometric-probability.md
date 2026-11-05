@@ -135,6 +135,8 @@ The two unshaded corners are right triangles with legs $60 - 15 = 45$. So
 A shorter way: $P(\text{miss}) = \left(\tfrac{45}{60}\right)^2 = \left(\tfrac34\right)^2 = \tfrac{9}{16}$ (the two
 triangles fit together into a $45 \times 45$ square), so $P(\text{meet}) = 1 - \tfrac{9}{16} = \tfrac{7}{16}$.
 
+<figure class="play" data-play="spinner" data-parts="gold:1,blue:2,red:3"><span class="ai-tag">AI-created</span><figcaption><b>Chance by area.</b> Each colour's share of the circle is its chance.</figcaption></figure>
+
 ## Worked examples
 
 **1. A dartboard with rings.** A round board has radius 10 cm. The bullseye is a circle of radius 2 cm in the middle,

@@ -135,6 +135,8 @@ $f''(x) = 6x$. Where $f'' > 0$ the slope is increasing and the graph bends upwar
 down like a cap. In motion, if $f$ is position, then $f'$ is velocity and $f''$ is acceleration: the subject of the
 [next lesson](06-velocity-acceleration.md).
 
+<figure class="play" data-play="secant"><span class="ai-tag">AI-created</span><figcaption><b>The slope at a point.</b> Shrink h and the secant becomes the tangent.</figcaption></figure>
+
 ## Worked examples
 
 **1. A formula check.** For $f(x) = x^2 - 4x + 3$, describe $f'$ from the graph, then check with the rule.

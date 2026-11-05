@@ -127,6 +127,8 @@ For the octagon: from each corner, 8 − 3 = 5 diagonals. 8 × 5 = 40, and half 
 So here is the recipe, in words: **take away 3 from the number of corners, multiply by the number of corners, then
 halve.** It is the handshake recipe ("multiply by one less, then halve") with the two neighbours left out.
 
+<figure class="play" data-play="arrange" data-mode="comb"><span class="ai-tag">AI-created</span><figcaption><b>Pairs.</b> Choosing 2 from n counts handshakes, and with n corners, lines between corners.</figcaption></figure>
+
 ## Worked examples
 
 **1. A party of 8.** Everyone shakes hands with everyone once. How many handshakes?

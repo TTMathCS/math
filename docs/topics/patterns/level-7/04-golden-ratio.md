@@ -136,6 +136,8 @@ Since $|\psi| < 1$, the term $\frac{\psi^n}{\sqrt5}$ gets tiny very fast (it is 
 $n = 1$). So $F_n$ is simply **the whole number nearest to $\frac{\varphi^n}{\sqrt5}$**. That is why consecutive
 Fibonacci numbers have ratio close to $\varphi$: they are both close to powers of $\varphi$ divided by $\sqrt5$.
 
+<figure class="play" data-play="seq" data-kind="fib"><span class="ai-tag">AI-created</span><figcaption><b>Towards the golden ratio.</b> Divide each Fibonacci number by the one before: 1.6180… appears.</figcaption></figure>
+
 ## Worked examples
 
 **1. Check $\varphi^2 = \varphi + 1$ with surds.**

@@ -111,6 +111,8 @@ A table is good for **exact** numbers. You can look up "how many in Room 2 chose
 A table is not so good for **seeing** the pattern at a glance; for that we draw a graph, in the next lesson. Most
 good reports have both: a table for the exact numbers, and a graph for the picture.
 
+<figure class="play" data-play="bars"><span class="ai-tag">AI-created</span><figcaption><b>From a table to a graph.</b> Tap to change the counts; the total updates. Made-up counts.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Tallies to a table.** A tally chart about favourite sports shows: soccer, two gates and three lines;

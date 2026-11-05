@@ -130,6 +130,8 @@ For example, for 123,456,789: $789 - 456 + 123 = 456$. And $456 = 65 \times 7 + 
 1 when divided by 7. (Why does a congruence mod 1001 give one mod 7? If 1001 divides $a - b$, then so does every
 factor of 1001, including 7.) This turns a 9-digit problem into a 3-digit one.
 
+<figure class="play" data-play="hundred" data-mode="multiples"><span class="ai-tag">AI-created</span><figcaption><b>Why the tests work.</b> Look at the multiples of 3, 9 and 11.</figcaption></figure>
+
 ## Worked examples
 
 **1. A remainder by digit sum.** Find the remainder of 87,654,321 on division by 9 and by 3.

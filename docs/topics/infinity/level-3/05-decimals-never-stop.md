@@ -153,6 +153,8 @@ hours is 40 minutes? It is $\frac{40}{60} = \frac23$ of an hour. And $2 \div 3 =
 24.666... hours. The 6s never stop, because thirds never stop. (A sol is really 24 hours 39 minutes and 35 seconds,
 so "40 minutes" is already rounded; the 6s are the decimal for the rounded value.)
 
+<figure class="play" data-play="sqrt"><span class="ai-tag">AI-created</span><figcaption><b>Digits that never stop.</b> √2's decimals go on for ever without repeating.</figcaption></figure>
+
 ## Worked examples
 
 **1. $\frac23$ as a decimal.** 20 divided by 3 is 6, remainder 2. Then 20 again: 6, remainder 2, forever. So

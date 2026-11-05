@@ -128,6 +128,8 @@ shared fairly between these two positions? Yes: Peter Gustav Lejeune Dirichlet p
 $\varphi(n)$ possible positions in the long run. So there are infinitely many primes of the form $4k + 1$ (the sums of
 two squares of level 7) and infinitely many of the form $4k + 3$.
 
+<figure class="play" data-play="hundred" data-mode="sieve"><span class="ai-tag">AI-created</span><figcaption><b>How the primes spread.</b> 25 below 100; the gaps grow slowly.</figcaption></figure>
+
 ## Worked examples
 
 **1. Using the estimate.** About how many primes are there below one billion? $x / \ln x = 10^9 / (9 \ln 10) \approx

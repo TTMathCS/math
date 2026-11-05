@@ -131,6 +131,8 @@ When the modulus is a prime $p$, first cut the exponent down mod $p - 1$ (lesson
 what is left. When the modulus is not prime, square and multiply works on its own; lesson 3 gives a version of
 Fermat for that case too.
 
+<figure class="play" data-play="clock" data-mode="times"><span class="ai-tag">AI-created</span><figcaption><b>Powers on a clock.</b> Multiply a by itself again and again; the clock keeps the numbers small.</figcaption></figure>
+
 ## Worked examples
 
 **1. $3^{100} \bmod 7$ by squaring.** (We know from lesson 1 the answer is 4; here is a check that does not use

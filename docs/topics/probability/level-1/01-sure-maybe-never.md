@@ -153,6 +153,8 @@ a very likely maybe.
 Mathematicians are careful with the word "sure". They only use it when there is **no way at all** for the thing not
 to happen. "Very likely" is still maybe. You will learn about "likely" in the [next lesson](02-more-or-less-likely.md).
 
+<figure class="play" data-play="spinner" data-parts="blue:3,red:1"><span class="ai-tag">AI-created</span><figcaption><b>Likely or unlikely.</b> Blue is likely here; red can happen but less often.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Sort six cards.**

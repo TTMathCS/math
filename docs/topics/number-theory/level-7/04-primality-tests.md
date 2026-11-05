@@ -127,6 +127,8 @@ has proved that factoring **must** be hard; it is just that centuries of effort 
 ordinary computers. Level 8 shows how RSA builds a lock out of exactly this gap: **finding primes is easy,
 factoring is hard.**
 
+<figure class="play" data-play="hundred" data-mode="sieve"><span class="ai-tag">AI-created</span><figcaption><b>The slow way.</b> A sieve finds every prime up to 100; tests check one big number at a time.</figcaption></figure>
+
 ## Worked examples
 
 **1. Trial division.** Is 221 prime? $\sqrt{221} \approx 14.9$, so try 2, 3, 5, 7, 11, 13. 221 is odd; digit sum 5,

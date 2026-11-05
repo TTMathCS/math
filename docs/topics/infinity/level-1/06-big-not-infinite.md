@@ -120,6 +120,8 @@ How many grains of sand are on Mars? Nobody knows the number, and it is an enorm
 certain size, so it holds only so much sand. The number is **finite**. If you could count very fast for a very, very
 long time, you would get to the end.
 
+<figure class="play" data-play="sci"><span class="ai-tag">AI-created</span><figcaption><b>Big, but not infinite.</b> However big the power, one more step is bigger still.</figcaption></figure>
+
 ## Worked examples
 
 **1. Finite or infinite?** Decide for each one.

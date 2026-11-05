@@ -126,6 +126,8 @@ when banks compound interest monthly, in [lesson 3](03-compounding-periods.md).
 The same trick finds $b$ from two measurements. If an amount goes from $A$ to $B$ in $k$ steps, then $b^{\,k} = B / A$,
 so $b = (B / A)^{1/k}$.
 
+<figure class="play" data-play="graph" data-form="exp"><span class="ai-tag">AI-created</span><figcaption><b>Growth and decay.</b> The same multiplier each step.</figcaption></figure>
+
 ## Worked examples
 
 **1. A growing town.** A town of 5000 people grows by 4% a year. How many people after 5, 10 and 20 years? Compare

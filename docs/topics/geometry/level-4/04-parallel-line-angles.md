@@ -204,6 +204,8 @@ a fiftieth of a full turn, roughly 7.2°. So the distance from Syene to Alexandr
 the Earth. Multiply that distance by 50 and you have the Earth's circumference. The same idea could be used on Mars,
 with two rovers and a sunny noon.
 
+<figure class="play" data-play="angle" data-mode="one"><span class="ai-tag">AI-created</span><figcaption><b>Angles at a crossing.</b> Turn the ray; the angle next to it on a line is 180° minus it.</figcaption></figure>
+
 ## Worked examples
 
 **1. All eight from one.** In the first picture, $a = 60°$. Find $b$ to $h$.

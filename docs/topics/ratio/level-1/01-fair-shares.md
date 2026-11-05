@@ -164,6 +164,8 @@ What can you do with the 2 left over? You have some choices:
 
 What you must **not** do is give one extra to two of the friends. Then the shares are not the same any more.
 
+<figure class="play" data-play="array" data-mode="share"><span class="ai-tag">AI-created</span><figcaption><b>Fair shares.</b> Everyone gets the same; the red ones are left over.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Strawberries for two.** Mum has 10 strawberries for you and your brother. How many does each of you

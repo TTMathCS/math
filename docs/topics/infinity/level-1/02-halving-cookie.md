@@ -143,6 +143,8 @@ So in real life, Ben's cookie does end: it ends as a crumb too small to see, or 
 a cookie is a pretend shape that can be cut as small as we like, the halving never ends. Math lets us think about
 "forever" even when real things stop.
 
+<figure class="play" data-play="seq" data-kind="geom"><span class="ai-tag">AI-created</span><figcaption><b>Halve it again.</b> Set r = 0.5: the pieces get smaller and smaller but never zero.</figcaption></figure>
+
 ## Worked examples
 
 **1. A ribbon.** A ribbon is 16 centimetres long. Each time, you cut it in half and keep one half. How long is the

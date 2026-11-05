@@ -188,6 +188,8 @@ a little more than 1. So the top book is completely past the edge. To reach 2 bo
 3 you need 227. The harmonic series grows slowly, so the stack gets tall very quickly. (Real books are not perfectly
 even, so in practice you leave a little safety margin.)
 
+<figure class="play" data-play="seq" data-kind="arith"><span class="ai-tag">AI-created</span><figcaption><b>A sum that grows for ever.</b> Adding steady amounts never settles.</figcaption></figure>
+
 ## Worked examples
 
 **1. The first few partial sums exactly.** Find $1 + \frac12 + \frac13 + \frac14$.

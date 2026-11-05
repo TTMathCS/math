@@ -169,6 +169,8 @@ So why are many food cans taller than they are wide? Surface area is not the onl
 A "best" shape depends on what you are trying to make smallest. Mathematics answers the question you ask, so ask the
 right one.
 
+<figure class="play" data-play="area" data-shape="rect"><span class="ai-tag">AI-created</span><figcaption><b>The best rectangle.</b> For the same perimeter, the square has the most area.</figcaption></figure>
+
 ## Worked examples
 
 **1. Fixed perimeter.** What is the largest rectangle with perimeter 36 m? Sides add to 18, so the best is the

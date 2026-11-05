@@ -127,6 +127,8 @@ The story goes that the Greek thinker Archimedes, about 2200 years ago, realised
 and watching it overflow, and that he used it to test whether a king's crown was pure gold. Whether or not the bath
 story is true, the method works.
 
+<figure class="play" data-play="solid" data-shape="box"><span class="ai-tag">AI-created</span><figcaption><b>Volume and capacity.</b> A box of 1,000 cm³ holds 1 litre.</figcaption></figure>
+
 ## Worked examples
 
 **1. The fish tank.** 60 cm by 30 cm by 40 cm.

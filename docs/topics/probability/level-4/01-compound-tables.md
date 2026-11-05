@@ -181,6 +181,8 @@ for red, one for blue and one for yellow, because those rows would not be equall
 Use the trick from [level 3](../level-3/06-equally-likely.md): cut the spinner into equal pieces. Think of it as four
 quarters: red, red, blue, yellow. Now give it **four** rows, two of them red. Every square is equally likely again.
 
+<figure class="play" data-play="dice" data-n="2"><span class="ai-tag">AI-created</span><figcaption><b>Two dice, one table.</b> 36 squares, each a pair.</figcaption></figure>
+
 ## Worked examples
 
 **1. A coin and a die.** Find $P(\text{tails and more than } 4)$.

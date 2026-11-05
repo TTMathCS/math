@@ -135,6 +135,8 @@ exactly how much. In level 4 you will see how infinitely many pieces add up to a
 will see the idea that makes it exact, called a **limit**. Some philosophers still enjoy arguing about whether
 infinitely many things can really "happen" one after another. That is part of why Zeno is still famous.
 
+<figure class="play" data-play="seq" data-kind="geom"><span class="ai-tag">AI-created</span><figcaption><b>Zeno's race.</b> Each step is half the last; with r = 0.5 the total settles at 2a.</figcaption></figure>
+
 ## Worked examples
 
 **1. A different race.** Achilles runs 5 metres a second, the tortoise 1 metre a second, with a 20 metre head start.

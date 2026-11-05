@@ -152,6 +152,8 @@ were 132 and 138 cm, only that two were in 130-139. So you **cannot** find the e
 only the interval the median falls in. That is the price of a clearer picture. (A stem-and-leaf plot, from level 3,
 keeps every value, which is why it is handy for small data sets; for hundreds or thousands of values, histograms win.)
 
+<figure class="play" data-play="galton"><span class="ai-tag">AI-created</span><figcaption><b>A histogram builds up.</b> Each ball adds to the bar where it lands.</figcaption></figure>
+
 ## Worked examples
 
 **1. Reading the histogram.** Using the 10 cm histogram:

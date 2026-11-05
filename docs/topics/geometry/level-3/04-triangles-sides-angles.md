@@ -169,6 +169,8 @@ A **right isosceles** triangle is half of a square, cut along the diagonal: it h
 right angle must be the angle **between** the two equal sides, because the two base angles are equal and they
 cannot both be 90°.
 
+<figure class="play" data-play="angle" data-mode="triangle"><span class="ai-tag">AI-created</span><figcaption><b>A triangle's angles.</b> Set two; the third is fixed.</figcaption></figure>
+
 ## Worked examples
 
 **1. Naming from the sides.** A triangle has sides 5 cm, 5 cm and 8 cm. Two sides are equal, so it is **isosceles**.

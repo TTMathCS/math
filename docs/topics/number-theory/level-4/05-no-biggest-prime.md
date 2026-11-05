@@ -149,6 +149,8 @@ checked. As of late 2024 it is $2^{136{,}279{,}841} - 1$, found in October 2024.
 Primes of the form $2^p - 1$ are called **Mersenne primes**, and you will meet them in
 [the next lesson](06-perfect-numbers.md).
 
+<figure class="play" data-play="hundred" data-mode="sieve"><span class="ai-tag">AI-created</span><figcaption><b>Primes thin out, but never stop.</b> 25 of them below 100.</figcaption></figure>
+
 ## Worked examples
 
 **1. The list 2, 3, 5, 7.**

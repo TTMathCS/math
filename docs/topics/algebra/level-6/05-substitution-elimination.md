@@ -125,6 +125,8 @@ other counts the **substance** (the amount of salt, acid, money...), using amoun
 water is $b$ and the current is $c$, its speed is $b + c$ downstream and $b - c$ upstream. Each journey gives an
 equation through distance = speed × time.
 
+<figure class="play" data-play="graph" data-form="two"><span class="ai-tag">AI-created</span><figcaption><b>Check by graphing.</b> The crossing point is what substitution or elimination finds.</figcaption></figure>
+
 ## Worked examples
 
 **1. The farm, by substitution.** Shown above: 18 chickens and 12 cows.

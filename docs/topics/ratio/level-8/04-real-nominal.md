@@ -96,6 +96,8 @@ $$\frac{1 + n(1 - \tau)}{1 + f} - 1.$$
 Tax rules on investment income differ by type of account and type of income, and change over time; check the current
 ones. The examples below use a made-up flat rate.
 
+<figure class="play" data-play="percent" data-mode="twice"><span class="ai-tag">AI-created</span><figcaption><b>Real and nominal.</b> Up by interest, down by inflation: the changes multiply. Made-up rates.</figcaption></figure>
+
 ## Worked examples
 
 **1. The basic case.** A GIC pays 5% when inflation is 3%. Find the real rate, approximately and exactly.

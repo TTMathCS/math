@@ -136,6 +136,8 @@ become whole: $9.45 \div 0.7 = 94.5 \div 7 = 13.5$.
 
 Now the opening question: $3 \div 0.5 = 30 \div 5 = 6$. ✓
 
+<figure class="play" data-play="placeval"><span class="ai-tag">AI-created</span><figcaption><b>Line up the places.</b> Ones under ones, tens under tens.</figcaption></figure>
+
 ## Worked examples
 
 **1. Add three numbers.** $6.04 + 3.9 + 12$. Write as 6.04, 3.90, 12.00 and line up the points. Total **21.94**.

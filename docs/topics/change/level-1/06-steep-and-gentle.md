@@ -138,6 +138,8 @@ life the long gentle slide is usually a bit slower at the bottom. But the big id
 you start, the faster you end up.** That is why, in our book experiment, the steep ramp (with its top higher up) sent
 the ball further across the floor.
 
+<figure class="play" data-play="graph" data-form="line"><span class="ai-tag">AI-created</span><figcaption><b>Steep and gentle.</b> A bigger m makes a steeper line.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Which is steeper?** Ramp C goes up 3 squares for every 1 square along. Ramp D goes up 1 square for every

@@ -150,6 +150,8 @@ the big jump. **Small changes add up to the big change.**
 And if a change goes up and then down, the up and the down can **cancel**. If the temperature rises 4 degrees in the
 morning and falls 4 degrees in the evening, the change over the whole day is **zero**: it ends where it started.
 
+<figure class="play" data-play="motion"><span class="ai-tag">AI-created</span><figcaption><b>How much changed?</b> Read the distance graph at the start and at the end. Made-up trip.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. A puppy's weight.** A puppy weighed 3 kg in March and 7 kg in June. How much weight did it gain?

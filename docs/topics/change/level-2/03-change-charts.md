@@ -157,6 +157,8 @@ over time, like temperature, height or distance.
 For things that do not have an "in between", like the number of children in each class, we use a bar chart and do not
 join anything up.
 
+<figure class="play" data-play="bars"><span class="ai-tag">AI-created</span><figcaption><b>Change as bars.</b> Tap bars to change them; compare one with the next. Made-up counts.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Reading the chart.** Using the chart above, what was the temperature at 12 pm? How much did it rise

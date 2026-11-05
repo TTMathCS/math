@@ -136,6 +136,8 @@ fast). Dividing is usually more telling for very different speeds.
 - Cheetah and walker: $28 \div 1.4 = 20$. A sprinting cheetah is about 20 times as fast as you walk.
 - Light and sound: $300\,000\,000 \div 343$, about 870,000. Light is nearly a million times faster.
 
+<figure class="play" data-play="motion"><span class="ai-tag">AI-created</span><figcaption><b>How fast?</b> The slope of the distance line is the speed. Made-up trip.</figcaption></figure>
+
 ## Worked examples
 
 **1. Walking in km/h.** A person walks at 1.4 m/s. In km/h: $1.4 \times 3.6 = 5.04$, about 5 km/h. That is why people

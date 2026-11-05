@@ -105,6 +105,8 @@ Notice what we did for 4 friends. We did not list all 24. We used the answer for
 This is a very powerful habit in mathematics: **solve a smaller problem first, then use it to solve the bigger
 one.**
 
+<figure class="play" data-play="arrange" data-mode="perm"><span class="ai-tag">AI-created</span><figcaption><b>Lining up.</b> Every order of n friends: n × (n − 1) × …</figcaption></figure>
+
 ## Worked examples
 
 **1. Three toys on a shelf.** A car, a duck and a robot stand in a row. How many ways can you arrange them?

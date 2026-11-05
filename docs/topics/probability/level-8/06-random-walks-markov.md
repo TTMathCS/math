@@ -189,6 +189,8 @@ Stationary distributions are the idea behind the PageRank method for ranking web
 Markov chain, and pages visited more in the long run rank higher), and how Markov chain Monte Carlo methods, used in
 physics and statistics, sample from complicated distributions.
 
+<figure class="play" data-play="galton"><span class="ai-tag">AI-created</span><figcaption><b>Random steps.</b> Each ball takes left or right steps at random and lands near the middle most often.</figcaption></figure>
+
 ## Worked examples
 
 **1. A walk's spread.** After 400 steps of a simple random walk, find the mean and standard deviation of the position,

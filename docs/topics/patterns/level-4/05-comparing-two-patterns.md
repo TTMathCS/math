@@ -137,6 +137,8 @@ a tie. Over 10, Plan B.
   $25 \div 4 = 6.25$ weeks. There is no week 6.25 in the table. At week 6 the first is ahead (43 to 42); at week 7
   the second is ahead (46 to 49). So the answer is "the second plan is ahead from week 7 on".
 
+<figure class="play" data-play="seq" data-kind="arith"><span class="ai-tag">AI-created</span><figcaption><b>Compare patterns.</b> Change d and see which grows faster.</figcaption></figure>
+
 ## Worked examples
 
 **1. Phone plans.** Plan X costs 20 dollars a month plus 2 dollars per gigabyte (GB) of data. Plan Y has no monthly

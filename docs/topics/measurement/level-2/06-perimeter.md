@@ -334,6 +334,8 @@ corner square, you lose 2 edges of the outside (the 2 edges that were on the out
 make 2 new edges (the 2 sides of the notch). You lose 2 and gain 2, so the walk around is just as long. The ant just
 takes a little detour step inward instead of going round the corner.
 
+<figure class="play" data-play="area" data-shape="rect"><span class="ai-tag">AI-created</span><figcaption><b>Around the edge.</b> Perimeter is 2 × (length + width); area counts the inside.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. A triangle.** Find the perimeter of this triangle.

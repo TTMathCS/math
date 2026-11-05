@@ -82,6 +82,8 @@ Use three things together:
 And be extra careful extrapolating a non-linear model: an exponential model predicts numbers that explode, and no dish
 of cells can grow forever.
 
+<figure class="play" data-play="graph" data-form="exp"><span class="ai-tag">AI-created</span><figcaption><b>A curved model.</b> Some data follow a multiplier, not a fixed step.</figcaption></figure>
+
 ## Worked examples
 
 **1. The cell counts.** The counts on days 0 to 6 were

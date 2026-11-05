@@ -147,6 +147,8 @@ Mersenne prime.)
   have to be unimaginably large: more than 1,500 digits long. But nobody has proved that none exists. This question is
   over 2,000 years old.
 
+<figure class="play" data-play="array" data-mode="rect"><span class="ai-tag">AI-created</span><figcaption><b>Factors of 6 and 28.</b> Add the factors other than the number itself: 1 + 2 + 3 = 6.</figcaption></figure>
+
 ## Worked examples
 
 **1. Classify 18.**
