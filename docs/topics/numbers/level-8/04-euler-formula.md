@@ -152,6 +152,8 @@ the number $\pi$, made for circles, are the same story seen from two sides.
   $2\pi i = 0$, which is false. For complex numbers, $e^z$ repeats every $2\pi i$ (as the point goes round the circle
   again), so it has no single inverse. Logarithms of complex numbers have many values, one for each turn.
 
+<figure class="play" data-play="complex" data-mode="roots"><span class="ai-tag">AI-created</span><figcaption><b>e^(2πik/n).</b> The roots of unity are Euler's formula at equal steps round the circle.</figcaption></figure>
+
 ## Worked examples
 
 **1. Values on the circle.** Find $e^{i\pi/2}$, $e^{i\pi/3}$ and $e^{2\pi i}$.

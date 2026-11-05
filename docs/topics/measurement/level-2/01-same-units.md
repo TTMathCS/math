@@ -224,6 +224,8 @@ take-away sum.
 "The table is 90" does not tell anyone anything. 90 what? Centimetres? Metres? Hand spans? Always write the unit:
 **90 cm**. A number with no unit is like the Mars Climate Orbiter's numbers: easy to read the wrong way.
 
+<figure class="play" data-play="units" data-kind="length"><span class="ai-tag">AI-created</span><figcaption><b>Same length, different units.</b> Pick the unit you start from.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Read the ruler.** A crayon is lined up with 0 and its other end is at 9. How long is it?

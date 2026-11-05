@@ -214,6 +214,8 @@ No! The child is made of exactly the same amount of stuff. Mars just pulls more 
 squashed less. A **balance** with kilogram weights would still say 25 kg on Mars, because Mars pulls more gently on the
 weights too. Scientists say the child's **mass** is still 25 kg everywhere.
 
+<figure class="play" data-play="units" data-kind="volume"><span class="ai-tag">AI-created</span><figcaption><b>Litres and millilitres.</b> 1 L is 1,000 mL.</figcaption></figure>
+
 ## Worked examples
 
 **Example 1. Read the scale.** A melon is put on a scale.

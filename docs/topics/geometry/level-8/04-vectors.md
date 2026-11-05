@@ -124,6 +124,8 @@ and the length comes from Pythagoras used twice (the diagonal of a box):
 
 $$|\vec v| = \sqrt{v_1^2 + v_2^2 + v_3^2}$$
 
+<figure class="play" data-play="points"><span class="ai-tag">AI-created</span><figcaption><b>From A to B.</b> The vector is "across, up": the two dashed sides.</figcaption></figure>
+
 ## Worked examples
 
 **1. Where is the rover?** A rover drives 300 m due east, then turns and drives 200 m in the direction 60°

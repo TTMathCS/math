@@ -188,6 +188,8 @@ counts better, but still broke once people found their patterns. Modern codes ar
 random, and so that even knowing the method, and many plaintext and ciphertext pairs, does not reveal the key. The
 next two lessons show codes built on hard problems about whole numbers instead.
 
+<figure class="play" data-play="placeval" data-mode="base"><span class="ai-tag">AI-created</span><figcaption><b>Numbers in any base.</b> Old codes and computers both write numbers in bases other than ten.</figcaption></figure>
+
 ## Worked examples
 
 **1. A Caesar shift.** Decrypt WKLV LV D VHFUHW, which was shifted by 3. Subtract 3 from each letter: W (22) $\to$

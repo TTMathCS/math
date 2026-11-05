@@ -167,6 +167,8 @@ and radius $r$. And $|z - c| < r$ is the inside of that circle (a **disc**). Thi
 regions of the plane, and the real-number version of it, $|x - c| < r$, is the subject of
 [lesson 6](06-intervals-absolute-value.md).
 
+<figure class="play" data-play="complex" data-mode="times"><span class="ai-tag">AI-created</span><figcaption><b>The complex plane.</b> a goes across, b goes up.</figcaption></figure>
+
 ## Worked examples
 
 **1. Modulus.** Find $|3 + 4i|$, $|-5 + 12i|$, $|1 - 2i|$ and $|(3 + 4i)(1 - 2i)|$.

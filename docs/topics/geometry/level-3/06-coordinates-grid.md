@@ -197,6 +197,8 @@ picture you have ever seen: a screen is a grid of tiny dots, each with its own c
 Maps work the same way. A map of Mars, like a map of Earth, puts a grid of lines over the planet (called latitude and
 longitude), so that scientists can give any crater or rover landing site as a pair of numbers.
 
+<figure class="play" data-play="points"><span class="ai-tag">AI-created</span><figcaption><b>Points on a grid.</b> Tap to move A or B and read their coordinates.</figcaption></figure>
+
 ## Worked examples
 
 **1. Reading coordinates.** On the first grid, the point A is reached by going 2 along and 5 up, so A is (2, 5). B is

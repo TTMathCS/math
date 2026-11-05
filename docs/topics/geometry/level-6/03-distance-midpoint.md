@@ -97,6 +97,8 @@ In space a point has three coordinates $(x, y, z)$, the third one for height. Th
 
 $$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2 + (z_2 - z_1)^2}$$
 
+<figure class="play" data-play="points"><span class="ai-tag">AI-created</span><figcaption><b>Distance and midpoint.</b> The distance is Pythagoras on the dashed right triangle; the midpoint averages the coordinates.</figcaption></figure>
+
 ## Worked examples
 
 **1. A distance with negatives.** From $(-3, 5)$ to $(9, 0)$.

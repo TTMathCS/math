@@ -124,6 +124,8 @@ $$\sin3\theta = 3(1 - s^2)s - s^3 = 3\sin\theta - 4\sin^3\theta.$$
 These **triple-angle formulas** are tiresome to get from angle-sum formulas and take three lines here. The same method
 gives $\cos n\theta$ and $\sin n\theta$ for any $n$.
 
+<figure class="play" data-play="complex" data-mode="times"><span class="ai-tag">AI-created</span><figcaption><b>Squaring doubles the angle.</b> Compare the angles of z and z².</figcaption></figure>
+
 ## Worked examples
 
 **1. The opening question, carefully.** Find $(1 + i)^8$.

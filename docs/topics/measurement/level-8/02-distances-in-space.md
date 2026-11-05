@@ -128,6 +128,8 @@ a million kilometres.
 Space is mostly empty, and the stars are separated by distances that dwarf the Solar System. This is why the
 light-year, not the au, is the right unit between the stars.
 
+<figure class="play" data-play="sci"><span class="ai-tag">AI-created</span><figcaption><b>Sizes in space.</b> Powers of ten keep huge distances readable.</figcaption></figure>
+
 ## Worked examples
 
 **1. One light-year in kilometres.**

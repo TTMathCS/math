@@ -148,6 +148,8 @@ The imaginary parts cancel and the true answer appears. This is the moment compl
 route **through** them led to a real answer that no route around them could reach with that formula. It took
 another two hundred years, and the work of Euler and Gauss, before they were fully accepted.
 
+<figure class="play" data-play="complex" data-mode="times"><span class="ai-tag">AI-created</span><figcaption><b>Multiplying by i turns.</b> i z is z turned a quarter turn about 0.</figcaption></figure>
+
 ## Worked examples
 
 **1. Powers of $i$.** Find $i^{50}$, $i^{100}$, $i^{2027}$ and $i^{-3}$.

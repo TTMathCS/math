@@ -249,6 +249,8 @@ the bigger number, like a hungry mouth: 412 > 398, and 398 < 412.
 is **24 tens** and 3 ones. Breaking a bigger block into ten smaller ones, or bundling ten small ones into one bigger
 one, is called **regrouping**. It is the secret behind subtraction in the next lesson.
 
+<figure class="play" data-play="placeval"><span class="ai-tag">AI-created</span><figcaption><b>Ones, tens, hundreds.</b> Each place is worth ten of the one to its right.</figcaption></figure>
+
 ## Worked examples
 
 **1. Reading the places.** In 586, what is each digit worth?

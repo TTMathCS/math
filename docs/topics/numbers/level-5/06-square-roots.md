@@ -132,6 +132,8 @@ negative, has exactly one cube root.
 Cube roots can be estimated the same way. $64 < 100 < 125$, so $4 < \sqrt[3]{100} < 5$. Then $4.6^3 = 97.336$ and
 $4.7^3 = 103.823$, so $\sqrt[3]{100}$ is between 4.6 and 4.7 (it is $4.64\ldots$).
 
+<figure class="play" data-play="sqrt"><span class="ai-tag">AI-created</span><figcaption><b>Trap the root.</b> Halve the gap between a too-small and a too-big guess.</figcaption></figure>
+
 ## Worked examples
 
 **1. Exact roots.** Find $\sqrt{144}$, $\sqrt{0.36}$ and $\sqrt{\tfrac{25}{49}}$.

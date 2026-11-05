@@ -118,6 +118,8 @@ a repeat, yet one is rational (its block is 16 digits long) and one is not. You 
 rational by looking at a calculator screen: you need a reason. And the number on the screen, 1.414213562, is itself a
 terminating decimal, so it is **rational**. It is only an approximation to $\sqrt2$.
 
+<figure class="play" data-play="sqrt"><span class="ai-tag">AI-created</span><figcaption><b>√2 never ends.</b> Each step adds digits, and they never repeat.</figcaption></figure>
+
 ## Worked examples
 
 **1. Classify** each number as rational or irrational: $0.75$, $0.\overline{12}$, $\sqrt{49}$, $\sqrt{50}$,

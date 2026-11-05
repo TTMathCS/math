@@ -125,6 +125,8 @@ which is **1.75 kg**.
 As with length, pick the unit that gives an easy number. A strawberry: grams. A dog: kilograms. A truck: tonnes.
 Medicine: millilitres. A swimming pool: litres (a lot of them, often hundreds of thousands).
 
+<figure class="play" data-play="units" data-kind="mass"><span class="ai-tag">AI-created</span><figcaption><b>Mass.</b> kilograms, grams, milligrams.</figcaption></figure>
+
 ## Worked examples
 
 **1. Kilograms to grams.** A bag of flour is 2.5 kg. How many grams?

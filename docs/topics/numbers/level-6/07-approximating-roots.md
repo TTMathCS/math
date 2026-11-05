@@ -132,6 +132,8 @@ The idea is the same: if $x$ is too big, $\tfrac{a}{x^2}$ is too small, and this
 Both rules are special cases of **Newton's method**, a general way of solving equations that you will meet in
 calculus.
 
+<figure class="play" data-play="sqrt" data-mode="newton"><span class="ai-tag">AI-created</span><figcaption><b>Newton's way.</b> Average the guess with n ÷ guess.</figcaption></figure>
+
 ## Worked examples
 
 **1. $\sqrt{10}$ from 3.**

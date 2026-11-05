@@ -151,6 +151,8 @@ People have used other bases. In level 2 you met the **Maya** numerals, which gr
 **Babylonians**, about 4000 years ago, wrote numbers in base 60, and we still use their sixties every day: 60 seconds
 in a minute, 60 minutes in an hour, and 60 minutes of arc in a degree.
 
+<figure class="play" data-play="placeval" data-mode="base"><span class="ai-tag">AI-created</span><figcaption><b>Other bases.</b> In base 2 each place is worth twice the last.</figcaption></figure>
+
 ## Worked examples
 
 **1. Base 5 to base 10.** Convert $1324_5$.

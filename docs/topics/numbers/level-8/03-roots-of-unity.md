@@ -131,6 +131,8 @@ straight edge and compasses, something nobody had known for two thousand years. 
 unity and how they can be grouped and added. Today roots of unity also drive the **fast Fourier transform**, the
 algorithm that splits sound and signals into frequencies inside phones and computers.
 
+<figure class="play" data-play="complex" data-mode="roots"><span class="ai-tag">AI-created</span><figcaption><b>Roots of unity.</b> n points evenly around the circle.</figcaption></figure>
+
 ## Worked examples
 
 **1. Fourth roots of unity.** Solve $z^4 = 1$.

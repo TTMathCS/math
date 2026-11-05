@@ -132,6 +132,8 @@ each Celsius degree is $\tfrac{180}{100} = \tfrac95$ of a Fahrenheit degree:
 
 $$F = \tfrac95 C + 32 \qquad C = \tfrac59 (F - 32)$$
 
+<figure class="play" data-play="units" data-kind="imperial"><span class="ai-tag">AI-created</span><figcaption><b>Imperial and metric.</b> 1 inch is exactly 2.54 cm.</figcaption></figure>
+
 ## Worked examples
 
 **1. A height.** Someone is 5 ft 7 in tall. Are they taller than 1.7 m?

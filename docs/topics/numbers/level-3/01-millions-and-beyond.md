@@ -165,6 +165,8 @@ Big numbers are easy to say and hard to feel. Here are three ways to feel them.
 - **Space.** Mars goes round the Sun at an average distance of about **228 million km**. Earth is about **150
   million km** from the Sun. Written out, 228 million is 228 000 000: the "228" sits in the millions period.
 
+<figure class="play" data-play="placeval"><span class="ai-tag">AI-created</span><figcaption><b>Places to the left.</b> Every place is ten times the last.</figcaption></figure>
+
 ## Worked examples
 
 **1. Read and write.** Write 60 040 500 in words.

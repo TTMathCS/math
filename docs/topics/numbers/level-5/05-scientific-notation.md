@@ -136,6 +136,8 @@ A good habit: when you calculate with measured numbers, round your answer to abo
 least precise number you started with. A calculator may show 9.299065..., but if your inputs had three significant
 figures, report 9.30.
 
+<figure class="play" data-play="sci"><span class="ai-tag">AI-created</span><figcaption><b>Scientific notation.</b> The same digits, the decimal point moved by the power of ten.</figcaption></figure>
+
 ## Worked examples
 
 **1. Convert.** Write in scientific notation: 228 000 000, 0.000 008 and 0.000 52.

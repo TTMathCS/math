@@ -160,6 +160,8 @@ that is easy to picture. A bee is about 12 mm long. A book is about 25 cm tall. 
 drive to the next town is about 40 km. You could say the classroom is 9000 mm, but nobody can picture 9000 of
 anything.
 
+<figure class="play" data-play="units" data-kind="length"><span class="ai-tag">AI-created</span><figcaption><b>The metric family.</b> Each step is ten times (or a thousand times) the next.</figcaption></figure>
+
 ## Worked examples
 
 **1. Metres to centimetres.** A desk is 1.2 m long. How many centimetres is that?

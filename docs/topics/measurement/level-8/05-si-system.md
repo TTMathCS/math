@@ -131,6 +131,8 @@ There is also a quiet rule behind every redefinition: **nothing in everyday life
 chosen so that it matched the old prototype to within the uncertainty of the best measurements. Your bag of flour
 weighs the same as before. What changed is that the unit can never drift again.
 
+<figure class="play" data-play="units" data-kind="length"><span class="ai-tag">AI-created</span><figcaption><b>Prefixes.</b> kilo, centi and milli move the decimal point.</figcaption></figure>
+
 ## Worked examples
 
 **1. How far does light go in a nanosecond?**
