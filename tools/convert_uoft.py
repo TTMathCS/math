@@ -145,15 +145,16 @@ def shelf_index(reg):
 
 def write_nav(nav, docs):
     """The U of T part of the menu in mkdocs.yml, between its marks."""
-    out = ["  - University courses:", f"      - {SHELF}/index.md", f"      - {SHELF}/comprehensive-guide.md",
-           f"      - {SHELF}/course-changes.md"]
+    # The courses sit inside the Books tab (cntourit, 8 Nov 2026: five tabs at most), so one step deeper.
+    out = ["      - University courses:", f"          - {SHELF}/index.md", f"          - {SHELF}/comprehensive-guide.md",
+           f"          - {SHELF}/course-changes.md"]
     for code, _, entries in nav:
-        out.append(f"      - {code}:")
+        out.append(f"          - {code}:")
         for label, path in entries:
-            out.append(f"          - {json.dumps(label, ensure_ascii=False)}: {path}")
+            out.append(f"              - {json.dumps(label, ensure_ascii=False)}: {path}")
     cfg = os.path.join(HERE, "mkdocs.yml")
     text = read(cfg)
-    text = re.sub(r"(  # uoft: start\n).*?(  # uoft: end\n)", lambda m: m.group(1) + "\n".join(out) + "\n" + m.group(2),
+    text = re.sub(r"(      # uoft: start\n).*?(      # uoft: end\n)", lambda m: m.group(1) + "\n".join(out) + "\n" + m.group(2),
                   text, flags=re.S)
     with open(cfg, "w", encoding="utf-8") as f:
         f.write(text)

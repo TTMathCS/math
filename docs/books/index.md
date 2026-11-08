@@ -38,3 +38,9 @@ through university mathematics to the frontier.
 | [Topology](topology/index.md) | Rubber sheets and bridges | Homology, knots and the Poincaré conjecture | 20 chapters |
 
 All ten branches are on the shelf. Each book can grow: new chapters and sections will be added over time.
+
+## University courses
+
+Also under Books: [University courses](../uoft/index.md), chapter-by-chapter guides to University of Toronto
+courses, from MAT137 to second-year analysis and algebra, with the physics, computer science and English courses
+that go with them.
